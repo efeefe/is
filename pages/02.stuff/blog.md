@@ -3,7 +3,8 @@ title: Stuff
 body_classes: 'title-center title-h1h2'
 visible: true
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     order:
         by: date
         dir: desc
