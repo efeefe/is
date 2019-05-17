@@ -10,6 +10,7 @@ I am married and have two kids. We love travelling, playing music and cooking.
 
 #### More about me
 
+- [My Stuff](stuff)
 - [Linkedin](https://www.linkedin.com/in/felipefonseca )
 - [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (portuguese only)
 
