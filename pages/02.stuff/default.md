@@ -1,4 +1,5 @@
 ---
+title: Stuff
 body_classes: 'title-center title-h1h2'
 visible: true
 content:
@@ -7,13 +8,10 @@ content:
         by: date
         dir: desc
     limit: 10
+    pagination: true
 ---
 
 ## My Stuff
 
 A collection of ideas and works, old and new.
 
-{% for p in page.collection %}
-<h2>{{ p.title }}</h2>
-{{ p.summary }}
-{% endfor %}
