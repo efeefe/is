@@ -1,6 +1,6 @@
 ---
 title: 'teste coisa'
-visible: true
+visible: false
 ---
 
 fkhfkjddskj 
