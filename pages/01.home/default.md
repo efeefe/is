@@ -1,42 +1,21 @@
 ---
-title: Home
-body_classes: title-center title-h1h2
+body_classes: 'title-center title-h1h2'
+visible: false
 ---
 
-# Say Hello to Grav!
-## installation successful...
+![](ff-blackmirrorshades-m.jpg?resize=300&classes=float-right) 
+I am Felipe Fonseca, a Brazilian activist and free/open advocate turned researcher. In the last fifteen years I was a co-founder and leader of a number of community and networking initiatives dedicated to critical thinking (and making) in the crossroads between culture, science, technology and society. Some examples are [MetaReciclagem](https://metareciclagem.github.io/), [CulturaDigital.BR](http://culturadigital.br/), [Bricolabs](https://wiki.p2pfoundation.net/Bricolabs), Lixo Eletrônico, [Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/), [UbaLab](http://ubalab.org). I have an [MA in Science Diffusion](http://www.labjor.unicamp.br/) from the University of Campinas (UNICAMP) in Brazil, acquired with a dissertation about networked experimental labs.
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+I am married and have two kids. We love travelling, playing music and cooking.
 
-!! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
+#### More about me
 
-### Find out all about Grav
+- [Linkedin](https://www.linkedin.com/in/felipefonseca )
+- [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (portuguese only)
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+#### Texts
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
-
-### Edit this Page
-
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
-
-### Create a New Page
-
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `03.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/03.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
-! NOTE: The page will automatically show up in the Menu after the "Typography" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+- [Socio-ecological innovation](https://magazine.vunela.com/socio-ecological-innovation-dc1999d556a5)
+- [Transformed Worlds](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e )
+- [Knowledge, Skill and Labor](https://medium.com/@felipefonseca/knowledge-skill-and-labor-1c8f5d89a1b4 )
+- [Gambiarra: Repair Culture](https://www.academia.edu/20808625/Gambiarra_Repair_Culture)
