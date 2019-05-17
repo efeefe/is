@@ -13,4 +13,7 @@ content:
 
 A collection of ideas and works, old and new.
 
-{{ dump(page.collection[page.path]) }}
+{% for p in page.collection %}
+<h2>{{ p.title }}</h2>
+{{ p.summary }}
+{% endfor %}
