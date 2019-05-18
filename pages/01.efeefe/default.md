@@ -7,9 +7,7 @@ visible: false
 
 ![](ff-blackmirrorshades-p.jpg?resize=220&classes=float-right)
 
-<div class="mt-5 text-center">
 I am Felipe Fonseca, a Brazilian activist and free/open advocate turned researcher. In the last fifteen years I was a co-founder and leader of a number of community and networking initiatives dedicated to critical thinking (and making) in the crossroads between culture, science, technology and society. Some examples are [MetaReciclagem](https://metareciclagem.github.io/), [CulturaDigital.BR](http://culturadigital.br/), [Bricolabs](https://wiki.p2pfoundation.net/Bricolabs), Lixo Eletrônico, [Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/), [UbaLab](http://ubalab.org). I have an [MA in Science Diffusion](http://www.labjor.unicamp.br/) from the University of Campinas (UNICAMP) in Brazil, acquired with a dissertation about networked experimental labs.
-</div>
 
 I am married and have two kids. We love travelling, playing music and cooking.
 
