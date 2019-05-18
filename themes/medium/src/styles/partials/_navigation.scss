@@ -1,0 +1,50 @@
+.home--body {
+  @include breakpoint(medium) {
+    .top-bar {
+      border-bottom: 1px solid $light-gray;
+    }
+  }
+}
+
+@include breakpoint(small only) {
+  .top-bar {
+    border-bottom: 1px solid $light-gray;
+  }
+}
+
+.top-bar {
+  background: $white;
+
+  ul {
+    background: $white;
+
+    li:not(.menu-text) a {
+      color: $medium-gray;
+      font-family: $default-font-family;
+      font-size: 1rem;
+      margin-top: 2px;
+
+      &:hover {
+        color: $black;
+      }
+    }
+  }
+}
+
+.menu-text {
+  padding: 0;
+
+  a {
+    color: $black;
+    font-family: $header-font-family;
+  }
+}
+
+.active a {
+  color: $black !important;
+}
+
+
+.top-bar-inline {
+  width: auto !important;
+}

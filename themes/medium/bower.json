@@ -1,0 +1,22 @@
+{
+  "name": "grav-theme-medium",
+  "version": "2.0.2",
+  "authors": [
+    "Matthew Blode"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://github.com/mblode/grav-theme-medium",
+  "dependencies": {
+    "foundation-sites": "~6.1.0",
+    "motion-ui": "~1.1.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

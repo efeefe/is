@@ -1,0 +1,29 @@
+.home--body {
+  background: $off-white;
+
+  @include breakpoint(large) {
+    .row {
+      max-width: 1040px;
+    }
+  }
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+@each $name,
+$value in $button-sizes {
+  .button.#{$name} {
+    border-radius: calc(#{$value}*2);
+  }
+}
+
+.hr--small {
+  margin-top: 0;
+}
+
+.pad--10 {
+  padding-top: 10px;
+}

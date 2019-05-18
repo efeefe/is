@@ -1,0 +1,127 @@
+body {
+  font-size: 120%;
+}
+
+@include breakpoint(medium) {
+  body {
+    font-size: 125%;
+  }
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  color: $dark-gray;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.small {
+  color: $medium-gray;
+}
+
+.caption {
+  color: $medium-gray;
+  font-size: 1rem;
+}
+
+button {
+  font-family: $default-font-family;
+}
+
+pre {
+  background: $lighter-gray;
+  margin-bottom: 16px;
+  padding: 5px;
+}
+
+date,
+.footer--text,
+.read-more {
+  color: $medium-gray;
+  font-size: 1rem;
+  margin: 0;
+}
+
+a date,
+a .read-more {
+  &:hover {
+    color: $dark-gray;
+  }
+}
+
+date,
+.footer--text,
+.caption {
+  font-family: $default-font-family;
+}
+
+.dark {
+  color: $black;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+blockquote {
+  > p {
+    padding: 15px;
+    border-left: 3px solid $black;
+  }
+}
+
+
+blockquote > blockquote > blockquote {
+	margin: 0;
+
+	p {
+		padding: 15px;
+	}
+
+	> p {
+		border-left: 3px solid $primary-color;
+		color: $primary-color;
+
+    a {
+      color: $primary-color;
+      text-decoration: underline;
+    }
+	}
+
+	> blockquote > p {
+		// Red
+		border-left: 3px solid $warning-color;
+		color: $warning-color;
+
+    a {
+      color: $warning-color;
+      text-decoration: underline;
+    }
+	}
+
+	> blockquote > blockquote > p {
+		border-left: 3px solid $alert-color;
+		color: $alert-color;
+
+    a {
+      color: $alert-color;
+      text-decoration: underline;
+    }
+	}
+
+	> blockquote > blockquote > blockquote > p {
+		border-left: 5px solid $success-color;
+		color: $success-color;
+
+    a {
+      color: $primary-color;
+      text-decoration: underline;
+    }
+	}
+
+}

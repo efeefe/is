@@ -1,0 +1,40 @@
+<div class="top-bar">
+    <div class="top-bar-left top-bar-inline">
+        <ul class="menu">
+            <li class="menu-text">
+                <a href="{{ base_url == '' ? '/' : base_url }}">{{ site.title }}</a>
+            </li>
+        </ul>
+    </div>
+
+    {% if config.plugins.simplesearch.enabled %}
+    <div class="top-bar-right top-bar-inline">
+        <ul class="menu">
+            <li class="simplesearch">
+              {% include 'partials/simplesearch_searchbox.html.twig' %}
+            </li>
+        </ul>
+    </div>
+    {% endif %}
+
+    <div class="top-bar-left">
+        <ul class="menu">
+
+            {% for page in pages.children.visible %}
+            {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+            <li class="{{ current_page }}">
+                <a href="{{ page.url }}">{{ page.menu }}</a>
+            </li>
+            {% endfor %}
+            {% if config.plugins.feed.enabled %}
+            <li>
+                <a class="cta" href="{{ base_url }}{{ pages.find('/blog').rawRoute }}.rss">{{ 'SUBSCRIBE'|t }}</a>
+            </li>
+            {% endif %}
+
+            {% if config.plugins.langswitcher.enabled %}
+            {% include 'partials/langswitcher.html.twig' %}
+            {% endif %}
+        </ul>
+    </div>
+</div>

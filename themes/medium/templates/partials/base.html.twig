@@ -1,0 +1,60 @@
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+{% set avatar_url = pages.find('/about').media.images|first.url ?: url('theme://dist/images/avatar.png') %}
+{% import 'macros/dates.twig' as dates %}
+<!DOCTYPE html>
+<html class="no-js" lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{% if header.title %}{{ header.title|e('html') }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.metadata.description }}">
+  <link rel="shortcut icon" href="{{ url('theme://dist/images/favicon.ico') }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/rss.xml">
+
+  {% block stylesheets %}
+    {% do assets.addCss('theme://dist/styles/app.min.css',100) %}
+  {% endblock %}
+  {{ assets.css() }}
+
+  {% block javascripts %}
+      {% do assets.addJs('theme://bower_components/jquery/dist/jquery.min.js') %}
+      {% do assets.addJs('theme://bower_components/what-input/what-input.min.js') %}
+      {% do assets.addJs('theme://bower_components/foundation-sites/dist/foundation.min.js') %}
+      {% do assets.addJs('theme://dist/scripts/main.min.js') %}
+  {% endblock %}
+  {{ assets.js() }}
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body class="{{ page.header.class }}--body">
+
+    {% include 'partials/navigation.html.twig' %}
+
+    {% if page.header.header %}
+        {% include 'partials/header.html.twig' %}
+    {% endif %}
+
+    {% if page.header.profile %}
+        {% include 'partials/profile.html.twig' %}
+    {% endif %}
+
+    <div class="row">
+      {% block header %}
+      {% endblock %}
+
+      <div class="{{ page.header.class }}">
+      {% block content %}{% endblock %}
+      </div>
+    </div>
+
+    {% if site.analytics %}
+    {% include 'partials/analytics.html.twig' %}
+    {% endif %}
+
+</body>
+</html>

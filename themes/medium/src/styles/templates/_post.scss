@@ -1,0 +1,55 @@
+.post {
+  margin-top: 20px;
+}
+
+.post--header {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.post--meta {
+  border-bottom: 1px solid $light-gray;
+  border-top: 1px solid $light-gray;
+  padding: 20px 0;
+}
+
+.post--avatar {
+  img {
+    border-radius: 50%;
+    height: auto;
+    margin-bottom: 10px;
+    vertical-align: top;
+    width: 100%;
+  }
+}
+
+.post--follow {
+  float: right;
+}
+
+.post--nav {
+  border-bottom: 1px solid $light-gray;
+  height: 56px;
+  padding-top: 13px;
+  text-align: center;
+
+  .prev {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
+}
+
+.post--body {
+  a:hover {
+    text-decoration: underline;
+  }
+
+  img {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
