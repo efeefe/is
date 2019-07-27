@@ -1,6 +1,7 @@
 ---
 title: 'Cidades digitais, a gramática do controle e os protocolos livres'
 date: '04-05-2011 17:36'
+show_sidebar: false
 ---
 
 Minha busca por alternativas locais, sustentáveis e justas para o desenvolvimento de inovação e tecnologias livres aponta cada vez mais para a necessidade de maior articulação entre duas classes de estruturas informacionais que se sobrepõem: a *cidade* e as *redes digitais*. Eu escrevi ~~aqui~~ no ano passado sobre a perspectiva de [cidade como sistema operacional](../metareciclando-cidades-digitais). Essa aproximação não é inédita. Na mesma fronteira mas talvez em sentido inverso, o artigo [Reading the Digital City](https://webarchiv.servus.at/thenextlayer.org/node/677.html), publicado no Next Layer por Clemens Apprich, analisa justamente a influência que a ideia de cidade exerceu nos primeiros anos de popularização da internet, e como essa influência foi usada para estabelecer relações de *controle e poder*:
