@@ -1,6 +1,7 @@
 ---
 title: 'MetaReciclando as cidades digitais'
 date: '28-08-2010 19:43'
+show_sidebar: false
 ---
 
 > Participei recentemente de um seminário sobre Cidades Digitais, organizado pela Unesp de Araraquara e realizado no SESC daquela cidade. Foi uma boa oportunidade para aprofundar algumas reflexões que já andei esboçando nos últimos tempos. Minha apresentação transformou-se no texto abaixo. A primeira parte não tem muita novidade, mas pode ser interessante pra quem está conhecendo a MetaReciclagem agora. Os slides da apresentação estão [disponíveis no scribd](http://www.scribd.com/doc/36326097/Metareciclando-Cidades-Digitais).
