@@ -62,11 +62,11 @@ Mesmo em contextos nos quais o urbanismo moderno nunca chegou a se desenvolver p
 
 **Mais e mais:** esse assunto vai longe, sem muitas conclusões. Abaixo, alguns posts e coleções de links relacionados.
 
-* http://efeefe-arquivo.github.io/tag/urbe
-* http://efeefe-arquivo.github.io/tag/desurbe
-* https://desvio.github.io/blog/labtolab-dia-dia/
-* http://efeefe-arquivo.github.io/blog/ideia-de-cidade
-* https://links.efeefe.me/?searchterm=&searchtags=terraslivres+
-* https://links.efeefe.me/?searchterm=&searchtags=urbe+
-* https://links.efeefe.me/?searchterm=&searchtags=desurbe+
-* http://efeefe-arquivo.github.io/blog/cidadejando
+* [http://efeefe-arquivo.github.io/tag/urbe](http://efeefe-arquivo.github.io/tag/urbe)
+* [http://efeefe-arquivo.github.io/tag/desurbe](http://efeefe-arquivo.github.io/tag/desurbe)
+* [https://desvio.github.io/blog/labtolab-dia-dia/](https://desvio.github.io/blog/labtolab-dia-dia/)
+* [http://efeefe-arquivo.github.io/blog/ideia-de-cidade](http://efeefe-arquivo.github.io/blog/ideia-de-cidade)
+* [https://links.efeefe.me/?searchterm=&searchtags=terraslivres+](https://links.efeefe.me/?searchterm=&searchtags=terraslivres+)
+* [https://links.efeefe.me/?searchterm=&searchtags=urbe+](https://links.efeefe.me/?searchterm=&searchtags=urbe+)
+* [https://links.efeefe.me/?searchterm=&searchtags=desurbe+](https://links.efeefe.me/?searchterm=&searchtags=desurbe+)
+* [http://efeefe-arquivo.github.io/blog/cidadejando](http://efeefe-arquivo.github.io/blog/cidadejando)
