@@ -1,5 +1,6 @@
 ---
 title: 'Cidades, coisas, pessoas'
+show_sidebar: false
 ---
 
 Um número crescente de iniciativas ligadas à cultura livre, à mobilização em rede e à apropriação crítica de tecnologias têm se dedicado a refletir sobre a cidade como construção “hackeável”, e a propor maneiras de interferir nela. É um importante desdobramento que busca superar a oposição artificial entre “virtual” e “real”, e reabilitar a cidade como espaço primordial de disputa na busca de transformação efetiva.
