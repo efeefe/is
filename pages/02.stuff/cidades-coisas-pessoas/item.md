@@ -1,5 +1,6 @@
 ---
 title: 'Cidades, coisas, pessoas'
+date: '08-04-2012 00:30'
 show_sidebar: false
 ---
 
