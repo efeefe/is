@@ -1,6 +1,7 @@
 ---
 title: 'Adjetivos, MetaReciclagem e laboratórios experimentais'
 date: '04-08-2012 00:30'
+show_sidebar: false
 ---
 
 > No início deste mês estive em Medellín, na Colômbia, participando da quinta edição das Jornadas [Ciudades Creativas](http://ciudadescreativas.org/), organizada pela [Fundação Kreanta](http://www.kreanta.org/). O texto abaixo é uma costura da [minha apresentação](https://www.slideshare.net/felipefonseca/labs-experimentais-jornadas-kreanta) na mesa sobre "Apropriação de tecnologias para cidades inteligentes". Pra quem já leu meus outros textos, esse não tem nenhuma novidade. Mas fica como impressão do momento. Assim que tiver tempo também quero publicar por aqui um relato sobre minha experiência durante o evento.
