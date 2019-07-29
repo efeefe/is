@@ -20,7 +20,7 @@ content:
 
 ## My Stuff
 
-A collection of ideas and works, old and new.
+A curated list of ideas and works, old and new.
 
 
 
