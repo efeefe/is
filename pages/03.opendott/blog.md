@@ -11,4 +11,6 @@ content:
     url_taxonomy_filters: true
 ---
 
-Documenting what I am reading, learning and discovering as I go deeper into my research in the [OpenDOTT](https://opendott.org) project.
+[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) is a PhD programme from the [University of Dundee](https://www.dundee.ac.uk) and [Mozilla](https://www.mozilla.org) to explore how to build a more open, secure, and trustworthy Internet of Things.
+
+I am documenting here what I am reading, learning and discovering as I go deeper into my research.
