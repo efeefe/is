@@ -1,5 +1,6 @@
 ---
 title: ' Maker City (WIP)'
+show_sidebar: false
 ---
 
 *The city is the quintessential makerspace*
