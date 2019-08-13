@@ -1,5 +1,6 @@
 ---
 title: OpenDOTT
+show_sidebar: false
 content:
     items:
         - '@self.children'
