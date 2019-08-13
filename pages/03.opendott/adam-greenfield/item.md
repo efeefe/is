@@ -1,5 +1,5 @@
 ---
-title: 'Adam Greenfield'
+title: 'Adam Greenfield (WIP)'
 ---
 
 Adam Greenfield wrote a series of interesting pieces criticizing the usual take on smart cities. I'll be pasting below some exceprts of his work.
