@@ -16,3 +16,7 @@ Adam Greenfield wrote a series of interesting pieces criticizing the usual take 
 **[Against the smart city (The city is here for you to use Book 1)](https://www.amazon.co.uk/Against-smart-city-The-here-ebook/dp/B00FHQ5DBS)**
 
 > If a city can even be said to have any such quality as intelligence to begin with, that intelligence is bound to be singular, something that subsists in the unique lifeways, cultures and pragmatic local adaptations that have evolved in a particular place, It takes time for these circumstances to arise, and still more for them to bed in: years, at least, and more probably decades.
+
+> (...) in the just-so stories we're told about the smart city, the technology of everyday life advances, but everything else somehow magically remains the same. From family size and structure to work arrangements to the conception of the self, everything proceeds as though sequestered, serenely untouched by the radical discontinuity in the technics of the daily.
+
+
