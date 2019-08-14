@@ -13,3 +13,6 @@ Adam Greenfield wrote a series of interesting pieces criticizing the usual take 
 
 > As matters now stand, the claim of perfect competence that is implicit in most smart-city rhetoric is incommensurate with everything we know about the way technical systems work. It also flies in the face of everything we know about how cities work. The architects of the smart city have failed to reckon with the reality of power, and the ability of elites to suppress policy directions that don’t serve their interests. At best, the technocratic notion that the analysis of sensor-derived data would ever be permitted to drive municipal policy is naive. At worst, though, it ignores the lessons of history.
 
+**[Against the smart city (The city is here for you to use Book 1)](https://www.amazon.co.uk/Against-smart-city-The-here-ebook/dp/B00FHQ5DBS)**
+
+> If a city can even be said to have any such quality as intelligence to begin with, that intelligence is bound to be singular, something that subsists in the unique lifeways, cultures and pragmatic local adaptations that have evolved in a particular place, It takes time for these circumstances to arise, and still more for them to bed in: years, at least, and more probably decades.
