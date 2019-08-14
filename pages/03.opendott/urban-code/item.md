@@ -9,6 +9,4 @@ show_sidebar: false
 
 P. 73
 
-Urban Code: 100 Lesssons for Understanding the City
-
-Anne Mikoleit, Moritz Puerckhauer
+Anne Mikoleit, Moritz Puerckhauer. Urban Code: 100 Lessons for Understanding the City. ISBN 978-3-85676-290-2
