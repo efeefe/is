@@ -1,5 +1,6 @@
 ---
 title: 'Knowledge, skill and labor'
+date: '13-01-2017 13:01'
 show_sidebar: false
 ---
 
