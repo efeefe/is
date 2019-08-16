@@ -59,6 +59,6 @@ What we need is another path, possibly made from stitching experiences already a
 
 ---
 
-<a id="1">1 </a>Rob van Kranenburg suggested this text on the Bricolabs mailing list.
+<a id="1">1</a>Rob van Kranenburg suggested this text on the Bricolabs mailing list.
 
 <a id="2">2 </a>Tiziana Terranova. Network Culture: Politics for the Information Age (2004).
