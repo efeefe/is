@@ -1,5 +1,6 @@
 ---
 title: 'Knowledge, skill and labor'
+show_sidebar: false
 ---
 
 > > This is the second of two texts, written in October 2016, resulting from my period as a resident researcher in Nantes, invited by [PiNG Association](http://www.pingbase.net/). It was published originally on [Medium](https://medium.com/@felipefonseca/knowledge-skill-and-labor-1c8f5d89a1b4). There is a french version [here](https://ressource.pingbase.net/retour-de-residence-12-des-mondes-en-mutation/). It is preceded by the other part titled “Knowledge, Skill and Labor”, available [here](../transformed-worlds). Both texts were based on my lecture in the event called *Ceci n’est pas un déchet*. 
