@@ -4,7 +4,7 @@ date: '12-01-2017 12:12'
 show_sidebar: false
 ---
 
-> This is the first of two texts, written in October 2016, resulting from my period as a resident researcher in Nantes, invited by [PiNG Association](http://www.pingbase.net/). It was published originally on [Medium](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e). There is a french version [here](http://www.slowtech.fr/archives/576). It will be followed by another piece titled “Knowledge, Skill and Labor”, available [here](../knowledge-skill-labor).
+> This is the first of two texts, written in October 2016, resulting from my period as a resident researcher in Nantes, invited by [PiNG Association](http://www.pingbase.net/). It was published originally on [Medium](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e). There is a french version [here](http://www.slowtech.fr/archives/576). It is followed by the other part titled “Knowledge, Skill and Labor”, available [here](../knowledge-skill-labor). Both texts were based on my lecture in the event called *Ceci n’est pas un déchet*. 
 
 ![Nantes](https://miro.medium.com/max/1400/1*KpH3WwJcEoiU2HrAJnrlfw.png)
 
