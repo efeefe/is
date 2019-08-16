@@ -22,6 +22,6 @@ I am married and have two kids. We love travelling, playing music and cooking.
 #### Texts
 
 - [Socio-ecological innovation](https://magazine.vunela.com/socio-ecological-innovation-dc1999d556a5)
-- [Transformed Worlds](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e )
-- [Knowledge, Skill and Labor](https://medium.com/@felipefonseca/knowledge-skill-and-labor-1c8f5d89a1b4 )
+- [Knowledge, Skill and Labor](../stuff/knowledge-skill-labor )
+- [Transformed Worlds](../stuff/transformed-worlds )
 - [Gambiarra: Repair Culture](https://www.academia.edu/20808625/Gambiarra_Repair_Culture)
