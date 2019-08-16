@@ -53,10 +53,12 @@ My particular take on this is that whenever one enters a fablab, there is alread
 
 So, to sum up. When we think of spaces and dynamics, how can we concatenate knowledge, skills and labor in the making of new worlds? Worlds in which the improbable can happen. I do believe in human ingenuity. We have all we need to change things for the good as well. It requires a cultural strategy, as well as policies. And generous spaces where it all can happen.
 
-And here is a reminder, once again: whenever someone suggests that anything will bring about a new industrial revolution, we have to make them understand that [that is not a good thing in itself](../transformed-worlds)! What we need is another path, possibly made from stitching experiences already at hand. Attributing the proper value to embodied knowledge. Making people work together. Transforming matter through collaborative ways. Removing garbage from the trash can. And, please, expecting (and making room for) the unpredictable.
+And here is a reminder, once again: whenever someone suggests that anything will bring about a new industrial revolution, we have to make them understand that [that is not a good thing in itself](../transformed-worlds)!
+
+What we need is another path, possibly made from stitching experiences already at hand. Attributing the proper value to embodied knowledge. Making people work together. Transforming matter through collaborative ways. Removing garbage from the trash can. And, please, expecting (and making room for) the unpredictable.
 
 ---
 
-<a id="1"></a>Rob van Kranenburg suggested this text on the Bricolabs mailing list.
+<a id="1">1 </a>Rob van Kranenburg suggested this text on the Bricolabs mailing list.
 
-<a id="2"></a>Tiziana Terranova. Network Culture: Politics for the Information Age (2004).
+<a id="2">2 </a>Tiziana Terranova. Network Culture: Politics for the Information Age (2004).
