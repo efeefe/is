@@ -1,5 +1,5 @@
 ---
-title: 'Adam Greenfield (WIP)'
+title: 'Adam Greenfield on Cities (WIP)'
 show_sidebar: false
 ---
 
