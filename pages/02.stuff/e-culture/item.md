@@ -1,6 +1,7 @@
 ---
 title: 'E Culture'
 date: '15-06-2009 11:18'
+show_sidebar: false
 ---
 
 > Report on digital culture in Brazil, co-authored with Bronac Ferran.
