@@ -1,6 +1,8 @@
 ---
 title: 'MetaReciclando as cidades digitais'
 date: '28-08-2010 19:43'
+hero_classes: 'text-dark hero-fullscreen'
+hero_image: pozimi.png
 show_sidebar: false
 ---
 
