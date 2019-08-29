@@ -1,6 +1,8 @@
 ---
 title: 'Gambiarra: tactical creativity'
 date: '14-10-2009 11:26'
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: paralelo.png
 show_sidebar: false
 ---
 
