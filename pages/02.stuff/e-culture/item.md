@@ -1,6 +1,7 @@
 ---
 title: 'E Culture'
 date: '15-06-2009 11:18'
+hero_image: eculture.png
 show_sidebar: false
 ---
 
