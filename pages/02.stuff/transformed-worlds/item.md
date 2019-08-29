@@ -1,6 +1,8 @@
 ---
 title: 'Transformed worlds'
 date: '12-01-2017 12:12'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: nantes.png
 show_sidebar: false
 ---
 
