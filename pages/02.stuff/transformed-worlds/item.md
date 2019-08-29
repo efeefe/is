@@ -8,8 +8,6 @@ show_sidebar: false
 
 > This is the first of two texts, written in October 2016, resulting from my period as a resident researcher in Nantes, invited by [PiNG Association](http://www.pingbase.net/). It was published originally on [Medium](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e). There is a french version [here](http://www.slowtech.fr/archives/576). It is followed by the other part titled “Knowledge, Skill and Labor”, available [here](../knowledge-skill-labor). Both texts were based on my lecture in the event called *Ceci n’est pas un déchet*. 
 
-![Nantes](https://miro.medium.com/max/1400/1*KpH3WwJcEoiU2HrAJnrlfw.png)
-
 Before going to Nantes for my research residency, I used the Internet to learn about the city. I read about a place once industrial, now a recognized green capital. It is home for many initiatives related to sustainable living. Nantes has a large student population and a decent system of public transport. It is becoming a creative hotspot, with innovative projects popping up. I arrived there, then, looking for clues of inspiring futures that I could bring home once I came back to Brazil. But I ended up staring at the past. And that has to do with present-day Ubatuba, the place I live in.
 
 ![Ubatuba](https://miro.medium.com/max/1400/1*L9AknL2vhPVEBHg5BgE-eA.jpeg)
