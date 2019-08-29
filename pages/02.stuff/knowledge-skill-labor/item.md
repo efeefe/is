@@ -1,6 +1,8 @@
 ---
 title: 'Knowledge, skill and labor'
 date: '13-01-2017 13:01'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: open.png
 show_sidebar: false
 ---
 
