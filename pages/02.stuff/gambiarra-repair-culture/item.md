@@ -1,7 +1,7 @@
 ---
 title: 'Gambiarra: repair culture'
 date: '30-06-2015 21:11'
-hero_classes: 'parallax text-dark'
+hero_classes: 'parallax text-dark hero-fullscreen'
 hero_image: hand.jpg
 show_sidebar: false
 ---
