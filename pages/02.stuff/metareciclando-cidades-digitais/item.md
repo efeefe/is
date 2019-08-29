@@ -6,9 +6,9 @@ hero_image: pozimi.png
 show_sidebar: false
 ---
 
-> *Este post fez parte da blogagem coletiva de inverno de 2010 do [MutGamb](https://mutgamb.github.io) e incluída na [edição Pozimi do MutSaz](https://mutgamb.github.io/mutsaz/Chamada-MutSaz-Inverno-2010) daquela estação.*
+> Este post fez parte da blogagem coletiva de inverno de 2010 do [MutGamb](https://mutgamb.github.io) e incluída na [edição Pozimi do MutSaz](https://mutgamb.github.io/mutsaz/Chamada-MutSaz-Inverno-2010) daquela estação.
 
-> Participei recentemente de um seminário sobre Cidades Digitais, organizado pela Unesp de Araraquara e realizado no SESC daquela cidade. Foi uma boa oportunidade para aprofundar algumas reflexões que já andei esboçando nos últimos tempos. Minha apresentação transformou-se no texto abaixo. A primeira parte não tem muita novidade, mas pode ser interessante pra quem está conhecendo a MetaReciclagem agora. Os slides da apresentação estão [disponíveis no scribd](http://www.scribd.com/doc/36326097/Metareciclando-Cidades-Digitais).
+*Participei recentemente de um seminário sobre Cidades Digitais, organizado pela Unesp de Araraquara e realizado no SESC daquela cidade. Foi uma boa oportunidade para aprofundar algumas reflexões que já andei esboçando nos últimos tempos. Minha apresentação transformou-se no texto abaixo. A primeira parte não tem muita novidade, mas pode ser interessante pra quem está conhecendo a MetaReciclagem agora. Os slides da apresentação estão [disponíveis no scribd](http://www.scribd.com/doc/36326097/Metareciclando-Cidades-Digitais).*
 
 ## MetaReciclagem (de novo)
 
