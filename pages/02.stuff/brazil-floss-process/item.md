@@ -1,6 +1,7 @@
 ---
 title: 'Brazil and the FLOSS process'
 date: '21-10-2005 11:12'
+hero_image: incommunicado.png
 show_sidebar: false
 ---
 
