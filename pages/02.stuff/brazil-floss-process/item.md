@@ -1,7 +1,7 @@
 ---
 title: 'Brazil and the FLOSS process'
 date: '21-10-2005 11:12'
-hero_classes: 'parallax text-light overlay-light hero-fullscreen'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: incommunicado.png
 show_sidebar: false
 ---
