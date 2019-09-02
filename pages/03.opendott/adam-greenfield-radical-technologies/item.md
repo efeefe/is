@@ -26,6 +26,16 @@ p. 96
 
 p. 97
 
-> Because single-unit production runs are as economic as any other, successive approximations to a requirement can be fabricated, tried for fit and discarded, as the maker learns what works in a specific case and what does not. This process of thinking-by-making can be extraordinarily fruitful, intellectially and practically, but one of its drawbacks is that it 
+> Because single-unit production runs are as economic as any other, successive approximations to a requirement can be fabricated, tried for fit and discarded, as the maker learns what works in a specific case and what does not. This process of thinking-by-making can be extraordinarily fruitful, intellectially and practically, but one of its drawbacks is that it produces any number of failed prototypes and evolutionary dead ends; but for their utility in illustrating the evolution of a thought process, it's hard to regard these as anything but waste.
+
+p. 98
+
+> So whether or not these processes iltumately produce less waste on a per-item-produced basis than conventional methods, their efficienty is open to serious question. On a planet with limited resources, digital fabrication cannot make good on its scarcity-ending promise unless most of the waste it *does* generate is recovered locally, reprocessed into feedstock, and directed back into the production stream.
+
+
+p. 99
+
+> \[Sidhant\] Pai founded a social enterprise called Protoprint that intends to produce "Fair Trade, ethically sourced and environmentally sustainable filament from waste." For maximum efficienty, Protoprint's pilot facility is located in one of Pune's garbage dumps, where the raw material of the filament - HDPE milk jugs and detergent bottles in their thousands - can be had for the price of plucking it from the fly-bombed mounds.
+> Schemes like Pai's present us with the specter of slum children prising apart waste plastic components, dumping them in the chipper, and rendering the resulting slurry into reels of fresh filament. Whether you see this as an ingenious practical element of a closed-loop, cradle-to-cradle industrial ecosystem or a nightmare of exploitation and toxic racism is largely a matter of perspective. (It is entirely possible that Protoprint is both of these things at once).
 
 
