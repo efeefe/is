@@ -41,6 +41,5 @@ p. 99
 (...)
 
 > Neverhteless, here is a model for a sustainable, circular economy founded on digital fabrication. We may not be at all comfortable with Pai's vision, or what it implies about our use of things made with HDPE. But millions of human beings, both throughout India and elsewhere in the world, live and work in garbage dumps, and this work recognizes their labor as an irreplaceable element of an extended circuit of digital production. Especially if trashpickers themselves are collectively enabled to make direct use of the filament they produce, building things at will like any of the rest of us would, schemes like Protoprint offer one way to close the loop.
-
-
-
+> And maybe we can keep more of what we make from hitting the municipal waste stream and winding up in garbage dumps in the first place. At the very least, it makes saense to equip fabrication workshops with some direct, local means of recovery, their 3D printers working side-by-side with the flaking machines and extruders that turn refuse into useful feedstock.
+> But there's a still more ambitious way of thinking about circularity: we can leverage the deep sinks of energy and human labor that are already embodied in the things around us, via fabricator-enabled processes of repair and adaptive upcycling. How many things, after all, have we ever dragged to the sidewalk on trash day for want of a single lost or broken component? And how many of them might have been saved if we'd been able to make those comonents cheaply, locally and on a one-off basis? Digital fabricatoion lets us extend the useful life of household objects, especially when the missing or broken part is expensive, hard to source or no longer produced.
