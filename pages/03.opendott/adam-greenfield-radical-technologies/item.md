@@ -38,4 +38,9 @@ p. 99
 > \[Sidhant\] Pai founded a social enterprise called Protoprint that intends to produce "Fair Trade, ethically sourced and environmentally sustainable filament from waste." For maximum efficienty, Protoprint's pilot facility is located in one of Pune's garbage dumps, where the raw material of the filament - HDPE milk jugs and detergent bottles in their thousands - can be had for the price of plucking it from the fly-bombed mounds.
 > Schemes like Pai's present us with the specter of slum children prising apart waste plastic components, dumping them in the chipper, and rendering the resulting slurry into reels of fresh filament. Whether you see this as an ingenious practical element of a closed-loop, cradle-to-cradle industrial ecosystem or a nightmare of exploitation and toxic racism is largely a matter of perspective. (It is entirely possible that Protoprint is both of these things at once).
 
+(...)
+
+> Neverhteless, here is a model for a sustainable, circular economy founded on digital fabrication. We may not be at all comfortable with Pai's vision, or what it implies about our use of things made with HDPE. But millions of human beings, both throughout India and elsewhere in the world, live and work in garbage dumps, and this work recognizes their labor as an irreplaceable element of an extended circuit of digital production. Especially if trashpickers themselves are collectively enabled to make direct use of the filament they produce, building things at will like any of the rest of us would, schemes like Protoprint offer one way to close the loop.
+
+
 
