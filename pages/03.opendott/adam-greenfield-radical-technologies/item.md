@@ -19,3 +19,13 @@ p. 94
 
 > What's more, there's a compositional heterogeneity to most of the objects in our daily environment larger than a paperclip. A simple glance around just about any room ought to establish that most of the artifacts we encounter in everyday life are complex assemblages of ceramic and polymer, cloth and wood, glass and metal. To produce anything even as sophisticated as a toaster or a laundry cart, then, implies the need for multiple different digital fabrication engines.
 > And, of course, some assembly is always required, even in an age of on-demand fabrication. The requirements of assembly labor are perhaps the ultimate brake on digital fabrication: you can cut as many precision, one-off bycicle parts as you like, but someone still needs to put them together into a safely working vehicle. That someone needs space and time, and would preferably have some sense of what they're doing.
+
+p. 96
+
+> Assuming it's achievable at all, though, this world of broadly democratized production capacity seems very hard to square with the needs of sustainability as we presently understand them. "More production in more places" seems to imply "more stuff," and that feels lije anathema in an age that has learned to question the insistence on perpetual growth.
+
+p. 97
+
+> Because single-unit production runs are as economic as any other, successive approximations to a requirement can be fabricated, tried for fit and discarded, as the maker learns what works in a specific case and what does not. This process of thinking-by-making can be extraordinarily fruitful, intellectially and practically, but one of its drawbacks is that it 
+
+
