@@ -1,5 +1,5 @@
 ---
-title: 'Adam Greenfield - Radical Technologies (WIP)'
+title: 'Adam Greenfield - Radical Technologies'
 show_sidebar: false
 ---
 
