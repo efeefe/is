@@ -1,6 +1,6 @@
 ---
 title: 'Richard Sennett'
-media_order: building-and-dwelling-book.jpg
+media_order: "building-and-dwelling-book.jpg,(JPEG Image, 417\_×\_600 pixels).jpeg"
 show_sidebar: false
 ---
 
@@ -35,6 +35,8 @@ p. 289
 > These three forms of repair span the gamut from closed to open form. Restoration is a closed kind of repair: the model rules in materials, form and function; in remediation, the materials are set free but there is still a tight tie between form and function; in reconfiguration, that tie is loosened, even though the materials remain those of the original.
 
 ## The cratfsman
+
+![](%28JPEG%20Image,%20417%C2%A0%C3%97%C2%A0600%20pixels%29.jpeg)
 
 ### Making Repairs / Fixing and Exploring
 
