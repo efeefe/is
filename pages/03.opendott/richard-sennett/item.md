@@ -1,9 +1,12 @@
 ---
 title: 'Richard Sennett'
+media_order: building-and-dwelling-book.jpg
 show_sidebar: false
 ---
 
 ## Building and Dwelling
+
+![](building-and-dwelling-book.jpg)
 
 ### III. Repair - the test of quality
 
