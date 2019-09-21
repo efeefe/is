@@ -29,8 +29,12 @@ A curated list of ideas and works, old and new.
 
 ### Archived projects
 
-- [Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/)
-- [MetaReciclagem](http://cienciaaberta.ubatuba.cc/)
-- [MutGamb](http://mutgamb.github.io/)
+**[Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/)** - Ubatuba Open Science - research-action project.
 
-# Texts
+**[MetaReciclagem](http://cienciaaberta.ubatuba.cc/)** - critical appropriation of technologies for social change.
+
+**[MutGamb](http://mutgamb.github.io/)** - Mutirão da Gambiarra editorial collective.
+
+**[efeefe](https://efeefe-arquivo.github.io/)** - my old blog.
+
+### Texts
