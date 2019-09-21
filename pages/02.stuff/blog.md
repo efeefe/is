@@ -22,5 +22,15 @@ content:
 
 A curated list of ideas and works, old and new.
 
+### Current projects
 
+- [OpenDOTT](../opendott)
+- [maci.global](https://maci.global)
 
+### Archived projects
+
+- [Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/)
+- [MetaReciclagem](http://cienciaaberta.ubatuba.cc/)
+- [MutGamb](http://mutgamb.github.io/)
+
+# Texts
