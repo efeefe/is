@@ -32,9 +32,13 @@ A curated list of ideas and works, old and new.
 
 **[Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/)** - Ubatuba Open Science, research-action project (2015-2017).
 
-**[MetaReciclagem](http://cienciaaberta.ubatuba.cc/)** - critical appropriation of technologies for social change (2003-2012).
+**[BricoLabs](https://www.pixelache.ac/festivals/festival-2013/theme/bricolabs)** - international network on free/open hardware, software, spectrum and culture, and generic infrastructures (2006-2013).
+
+**[MetaReciclagem](http://metareciclagem.github.io/)** - critical appropriation of technologies for social change (2003-2012).
 
 **[MutGamb](http://mutgamb.github.io/)** - Mutirão da Gambiarra editorial collective (2008-2012).
+
+**[Desvio](https://desvio.github.io/)** - Experimental / art collective (2008-2012).
 
 **[efeefe](https://efeefe-arquivo.github.io/)** - my old blog.
 
