@@ -7,8 +7,6 @@ show_sidebar: false
 
 ## Building and Dwelling
 
-![](building-and-dwelling-book.jpg)
-
 ### III. Repair - the test of quality
 
 p. 287
@@ -34,6 +32,9 @@ p. 289
 (...)
 
 > These three forms of repair span the gamut from closed to open form. Restoration is a closed kind of repair: the model rules in materials, form and function; in remediation, the materials are set free but there is still a tight tie between form and function; in reconfiguration, that tie is loosened, even though the materials remain those of the original.
+
+![](building-and-dwelling-book.jpg)
+
 
 ## The cratfsman
 
