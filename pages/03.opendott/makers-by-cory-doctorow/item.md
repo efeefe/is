@@ -1,5 +1,6 @@
 ---
 title: 'Makers, by Cory Doctorow'
+hero_image: makers-US-cover-large.jpg
 ---
 
 Makers, a novel - available [here](https://craphound.com/makers/about/):
