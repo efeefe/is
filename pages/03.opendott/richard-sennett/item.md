@@ -1,13 +1,14 @@
 ---
 title: 'Richard Sennett'
 media_order: "building-and-dwelling-book.jpg,(JPEG Image, 417\_×\_600 pixels).jpeg"
+hero_classes: 'parallax text-light overlay-light hero-fullscreen'
 hero_image: "(JPEG Image, 417\_×\_600 pixels).jpeg"
 show_sidebar: false
 ---
 
-## Building and Dwelling
+#### Building and Dwelling
 
-### III. Repair - the test of quality
+**III. Repair - the test of quality**
 
 p. 287
 
@@ -36,11 +37,11 @@ p. 289
 ![](building-and-dwelling-book.jpg)
 
 
-## The cratfsman
+#### The cratfsman
 
 ![](%28JPEG%20Image,%20417%C2%A0%C3%97%C2%A0600%20pixels%29.jpeg)
 
-### Making Repairs / Fixing and Exploring
+**Making Repairs / Fixing and Exploring**
 
 p. 199
 
@@ -57,6 +58,3 @@ p. 200
 p. 204
 
 > We are all familiar with the saying of Heraclitus that "no man ever steps in the same river twice, because it is not the same river and not the same man." The craftsman will not construe this dictum as suggesting that life is purely flux and flow. He or she may simply rethink how to do things when repairing them; limited or difficult tools may prove useful tools in that work of renewal.
-
-
-
