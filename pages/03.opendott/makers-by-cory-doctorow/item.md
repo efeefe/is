@@ -1,6 +1,6 @@
 ---
 title: 'Makers, by Cory Doctorow'
-hero_classes: 'parallax text-light'
+hero_classes: parallax
 hero_image: makers-US-cover-large.jpg
 show_sidebar: false
 ---
