@@ -1,5 +1,7 @@
 ---
-title: Beyond Smart Cities Today
+title: 'Beyond Smart Cities Today'
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: sunset.jpg
 show_sidebar: false
 ---
 
