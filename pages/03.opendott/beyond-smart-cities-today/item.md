@@ -14,7 +14,7 @@ on the matter, in Portuguese). Even if Greenfield is not that interested in smar
 reenacted, so to say. The event in Rotterdam was connected to a [Centre for Bold Cities](https://www.centre-for-bold-cities.nl/),
 which sounded somewhat funny but still invigorating.
 
-When I heard about it, tt was already too late to send any drafts for the conference. And being in
+When I heard about it, it was already too late to send any drafts for the conference. And being in
 such an early stage of my research I wouldn't have much to contribute, anyway. On the other hand,
 I felt I needed an immersion on a wider but still critical perspective about urbanism and city planning, 
 and the conference would later prove to be just the right place for that. I wrote to the organisers
@@ -34,12 +34,14 @@ afraid to be considered a luddite take, or to become outdated. There were 27 peo
 5 were women. Almost all the rest of them wore suits and looked 50 or older.
 
 I spent less than three days in the Netherlands, always with my paper jotbook and a pen. Following
-are selected notes from some sessions, and further below my impressions while I attended them and
+are selected impressions, notes from sessions, and further below my reflections while I attended them and
 walked around Rotterdam.
 
 ---
 
 ### On my way
+
+![](sky-by-night.jpg)
 
 It's interesting to see the Netherlands from the sky, at night.
 Smart cities? Cities? From here, the whole country is a conurbation. Yesterday Nick told me that
@@ -59,6 +61,8 @@ another train and change in Leiden towards Rotterdam. I was told I should get of
 change platforms and get the next one. In fact, I should have just entered the train on the other
 side of the same platform. Lost another 30 min for not noticing that.
 
+![](centraal.jpg)
+
 ### Het Nieuwe Institut, waiting for the conference to start
 
 Yesterday watching the cities go by from the train window, but also today on my way here, I thought 
@@ -70,6 +74,10 @@ the construction industry active? Form over function. The chairs here don't look
 days packed with sessions and keynotes. The bookstore's selection is gorgeous, perhaps too intentionally.
 Green, sustainable, participatory planning and design all around. It seems to be this way not only
 to sell books, but to pass along a message about the venue itself.
+
+![](sustainist.jpg)
+
+![](sustainable-urban-planning.jpg)
 
 At the same time that a sort of high level cosmopolitism makes me uncomfortable, it also stimulates me.
 Perhaps a part of what I have learned about an intellectual sociability has a lot of Dutch influence.
@@ -111,6 +119,8 @@ Chattanooga, Tennessee. 'The gig city'. 1G internet offered by the public electr
 Maintenance of the commons. Remunicipalization and community-run infrastructure. Fort Collins,
 Queens, London. Stewardship. [Gentrification in the mesh?](https://research.gold.ac.uk/16180/).
 
+![](tower.jpg)
+
 ### Beyond smart city pasts, presents and futures
 
 [Rob Kitchin](http://progcity.maynoothuniversity.ie/contributors/rob-kitchin/). 'Programmable city'.
@@ -124,6 +134,12 @@ Just _drop the smart bit_: citizens, citizenship, justice. In cities, 'smart' is
 Diversity, difference, global south. Minimal politics. Tiny fissures rather than big seismic change.
 Medellin - Social urbanism. Barcelona - technological sovereignty. Morozov + Bria, 
 [Rethinking the Smart City](http://www.rosalux-nyc.org/rethinking-the-smart-city/), 2018.
+
+![](future-present.jpg)
+
+![](future-present-2.jpg)
+
+![](present-future.jpg)
 
 [Alberto Vanolo](https://www.didattica-cps.unito.it/do/docenti.pl/Alias?alberto.vanolo#profilo). 
 Torino, human geographer. 1956: L'uomo del 2000. Problems were the same as the ones we have nowadays.
@@ -145,6 +161,8 @@ Video screening: [Smart City - in search of the Smart Citizen](https://gr1p.org/
 (available [here](https://vimeo.com/138648785)). Discussion later. Rob Kitchin: stop researching smart city altogether.
 The disconnect in the room. Ayona: in India and South Africa, authorities and industry will never go
 on record. Real issue is not privacy, but politics.
+
+![](urbanite.jpg)
 
 ### Dissensus and memory in the smart city
 
@@ -200,16 +218,34 @@ I think, as I did on the plane and on the train, in material flows and their hum
 The city as a makerspace is a superficial approach, indeed. But I'm not becoming an urbanist myself.
 Prototyping and probing, with a critical take.
 
+![](bikes.jpg)
+
+![](construction.jpg)
+
+![](cube.jpg)
+
 People on outside tables of a cafe. All of them face the street, even when sitting in pairs or more.
 Is it this cafe only, or a cultural thing here? In Brazil we would face each other when in pairs.
+
+![](riverside.jpg)
+
+![](market.jpg)
 
 Trying also to process the shock I felt some months ago while meeting a friend whose origins are
 on digital inclusion and open source, but has recently converted to the value of street cameras
 for municipalities. Is he becoming Mr Hyde and not noticing it?
 
+![](discards-fence.jpg)
+
 On another take: how is belonging in urban context related to consumption? Singapore - bank account.
 A credit card and bank account make things easier - rent a car, use shared bikes, pay council tax
 or utilities bills, register for public transport smart cards.
+
+Then - boats. Harbour. Port of Rotterdam. Atlantic connection to my former life in Ubatuba. Feels good.
+
+![](boats-canal.jpg)
+
+![](harbour.jpg)
 
 It's been years since I last had the chance only to attend a conference and not
 present anything, and that itself was liberating. I met old friends and made new ones, but didn't
@@ -225,10 +261,18 @@ before. It's curious because I've been following Francesca's work since some yea
 on my way to Rotterdam I was (coincidentally?) reading another article written by Morozov, 
 [Capitalism’s New Clothes](https://thebaffler.com/latest/capitalisms-new-clothes-morozov).
 
+![](bridge.jpg)
+
+![](green.jpg)
+
+![](tritao.jpg)
+
 En route to Berlin by train: trying to escape from the tension between well-intentioned excess and
 precarity (both the willingly self-inflicted one and the one caused by the lack of alternatives).
 Today is the global climate strike. I am in a train, yes. But I eat beef and in a couple days
 I'll be flyin. How to balance it all?
+
+![](renewi.jpg)
 
 I have just finished Morozov's article and started reading his and Bria's essay on smart cities.
 Other perspectives. Smart cities in a broader sense, not only Cisco/IBM/Siemens, but also Google,
@@ -239,3 +283,5 @@ An object in a landfill is value being wasted. An object in an incinerator is va
 (and generating a very slight benefit when it propels electric fans). An object getting recycled
 may also be wasted - and generated further waste, toxic implications, transform value into smoke.
 Build around that. Think of environmental and economic implications. Demonstrate it.
+
+![](sunset.jpg)
