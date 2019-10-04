@@ -1,5 +1,6 @@
 ---
 title: 'Beyond Smart Cities Today'
+date: '04-10-2019 11:46'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: sunset.jpg
 show_sidebar: false
