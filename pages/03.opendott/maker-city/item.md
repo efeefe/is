@@ -1,5 +1,6 @@
 ---
-title: 'Maker City (WIP)'
+title: 'Maker City'
+date: '27-08-2019 11:52'
 show_sidebar: false
 ---
 
