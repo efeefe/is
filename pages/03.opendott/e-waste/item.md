@@ -1,5 +1,6 @@
 ---
 title: e-waste
+date: '10-09-2019 11:50'
 show_sidebar: false
 ---
 

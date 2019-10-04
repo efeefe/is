@@ -1,5 +1,6 @@
 ---
 title: 'Shaping Things - Bruce Sterling'
+date: '06-09-2019 11:53'
 show_sidebar: false
 ---
 
