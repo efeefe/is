@@ -5,7 +5,7 @@ hero_image: sunset.jpg
 show_sidebar: false
 ---
 
-## My first trip during the research period
+### My first trip during the research period
 
 I believe it was on one of my first supervisory meetings with Nick Taylor and Mel Woods somewhere
 in August that Mel mentioned a conference that was being organised in Rotterdam. The title
@@ -41,8 +41,6 @@ on my way to Edinburgh Airport.
 I spent less than three days in the Netherlands, always with my jotbook and a pen. Following
 are some selected impressions, notes from sessions, and further below my reflections while I attended them and
 walked around Rotterdam.
-
----
 
 ### On my way
 
