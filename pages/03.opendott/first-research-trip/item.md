@@ -1,7 +1,7 @@
 ---
 title: 'My first research trip'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
-hero_image: ../reparatur-festival-2019/sunset-blur.jpg
+hero_image: sunset-blur.jpg
 show_sidebar: false
 ---
 
