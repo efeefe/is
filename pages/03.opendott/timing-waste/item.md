@@ -1,6 +1,6 @@
 ---
 title: 'Timing waste'
-date: '19-09-2019 11:53'
+date: '02-10-2019 11:53'
 show_sidebar: false
 ---
 
