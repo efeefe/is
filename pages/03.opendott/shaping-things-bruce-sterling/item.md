@@ -3,6 +3,8 @@ title: 'Shaping Things - Bruce Sterling'
 show_sidebar: false
 ---
 
+*I found this book by chance in the DJCAD Library. Seems to be made for young design students. Just copying a couple paragraphs here in deference for the cyberpunk pioneer.* Comment added on 04/10/2019.
+
 pp. 56-57
 
 > What we know about prehistorical humans comes mostly from their things. Prehistoric peoples left us no documentation, since they were pre-literate. However, they left many things that they shaped, then discarded or lost. Occasionally, abandoned and forgotten Paleolithic artwork is found, deep in caves or in lonely deserts. Sometimes, we discover fragments of their bodies.

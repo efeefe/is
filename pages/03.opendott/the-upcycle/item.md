@@ -3,9 +3,11 @@ title: 'The Upcycle'
 show_sidebar: false
 ---
 
+*McDonough and Braungarten are the authors of Cradle to Cradle, a book widely regarded as a recipe for more sustainable product industrial processes, which would later be used a one of the main references for the discussions about a Circular Economy. The Upcycle is the sequel, written by the same authors more than a decade later. Here they go deeper in some themes, and add a different perspective to others, or try to make their point clear in some topics - like fighting the misunderstanding of expressions they used such as waste=food. There are some interesting clues for my research, I reckon.* Comment added on 04/10/2019.
+
 [The Upcycle](https://www.mcdonough.com/writings/the-upcycle/)
 
-*William McDonough / Michael Braungart - 2013*
+**William McDonough / Michael Braungart - 2013**
 
 pp. 166/167
 
@@ -25,6 +27,9 @@ pp.168-169
 
 > Could eBay-like Internet auction sites one day be intelligent materials pooling brokers? Social media holds the potential for anyone to become the nutrient manager for his or her home, block, neighborhood, or city. The original recyclers were ragpickers who gathered the fabric used for the paper for the most valuable artwork, archival papwers used today - rag paper. An upcycle if there ever was one: rags to riches.
 
+
+!!*Why eBay? How about managing it as a commons, or a platcoop?*
+
 p. 170
 
 > Just as humans think of designing necessary products to retain, restore, and enrich on a continuous basis, they can and need to think about upcycling the system they employ every day to make our world run.
@@ -36,11 +41,15 @@ p. 173
 
 p. 212
 
-> Get greedy about your garbage. Now that the world has started down the path of upcycling, plenty of companies covet what you put in the trash can every day. You can value it too. Instead of asking yourself, "How do I get rid of this?" ask, "How much money could I get for this? Who could enjpy the benefits of these great nutrients? My city, my neighborhood, my favorite nonprofit?"
+> Get greedy about your garbage. Now that the world has started down the path of upcycling, plenty of companies covet what you put in the trash can every day. You can value it too. Instead of asking yourself, "How do I get rid of this?" ask, "How much money could I get for this? Who could enjoy the benefits of these great nutrients? My city, my neighborhood, my favorite nonprofit?"
+
+*In other words: can waste engender cycles of abundance? And I add: can we manage it in ways not organised around the market form?*
 
 p. 213
 
 > But technical products don't die and vanish. This is the problem and the opportunity. Products stay on and on and on. Maybe as toxins in a dump. Or a plastic bottle cap bobbing in the ocean. We need to get away from thinking of these objects as mutable or we won't consider their endless reuse. They are technical nutrients. We can use them over and over. We can design them to be part of a Materials Bank and lease the steel and rubber in a washing machine, for example, until the time comes to use them for something else.
+
+*Interesting point about the 'lifecycle' of products, or their 'afterlife'.*
 
 p. 216
 
@@ -49,6 +58,5 @@ p. 216
 (...)
 
 > Get specific about your locality. You will arrive at more ingeniously indigenous solutions if you let the locality guide you. Some solutions can have global benefits and applications, but remember to start where you are. All sustainability, like politics, is local.
-
 
 

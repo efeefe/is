@@ -3,6 +3,8 @@ title: 'Adrian Smith on making and communities (WIP)'
 show_sidebar: false
 ---
 
+*.*
+
 [Tooling Up: Civic visions, FabLabs, and grassroots activism](https://www.theguardian.com/science/political-science/2015/apr/04/tooling-up-civic-visions-fablabs-and-grassroots-activism)
 
 > Many in the wider ‘maker’ movement can be reluctant to engage in politics overtly, as to do so would appear to constrain the notion of giving tools to people in a way which offers them unconstrained agency around their purposes, deployment and use. Yet, as I have explored in my work on community workshops in London in the 1980s, these types of ‘making’ spaces are always opened in very specific social, political and economic contexts. Such contexts already influence the relative ease and kinds of support available for putting tools to particular purposes. If communities are truly to be liberated to debate, use, and resist tools in a way that they see as appropriate (rather than those encapsulated in elite visions), one must engage with the politics of these contexts. This is something that earlier advocates of providing tools for the people have made very clear – think of William Morris and his argument for socialism, or Murray Bookchin on post-scarcity anarchism.

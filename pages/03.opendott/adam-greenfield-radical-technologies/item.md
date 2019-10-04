@@ -3,13 +3,13 @@ title: 'Adam Greenfield - Radical Technologies'
 show_sidebar: false
 ---
 
-*My reading notes*
+*My reading notes are below.*
 
 Chapter 4, **Digital Fabrication: Towards a new political economy of matter**
 
 p. 92 
 
-> And, above all, what they are imagining is a material production that is *ultra low-cost*. The unstated premise behind all of these visions of the future isn't merely an ecnonomy in which high-precision fabricators themselves are available cheaply. It's one in which all the inputs required to make things with them - specifically, feedstock, energy and specification diagrams - are also available at something very close to zero cost. Without access to these, one doesn't truly own the means of production, only its instruments; with them, but for labor time and amortization of the fabrication engine itself, objects might indeed be had for something close to the cost of the raw material used to make them. But feedstock, energy and specifications all need to be produced by someone, somehow, and the costs involved cannot simply be wished away.
+> And, above all, what they are imagining is a material production that is *ultra low-cost*. The unstated premise behind all of these visions of the future isn't merely an economy in which high-precision fabricators themselves are available cheaply. It's one in which all the inputs required to make things with them - specifically, feedstock, energy and specification diagrams - are also available at something very close to zero cost. Without access to these, one doesn't truly own the means of production, only its instruments; with them, but for labor time and amortization of the fabrication engine itself, objects might indeed be had for something close to the cost of the raw material used to make them. But feedstock, energy and specifications all need to be produced by someone, somehow, and the costs involved cannot simply be wished away.
 
 p. 94
 
