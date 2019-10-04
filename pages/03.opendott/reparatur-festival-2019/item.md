@@ -1,6 +1,8 @@
 ---
-title: 'Reparatur Festival 2019'
+title: 'Reparatur Festival 2019 (WIP)'
 show_sidebar: false
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: a-der-mond.jpg
 ---
 
 After attending the Beyond Smart Cities Today conference in Rotterdam, I boarded a train
@@ -27,6 +29,8 @@ to get to know the community a little closer. Even more so as [my research](../)
 moving towards collective systems to address post-consumption / discarded objects. My days
 in Berlin provided useful insights and some practical examples. My notes are below.
 
+
+[pdfjs=felipe-fixfest.pdf]
 
 ![](open.jpg)
 
@@ -78,8 +82,8 @@ in Berlin provided useful insights and some practical examples. My notes are bel
 ![](from-the-top.jpg)
 
 
-![](der-mond.jpg)
+![](a-der-mond.jpg)
 
 ![](sunset-blur.jpg)
 
-![](alkohol.jpg)
+![](z-alkohol.jpg)
