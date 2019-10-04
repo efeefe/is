@@ -1,6 +1,7 @@
 ---
 title: 'Richard Sennett'
 media_order: "building-and-dwelling-book.jpg,(JPEG Image, 417\_×\_600 pixels).jpeg"
+date: '16-09-2019 11:52'
 hero_classes: 'parallax text-light overlay-light hero-fullscreen'
 hero_image: "(JPEG Image, 417\_×\_600 pixels).jpeg"
 show_sidebar: false
