@@ -99,6 +99,8 @@ creative practice. Rap + video clip: 'the city is for you and me'. The women wer
 to local NGOs. Got attention from mainstream media, and the issue of safety and gendered made it into
 the discussions for the next elections.
 
+![](sidewalk.jpg)
+
 [Bianca Wylie](https://biancawylie.com/sample-page/) brought a very lively account of the Sidewalk Toronto 
 project, a 'bar fight wigh Google'. The city was not ready for the project. A governance vacuum.
 Dirty tactics used by the private sector. Companies that skip regulation and use people to defend
