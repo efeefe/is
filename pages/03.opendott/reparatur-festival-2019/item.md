@@ -30,8 +30,6 @@ moving towards collective systems to address post-consumption / discarded object
 in Berlin provided useful insights and some practical examples. My notes are below.
 
 
-[pdfjs=felipe-fixfest.pdf]
-
 ![](open.jpg)
 
 
@@ -72,6 +70,19 @@ in Berlin provided useful insights and some practical examples. My notes are bel
 ![](restarter.jpg)
 
 
+
+---
+
+I was fortunately able to split my contribution to the conference into two. On Saturday, I joined a session on the unconference about
+repairing in global contexts. I had about ten minutes to talk about my experience with MetaReciclagem and some related projects in Brazil.
+Then on the next day, I joined the closing panel and talked about things I have done more recently - in particular since my residence
+in Doha, then [Transformatéria](../transformateria) and finally a quick glance of what I'm into right now. Below are the slides I used
+in this last session.
+
+[pdfjs=felipe-fixfest.pdf]
+
+
+The Q&A that followed was very interesting.
 
 
 ---
