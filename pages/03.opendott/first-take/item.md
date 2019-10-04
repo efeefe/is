@@ -1,5 +1,6 @@
 ---
 title: 'first take'
+date: '08-08-2019 11:50'
 show_sidebar: false
 ---
 
