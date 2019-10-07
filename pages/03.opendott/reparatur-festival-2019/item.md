@@ -6,8 +6,8 @@ hero_image: a-der-mond.jpg
 show_sidebar: false
 ---
 
-After attending the Beyond Smart Cities Today conference in Rotterdam, I boarded a train
-to Berlin. The plan was to join the [Reparatur Festival](https://reparatur-festival.runder-tisch-reparatur.de/), German edition of Fixfest - the festival
+After attending the [Beyond Smart Cities Today](../beyond-smart-cities-today) conference in Rotterdam, I boarded a train
+to Berlin. I would be participating in the [Reparatur Festival](https://reparatur-festival.runder-tisch-reparatur.de/), German edition of Fixfest - the festival
 originated around the [Restart Project](https://therestartproject.org/) originally from London. Coincidentally, the first
 day of the event was also the date of the Global Climate Strike, which almost by chance
 ended up reinforcing the environmental aspects of repair and reuse in the festival.
@@ -18,7 +18,6 @@ I have been interacting to the restarters [since some years](../../suff/restart-
 to get to know the community a little closer. Even more so as [my research](../) seems to be
 moving in the direction of collective systems to address post-consumption / discarded objects. My days
 in Berlin provided useful insights and some practical examples. My notes are below.
-
 
 ---
 
@@ -31,7 +30,9 @@ During the festival, the community released an european campaign for the
 
 ![](material.jpg)
 
+
 ![](take-make-dispose.jpg)
+
 
 ![](nachhaltigen-konsum.jpg)
 
@@ -65,19 +66,17 @@ There were maps of repair initiatives in Germany and Berlin. And an exhibition a
 
 ![](growth-criticism.jpg)
 
+
 ![](post-growth.jpg)
 
+
 ![](three-dimensions.jpg)
+
 
 ![](repair-centre.jpg)
 
 Open Source helps, but how? [Session structure](https://opencircularity.info/os-podium-fixfest/)). [Open Source Ecology](https://opensourceecology.de/): [DIN spec for open hardware](https://www.din.de/de/forschung-und-innovation/din-spec/alle-geschaeftsplaene/wdc-beuth:din21:305669958/pdf-3053142). [Kobakant - How to get what you want](http://www.kobakant.at/DIY/) - storytelling through documentation. [OPEN!](https://opensourcedesign.cc/wiki/index.php/OPEN!_Methods_and_tools_for_community-based_product_development) community-based product development. [Open Source Circularity](https://opencircularity.info/) - redefine ownership / political demands / open source spare parts.
 
-![](c-base.jpg)
-
-![](restarter.jpg)
-
----
 
 As I met members of the community, questions were raised about how repair and reuse take place in contexts other than Europe and USA. I joined the unconference session called 'global perspective of repair', telling once again my background with MetaReciclagem, with quick mentions to Cultura Digital, Lixo Eletrônico and Desvio. Slides are below.
 
@@ -91,9 +90,12 @@ in this last session. I'm sorry for the second page, don't want to scare anyone 
 
 [pdfjs=fixfest-felipe.pdf]
 
----
+
+![](restarter.jpg)
 
 All in all, it was great to be in Berlin again. A big city, with lots of visible problems, but also a very lively and creative place with interesting initiatives popping up all the time. I'm looking forward to moving there next summer, and engage with some of the groups and initiatives that were present. While I'm at it, there is one thing I noticed. During this [trip](../first-research-trip) I have interacted with groups that share common interests, albeit from different perspectives. Urban planners, human geographers, repairpeople, activists, artists, critical theorists, hackers. While it's great to be circulating around these worlds, I felt these groups are not talking to each other. It may be naive of me, but I believe there is a lot to be learnt from side to side. But that requires considerable effort in building common vocabularies. Is that even possible?
+
+![](c-base.jpg)
 
 ![](rooftop.jpg)
 
