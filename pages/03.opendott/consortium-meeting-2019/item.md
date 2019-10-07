@@ -45,4 +45,29 @@ a [blog post by Chris Speed](https://chrisspeed.net/?p=773)).
 - Visibility / invisibility. Privacy / security. City as a being. What rights? Any?
 - Other beings in the city.
 - Reappearance of the computer / reappearance of waste.
-- 
+
+A plan for exerimenting with design research started to appear as well:
+
+**Key themes:** 
+
+- Repair culture.
+- The city as a makerspace.
+- Internet of all things.
+
+**Key questions:**
+
+- What people think of repairing? In Dundee, Berlin (and relate to previous investigation in Brazil, Qatar, France).
+- What do people repair? Why? Extremes - umbrellas / jewellery.
+- Trust / citizens
+- Trust / pros
+- Tools, skills
+
+**Who?**
+
+During the first year:
+
+- Citizens with different levels of familiarity with Dundee. A native Dundonian, someone who moved here since some years, and new inhabitants.
+- Professional repair shops.
+- City council - waste management.
+- Reusers / Charity shops / Pawn shops.
+- Craftspeople. Nine trades of Dundee.
