@@ -2,7 +2,7 @@
 title: 'am I efeefe?'
 media_order: ff-blackmirrorshades-p.jpg
 body_classes: 'title-center title-h1h2'
-visible: false
+visible: true
 ---
 
 ![](ff-blackmirrorshades-p.jpg?resize=220&classes=float-right)
