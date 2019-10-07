@@ -83,7 +83,7 @@ As I met members of the community, questions were raised about how repair and re
 [pdfjs=fixfest-metareciclagem.pdf]
 
 The next day, I was part of closing panel, and had time to talk about things I have done more recently - in particular since my residence
-in Doha, then [Transformatéria](../transformateria) and finally a quick glance of what I'm into right now in my PhD research. Also, how people usually read [the wrong book called Makers](https://en.wikipedia.org/wiki/Makers:_The_New_Industrial_Revolution) (the one about a 'new industrial revolution' when we're still struggling to solve the problems [caused by the previous revolutions](../../stuff/transformed-worlds)). Hint: here's the [good one to read](https://craphound.com/makers/about/).
+in Doha, then [Transformatéria](../transformateria) and finally a quick glance of what I'm into right now in my PhD research. Also, how people usually read [the wrong book called Makers](https://en.wikipedia.org/wiki/Makers:_The_New_Industrial_Revolution) (the one about a 'new industrial revolution' when we're still struggling to solve the problems [caused by the previous revolutions](../../stuff/transformed-worlds)). Hint: [this is the right one](../makers-by-cory-doctorow).
 
 Below are the slides I used
 in this last session. I'm sorry for the second page, don't want to scare anyone but that needs to be said.
