@@ -1,8 +1,8 @@
 ---
 title: 'Reparatur Festival 2019 (WIP)'
-show_sidebar: false
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: a-der-mond.jpg
+show_sidebar: false
 ---
 
 After attending the Beyond Smart Cities Today conference in Rotterdam, I boarded a train
@@ -11,9 +11,7 @@ originated around the [Restart Project](https://therestartproject.org/) original
 day of the event was also the date of the Global Climate Strike, which almost by chance
 ended up reinforcing the environmental aspects of repair and reuse in the festival.
 
-
 ![](entrance.jpg)
-
 
 I have been interacting to the restarters [since some years](../../suff/restart-podcast), and was excited with the opportunity
 to get to know the community a little closer. Even more so as [my research](../) seems to be
@@ -32,9 +30,7 @@ During the festival, the community released an european campaign for the
 
 ![](material.jpg)
 
-
 ![](take-make-dispose.jpg)
-
 
 ![](nachhaltigen-konsum.jpg)
 
@@ -68,12 +64,9 @@ There were maps of repair initiatives in Germany and Berlin. And an exhibition a
 
 ![](growth-criticism.jpg)
 
-
 ![](post-growth.jpg)
 
-
 ![](three-dimensions.jpg)
-
 
 ![](repair-centre.jpg)
 
@@ -81,9 +74,7 @@ Open Source helps, but how? [Session structure](https://opencircularity.info/os-
 
 ![](c-base.jpg)
 
-
 ![](restarter.jpg)
-
 
 ---
 
@@ -102,7 +93,6 @@ in this last session. I'm sorry for the second page, don't want to scare anyone 
 ---
 
 All in all, it was great to be in Berlin again. A big city, with lots of visible problems, but also a very lively and creative place with interesting initiatives popping up all the time. I'm looking forward to moving there next summer, and engage with some of the groups and initiatives that were present. While I'm at it, there is one thing I noticed. During this [trip](../first-research-trip) I have interacted with groups that share common interests, albeit from different perspectives. Urban planners, human geographers, repairpeople, activists, artists, critical theorists, hackers. While it's great to be circulating around these worlds, I felt these groups are not talking to each other. It may be naive of me, but I believe there is a lot to be learnt from side to side. But that requires considerable effort in building common vocabularies. Is that even possible?
-
 
 ![](rooftop.jpg)
 
