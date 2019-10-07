@@ -1,5 +1,6 @@
 ---
-title: 'Reparatur Festival 2019 (WIP)'
+title: 'Reparatur Festival 2019'
+date: '07-10-2019 07:34'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: a-der-mond.jpg
 show_sidebar: false
