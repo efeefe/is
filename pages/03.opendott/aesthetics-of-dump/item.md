@@ -1,5 +1,6 @@
 ---
 title: 'Dump metal'
+date: '07-10-2019 07:47'
 show_sidebar: false
 ---
 
