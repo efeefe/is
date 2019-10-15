@@ -4,7 +4,7 @@ show_sidebar: false
 content:
     items:
         - '@self.children'
-    limit: 15
+    limit: 20
     order:
         by: date
         dir: desc
