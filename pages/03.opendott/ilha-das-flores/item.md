@@ -6,7 +6,7 @@ hero_image: 'MV5BYTM5Njg5OGQtYmIwNS00OWQyLWEwODAtMWQ1YzBiNmUzZTg1XkEyXkFqcGdeQXV
 show_sidebar: false
 ---
 
-*It's not only because this film was made in my hometown, Porto Alegre. Or because I was a satisfied pupil of one of its makers. But Ilha das Flores has impacted me from the first time I've seen it. I have used it in a couple workshops and courses, and like to think of it as a brazilian predecessor to cleaner accounts such as Annie Leonard's The Story of Stuff.* Comment added on 04/10/2019.
+*It's not only because this film was made in my hometown, Porto Alegre. Or because I enjoyed attending one of its makers' classes at the University. But Ilha das Flores has impacted me from the first time I've seen it. I have used it in a couple workshops and courses, and like to think of it as a brazilian predecessor to cleaner accounts such as Annie Leonard's The Story of Stuff.* Comment added on 04/10/2019.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Isle_of_Flowers):
 
