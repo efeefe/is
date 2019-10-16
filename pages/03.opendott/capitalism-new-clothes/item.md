@@ -1,5 +1,5 @@
 ---
-title: 'Capitalism\'s New Clothes'
+title: 'Capitalism and its New Clothes'
 date: '16-10-2019 11:47'
 show_sidebar: false
 ---
