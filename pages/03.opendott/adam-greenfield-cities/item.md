@@ -3,6 +3,8 @@ title: 'Adam Greenfield on Cities (WIP)'
 show_sidebar: false
 ---
 
+! This post is a work in progress. This warning will be removed once I'm done editing it.
+
 *Adam Greenfield wrote a series of interesting texts criticizing the usual take on smart cities. I'll be pasting below some excerpts of his work as I (re)read it.*
 
 **[Rise of the machines: who is the ‘internet of things’ good for? ](https://www.theguardian.com/technology/2017/jun/06/internet-of-things-smart-home-smart-city)**

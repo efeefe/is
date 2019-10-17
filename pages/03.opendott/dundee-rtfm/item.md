@@ -3,6 +3,8 @@ title: Dundee - RTFM (WIP)
 show_sidebar: false
 ---
 
+! This post is a work in progress. This warning will be removed once I'm done editing it.
+
 For the first year of the OpenDOTT project, I have moved with my family to Dundee, in the UK. 
 Frankly, I didn't even know where Dundee was before seeing the call for applications last December.
 After some loose internet searching and browsing, I found it was a) not far from Edinburgh, b) a former

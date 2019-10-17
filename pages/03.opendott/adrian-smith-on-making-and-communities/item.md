@@ -3,7 +3,7 @@ title: 'Adrian Smith on making and communities (WIP)'
 show_sidebar: false
 ---
 
-*.*
+! This post is a work in progress. This warning will be removed once I'm done editing it.
 
 [Tooling Up: Civic visions, FabLabs, and grassroots activism](https://www.theguardian.com/science/political-science/2015/apr/04/tooling-up-civic-visions-fablabs-and-grassroots-activism)
 
