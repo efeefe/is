@@ -1,9 +1,11 @@
 ---
-title: 'Consortium Meeting - 2019 (WIP)'
+title: 'Consortium Meeting - 2019'
 published: false
 date: '07-10-2019 13:00'
 show_sidebar: false
 ---
+
+! This post is a work in progress. This warning will be removed once I'm done editing it.
 
 In September 2019 we had the first general meeting of the OpenDOTT consortium, with the five 
 fellows, supervisors and members of all partner organisations. The meeting took place in Dundee, 
