@@ -36,7 +36,7 @@ Responses:
 
 - Here in Madrid they are called 'other materials'. There are specific spots to drop them or a phone number you can call to ask the municipality to remove, in the case of large furniture.
 - In Santo André there are points to discard various materials such as wood, construction waste, furniture, and specific campaigns for the discard of electronics.
--- \[replying to the comment above\] these discard points are only used by car owners, pickers with their carts or who lives in the vicinity. The administration collects recyclables once a week, with no instructions about how to discard them properly.
+ - \[replying to the comment above\] these discard points are only used by car owners, pickers with their carts or who lives in the vicinity. The administration collects recyclables once a week, with no instructions about how to discard them properly.
 - Felipe, do you know Pimp my carroça's [Cataki](https://cataki.org)?
 - They are not!
 - Here in Porto Alegre there used to be efficient discard followed by a campaign of education about the initiative, but it was totally abandoned.
