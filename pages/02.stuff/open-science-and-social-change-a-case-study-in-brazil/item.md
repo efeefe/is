@@ -1,9 +1,12 @@
 ---
 title: 'Open Science and Social Change: A Case Study in Brazil'
 date: '15-10-2019 14:26'
+show_sidebar: false
 ---
 
-*Chapter *
+*Chapter of the book Contextualizing Openness: Situating Open Science, edited by Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz, and Alejandro Posada.*
+
+Authors: Sarita Albagli, Henrique Parra, Felipe Fonseca, and Maria Lucia Maciel.
 
 **Abstract**
 
