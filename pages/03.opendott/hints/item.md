@@ -6,6 +6,7 @@ show_sidebar: false
 Recent suggestions made by supervisors, colleagues and other parties about my research:
 
 - Look into diary studies as a way to approach my research questions
+- Bottom-up solutions to recycling
 - Blockchain registry of physical objects
 - Use value / exchange value
 - Libraries of things
