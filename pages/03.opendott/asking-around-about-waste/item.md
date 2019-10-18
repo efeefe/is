@@ -47,3 +47,9 @@ Responses:
 - In São Paulo I believe there's none. From what I heard these materials are collected by carroceiros (pickers with carts). There are some small points in the city... but the municipality won't come to pick them \[at people's houses\]
 - In Ubatuba, for furniture, people call a carroceiro that discards what is not worth for recycling on places transformed into dumpsters, such as beside the airport or by some rivers.
 - Here in Jabaquara region where I live up to Diadema the used or broken furniture or couches are usually left in the street and stay there for days or weeks deteriorating under the weather. The program called Cata Bagulho happens every two months, when they do. I've seen a similar situation in neighourhoods like Bras, etc. On the peripheries the situation is even worse.
+
+**More about it** (added 18/10/2019):
+
+- In Catalunya, discards are called andromines. There is a social organisation called [Andromines](http://andromines.net/) that apparently employs people to work with these materials.
+- In the UK, [jumble sales](https://en.wikipedia.org/wiki/Jumble_sale) and [car boot sales](https://en.wikipedia.org/wiki/Car_boot_sale) are popular alongside charity shops.
+
