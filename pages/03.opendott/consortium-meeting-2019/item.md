@@ -73,3 +73,19 @@ During the first year:
 - City council - waste management.
 - Reusers / Charity shops / Pawn shops.
 - Craftspeople. Nine trades of Dundee.
+
+In the second day, we had the chance to spend more time with our supervisory teams. My notes are below:
+
+- Usable. Stories.
+- Tool libraries.
+- Bookmooch (inactive - people could share books with others)
+- Everybody has stories about discards, basements filled with junk. How to discard or repurpose? Different cities. Similarities. Charity shops. 
+- [Bunz app](https://bunz.com/) - trade, barter, exchange, or buy/seel with altcoin.
+- Tim Ingold, Making.
+- Barter + stories.
+- Public spaces to share objects.
+- Freecycling. Gumtree. Craigslist.
+- Nantes, Ressourceries.
+- [E-waste performance](https://e-waste-performance.net)
+- **Focus:** value of things + humans. Waste in the smart city.
+- 
