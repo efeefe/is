@@ -4,7 +4,7 @@ date: '15-10-2019 14:26'
 show_sidebar: false
 ---
 
-*Chapter of the book Contextualizing Openness: Situating Open Science, edited by Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz, and Alejandro Posada.*
+*Chapter of the book Contextualizing Openness: Situating Open Science, edited by Leslie Chan, Angela Okune, Rebecca Hillyer, Denisse Albornoz, and Alejandro Posada. The chapter is an outcome of the [Ciencia Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/) project.*
 
 Authors: Sarita Albagli, Henrique Parra, Felipe Fonseca, and Maria Lucia Maciel.
 
