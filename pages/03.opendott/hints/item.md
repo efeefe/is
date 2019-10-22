@@ -1,8 +1,17 @@
 ---
 title: Hints
-show_sidebar: false
+date: '21-10-2019 10:55'
 taxonomy:
-    tag: [insight, methodology, research questions, sketch, waste, recycling]
+    tag:
+        - insight
+        - methodology
+        - 'research questions'
+        - sketch
+        - waste
+        - recycling
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Recent suggestions made by supervisors, colleagues and other parties about my research:
