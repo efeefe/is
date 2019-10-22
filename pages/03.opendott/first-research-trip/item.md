@@ -4,6 +4,8 @@ date: '04-10-2019 10:46'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: sunset-blur.jpg
 show_sidebar: false
+taxonomy:
+    tag: [travel, cities, lifelog, Rotterdam, Berlin]
 ---
 
 I believe it was on one of my first supervisory meetings with Nick Taylor and Mel Woods somewhere

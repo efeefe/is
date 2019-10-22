@@ -1,6 +1,8 @@
 ---
 title: Hints
 show_sidebar: false
+taxonomy:
+    tag: [insight, methodology, research questions, sketch, waste, recycling]
 ---
 
 Recent suggestions made by supervisors, colleagues and other parties about my research:

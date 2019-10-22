@@ -2,6 +2,8 @@
 title: 'Career Development Plan'
 date: '30-07-2019 10:00'
 show_sidebar: false
+taxonomy:
+    tag: [career, lifelog]
 ---
 
 Excerpts from my Career Development Plan, written during my first days in Dundee.

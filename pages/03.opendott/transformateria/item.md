@@ -2,6 +2,8 @@
 title: TransforMatéria
 date: '22-08-2019 11:54'
 show_sidebar: false
+taxonomy:
+    tag: [project, background, craft, reuse, recycling, upcycling, repurposing, circularity]
 ---
 
 *In 2016, building up on previous work (namely MetaReciclagem, Bricolabs, Lixo Eletrônico, Desvio and my residence in Doha) and trying to establish a connection between opportunities being planned for later that year, I figured there were unexplored possibilities in relating repair, traditional craft and digital making. I ended up calling it Transformatéria (a play with 'transforming matter' in Portuguese). I would start a conversation whose mirror was right by my side, everyday - my partner is a trained jeweller and craftswoman. The Transformateria blog documented the reflections from the moment this name was assembled, following my participation in that year's 4S/EASST (social studies of science conference), then the weeks we spent in Nantes (when I was a resident at PiNG interacting with their s/lowtech and community repair projects) and finally the month in Lüneburg (as a junior fellow in DCRL/Leuphana University working on the confluence of design and repair). During the whole semester I was aiming at building a narrative strong enough to go through a PhD application in a prestigious brazilian University. I think I almost did it, but my proposal was turned down. Fortunately. Some months later I tried two or three other approaches to it, and amid the growing scarcity of funds for artistic/cultural/academic research in Brazil, put it aside somewhere in 2017.* Comment added on 04/10/2019.

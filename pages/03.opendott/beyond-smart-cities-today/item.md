@@ -4,6 +4,8 @@ date: '04-10-2019 11:46'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: sunset.jpg
 show_sidebar: false
+taxonomy:
+    tag: [lifelog, travel, conference, insight, cities, Rotterdam]
 ---
 
 *This post collects notes taken during [my first research trip](../first-research-trip) in Rotterdam.

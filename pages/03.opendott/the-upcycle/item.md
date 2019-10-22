@@ -2,6 +2,8 @@
 title: 'The Upcycle'
 date: '05-09-2019 11:53'
 show_sidebar: false
+taxonomy:
+    tag: [book, circularity, cradle to cradle]
 ---
 
 *McDonough and Braungarten are the authors of Cradle to Cradle, a book widely regarded as a recipe for more sustainable product industrial processes, which would later be used a one of the main references for the discussions about a Circular Economy. The Upcycle is the sequel, written by the same authors more than a decade later. Here they go deeper in some themes, and add a different perspective to others, or try to make their point clear in some topics - like fighting the misunderstanding of expressions they used such as waste=food. There are some interesting clues for my research, I reckon.* Comment added on 04/10/2019.

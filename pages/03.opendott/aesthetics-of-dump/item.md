@@ -2,6 +2,8 @@
 title: 'Dump metal'
 date: '07-10-2019 07:47'
 show_sidebar: false
+taxonomy:
+    tag: [music, video, aesthetics]
 ---
 
 [Doch Chkae, the metal band born on a rubbish dump](https://www.bbc.co.uk/news/world-asia-49795218)

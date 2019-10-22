@@ -2,6 +2,8 @@
 title: 'Noisy nights'
 date: '15-10-2019 12:04'
 show_sidebar: false
+taxonomy:
+    tag: [cities, waste, Madrid]
 ---
 
 Just spent some days visiting friends in Madrid. In the neighbourhood we were, waste collections happens during late night. 

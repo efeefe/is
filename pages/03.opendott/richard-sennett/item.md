@@ -5,6 +5,8 @@ date: '06-09-2019 11:52'
 hero_classes: 'parallax text-light overlay-light hero-fullscreen'
 hero_image: "(JPEG Image, 417\_×\_600 pixels).jpeg"
 show_sidebar: false
+taxonomy:
+    tag: [book, craft, cities, repair, reuse]
 ---
 
 *Sennett's The Craftsman was first recommended to me during the times of [TransforMatéria](../transformateria), by at least three different people. I read parts of it then, and eventually got back to it with different lenses trying to define the research questions for my PhD. I found Building and Dwelling while immersing myself in the DJCAD Library, and found potentially related elements there.* Comment added on 04/10/2019.

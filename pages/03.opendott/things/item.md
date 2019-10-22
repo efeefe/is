@@ -2,6 +2,8 @@
 title: Things
 date: '18-08-2019 11:53'
 show_sidebar: false
+taxonomy:
+    tag: [iot, things, materiality]
 ---
 
 How to frame the "internet of things" in my research? 
