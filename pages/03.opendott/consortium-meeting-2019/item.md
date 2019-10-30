@@ -28,6 +28,10 @@ learn about the specifics of this year's plans, and then spend time with our sup
 a great time, and ended up with a lot more to process - but with a lot of relevant references and
 arguably an alternative framing to some of my themes.
 
+Here are the quickly assembled slides I used to present my research so far:
+
+<iframe src="https://slides.efeefe.me/1909-meeting-slides/"></iframe>
+
 Some insights and open questions arising from the discussions:
 
 - Experimenting early and with anything is better than doing nothing.
