@@ -24,7 +24,7 @@ A curated list of ideas and works, old and new.
 
 ### Current projects
 
-**[OpenDOTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of University of Dundee and Mozilla Foundation (2019-2022).
+**[OpenDoTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of University of Dundee and Mozilla Foundation (2019-2022).
 
 **[maci.global](https://maci.global)** - open network on environment, citizenship and innovation, (open-ended, in portuguese).
 
