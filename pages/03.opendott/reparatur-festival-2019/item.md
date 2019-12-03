@@ -28,7 +28,7 @@ The festival was organised locally by [Runder Tisch Reparatur](http://runder-tis
 During the festival, the community released an european campaign for the
 [right to repair](https://repair.eu/).
 
-![](https://repair.eu/wp-content/uploads/2019/09/Hero-desktop.png)
+![](https://repair.eu/wp-content/uploads/2019/11/Hero-home-desktop.png)
 
 ![](material.jpg)
 
