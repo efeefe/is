@@ -3,20 +3,20 @@ title: 'Things in the City'
 date: '11-12-2019 10:02'
 taxonomy:
     tag:
+        - Rotterdam
+        - Berlin
+        - 'research questions'
         - status
         - research
-        - 'research questions'
         - events
         - conferences
         - opendott
-        - Rotterdam
-        - Berlin
 show_sidebar: false
 feed:
     limit: 10
 ---
 
-*This post was originally published in the [OpenDoTT website](https://opendott.org/posts/things-in-the-city/)*
+*This post was originally published in the [OpenDoTT website](https://opendott.org/posts/things-in-the-city/).*
 
 It’s been a little over four months since I moved to Dundee from Brazil. Besides the sort of activity more commonly associated with research—reading and taking notes, writing down findings and perceived gaps, discussing ideas and planning field exercises—I have engaged in a kind of meta-research. My investigation topic being ‘smart cities’, the very fact that I have moved with my family to a city we haven’t even visited beforehand offered—is offering—good insight into what one often takes for granted when thinking about cities. Mobility, education, utilities, many aspects of city life could arguably be improved to better serve its citizens. The only problem is, ‘improving’ means different—often controversial—things to different people. When it comes to research then, some choices must be made.
 
