@@ -9,11 +9,15 @@ taxonomy:
         - dundee
         - 'urban studies'
 show_sidebar: false
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: dundee-mid.png
 feed:
     limit: 10
 ---
 
 In the context of the [OpenDoTT project](https://opendott.org/) which advances the understanding of open design seeking to develop a more trustworthy internet of things (IoT), the specific topic of [my Ph.D. research](https://is.efeefe.me/opendott) is that of the so-called Smart Cities. Since I arrived in Dundee last July I was able to get a taste of a wide range of critical takes on the field, reflect upon some common elements between them and how they relate to my own past experience, as well as learn about areas I want to explore further.
+
+![Dundee from the Top of the Tower](dundee-mid.png)
 
 My starting point was, in fact, a hiatus of about a decade. Around 2009 and 2010 I have written a bit about smart cities, albeit very superficially and only in Portuguese. My main interest was not technology in itself, for I already felt the deployment of information systems and hardware in cities was arguably nothing new. From public lighting to policing and transportation systems, cities have often been the proving grounds for new technological developments, since way before the digital appeared. I was rather more interested then in understanding the potential role of experimental labs when associated with emergent urbanism and local communities.
 
