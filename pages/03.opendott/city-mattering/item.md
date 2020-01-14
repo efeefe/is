@@ -3,11 +3,11 @@ title: 'City Mattering'
 date: '14-01-2020 11:20'
 taxonomy:
     tag:
-        - dundee
+        - waste
         - 'smart city'
         - opendott
+        - dundee
         - 'urban studies'
-        - waste
 show_sidebar: false
 feed:
     limit: 10
