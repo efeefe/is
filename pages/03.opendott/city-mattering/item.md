@@ -8,9 +8,9 @@ taxonomy:
         - opendott
         - dundee
         - 'urban studies'
-show_sidebar: false
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: dundee-mid.png
+show_sidebar: false
 feed:
     limit: 10
 ---
@@ -63,4 +63,4 @@ It turns out it is not. And that requires me to dive into literature and insight
 
 ===
 
-_This text was first published in the [OpenDoTT website](https://opendott.org/posts/city-mattering/)_.
+_This text was first published in the [OpenDoTT website](https://opendott.org/posts/city-mattering/). To add comments, please check the [Medium version](https://medium.com/@felipefonseca/city-mattering-8f27a5e8c90e) or [the forum topic at maci.global](https://maci.global/t/city-mattering-discussion/237).
