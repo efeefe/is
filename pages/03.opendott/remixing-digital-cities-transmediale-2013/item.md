@@ -11,6 +11,8 @@ taxonomy:
         - 'smart city'
         - Ubatuba
         - Brazil
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: tm2013.png
 show_sidebar: false
 feed:
     limit: 10
