@@ -10,12 +10,15 @@ taxonomy:
         - qatar
         - doha
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: glass.jpg
 show_sidebar: false
 feed:
     limit: 10
 ---
 
 On foot. Headphones connected to the little screen. Not by chance, I listen to the soundtrack of Code 46. The heat is mild, the sun has set a few hours ago. I cross avenues of smooth asphalt and fast cars, mentally exploring the map that I avoid consulting in my pocket. Some families stroll through the park that borders the coastline and this still causes me some estrangement. Not the families themselves, except perhaps by the time. But it's the park itself that has a kind of unreal touch. Only in volume of water - desalinated, it is good to remind - these thousands of square meters of grass should consume more than entire regions of the Brazilian semiarid. Not to mention energy, tools and work. But here everything is like this.
+
+![](cars.jpg)
 
 We are on the edge between the sea and the desert. But this city does everything to hide it. One secret among so many others. On my way, some clues - human trails in this almost empty place of historical record. A magazine and a helmet next to a downtake pipe cover. The abandoned grocery cart on the curb, overturned sideways. A pair of working boots leaning against a low wall. The failure in the pavement still waiting for the bloques, reminding us that there are just a few centimeters that divide this almost scenographic city of the infinite sand.
 
@@ -35,13 +38,19 @@ A student reported that what is most done in the free hours here is to buy thing
 
 My destination today wasn’t the central market, remodelled for tourism, nor some of the international museums housed in buildings signed by famous architects, or some international hotel where alcohol is allowed in the bar. I actually went to a hypermarket of French origin that is inside a shopping mall, to buy credit for my little screen and snacks to eat at times when I have no guaranteed meals at the hotel.
 
+![](skilled-hands.jpg)
+
 The mall bothered me less than I expected. Much like similar places in Brazil, except for the huge ethnic/national and clothing diversity. Curiously, we lose by far on this topic. On the other hand, it also had the ice-skating rink, international stores, fast food, and other usual things in this homogeneous and tedious mall culture. But I've seen lots of shopping bags, and I can’t stop thinking about the fate of all these things.
 
 At the opening of my residence, I talked with the students about trash, waste and reuse. I uploaded videos: Ilha das Flores; Buy, take out, buy; Some excerpts from Extraordinary Waste; Digital Handcraft. One student commented that here people just throw things away, but by thinking it through, this "out" doesn’t exist.
 
 This is not a new idea, but here it becomes even more radical. In Qatar, to put out is to throw to the ruthless desert or to a disputed sea. One of the teachers told us that the country had built a plant to recycle various materials with the most advanced equipment that money could buy. But it didn't come to reality because there is no local market for recycled raw material (there is no industry). And exporting it by sea would greatly increase the selling price. Result: the recycling plant itself was also left in the desert to disappear.
 
+![](ideas.jpg)
+
 In general, the entire group of students was aware of issues about the environmental impact of industrial production and the contemporary world. But even as a reflection of the dynamics of local society, this wasn't a priority in the work of any of them. To focus on these issues, we decided to do a field research stage. During the next few days, we will visit professionals related to repairs and craftsmanship: tailors, carpenters, watchmakers, shoemakers. We will also go out in search of car cemeteries and tires, located in the middle of the desert. Finally, we will do two days of Repair Cafe on campus, calling attention to these issues and creating an opportunity for the students to get their hands on.
+
+![](tiresome.jpg)
 
 As I walk my way back to the hotel, a slight anxiety shows itself. I am trying to find out to what extent gambiarra makes sense as a clipping of tactical creativity, disobedient solution to everyday problems and building different (and better) futures. I look around once more, take a deep breath and listen to the sound on the headphones. I see one more of those scenes that remind me of the human nature of all the work done here: a glove, alone on the sidewalk. In this place, I think gambiarra will always occupy a subordinate place. Hidden, unwanted, unrelated to decision mechanisms. But it is there yes. And it must spread throughout the world, more and more.
 
