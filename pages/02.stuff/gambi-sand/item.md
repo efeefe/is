@@ -4,11 +4,11 @@ published: false
 date: '19-10-2017 19:00'
 taxonomy:
     tag:
+        - repair
+        - waste
+        - gambiarra
         - qatar
         - doha
-        - waste
-        - repair
-        - gambiarra
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
 show_sidebar: false
 feed:
