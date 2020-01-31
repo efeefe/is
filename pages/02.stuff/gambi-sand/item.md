@@ -1,5 +1,5 @@
 ---
-title: Gambi-sand
+title: ' Gambi-sand'
 published: false
 date: '19-10-2017 19:00'
 taxonomy:
@@ -28,15 +28,15 @@ I was invited to spend two weeks here as a resident at a university. I'm working
 
 The residence is about gambiarra and repair culture, a theme that in this place sounds strange. Qatar is a rich country whose current shape was built in an accelerated way, with resources coming from the exploration of natural gas. VCUQ, my host, is actually an American University (Virginia Commonwealth University) that has a unit here in Doha. It is headquartered inside the "City of Education," a local government initiative that has set up five U.S. universities here on a modern campus. Most teachers are European. They have fully equipped laboratories, a materials library (hundreds, thousands of samples?) and a very complete and pleasant library.
 
-The old king, who had abdicated in favor of his son a few years ago, already knew that natural gas would end, and wanted to create alternatives to ensure that, in the space of a few decades, the economy doesn't depend on it alone. He invested - in a very caricatural way, but let's face it - in media, technology, tourism and other areas. His wife has created an educational foundation that funds projects around the world. But the country continues to have very particular characteristics.
+The former king, who had abdicated in favor of his son a few years ago, already knew that the production of natural will eventually be exhausted. He set out to create alternatives ensuring that, in the space of a few decades, the economy won't depend on it alone. He invested - sometimes in a very caricatural way, but still significantly - in media, technology, tourism and other areas. His wife has created an educational foundation that funds projects around the world. But the country still has pretty particular characteristics.
 
-People here don’t pay taxes, and local citizens (about 15% of the current population) have free education and health care. The workforce for less skilled activities comes from Southeast Asia. High-level technical and administrative positions are usually occupied by Europeans and Americans, except in the gas extraction sector which is the favorite of the young Cataris and who have preference in hiring.
+People here don’t pay taxes, and local citizens (about 15% of the current population) have free education and healthcare. The workforce for less skilled activities comes from Southeast Asia. High-level technical and administrative positions are usually occupied by Europeans and North Americans, exception apparently made to the gas extraction sector which seems to be the favorite of talented young Qataris.
 
-Combining a very high purchasing power and the low level of rooting or even affection between society and territory, the result couldn’t be different of a consumerism that reaches obsession.
+Combining a very high purchasing power and a low level of cultural rooting or even affection between society and territory, the result couldn’t be different of a consumerism that reaches obsession.
 
-A student reported that what is most done in the free hours here is to buy things. This doesn’t surprise me, just as it doesn’t differ so much from the lifestyle of many people I know in São Paulo. In Qatar, however, everything is superlative. People buy a lot but they use almost nothing. Consequently, things are compulsively discarded.
+A student reported that what buying was the biggest source of entertainment. That did not surprise me, as didn't differ much from the lifestyle of many people I know in São Paulo. In Qatar, however, everything is superlative. People buy a lot, even if they use very little. Consequently, things are compulsively discarded.
 
-My destination today wasn’t the central market, remodelled for tourism, nor some of the international museums housed in buildings signed by famous architects, or some international hotel where alcohol is allowed in the bar. I actually went to a hypermarket of French origin that is inside a shopping mall, to buy credit for my little screen and snacks to eat at times when I have no guaranteed meals at the hotel.
+My destination today wasn’t the central market, recently reshaped for tourism, nor some of the international museums housed in buildings signed by famous architects, or some international hotel in whose bar alcohol is allowed. I actually went to a hypermarket of French origin that is inside a shopping mall, to buy credit for my little screen and snacks to eat at times when I have no guaranteed meals at the hotel.
 
 ![](skilled-hands.jpg)
 
