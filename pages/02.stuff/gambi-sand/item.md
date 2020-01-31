@@ -36,7 +36,7 @@ Combining a very high purchasing power and a low level of cultural rooting or ev
 
 A student reported that what buying was the biggest source of entertainment. That did not surprise me, as didn't differ much from the lifestyle of many people I know in São Paulo. In Qatar, however, everything is superlative. People buy a lot, even if they use very little. Consequently, things are compulsively discarded.
 
-My destination today wasn’t the central market, recently reshaped for tourism, nor some of the international museums housed in buildings signed by famous architects, or some international hotel in whose bar alcohol is allowed. I actually went to a hypermarket of French origin that is inside a shopping mall, to buy credit for my little screen and snacks to eat at times when I have no guaranteed meals at the hotel.
+My destination today wasn’t the central market, recently reshaped for tourism, nor some of the international museums housed in buildings signed by famous architects, or even one of the international hotel bars where alcohol is allowed. I actually went to a hypermarket at a shopping mall, to buy credit for my screenie and snacks to eat when I run out of the guaranteed meals at the hotel.
 
 ![](skilled-hands.jpg)
 
