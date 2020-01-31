@@ -42,7 +42,7 @@ My destination today wasn’t the central market, recently reshaped for tourism,
 
 The mall annoyed me less than I anticipated. It was much like similar places in Brazil, except for the huge ethnic/national and clothing diversity. Curiously, we lose by far on this topic. On the other hand, it also had the ice-skating rink, international brand shops, fast food, and other familiar things in this homogeneous and tedious mall culture. But I've seen lots of shopping bags, and I can’t stop thinking about the fate of all those things.
 
-By the start of my residency, I talked with the students about trash, waste and reuse. I uploaded videos: Ilha das Flores; The Lightbulb Conspiracy; some excerpts from Extraordinary Waste; Digital Handcraft. One student commented that here people just throw things away, but by thinking it through, that "away" does not exist.
+By the start of my residency, I talked with the students about trash, waste and reuse. I've shown some videos: Ilha das Flores; The Lightbulb Conspiracy; some excerpts from Extraordinary Waste; Digital Handcraft. One student commented that here people just throw things away, but after he thought a bit about it, that "away" does not exist.
 
 This is not a new idea, but here it becomes even more radical. In Qatar, to put out is to throw to the ruthless desert or to a disputed sea. One of the teachers told us that the country had built a plant to recycle various materials with the most advanced equipment that money could buy. But it didn't come to reality because there is no local market for recycled raw material (there is no industry). And exporting it by sea would greatly increase the selling price. Result: the recycling plant itself was also left in the desert to disappear.
 
