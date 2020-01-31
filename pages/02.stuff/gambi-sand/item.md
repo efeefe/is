@@ -1,6 +1,5 @@
 ---
 title: ' Gambi-sand'
-published: false
 date: '19-10-2017 19:00'
 taxonomy:
     tag:
