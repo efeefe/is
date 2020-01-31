@@ -34,15 +34,15 @@ People here don’t pay taxes, and local citizens (about 15% of the current popu
 
 Combining a very high purchasing power and a low level of cultural rooting or even affection between society and territory, the result couldn’t be different of a consumerism that reaches obsession.
 
-A student reported that what buying was the biggest source of entertainment. That did not surprise me, as didn't differ much from the lifestyle of many people I know in São Paulo. In Qatar, however, everything is superlative. People buy a lot, even if they use very little. Consequently, things are compulsively discarded.
+A student reported that what shopping was the biggest form of entertainment. That did not surprise me, as didn't differ much from the lifestyle of many people I know in São Paulo. In Qatar, however, everything is superlative. People buy a lot, even if they use very little. Consequently, things are compulsively discarded.
 
 My destination today wasn’t the central market, recently reshaped for tourism, nor some of the international museums housed in buildings signed by famous architects, or even one of the international hotel bars where alcohol is allowed. I actually went to a hypermarket at a shopping mall, to buy credit for my screenie and snacks to eat when I run out of the guaranteed meals at the hotel.
 
 ![](skilled-hands.jpg)
 
-The mall bothered me less than I expected. Much like similar places in Brazil, except for the huge ethnic/national and clothing diversity. Curiously, we lose by far on this topic. On the other hand, it also had the ice-skating rink, international stores, fast food, and other usual things in this homogeneous and tedious mall culture. But I've seen lots of shopping bags, and I can’t stop thinking about the fate of all these things.
+The mall annoyed me less than I anticipated. It was much like similar places in Brazil, except for the huge ethnic/national and clothing diversity. Curiously, we lose by far on this topic. On the other hand, it also had the ice-skating rink, international brand shops, fast food, and other familiar things in this homogeneous and tedious mall culture. But I've seen lots of shopping bags, and I can’t stop thinking about the fate of all those things.
 
-At the opening of my residence, I talked with the students about trash, waste and reuse. I uploaded videos: Ilha das Flores; Buy, take out, buy; Some excerpts from Extraordinary Waste; Digital Handcraft. One student commented that here people just throw things away, but by thinking it through, this "out" doesn’t exist.
+By the start of my residency, I talked with the students about trash, waste and reuse. I uploaded videos: Ilha das Flores; The Lightbulb Conspiracy; some excerpts from Extraordinary Waste; Digital Handcraft. One student commented that here people just throw things away, but by thinking it through, that "away" does not exist.
 
 This is not a new idea, but here it becomes even more radical. In Qatar, to put out is to throw to the ruthless desert or to a disputed sea. One of the teachers told us that the country had built a plant to recycle various materials with the most advanced equipment that money could buy. But it didn't come to reality because there is no local market for recycled raw material (there is no industry). And exporting it by sea would greatly increase the selling price. Result: the recycling plant itself was also left in the desert to disappear.
 
