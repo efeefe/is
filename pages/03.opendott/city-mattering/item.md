@@ -63,4 +63,4 @@ It turns out it is not. And that requires me to dive into literature and insight
 
 ===
 
-_This text was first published in the [OpenDoTT website](https://opendott.org/posts/city-mattering/). To add comments, please check the [Medium version](https://medium.com/@felipefonseca/city-mattering-8f27a5e8c90e) or [the forum topic at maci.global](https://maci.global/t/city-mattering-discussion/237)._
+_This text was first published in the [OpenDoTT website](https://opendott.org/posts/city-mattering/). To add comments, please check the [Medium version](https://medium.com/@felipefonseca/city-mattering-8f27a5e8c90e) or [the Linkedin one](https://www.linkedin.com/pulse/city-mattering-felipe-schmidt-fonseca/)._
