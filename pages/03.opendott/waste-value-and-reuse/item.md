@@ -1,7 +1,7 @@
 ---
 title: 'Waste, Value and Reuse'
 show_sidebar: false
-date: '25-02-202020 22:41'
+date: '25-02-2020 22:41'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: header.jpg
 taxonomy:
