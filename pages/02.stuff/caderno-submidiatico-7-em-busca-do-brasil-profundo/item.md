@@ -1,7 +1,7 @@
 ---
 title: 'Caderno Submidiático 7 - Em busca do Brasil profundo'
 date: '11-03-2008 13:33'
-hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: cad-7.png
 show_sidebar: false
 feed:
