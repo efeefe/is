@@ -17,4 +17,4 @@ How about my own home connection to the internet... if the fiber is broken somew
 
 I'm collecting notes to write about waste in this setting. The first post will be ready as soon as I transcribe and edit an interview I did with myself yesterday.
 
-**PS.:** the usual nod is in place to the amazing work of [The Maintainers](https://themaintainers.org/) who first draw my attention to this fundamental aspect of contemporary life.
+**PS.:** the usual nod is in place to the amazing work of [The Maintainers](https://themaintainers.org/) who first drew my attention to this fundamental aspect of contemporary life some years ago.
