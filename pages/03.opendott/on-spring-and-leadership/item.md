@@ -10,6 +10,7 @@ taxonomy:
         - radio
         - leadership
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: sun-shy.png
 show_sidebar: false
 feed:
     limit: 10
