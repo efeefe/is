@@ -9,6 +9,7 @@ taxonomy:
         - audio
         - radio
         - leadership
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
 show_sidebar: false
 feed:
     limit: 10
