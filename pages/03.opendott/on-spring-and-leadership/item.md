@@ -1,7 +1,7 @@
 ---
 title: 'On Spring and Leadership'
-published: false
-date: '20-03-2020 08:12'
+published: true
+date: '20-03-2020 08:43'
 taxonomy:
     tag:
         - corona
