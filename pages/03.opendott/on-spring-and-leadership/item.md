@@ -18,7 +18,7 @@ At this moment, everywhere in the world, immense pressure is being put over serv
 
 ---
 
-*The following was originally intended to be only a paragraph to introduce the transcription of 
+*The following was originally intended to be only a paragraph to introduce the transcription of some audio notes I made during this week, but seemed to take life on its own. The transcriptions will come later, but I felt like posting this part already*.
 
 Today is the 20th of March. Equinox is around the corner. The zodiac year comes to an end, indicating a time of hope and reconstruction. In ancient times, the imminent arrival of Spring was the only way to cope with harsh winters. Here’s hoping.
 
