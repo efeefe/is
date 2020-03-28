@@ -7,7 +7,7 @@ taxonomy:
         - transmediale
         - berlin
         - networks
-hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: tm2020.jpg
 show_sidebar: false
 feed:
