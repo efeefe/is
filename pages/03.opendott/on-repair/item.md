@@ -13,6 +13,7 @@ taxonomy:
         - SCRAPantics
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: repair-diaries-header.png
+show_sidebar: false
 feed:
     limit: 10
 ---
