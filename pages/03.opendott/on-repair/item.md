@@ -1,6 +1,7 @@
 ---
 title: 'On repair'
-published: false
+published: true
+date: '17-04-2020 13:41'
 taxonomy:
     tag:
         - repair
@@ -24,7 +25,6 @@ Some years ago, I found some friends/colleagues in Brazil were organising a seri
 
 In an case, I have recently been struggling to find a term that would allow me to state in, say, less than ten seconds what it is I'm interested in. When I was playing with ideas for posters to invite people to the event I was organising with [SCRAPantics](https://m.facebook.com/2meadowmill/) here in Dundee, I even had two versions: "repair diaries" and "reuse diaries". "Reuse" has a broader meaning that could probably satisfy me, but it indeed has zero appeal. Repair feels a little more active. After consulting with my amazing co-hort of OpenDoTT fellows, I decided to stick with repair.
 
-
 ![Reuse diaries](reuse-diaries.png?lightbox=1000&resize=455,455)
 ![Repair diaries](repair-diaries.png?lightbox=1000&resize=455,455)
 
@@ -33,13 +33,17 @@ I am right now organising a [research study](https://opendott.org/repair-diaries
 From the [Online Etymology Dictionary](https://www.etymonline.com/word/repair):
 
 > **repair (v.1)**
+> 
 > "to mend, put back in order," mid-14c., from Old French reparer "repair, mend" (12c.), from Latin reparare "restore, put back in order," from re- "again" (see re-) + parare "make ready, prepare" (from PIE root *pere- (1) "to produce, procure"). Related: Repaired; repairing. 
 
 I think my main concern is to establish that I'm not only interested in getting broken things back to a previous functional state. Whilst that is obviously a central part of repair, I'm also willing to explore in what ways can materials that are inadequate for any reason - broken, failing, obsolete, ill-fitted, wrong-sized - be made valuable. The "re" particle is always a tricky one in that sense, as it implies a move back in time. But I like the way it relates to "[pere](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference#etymonline_v_52861)":
 
 > **pere- (1)**
+> 
 > *perə-, Proto-Indo-European root meaning "to produce, procure" and yielding and derived words in diverse senses; possibly related to *pere- (2) "to grant, allot."
+> 
 > It forms all or part of: ante-partum; apparatus; apparel; biparous; disparate; emperor; empire; heifer; imperative; imperator; imperial; juniper; multiparous; nulliparous; oviparous; para- (2) "defense, protection against; that which protects from;" Parabellum; parachute; parade; parados; parapet; parasol; pare; parent; -parous; parry; parturient; poor; post-partum; preparation; prepare; primipara; puerperal; rampart; repair (v.1) "to mend, put back in order;" repertory; separate; sever; several; spar (v.); viper; vituperation; viviparous.
+> 
 > It is the hypothetical source of/evidence for its existence is provided by: Sanskrit prthukah "child, calf, young of an animal;" Greek poris "calf, bull;" Latin parare "make ready, prepare," parire "produce, bring forth, give birth to;" Czech spratek "brat, urchin, premature calf;" Lithuanian periu, perėti "to brood;" Old High German farro, German Farre "bullock," Old English fearr "bull."
 
 For the time being, I'll keep using "repair" and try to make people understand this broader sense - not only about making a broken toaster get back to work as a toaster, but to see it as a piece of matter full of possibilities. What reminds me of old discussions I should try to reenact. But I'll keep that for future posts.
