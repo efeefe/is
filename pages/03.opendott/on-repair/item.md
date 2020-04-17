@@ -3,13 +3,15 @@ title: 'On repair'
 published: false
 taxonomy:
     tag:
+        - repair
+        - dundee
         - dictionary
         - etymology
-        - repair
         - 'repair journey'
         - 'repair diaries'
-        - dundee
         - SCRAPantics
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: repair-diaries-header.png
 feed:
     limit: 10
 ---
