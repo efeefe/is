@@ -1,8 +1,14 @@
 ---
-title: Dundee - RTFM (WIP)
-show_sidebar: false
+title: 'Dundee - RTFM (WIP)'
 taxonomy:
-    tag: [dundee, rtfm, lifelog, cities]
+    tag:
+        - cities
+        - lifelog
+        - rtfm
+        - Dundee
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 ! This post is a work in progress. This warning will be removed once I'm done editing it.
