@@ -5,7 +5,7 @@ date: '25-02-2020 22:41'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: header.jpg
 taxonomy:
-    tag: [waste, reuse, value, valoriste, dundee, doha, qatar, lueneburg, nantes]
+    tag: [waste, reuse, value, valoriste, Dundee, Doha, Qatar, Lueneburg, Nantes]
 feed:
     limit: 10
 ---

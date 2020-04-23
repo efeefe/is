@@ -6,7 +6,7 @@ taxonomy:
         - waste
         - 'smart city'
         - opendott
-        - dundee
+        - Dundee
         - 'urban studies'
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: dundee-mid.png

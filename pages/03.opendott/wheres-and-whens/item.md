@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - video
         - transmediale
-        - berlin
+        - Berlin
         - networks
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: tm2020.jpg

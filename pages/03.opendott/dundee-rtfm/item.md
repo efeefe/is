@@ -6,6 +6,7 @@ taxonomy:
         - lifelog
         - rtfm
         - Dundee
+date: '21-11-2019 16:41'
 show_sidebar: false
 feed:
     limit: 10

@@ -5,7 +5,7 @@ date: '17-04-2020 13:41'
 taxonomy:
     tag:
         - repair
-        - dundee
+        - Dundee
         - dictionary
         - etymology
         - 'repair journey'
