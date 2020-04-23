@@ -39,7 +39,7 @@ Being there reminded me of [Teufelsberg](https://en.wikipedia.org/wiki/Teufelsbe
 ![Vent](vent.jpg?lightbox=1000&resize=455,455)
 ![Out](out.jpg?lightbox=1000&resize=455,455)
 
-Even if a lot of people seem to be watching old movies about widespread pandemics, I felt more inclined to recall more pessimistic accounts, of what happens after the point of no return. After the catastrophe, whatever is left? Going even further, what is the space for regeneration afterwards? Mind, I'm note thinking restoration - moving back in time - but instead on how to embrace the idea of generating the world again. 
+Even if a lot of people seem to be watching old movies about widespread pandemics, I felt more inclined to recall more pessimistic accounts, of what happens after the point of no return. After the catastrophe, what have we got left? Additionally, what is the space for regeneration afterwards? Mind, I'm not thinking restoration - moving back in time to a previous functional state - but instead on how to embrace the idea of generating worlds anew. 
 
 ![Plastics](plastics.jpg?lightbox=1000&resize=455,455)
 ![Yellow](yellow.jpg?lightbox=1000&resize=455,455)
