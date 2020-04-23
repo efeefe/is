@@ -34,7 +34,7 @@ It was against that background that I arrived at the park, not sure what to expe
 ![Riverside Nature Park](nature-park.jpg?lightbox=1000&resize=455,455)
 ![Bench](bench.jpg?lightbox=1000&resize=455,455)
 
-Being there reminded me of [Teufelsberg](https://en.wikipedia.org/wiki/Teufelsberg), the highest hill in Berlin built on top of debris from the second world war - a place I still want to visit. I thought also of the waste management facility I've been to while in Lüneburg, some years ago. And naturally, I couldn't help thinking of Ubatuba and its old landfill being poorly transformed into a transfer station and where my dear friends of the recycling coop work against all odds. The term that came to mind was regeneration. It is a recurrent concept among the circular economy discussions. I felt it stronger now in as I visited the Riverside park while thinking of my research and COVID-19. 
+Being there reminded me of [Teufelsberg](https://en.wikipedia.org/wiki/Teufelsberg), the highest hill in Berlin built on top of debris from the second world war - a place I still want to visit. I thought also of the waste management facility I've been to while in Lüneburg, some years ago. And naturally, I couldn't help thinking of [Ubatuba](../tag:Ubatuba) and its old landfill being poorly transformed into a transfer station and where my dear friends of the recycling coop work against all odds. The term that came to mind was regeneration. It is a recurrent concept among the circular economy discussions. I felt it stronger now in as I visited the Riverside park while thinking of my research and COVID-19. 
 
 ![Vent](vent.jpg?lightbox=1000&resize=455,455)
 ![Out](out.jpg?lightbox=1000&resize=455,455)
