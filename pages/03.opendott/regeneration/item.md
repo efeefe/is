@@ -1,16 +1,16 @@
 ---
-title: 'Regeneration'
+title: Regeneration
 published: true
 date: '21-04-2020 16:41'
 taxonomy:
     tag:
-        - Dundee
+        - corona
         - recycling
+        - Dundee
         - 'ecosystem mapping'
         - landfill
         - regeneration
         - 'Riverside Nature Park'
-        - corona
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
 hero_image: bench.jpg
 show_sidebar: false
@@ -29,7 +29,7 @@ The night before that I was reflecting upon the ambiguity I felt about cultures 
 
 ![Recycling Centre](recycling-centre.jpg?lightbox=1000)
 
-It was against that background that I arrived at the park, not sure what to expect from it. There still are some waste management facilities in the vicinity: a collection point for recyclables and more. I had already heard of this kind of transformation on top of obsolete landfills, but being there to experience the idea of neutralization felt even more relevant at this moment. The park is growing slowly - the week before there was a tree planting event scheduled, which I can't tell even took place in the end. There were people working that day, and the occasional walker by. 
+It was against that background that I arrived at the park, not sure what to expect from it. There still are some waste management facilities in the vicinity: a collection point for recyclables and more. I had already heard of this kind of transformation on top of obsolete landfills, but being there to experience the idea of neutralization felt even more relevant at this moment. The park is growing slowly - the week before there was a tree planting event scheduled, which I can't tell even took place in the end. There were people working that day, and the occasional visitor. 
 
 ![Riverside Nature Park](nature-park.jpg?lightbox=1000&resize=455,455)
 ![Bench](bench.jpg?lightbox=1000&resize=455,455)
