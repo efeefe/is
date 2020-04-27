@@ -1,6 +1,6 @@
 ---
 title: 'Repair Journey - a personal diary'
-published: false
+published: true
 date: '27-04-2020 12:35'
 taxonomy:
     tag:
