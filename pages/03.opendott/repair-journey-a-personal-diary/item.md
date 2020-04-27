@@ -8,6 +8,7 @@ taxonomy:
         - bicycle
         - 'free bicycle'
         - 'repair diaries'
+hero_image: sketch-01.jpg
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 show_sidebar: false
 feed:
@@ -30,10 +31,21 @@ In preparing for this study, I have searched the internet for images of personal
 
 My own diary this time will be about a bicycle I have got for free here in Dundee. As I found it disassembled, I decided to play with that on the first page of my diary, as you can see in the images below.
 
-
+![Cover 01](cover-01.jpg?lightbox=1000&resize=455,455)
+![Cover 02](cover-02.jpg?lightbox=1000&resize=455,455)
 
 How about you? Can you start your repair diary today and show me what is the object you'll be working on?
 
 As mentioned already, feel free to contact me with any questions you have.
 
 Best regards, and I hope we have a really productive and fun experience.
+
+---
+
+**Extra:**
+
+![Screen 01](screen-01.jpg?lightbox=1000&resize=455,455)
+![Screen 02](screen-02.jpg?lightbox=1000&resize=455,455)
+
+![Sketch 01](sketch-01.jpg?lightbox=1000&resize=455,455)
+![Sketch 02](sketch-02.jpg?lightbox=1000&resize=455,455)
