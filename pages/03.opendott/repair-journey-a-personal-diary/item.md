@@ -42,7 +42,7 @@ Best regards, and I hope we have a really productive and fun experience.
 
 ---
 
-**Extra:**
+**More images:**
 
 ![Screen 01](screen-01.jpg?lightbox=1000&resize=455,455)
 ![Screen 02](screen-02.jpg?lightbox=1000&resize=455,455)
