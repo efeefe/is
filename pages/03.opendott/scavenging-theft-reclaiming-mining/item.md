@@ -1,6 +1,6 @@
 ---
 title: 'Scavenging / Theft / Reclaiming / Mining'
-published: false
+published: true
 date: '07-05-2020 10:24'
 taxonomy:
     tag:
@@ -19,3 +19,11 @@ How long is it acceptable for a good to be kept out of use? What is the threshol
 Could a bike kept outside for a month be reclaimed?
 
 How about six months, one year, more?
+
+![Whose](whose.jpg?lightbox=1000)
+
+Whose object is this?
+
+![Remains](remains.jpg?lightbox=1000)
+
+Whose object was this? Who's taking care of its remains?
