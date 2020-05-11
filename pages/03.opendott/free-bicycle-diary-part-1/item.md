@@ -10,6 +10,7 @@ taxonomy:
         - Dundee
         - 'repair dairies'
 show_sidebar: false
+hero_image: ../repair-journey-a-personal-diary/cover-01.jpg
 feed:
     limit: 10
 ---
