@@ -9,6 +9,7 @@ taxonomy:
         - theft
         - reclaiming
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: remains.jpg
 show_sidebar: false
 feed:
     limit: 10
