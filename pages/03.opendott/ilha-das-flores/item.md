@@ -2,10 +2,15 @@
 title: 'Ilha das Flores'
 media_order: 'MV5BYTM5Njg5OGQtYmIwNS00OWQyLWEwODAtMWQ1YzBiNmUzZTg1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR4,0,182,268_AL_.jpg'
 date: '23-09-2019 11:51'
+taxonomy:
+    tag:
+        - video
+        - Brazil
+        - literature
 hero_image: 'MV5BYTM5Njg5OGQtYmIwNS00OWQyLWEwODAtMWQ1YzBiNmUzZTg1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR4,0,182,268_AL_.jpg'
 show_sidebar: false
-taxonomy:
-    tag: [video, Brazil]
+feed:
+    limit: 10
 ---
 
 *It's not only because this film was made in my hometown, Porto Alegre. Or because I enjoyed attending one of its makers' classes at the University. But Ilha das Flores has impacted me from the first time I've seen it. I have used it in a couple workshops and courses, and like to think of it as a brazilian predecessor to cleaner accounts such as Annie Leonard's The Story of Stuff.* Comment added on 04/10/2019.
