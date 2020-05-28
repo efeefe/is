@@ -1,11 +1,22 @@
 ---
 title: 'Waste, Value and Reuse'
-show_sidebar: false
 date: '25-02-2020 22:41'
+taxonomy:
+    tag:
+        - waste
+        - reuse
+        - value
+        - valoriste
+        - Dundee
+        - Doha
+        - Qatar
+        - Lueneburg
+        - Nantes
+        - background
+        - insight
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: header.jpg
-taxonomy:
-    tag: [waste, reuse, value, valoriste, Dundee, Doha, Qatar, Lueneburg, Nantes]
+show_sidebar: false
 feed:
     limit: 10
 ---
