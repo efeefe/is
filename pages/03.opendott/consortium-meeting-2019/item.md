@@ -1,9 +1,15 @@
 ---
 title: 'Consortium Meeting - 2019'
 date: '17-10-2019 13:00'
-show_sidebar: false
 taxonomy:
-    tag: [meeting, consortium, insight]
+    tag:
+        - insight
+        - meeting
+        - consortium
+        - events
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 In September 2019 we had the first general meeting of the OpenDOTT consortium, with the five 
