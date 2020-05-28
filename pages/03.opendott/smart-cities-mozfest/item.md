@@ -1,9 +1,17 @@
 ---
 title: 'Smart Cities - mozfest'
 date: '17-10-2019 12:31'
-show_sidebar: false
 taxonomy:
-    tag: [sketch, career, cities, waste]
+    tag:
+        - waste
+        - cities
+        - sketch
+        - career
+        - events
+        - research
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 *Short description to circulate during [MozFest 2019](https://www.mozillafestival.org/)*
