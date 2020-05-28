@@ -1,9 +1,16 @@
 ---
 title: 'Urban Code'
 date: '14-08-2019 11:47'
-show_sidebar: false
 taxonomy:
-    tag: [book, cities, waste, trash]
+    tag:
+        - waste
+        - book
+        - cities
+        - trash
+        - literature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Anne Mikoleit, Moritz Puerckhauer. Urban Code: 100 Lessons for Understanding the City. ISBN 978-3-85676-290-2
