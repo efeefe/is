@@ -5,12 +5,13 @@ date: '17-04-2020 13:41'
 taxonomy:
     tag:
         - repair
+        - 'repair journey'
         - Dundee
         - dictionary
         - etymology
-        - 'repair journey'
         - 'repair diaries'
         - SCRAPantics
+        - background
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: repair-diaries-header.png
 show_sidebar: false
