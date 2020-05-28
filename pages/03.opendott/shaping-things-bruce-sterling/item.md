@@ -1,9 +1,15 @@
 ---
 title: 'Shaping Things - Bruce Sterling'
 date: '06-09-2019 11:53'
-show_sidebar: false
 taxonomy:
-    tag: [things, cyberpunk, book]
+    tag:
+        - book
+        - things
+        - cyberpunk
+        - lliterature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 *I found this book by chance in the DJCAD Library. Seems to be made for young design students. Just copying a couple paragraphs here in deference for the cyberpunk pioneer.* Comment added on 04/10/2019.
