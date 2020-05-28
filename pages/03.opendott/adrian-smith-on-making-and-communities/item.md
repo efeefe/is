@@ -1,6 +1,11 @@
 ---
 title: 'Adrian Smith on making and communities (WIP)'
+taxonomy:
+    tag:
+        - literature
 show_sidebar: false
+feed:
+    limit: 10
 ---
 
 ! This post is a work in progress. This warning will be removed once I'm done editing it.
