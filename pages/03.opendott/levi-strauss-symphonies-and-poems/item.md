@@ -1,9 +1,13 @@
 ---
 title: 'Levi-Strauss - symphonies and poems'
 date: '02-09-2019 11:51'
-show_sidebar: false
 taxonomy:
-    tag: [cities]
+    tag:
+        - cities
+        - literature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Claude Lévi-Strauss, *Tristes Tropiques*, 1955 (found on *Upcycle*, McDonough + Braungart):
