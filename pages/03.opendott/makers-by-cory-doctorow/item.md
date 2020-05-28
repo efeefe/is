@@ -4,6 +4,7 @@ date: '16-10-2019 14:56'
 taxonomy:
     tag:
         - making
+        - literature
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: makers-US-cover-large.jpg
 show_sidebar: false
