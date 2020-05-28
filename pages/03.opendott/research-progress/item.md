@@ -12,7 +12,7 @@ feed:
 
 An update, sketched for formal reasons:
 
-I started my research in Dundee last year writing a Career Development Plan in which I stated what were the opportunities I would be looking for in terms of learning, experimenting and seeking collaboration and exchange. Since then I have progressed in multiple aspects:
+I started my research in Dundee last year writing a [Career Development Plan](../career-development-plan) in which I stated what were the opportunities I would be looking for in terms of learning, experimenting and seeking collaboration and exchange. Since then I have progressed in multiple aspects:
 
 * Accessing literature which allowed me to circumscribe the research context and writing a first draft of what will become my literature review. That process allowed me to identify a relevant gap in current scholarship, and consequently refine my research questions in a way that at the same time relate to the wider field of knowledge and touch the issues the [OpenDoTT](https://opendott.org) project was originally conceived to cover. I position my research on smart cities with a strong emphasis on environmental and social issues, directing my attention to waste management. Particularly, I’m focusing on avoiding as much as possible the need to manage waste in the usual manner, instead trying to address the possibility of discarded materials being reused and repaired in cities and towns.
 * Attending bespoke training on design research provided by OpenDoTT consortium members [STBY](https://www.stby.eu/) and [Quicksand](http://quicksand.co.in/). The two training modules were instrumental in helping shape the two research studies I have performed at a later stage, in line with the most advanced practices in the field.
