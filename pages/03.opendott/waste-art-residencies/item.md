@@ -1,9 +1,15 @@
 ---
 title: 'Waste art residencies'
 date: '05-11-2019 11:00'
-show_sidebar: false
 taxonomy:
-    tag: [art, waste, residencies]
+    tag:
+        - waste
+        - art
+        - residencies
+        - literature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Artist residency projects involving solid waste and reuse:
