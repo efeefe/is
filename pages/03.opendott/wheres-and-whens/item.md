@@ -4,10 +4,10 @@ date: '28-03-2020 12:06'
 taxonomy:
     tag:
         - video
+        - events
         - Berlin
         - transmediale
         - networks
-        - events
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: tm2020.jpg
 show_sidebar: false
