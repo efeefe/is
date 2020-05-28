@@ -1,11 +1,21 @@
 ---
 title: 'Reparatur Festival 2019'
 date: '07-10-2019 07:34'
+taxonomy:
+    tag:
+        - repair
+        - cities
+        - reuse
+        - Berlin
+        - travel
+        - circularity
+        - conferences
+        - events
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: a-der-mond.jpg
 show_sidebar: false
-taxonomy:
-    tag: [travel, conferences, Berlin, cities, repair, reuse, circularity]
+feed:
+    limit: 10
 ---
 
 After attending the [Beyond Smart Cities Today](../beyond-smart-cities-today) conference in Rotterdam, I boarded a train
