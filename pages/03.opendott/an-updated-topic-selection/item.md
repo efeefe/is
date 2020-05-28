@@ -1,10 +1,14 @@
 ---
 title: 'An updated topic selection'
-feed:
-    limit: 10
 date: '21-10-2019 11:59'
 taxonomy:
-    tag: [career, reading]
+    tag:
+        - career
+        - reading
+        - literature
+        - research
+feed:
+    limit: 10
 ---
 
 About to complete three months since I started [my research](../), I decided to better organise my literature collection. I now have a selection of over 260 documents (papers, books, magazine articles, podcast episodes, blog posts), which are labeled with the following tags:
