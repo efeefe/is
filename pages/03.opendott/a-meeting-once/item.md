@@ -3,11 +3,12 @@ title: 'A meeting once'
 date: '05-11-2019 13:17'
 taxonomy:
     tag:
-        - meeting
+        - waste
         - 'smart city'
         - Brazil
+        - meeting
         - Campinas
-        - waste
+        - background
 show_sidebar: false
 feed:
     limit: 10
