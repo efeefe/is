@@ -1,9 +1,14 @@
 ---
 title: 'Maker City'
 date: '27-08-2019 11:52'
-show_sidebar: false
 taxonomy:
-    tag: [making, cities]
+    tag:
+        - cities
+        - making
+        - insight
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 **The city is the quintessential makerspace**
