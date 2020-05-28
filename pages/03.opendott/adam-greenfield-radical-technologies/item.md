@@ -1,9 +1,16 @@
 ---
 title: 'Adam Greenfield - Radical Technologies'
 date: '13-09-2019 11:48'
-show_sidebar: false
 taxonomy:
-    tag: [technology, book, making, fabrication]
+    tag:
+        - book
+        - fabrication
+        - making
+        - technology
+        - literature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 *My reading notes are below.*
