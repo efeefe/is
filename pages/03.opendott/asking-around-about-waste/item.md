@@ -1,9 +1,15 @@
 ---
 title: 'Asking around about waste'
 date: '17-10-2019 12:56'
-show_sidebar: false
 taxonomy:
-    tag: [social, waste, dump]
+    tag:
+        - waste
+        - social
+        - dump
+        - networking
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 During the OpenDOTT [Consortium Meeting](../consortium-meeting-2019) last month, I figured I did not 
