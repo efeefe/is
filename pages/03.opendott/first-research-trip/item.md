@@ -1,11 +1,19 @@
 ---
 title: 'My first research trip'
 date: '04-10-2019 10:46'
+taxonomy:
+    tag:
+        - cities
+        - Berlin
+        - travel
+        - lifelog
+        - Rotterdam
+        - events
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: sunset-blur.jpg
 show_sidebar: false
-taxonomy:
-    tag: [travel, cities, lifelog, Rotterdam, Berlin]
+feed:
+    limit: 10
 ---
 
 I believe it was on one of my first supervisory meetings with Nick Taylor and Mel Woods somewhere
