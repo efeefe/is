@@ -1,9 +1,13 @@
 ---
 title: 'Capitalism and its New Clothes'
 date: '16-10-2019 11:47'
-show_sidebar: false
 taxonomy:
-    tag: [capitalism]
+    tag:
+        - capitalism
+        - literature
+show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Excerpts from [Evgeny Morozov's](http://www.evgenymorozov.com/) 
