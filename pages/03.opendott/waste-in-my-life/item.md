@@ -3,9 +3,10 @@ title: 'Waste in my life'
 date: '09-01-2020 12:56'
 taxonomy:
     tag:
+        - recycling
         - 'porto alegre'
         - scraps
-        - recycling
+        - background
 show_sidebar: false
 feed:
     limit: 10
