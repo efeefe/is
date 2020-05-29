@@ -52,7 +52,7 @@ In the present state of the world, I felt like adding some extra measures for th
 
 Inspired by some of the interviews I did for my ecosystem mapping, I figured the first thing I should do was to get it cleaned up. As I tried checking the tags sewn to its side to find if they mentioned cleaning instructions at all (yes), I found interesting information. First of all, its origins. _Doudou et Compagnie_ is a French brand. The internet comes to help. Apparently, this thing has a retail price of about 20 Euro, give or take. But the value of a doll is seldom related to its price, right?
 
-![Doudou et Compagnie](doudou.jpg?lightbox=1000)
+![Doudou et Compagnie](doudou-paris.jpg?lightbox=1000)
 
 Would it belong to a French family visiting Dundee? If it was lost recently, that is unlikely as all tourism is supposedly halted due to the COVID-19 restrictions. It may be that it was lost by someone who live in Dundee. Perhaps it’s been around for longer - months being carried by the wind, dancing over hundreds of miles of Scottish landscape. Not likely, but I’m instantly reminded of the traveling gnome sending Postcards to [Amélie Poulain](https://en.wikipedia.org/wiki/Am%C3%A9lie)’s dad.
 
@@ -60,7 +60,7 @@ Would it belong to a French family visiting Dundee? If it was lost recently, tha
 
 Another thing I learnt from the tag was its name: it is called Licorne, 22cm. But then there is another tag, even more interesting to me: _si vous me trouvez, tel au N. vert_ followed by a 0800 number, apparently French. Meaning, “if you find me, please call this phone number”. On the back it has what seems to be an unique ID number for this particular doll.
 
-![Web](web.png)
+![Web](web.jpg)
 
 Not willing to make an international call in a language I’m poorly skilled at, I tried their website. Good, they have a [page for lost dolls](http://www.doudouetcompagnie.com/11-doudou-perdu). But from all I understand, it’s not possible to inform that I found a Doudou. Only to look for a missing one. That’s odd, but I sent them a message and will update this post as they reply:
 
