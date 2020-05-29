@@ -26,18 +26,21 @@ The cars stopped and I went on towards the river, mind suddenly focused on a rec
 Still riding the bike, I tried to start recording an audio note contrasting the already criticised “smart city” with a loose idea of a “generous city” I could get back to later on. As I realised the strong wind could not only interfere with the audio quality but offer the danger of making me lose balance on the bike, I decided to stop by and jot down ideas (pause to advertise the excellent open source note-taking app I use, [Joplin](https://joplinapp.org).
 
 > **Generous city**
+
 > A dancing unicorn on the sidewalk. Bike. Barcelona.
+
 > Train station
+
 > Where will it end up?
 
 I decided then to get back and observe the unicorn (not completely untouched by the symbology of unicorns in Scotland) as it was arguably eliciting interesting insights for my research. Fortunately I had my camera on me.
 
-![Kerb Unicorn](vert-01.jpg?lightbox=1000&cropResize=490,480)
-![Investigating](vert-02.jpg?lightbox=1000&cropResize=490,480)
+![Kerb Unicorn](vert-01.jpg?lightbox=1000&cropResize=500,420)
+![Investigating](vert-02.jpg?lightbox=1000&cropResize=500,420)
 
 I spent about ten minutes only watching the ballerina-dressed unicorn perform its strange dance. As anyone who lives close to large bodies of water should be aware, there is a huge chance that anything left outdoors will be carried by the wind to the nearest river and then to the ocean. 
 
-![The Unicorn dance](ballet.mp4?resize=640,480)
+![The Unicorn dance](ballet.mp4?resize=1000,750)
 
 As nobody came to retrieve it, I put it on the bike’s saddle and took it home. I was still thinking of how one could frame future cities as essentially generous ensembles that would offer gifts to citizens. I might have been impacted by recently watching - again - a video of then Brazilian Minister of Culture Gilberto Gil trying to reconcile two different perspectives about digital technologies and how they would relate to a then envisioned “gift economy”. Granted, it was 2003 and very few of us would ever dream of the ill effects of digital messaging and platform capitalism. But abundance and generosity are still part of what society should be based on, to my understanding. 
 
@@ -47,7 +50,7 @@ In the present state of the world, I felt like adding some extra measures for th
 
 ![Quarantine](quarantine.jpg?lightbox=1000)
 
-Inspired by some of the interviews I did for my ecosystem mapping, I figured the first thing I should do was to get it cleaned up. As I tried checking the tags sewn to its side to find if they mentioned cleaning instructions at all (yes), I found interesting information. First of all, its origins. //Doudou et Compagnie// is a French brand. The internet comes to help. Apparently, this thing has a retail price of about 20 Euro, give or take. But the value of a doll is seldom related to its price, right?
+Inspired by some of the interviews I did for my ecosystem mapping, I figured the first thing I should do was to get it cleaned up. As I tried checking the tags sewn to its side to find if they mentioned cleaning instructions at all (yes), I found interesting information. First of all, its origins. _Doudou et Compagnie_ is a French brand. The internet comes to help. Apparently, this thing has a retail price of about 20 Euro, give or take. But the value of a doll is seldom related to its price, right?
 
 ![Doudou et Compagnie](doudou.jpg?lightbox=1000)
 
@@ -55,7 +58,7 @@ Would it belong to a French family visiting Dundee? If it was lost recently, tha
 
 ![Doudou Perdu](perdu.jpg)
 
-Another thing I learnt from the tag was its name: it is called Licorne, 22cm. But then there is another tag, even more interesting to me: //si vous me trouvez, tel au N. vert// followed by a 0800 number, apparently French. Meaning, “if you find me, please call this phone number”. On the back it has what seems to be an unique ID number for this particular doll.
+Another thing I learnt from the tag was its name: it is called Licorne, 22cm. But then there is another tag, even more interesting to me: _si vous me trouvez, tel au N. vert_ followed by a 0800 number, apparently French. Meaning, “if you find me, please call this phone number”. On the back it has what seems to be an unique ID number for this particular doll.
 
 ![Web](web.png)
 
