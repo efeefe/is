@@ -32,12 +32,12 @@ Still riding the bike, I tried to start recording an audio note contrasting the 
 
 I decided then to get back and observe the unicorn (not completely untouched by the symbology of unicorns in Scotland) as it was arguably eliciting interesting insights for my research. Fortunately I had my camera on me.
 
-![Kerb Unicorn](vert-01.jpg?cropResize=480,480)
-![Investigating](vert-02.jpg?cropResize=480,480)
+![Kerb Unicorn](vert-01.jpg?lightbox=1000&cropResize=490,480)
+![Investigating](vert-02.jpg?lightbox=1000&cropResize=490,480)
 
 I spent about ten minutes only watching the ballerina-dressed unicorn perform its strange dance. As anyone who lives close to large bodies of water should be aware, there is a huge chance that anything left outdoors will be carried by the wind to the nearest river and then to the ocean. 
 
-![The Unicorn dance](ballet.mp4)
+![The Unicorn dance](ballet.mp4?resize=640,480)
 
 As nobody came to retrieve it, I put it on the bike’s saddle and took it home. I was still thinking of how one could frame future cities as essentially generous ensembles that would offer gifts to citizens. I might have been impacted by recently watching - again - a video of then Brazilian Minister of Culture Gilberto Gil trying to reconcile two different perspectives about digital technologies and how they would relate to a then envisioned “gift economy”. Granted, it was 2003 and very few of us would ever dream of the ill effects of digital messaging and platform capitalism. But abundance and generosity are still part of what society should be based on, to my understanding. 
 
