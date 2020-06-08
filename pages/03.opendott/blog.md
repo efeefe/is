@@ -24,4 +24,6 @@ My topic in the project is "smart cities". I am documenting here what I am readi
 		<img src="https://sites.dundee.ac.uk/opendott/wp-content/uploads/sites/107/2018/10/flag_yellow_low.jpg" align="left" width="100px" alt='EU Flag' style="padding-right:10px" /> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.
 	</div>
 
+---
+
 \* * The project started as a partnership between the [University of Dundee](https://www.dundee.ac.uk) and Mozilla Foundation and moved to Northumbria by July 2020*
