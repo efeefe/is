@@ -1,12 +1,12 @@
-name: Quark
-version: 2.0.2
-description: New Grav Default Theme
+name: efeefe
+version: 0.0.1
+description: My Quark based theme
 icon:  microchip
 author:
-  name: Team Grav
-  email: devs@getgrav.org
-  url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-theme-quark
+  name: efeefe
+  email: felipefonseca@gmail.com
+  url: https://is.efeefe.me
+homepage: https://github.com/efeefe/is
 demo: https://demo.getgrav.org/onepage-skeleton
 keywords: quark, spectre, theme, core, modern, fast, responsive, html5, css3
 bugs: https://github.com/getgrav/grav-theme-quark/issues
