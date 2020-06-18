@@ -6,9 +6,11 @@ taxonomy:
         - waste
         - 'smart city'
         - Brazil
+        - background
         - meeting
         - Campinas
-        - background
+jscomments:
+    provider: discourse
 show_sidebar: false
 feed:
     limit: 10
