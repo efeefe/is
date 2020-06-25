@@ -2,8 +2,10 @@
 
 {% block content %}
     {{ page.content|raw }}
+
+	{% if config.plugins.jscomments.enabled %}
+    {{ jscomments()|raw }}
+	{% endif %}
+
 {% endblock %}
 
-{% if config.plugins.jscomments.enabled %}
-    {{ jscomments()|raw }}
-{% endif %}
