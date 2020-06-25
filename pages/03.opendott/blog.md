@@ -1,5 +1,7 @@
 ---
 title: OpenDOTT
+jscomments:
+    active: false
 show_sidebar: false
 content:
     items:
