@@ -1,6 +1,8 @@
 ---
 title: 'am I efeefe?'
 media_order: ff-blackmirrorshades-p.jpg
+jscomments:
+    active: false
 body_classes: 'title-center title-h1h2'
 visible: true
 ---
