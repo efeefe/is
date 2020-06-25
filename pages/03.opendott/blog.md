@@ -26,4 +26,4 @@ My topic in the project is "smart cities". I am documenting here what I am readi
 
 ---
 
-\* * The project started as a partnership between the [University of Dundee](https://www.dundee.ac.uk) and [Mozilla Foundation](https://foundation.mozilla.org/en/). By mid 2020 it is migrating to the [Northumbria University](https://www.northumbria.ac.uk/)*
+\* * The project started as a partnership between the [University of Dundee](https://www.dundee.ac.uk) and [Mozilla Foundation](https://foundation.mozilla.org/en/). <br />By mid 2020 it is migrating to the [Northumbria University](https://www.northumbria.ac.uk/)*
