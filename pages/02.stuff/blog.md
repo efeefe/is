@@ -1,6 +1,8 @@
 ---
 title: Stuff
 published: true
+jscomments:
+    active: false
 body_classes: 'title-center title-h1h2'
 visible: true
 blog_url: /blog
