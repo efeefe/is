@@ -3,12 +3,14 @@ title: 'Challenging recycling'
 date: '03-06-2020 17:37'
 taxonomy:
     tag:
-        - recycling
-        - reuse
         - waste
-        - iot
-        - 'smart city'
         - research
+        - reuse
+        - 'smart city'
+        - recycling
+        - iot
+jscomments:
+    active: true
 show_sidebar: false
 feed:
     limit: 10
