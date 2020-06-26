@@ -4,10 +4,12 @@ published: true
 date: '29-05-2020 17:17'
 taxonomy:
     tag:
-        - 'generous city'
-        - 'unicorn'
-        - mapping
         - Dundee
+        - 'generous city'
+        - unicorn
+        - mapping
+jscomments:
+    active: true
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
 hero_image: unicorn.jpg
 show_sidebar: false
