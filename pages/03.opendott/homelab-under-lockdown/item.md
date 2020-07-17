@@ -19,7 +19,7 @@ feed:
     limit: 10
 ---
 
-## Head
+### Head
 
 In recent weeks I've been skimming through interview transcripts and my (copious) notes. It's a tiresome but rewarding phase of research. Things are starting to make sense, even if I feel it still is over my current grasp. As I work through, though, I find different forms of useful information coming from my participants. Sometimes confirming assumptions I already had, sometimes confronting them or redefining my sense of priority. I have already decided to go deeper in this or that aspects of my literature review to fill in perceived gaps, or to keep some topics out for the time being.
 
@@ -29,9 +29,9 @@ On tools: the notes from the _repair journey_ were added manually to a slide dec
 
 [>> More about the current state of my research](../research-progress)
 
-## Hands
+### Hands
 
-While I do enjoy being able to dedicate full time to research, there's only so much one can do within a given time span. I found my best combination to keep productive these days is to aim at 90-minute sprints looking at research outputs, interpolating with other activities. Those can be activities still related to research (for instance my attendance of the [Platform Co-ops course]) or other work tasks (admin, preparing the next steps, meetings). Or the many other things I do everyday, from childcare and cooking and cleaning to music, keeping up and interacting with the networks I'm still part of in Brazil, or just going out to walk. But I recently found something in between.
+While I do enjoy being able to dedicate full time to research, there's only so much one can do within a given time span. I found my best combination to keep productive these days is to aim at 90-minute sprints looking at research outputs, interpolating with other activities. Those can be activities still related to research (for instance my attendance of the [Platform Co-ops course](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/)) or other work tasks (admin, preparing the next steps, meetings). Or the many other things I do everyday, from childcare and cooking and cleaning to music, keeping up and interacting with the networks I'm still part of in Brazil, or just going out to walk. But I recently found something in between.
 
 For months I've been saving some objects from the bin. Very simple ones, mostly packaging and cardboard boxes that would otherwise be taken to the recycling bins. Since the lockdown measures started, I found myself collecting even more of those materials. I was probably influenced by the attempt to understand the [effects of COVID-19](https://is.efeefe.me/opendott/non-essential) in municipal waste collection and in the reuse of materials. There was no method to select which ones I kept or sent to recycling apart from getting rid of those that could be harmful as tin cans or anything made of glass.
 
