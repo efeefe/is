@@ -74,8 +74,8 @@ In the meantinme, though. The amount of materials kept growing.
 
 I decided it was time to go further in exploring the possibilities with those objects. Hot glue in hand, I assembled my son and the nine year old daughter and we started joining things together. We ended with a sort of scarecrow that could have family ties to Wall-E.
 
-![](scarecrow-02.jpg?lightbox&cropResize=480,500)
-![](scarecrow-03.jpg?lightbox&cropResize=480,500)
+![](scarecrow-02.jpg?lightbox&crop=480,500)
+![](scarecrow-03.jpg?lightbox&crop=480,500)
 
 ![](scarecrow-04.jpg?lightbox&cropResize=180,500)
 ![](scarecrow-05.jpg?lightbox&cropResize=180,500)
