@@ -77,11 +77,11 @@ I decided it was time to go further in exploring the possibilities with those ob
 ![](scarecrow-02.jpg?lightbox)
 ![](scarecrow-03.jpg?lightbox)
 
-![](scarecrow-04.jpg?lightbox)
-![](scarecrow-05.jpg?lightbox)
-![](scarecrow-06.jpg?lightbox)
-![](scarecrow-07.jpg?lightbox)
-![](scarecrow-08.jpg?lightbox)
+![](scarecrow-04.jpg?lightbox&cropResize=200,500)
+![](scarecrow-05.jpg?lightbox&cropResize=200,500)
+![](scarecrow-06.jpg?lightbox&cropResize=200,500)
+![](scarecrow-07.jpg?lightbox&cropResize=200,500)
+![](scarecrow-08.jpg?lightbox&cropResize=200,500)
 
 ![](scarecrow-01.jpg?lightbox)
 
