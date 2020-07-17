@@ -3,8 +3,6 @@ title: 'Homelab under lockdown'
 date: '17-07-2020 17:19'
 taxonomy:
     tag:
-        - Brazil
-        - MetaReciclagem
         - recycling
         - reuse
         - research
@@ -66,7 +64,7 @@ I have used some of those materials to create bespoke furniture add-ons. Bear in
 ![](phone-support-01.jpg?lightbox&cropZoom=460,500)
 ![](phone-support-02.jpg?lightbox&cropZoom=460,500)
 
-Other tools proved useful along the way. A box cutter, operated naturally by adults only. And a hot glue gun. It was as though we were putting up a mini fablab of sorts in the simulation of a city that our house became. There are also other experiments under that frame. A compost bin sealed since 11 weeks and observed often. The vacuum cleaning robot that feels like those street cleaning cars. The industrial zone in the kitchen, now added of the sourdough starter and sauerkraut factories. The dry harbour at our door through which foreign produce arrives to feed our population of three. 
+Other tools proved useful along the way. A box cutter, operated naturally by adults only. And a hot glue gun. It was as though we were setting up a mini fablab of sorts in the simulation of a city that our house became. There are also other experiments under that frame. A compost bin sealed since 11 weeks and observed often. The vacuum cleaning robot that feels like those street cleaning cars. The industrial zone in the kitchen, now added of the sourdough starter and sauerkraut factories. The dry harbour at our door through which foreign produce arrives to feed our population of three. 
 
 In the meantinme, though. The amount of materials kept growing.
  
