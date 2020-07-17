@@ -1,6 +1,6 @@
 ---
 title: 'Homelab under lockdown'
-date: '17-07-2020 22:41'
+date: '17-07-2020 17:19'
 taxonomy:
     tag:
         - Brazil
