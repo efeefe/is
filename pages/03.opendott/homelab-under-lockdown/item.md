@@ -37,34 +37,34 @@ While I do enjoy being able to dedicate full time to research, there's only so m
 
 For months I've been saving some objects from the bin. Very simple ones, mostly packaging and cardboard boxes that would otherwise be taken to the recycling bins. Since the lockdown measures started, I found myself collecting even more of those materials. I was probably influenced by the attempt to understand the [effects of COVID-19](https://is.efeefe.me/opendott/non-essential) in municipal waste collection and in the reuse of materials. There was no method to select which ones I kept or sent to recycling apart from getting rid of those that could be harmful as tin cans or anything made of glass.
 
-![](materials-01.jpg?lightbox)
+![](materials-01.jpg?lightbox&cropZoom=960,500)
 
 Over the months I've been playing with those things along with my kids. I believe the first experiment came after I worked with my five year old son to repair a cheap remote-controlled car. He had accidentally pulled off the wire that serves as an antenna. We managed to put it back together even without a soldering iron (note to research: add that to the second layer of basic tools - the first layer being screwdrivers and a plier). But we realised that without the top casing the car could be used to take the LEGO minifigures for a ride, and decided to keep it open.
 
-![](car-internals-01.jpg?lightbox&cropResize=500,500)
-![](car-internals-02.jpg?lightbox&cropResize=500,500)
+![](car-internals-01.jpg?lightbox&cropZoom=480,500)
+![](car-internals-02.jpg?lightbox&cropZoom=480,500)
 
 After some days we turned to the box full of materials and decided to create an alternative casing for the car. Scissors and adhesive in hand, and in no time we managed to turn that toy that almost got dumped into a cool working vehicle coming from a sci-fi adventure (to us, at least).
 
-![](car-top-01.jpg?lightbox&cropResize=500,500)
-![](car-top-02.jpg?lightbox&cropResize=500,500)
+![](car-top-01.jpg?lightbox&cropZoom=480,500)
+![](car-top-02.jpg?lightbox&cropZoom=480,500)
 
 I have used some of those materials to create bespoke furniture add-ons. Bear in mind, it's not only in sketching that I'm not particularly skilled in arts and crafts. Or patient. So these things don't look that good. However, they have proven useful for my particular needs, and I felt good not needing to buy more and more things that I would eventually discard as my life moves on in the coming months. So I have a laptop stand to be used in tandem with a tray-table, a monopod to hold the audio recorder or camera, a guitar stand, and a phone stand in the exact angle I needed (granted, this one was assembled out of a phone stand I bought months ago which broke in a couple of weeks).
 
-![](laptop-stand-01.jpg?lightbox&cropResize=500,500)
-![](laptop-stand-03.jpg?lightbox&cropResize=500,500)
+![](laptop-stand-01.jpg?lightbox&cropZoom=480,500)
+![](laptop-stand-03.jpg?lightbox&cropZoom=480,500)
 
-![](laptop-stand-02.jpg?lightbox&cropResize=350,500)
+![](laptop-stand-02.jpg?lightbox&cropZoom=960,500)
 
 
-![](monopod-01.jpg?lightbox)
-![](monopod-02.jpg?lightbox)
+![](monopod-01.jpg?lightbox&cropZoom=480,500)
+![](monopod-02.jpg?lightbox&cropZoom=480,500)
 
-![](guitar-stand-01.jpg?lightbox)
-![](guitar-stand-02.jpg?lightbox)
+![](guitar-stand-01.jpg?lightbox&cropZoom=480,500)
+![](guitar-stand-02.jpg?lightbox&cropZoom=480,500)
 
-![](phone-support-01.jpg?lightbox)
-![](phone-support-02.jpg?lightbox)
+![](phone-support-01.jpg?lightbox&cropZoom=480,500)
+![](phone-support-02.jpg?lightbox&cropZoom=480,500)
 
 Other tools proved useful along the way. A box cutter, operated naturally by adults only. And a hot glue gun. It was as though we were putting up a mini fablab of sorts in the simulation of a city that our house became. There are also other experiments under that frame. A compost bin sealed since 11 weeks and observed often. The vacuum cleaning robot that feels like those street cleaning cars. The industrial zone in the kitchen, now added of the sourdough starter and sauerkraut factories. The dry harbour at our door through which foreign produce arrives to feed our population of three. 
 
@@ -83,7 +83,7 @@ I decided it was time to go further in exploring the possibilities with those ob
 ![](scarecrow-07.jpg?lightbox&cropZoom=180,500)
 ![](scarecrow-08.jpg?lightbox&cropZoom=180,500)
 
-![](scarecrow-01.jpg?lightbox)
+![](scarecrow-01.jpg?lightbox&cropZoom=960,500)
 
 By no means would we have any serious artistic intent with that. But it was a good way to explore materialities with my kids and to counter those more incorporeal parts of my research work. As the thing emerged, I was obviously reconnecting with the work of friends in Brazil such as [Glauco Paiva](https://www.glaucopaiva.com.br/fotos-de-quem-participou-das-oficinas), [Mauro Alvim](https://www.flickr.com/photos/102890313@N05/10510916333/in/pool-tropixel/) and the [Gambiologia Collective](http://www.gambiologia.net/blog/).
 
