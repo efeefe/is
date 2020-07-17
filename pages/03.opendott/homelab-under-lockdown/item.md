@@ -41,19 +41,19 @@ For months I've been saving some objects from the bin. Very simple ones, mostly 
 
 Over the months I've been playing with those things along with my kids. I believe the first experiment came after I worked with my five year old son to repair a cheap remote-controlled car. He had accidentally pulled off the wire that serves as an antenna. We managed to put it back together even without a soldering iron (note to research: add that to the second layer of basic tools - the first layer being screwdrivers and a plier). But we realised that without the top casing the car could be used to take the LEGO minifigures for a ride, and decided to keep it open.
 
-![](car-internals-01.jpg?lightbox)
-![](car-internals-02.jpg?lightbox)
+![](car-internals-01.jpg?lightbox&cropResize=525,500)
+![](car-internals-02.jpg?lightbox&cropResize=525,500)
 
 After some days we turned to the box full of materials and decided to create an alternative casing for the car. Scissors and adhesive in hand, and in no time we managed to turn that toy that almost got dumped into a cool working vehicle coming from a sci-fi adventure (to us, at least).
 
-![](car-top-01.jpg?lightbox)
-![](car-top-02.jpg?lightbox)
+![](car-top-01.jpg?lightbox&cropResize=525,500)
+![](car-top-02.jpg?lightbox&cropResize=525,500)
 
 I have used some of those materials to create bespoke furniture add-ons. Bear in mind, it's not only in sketching that I'm not particularly skilled in arts and crafts. Or patient. So these things don't look that good. However, they have proven useful for my particular needs, and I felt good not needing to buy more and more things that I would eventually discard as my life moves on in the coming months. So I have a laptop stand to be used in tandem with a tray-table, a monopod to hold the audio recorder or camera, a guitar stand, and a phone stand in the exact angle I needed (granted, this one was assembled out of a phone stand I bought months ago which broke in a couple of weeks).
 
-![](laptop-stand-01.jpg?lightbox)
-![](laptop-stand-02.jpg?lightbox)
-![](laptop-stand-03.jpg?lightbox)
+![](laptop-stand-01.jpg?lightbox&cropResize=350,500)
+![](laptop-stand-02.jpg?lightbox&cropResize=350,500)
+![](laptop-stand-03.jpg?lightbox&cropResize=350,500)
 
 ![](monopod-01.jpg?lightbox)
 ![](monopod-02.jpg?lightbox)
