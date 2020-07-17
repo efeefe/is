@@ -3,14 +3,14 @@ title: 'Homelab under lockdown'
 date: '17-07-2020 17:19'
 taxonomy:
     tag:
-        - recycling
-        - reuse
-        - research
-        - appropriation
         - gambiarra
+        - corona
+        - research
+        - reuse
+        - recycling
+        - appropriation
         - bricolage
         - Dundee
-        - corona
         - gambiologia
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: header.jpg
@@ -21,7 +21,7 @@ feed:
 
 ### Head
 
-In recent weeks I've been skimming through interview transcripts and my (copious) notes. It's a tiresome but rewarding phase of research. Things are starting to make sense, even if I feel it still is over my current grasp. As I work through, though, I find different forms of useful information coming from my participants. Sometimes confirming assumptions I already had, sometimes confronting them or redefining my sense of priority. I have already decided to go deeper in this or that aspects of my literature review to fill in perceived gaps, or to keep some topics out for the time being.
+In recent weeks I've been skimming through interview transcripts and my (copious) notes. It's a tiresome but rewarding phase of research. Things are starting to make sense, even if I feel it still is over my current grasp. As I work through, though, I find different forms of useful information coming from my participants. Sometimes confirming assumptions I already had, sometimes confronting them or redefining my sense of priority. I have already decided to go deeper in this or that aspect of my literature review to fill in perceived gaps, or to keep some topics out for the time being.
 
 My personal process was to get my transcripts to a tablet where I can focus on just reading, highlighting and making notes, sometimes outdoors, at a park or by the river. Then I'm assembling those notes, on occasion coming back to the recordings or to the sticky notes I made during the interaction with participants. I have pictures of all those notes, grouped together usually in the same day of the interviews or workshops. 
 
