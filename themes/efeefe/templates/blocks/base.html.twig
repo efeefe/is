@@ -1,0 +1,8 @@
+{% block content_surround %}
+{% block content %}{% endblock %}
+
+{% if config.plugins.jscomments.enabled %}
+    {{ jscomments()|raw }}
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,25 @@
+---
+title: Notebooks
+date: '20-03-2020 22:55'
+taxonomy:
+    tag:
+        - writing
+        - notebooks
+show_sidebar: false
+feed:
+    limit: 10
+---
+
+A good friend praised me in social media one of these days. He mentioned my insistence (an obsession, one might call) in asking members of our collective projects in Brazil to always document whatever they did. It doesn’t matter how, I used to say. Even a loose paper sheet by the workbench was better than no documentation at all. I keep that advice to myself, perhaps to an extreme. 
+
+When I first arrived in Dundee I was not sure where to keep my findings. My mobile devices run android, my personal laptop is 100% Debian since years, and my University-managed work laptop is a Mac. I was never attracted by Apple’s productivity tools, but the Google suite is hard to avoid in my particular social and institutional situation. The University offers its students and staff fat accounts within the Microsoft universe. I was interested in using Zotero to organise my reading list, but Mendeley seemed to best it across diverse computing OSs. I never tried EndNote for real. I keep file folders synchronised between my computers and different cloud services - including an instance of nextcloud running off a raspberry pi in my flat. It’s all a mess, to be honest.
+
+After feeling lost for some weeks already into my research, I started getting back on track when I finally bought a cheap paper notebook. And another one the month after. During that time, I started using Joplin - a multi-platform and free/open minimalist note-taking application for some things. I eventually was given a more elaborate paper notebook that is cute and full of nudges and curiosities, but won’t stay open on a table, and I believe that simple fact kept me from using it properly. I’ve had it for more than four months and can’t finish it. I’m one of those people who starts at the first page and will fill linearly, one by one. No jumps, no tearing pages, never leaving empty spaces in between. If I am to start a new, hopefully more ergonomic notebook, I need to either finish that one or convince myself to give it up. For the time being, I’m making do with Joplin. And recording audio. And taking pictures.
+
+To be honest, I am sort of cheating on my own game (who doesn’t?). Recently I have inserted diaries on the plans for a research experiment. It may be the suppressed desire of writing my master notebook. Or just an acknowledgement of a tool I have always used, but never reflected much upon.
+
+Among the limited set of objects I left behind in Brazil is a suitcase full of old notebooks. I can’t get myself to get rid of them. I couldn’t tell for sure, but I imagine there may be about 30 of them. It may be more than one suitcase, and likely in different cities. Most of the contents must be totally useless. But there was one that I would love to have with me as my research evolves. It has notes I made during my weeks as a researcher in residence in Nantes, in 2016. Not only must it hold the notes I made while preparing to speak at a festival there, but I reckon there are many other insights, never explored, and that were never pursued. As I prepared to move to Scotland, I never stopped to consider that my research would lean so much towards waste and reuse, and that those notes whose consideration I was always postponing, could eventually become useful. 
+
+In fact, a couple weeks ago while skimming through my backup hard drives to start organising images I have used often in the last few months, I even found pictures of the first pages of that notebook. I was surprised and satisfied, as there are indeed some interesting stuff there. Unfortunately, it seems I stopped making photos after a week or so, and that notebook is somewhere in a suitcase, probably in the mountainous countryside by the Atlantic rainforest. Or in a drawer in São Paulo. I may be able to put my hands in it by the end of this year, corona allowing. Or not. Meanwhile, I’ll be working on other notebooks.
+
+Once again, I was trying to write an introductory paragraph for the transcription of a couple audio recordings I made earlier this week, and the text grew on its own. If you read this through, I thank you for your patience, and promise I still intend to edit and publish what was supposed to be the core of these postings. I hope it doesn’t come as anticlimactic. It’s only telling of my own expansive take on documenting ideas and insights: I have loose ideas on paper, digital notes on Joplin, pictures, literature references and loads of audio recordings. Ideas seem to come faster than I can document, even less make sense of them. The corona times, along with other dynamics in my personal life, seems to be making this rift wider. But I’ll be bringing more food to the table real soon (and plans for the future: I’ll be sure to write more about diaries making their way into my research, an episode I only floated upon in this piece).
