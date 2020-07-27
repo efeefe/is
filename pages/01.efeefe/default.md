@@ -15,17 +15,11 @@ In the last fifteen years I was a co-founder and leader of a number of community
 
 I have two kids. We love travelling, playing music and cooking.
 
-#### Fundraiser: Ubatuba Emergency Fund
-
-I am trying to raise funds to alleviate the impacts of COVID-19 in Ubatuba, Brazil. Please help if you can:
-
-[https://opencollective.com/ubatuba-emergency-fund](https://opencollective.com/ubatuba-emergency-fund)
-
 #### More about me
 
 - [My Stuff](../stuff)
 - [Linkedin](https://www.linkedin.com/in/felipefonseca )
-- [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (in portuguese only)
+- [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (portuguese only)
 
 #### Texts
 
