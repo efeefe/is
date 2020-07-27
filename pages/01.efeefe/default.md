@@ -32,4 +32,4 @@ I have two kids. We love travelling, playing music and cooking.
 
 I'm helping raise funds to alleviate some of the impacts of COVID-19 in Ubatuba. Please consider making a contribution:
 
-https://opencollective.com/ubatuba-emergency-fund
+[https://opencollective.com/ubatuba-emergency-fund](https://opencollective.com/ubatuba-emergency-fund)
