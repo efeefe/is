@@ -1,7 +1,11 @@
 ---
-title: 'Escolher'
+title: Escolher
 date: '01-01-2017 00:00'
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: escolher.png
 show_sidebar: false
+feed:
+    limit: 10
 ---
 
 > Texto publicado originalmente no livro [Tecnomagia](https://imotiro.org/2016/08/29/tecnomagia/) (ISBN: 978-85-66125-02-3)
