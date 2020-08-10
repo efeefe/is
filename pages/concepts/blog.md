@@ -4,6 +4,7 @@ jscomments:
     active: false
 show_sidebar: false
 published: true
+visible: false
 content:
     items:
         - '@self.children'

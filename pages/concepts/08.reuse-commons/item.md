@@ -8,7 +8,7 @@ taxonomy:
         - commons
 last_modified: true
 jscomments:
-    active: true
+    active: false
 show_sidebar: false
 feed:
     limit: 10
