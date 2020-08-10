@@ -12,6 +12,8 @@ last_modified: true
 jscomments:
     active: false
 show_sidebar: false
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: save-this-thing.png
 feed:
     limit: 10
 ---

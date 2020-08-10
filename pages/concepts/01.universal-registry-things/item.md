@@ -11,6 +11,8 @@ jscomments:
 show_sidebar: false
 feed:
     limit: 10
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+hero_image: universal-registry.png
 ---
 
 Open database
