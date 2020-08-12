@@ -5,7 +5,7 @@ class: offset-box
 features:
   - header: Universal Registry of Things
     text: ""
-    icon: fa fa-fighter-jet
+    icon: https://is.efeefe.me/images/5/7/e/9/c/57e9ca2130d0efc328f23880d2d1a1fcd515e43f-universal-registry.png
   - header: Point and reuse
     text: ""
     icon: fa fa-phone
