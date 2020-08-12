@@ -7,11 +7,9 @@
 
 {% block stylesheets %}
     {% do assets.addCss('theme://css/bricklayer.css') %}
-    {{ parent() }}
 {% endblock %}
 
 {% block javascripts %}
-    {{ parent() }}
     {% do assets.add('theme://js/bricklayer.min.js') %}
     {% do assets.add('theme://js/scopedQuerySelectorShim.min.js') %}
 {% endblock %}
