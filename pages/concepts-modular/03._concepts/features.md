@@ -1,6 +1,6 @@
 ---
-title: Homepage Highlights
-menu: Highlights
+title: Concept Ideas
+menu: Concept Ideas
 class: offset-box
 features:
   - header: Universal Registry of Things
