@@ -22,9 +22,9 @@ My topic in the project is "smart cities". I am documenting in this blog what I 
 
 ---
 
-<div class='europe'>
-		<img src="https://sites.dundee.ac.uk/opendott/wp-content/uploads/sites/107/2018/10/flag_yellow_low.jpg" align="left" width="100px" alt='EU Flag' style="padding-right:10px" /> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.
-	</div>
+<div id="europe" class="europe">
+    <img src="https://opendott.org/wp-content/uploads/2020/04/flag_yellow_low.jpg" align="left" width="70px" alt='EU Flag' style="padding-right:10px" /> <a href="https://opendott.org">This project</a> has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.
+</div>
 
 ---
 
