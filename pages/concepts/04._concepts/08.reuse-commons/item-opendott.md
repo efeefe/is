@@ -34,6 +34,6 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
  - Possibility: reward donors with credits to aqcuire other goods.
 - Community reuse initiatives - repair cafes, men's sheds, charity shops, *ressourceries*, clothes swaps, zero waste projects,
 - Repair/reuse services - SMEs and social enterprises making their services known. Smartphone and Laptop repairs, tailors, bike shops, automobile maintenance,
-- Upcyling / Antique / Design shops
+- Upcycling / Antique / Design shops
 - FabLabs / Makerspaces
 - Council / Local Authority - reuse cabins, large item collection, house clearances, renovations of schools and public buildings,
