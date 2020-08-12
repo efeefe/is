@@ -24,7 +24,7 @@ Collective stewardship of post-consumption materials.
 
 ![Reuse Commons](reuse-commons-hz.png)
 
-Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, redistribution projects), tracking of donations.
+Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, redistribution projects), tracking of donations. 
 
 ### Potential members
 
