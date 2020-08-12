@@ -19,7 +19,7 @@ content:
     pagination: true
     url_taxonomy_filters: true
 feed:
-    limit: 10
+  limit: 10
 ---
 
 ## My Stuff
