@@ -31,6 +31,8 @@ I have sketched eight concept ideas, listed below and further detailed in indivi
 
 More information about my research focus can be found [here](../opendott/focus).
 
+![](header-horiz.jpg)
+
 ## Design Concepts
 
 These are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how it can relate to smart city projects. They can be grouped in threte main categories:
