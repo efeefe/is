@@ -8,14 +8,13 @@ visible: false
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
-show_pagination: true
 content:
     items:
         - '@self.children'
     limit: 15
     order:
         by: date
-        dir: desc
+        dir: asc
     pagination: true
     url_taxonomy_filters: true
 feed:
@@ -23,57 +22,90 @@ feed:
 ---
 
 # OpenDoTT
-## Smart Cities | Waste Avoidance
+## Waste Avoidance in Smart Cities
 
-At the time of publishing this page (August 2020), I am working on design concepts that respond to data collected during this [first year of work](../opendott/research-progress).
+I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to data collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
-I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts will exthree pand or contract as my research evolves over time.
+I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will expand or contract as my research evolves over time.
 
-More information about my research focus can be found [here](../opendott/focus).
+More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
 
-![](header-horiz.jpg)
+<a id="design-concepts">![](header-horiz.jpg)</a>
 
 ## Design Concepts
 
-These are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how it can relate to smart city projects. They can be grouped in threte main categories:
+These are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how that field should relate to smart city projects. These ideas are not meant to be radically new; should rather contribute to build a systemic, commons based approach that allows society as a whole to benefit from the potential value that lies on secondary flows of matter.
 
-<div class="columns">
+The concepts can be grouped in three main categories:
+
+<div class="columns" style="text-align: center; margin-bottom: 10px;">
 
   <div class="column col-4 col-md-6 col-sm-12">
-    <h4 class="card-header">
+    <h4>
       Apps/Websites/Databases
     </h4>
-    <div class="card-body">
+    <div>
       <ul>
-        <li>Universal Registry of Things</li>
-        <li>Point and Reuse</li>
-        <li>Save this Thing</li>
+        <li>
+          <a href="concepts/universal-registry-things">
+          Universal Registry of Things
+          </a>
+        </li>
+        <li>
+          <a href="concepts/point-reuse">
+          Point and Reuse
+          </a>
+        </li>
+        <li>
+          <a href="concepts/save-this-thing">
+          Save this Thing
+          </a>
+        </li>
     </div>
   </div>
-
   <div class="column col-4 col-md-6 col-sm-12">
-    <h4 class="card-header">
+    <h4>
       Data/Visibility
     </h4>
-    <div class="card-body">
+    <div>
       <ul>
-        <li>Make Waste Visible</li>
-        <li>Data on Reuse</li>
+        <li>
+          <a href="concepts/make-waste-visible">
+          Make Waste Visible
+          </a>
+        </li>
+        <li>
+          <a href="concepts/data-reuse">
+          Data on Reuse
+          </a>
+        </li>
     </div>
   </div>
 
   <div class="column col-4 col-md-6 col-sm-12">
-    <h4 class="card-header">
+    <h4>
       Reuse in the City
     </h4>
-    <div class="card-body">
+    <div>
       <ul>
-        <li>Reuse Commons</li>
-        <li>Transformation Lab</li>
-        <li>Reuse Bin</li>
+        <li>
+          <a href="concepts/reuse-commons">
+          Reuse Commons
+          </a>
+        </li>
+        <li>
+          <a href="concepts/transformation-lab">
+          Transformation Lab
+          </a>
+        </li>
+        <li>
+          <a href="concepts/reuse-bin">
+          Reuse Bin
+          </a>
+        </li>
     </div>
   </div>
 
 </div>
 
-Right now I am expecting to gather feedback on those concepts in order to verify their relevance and prioritise further phases of development.
+Right now I am expecting to gather feedback on those concepts in order to verify their relevance and prioritise further phases of development. Please send your comments to my email (if you have it already) or use this one: 5wbi948e9@relay.firefox.com.
