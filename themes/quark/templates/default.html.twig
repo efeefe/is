@@ -3,7 +3,3 @@
 {% block content %}
     {{ page.content|raw }}
 {% endblock %}
-
-{% if config.plugins.jscomments.enabled %}
-    {{ jscomments()|raw }}
-{% endif %}
