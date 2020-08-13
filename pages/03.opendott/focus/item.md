@@ -1,7 +1,7 @@
 ---
 title: 'Focus'
-taxonomy:
 date: '13-08-2020 01:10'
+taxonomy:
     tag:
         - research
         - update
