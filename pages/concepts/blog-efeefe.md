@@ -35,9 +35,9 @@ More information about my research focus can be found [here](../opendott/focus).
 
 These are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how it can relate to smart city projects. They can be grouped in threte main categories:
 
-<div class="card-deck">
+<div class="columns">
 
-  <div class="card">
+  <div class="column col-4 col-md-6 col-sm-12">
     <h4 class="card-header">
       Apps/Websites/Databases
     </h4>
@@ -49,7 +49,7 @@ These are responses to issues and insights identified while exploring the idea o
     </div>
   </div>
 
-  <div class="card">
+  <div class="column col-4 col-md-6 col-sm-12">
     <h4 class="card-header">
       Data/Visibility
     </h4>
@@ -60,7 +60,7 @@ These are responses to issues and insights identified while exploring the idea o
     </div>
   </div>
 
-  <div class="card">
+  <div class="column col-4 col-md-6 col-sm-12">
     <h4 class="card-header">
       Reuse in the City
     </h4>
