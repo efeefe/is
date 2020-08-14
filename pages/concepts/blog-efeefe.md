@@ -18,13 +18,13 @@ content:
     pagination: true
     url_taxonomy_filters: true
 feed:
-  limit: 10
+    limit: 10
 ---
 
 # OpenDoTT
 ## Waste Avoidance in Smart Cities
 
-I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to data collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
+I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to insights on data collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
 I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will expand or contract as my research evolves over time.
 
