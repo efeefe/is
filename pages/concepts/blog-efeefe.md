@@ -26,7 +26,9 @@ feed:
 
 I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to insights on data collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
-I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will expand or contract as my research evolves over time.
+I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time. 
+
+I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternativelye, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
 More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
 
@@ -107,5 +109,3 @@ The concepts can be grouped in three main categories:
   </div>
 
 </div>
-
-Right now I am expecting to gather feedback on those concepts in order to verify their relevance and prioritise further phases of development. Please send your comments to my email (if you have it already) or use this one: 5wbi948e9@relay.firefox.com.
