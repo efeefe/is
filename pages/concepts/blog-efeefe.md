@@ -109,3 +109,5 @@ The concepts can be grouped in three main categories:
   </div>
 
 </div>
+
+## More details
