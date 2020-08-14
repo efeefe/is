@@ -28,7 +28,7 @@ I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://ww
 
 I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time. 
 
-I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternativelye, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
+I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
 More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
 
@@ -36,7 +36,7 @@ More information about my research focus can be found [here](../opendott/focus) 
 
 ## Design Concepts
 
-These are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how that field should relate to smart city projects. These ideas are not meant to be radically new; should rather contribute to build a systemic, commons based approach that allows society as a whole to benefit from the potential value that lies on secondary flows of matter.
+The ideas below are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how those kinds of initiatives are largely absent from smart city projects. These ideas are not meant to be radically new; should rather contribute to build a systemic, commons based approach that allows society as a whole to benefit from the potential value that lies on secondary flows of matter.
 
 The concepts can be grouped in three main categories:
 
