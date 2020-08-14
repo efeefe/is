@@ -36,7 +36,7 @@ More information about my research focus can be found [here](../opendott/focus) 
 
 ## Design Concepts
 
-The ideas below are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how those kinds of initiatives are largely absent from smart city projects. These ideas are not meant to be radically new; should rather contribute to build a systemic, commons based approach that allows society as a whole to benefit from the potential value that lies on secondary flows of matter.
+The ideas below are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how those kinds of initiatives are largely absent from smart city projects. These ideas are not meant to be radically new. Rather, the intention is contributing to build a systemic, commons-based approach that allows society as a whole to benefit from the potential value that lies on secondary flows of matter.
 
 The concepts can be grouped in three main categories:
 
