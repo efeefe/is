@@ -32,7 +32,7 @@ I am expecting to gather feedback on those concepts in order to understand their
 
 More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
 
-<a id="design-concepts">![](header-horiz.jpg)</a>
+<a id="design-concepts">![](header-concepts.png)</a>
 
 ## Design Concepts
 
