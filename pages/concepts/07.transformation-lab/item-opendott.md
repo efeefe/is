@@ -25,3 +25,22 @@ Urban infrastructure for reuse / upcycling of materials.
 ---
 
 Plans for setting up urban infrastructure for reuse / upcycling of materials. Recommendation of equipment, data sources and processes. Assemble and create new devices allowing the reuse of materials.
+
+### Description
+
+### Open Questions
+
+### Sketches
+
+### Target Groups
+
+- Citizen / Household
+- Professional Repair
+- Community Reuse
+- Council / Local Authority
+
+### Supporting Research Data
+
+### References
+
+### Images used on this page

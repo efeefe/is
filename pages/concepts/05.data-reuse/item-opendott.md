@@ -25,4 +25,23 @@ Data about different kinds of reuse of materials in urban environments.
 
 Integrate and make available  data about different kinds of reuse of materials in urban environments, including household, community and local initiatives.
 
+### Description
+
+### Open Questions
+
+### Sketches
+
+### Target Groups
+
+- Citizen / Household
+- Professional Repair
+- Community Reuse
+- Council / Local Authority
+
+### Supporting Research Data
+
+### References
+
+### Images used on this page
+
 Image:own + https://unsplash.com/photos/gcgves5H_Ac

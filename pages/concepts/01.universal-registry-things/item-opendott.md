@@ -5,6 +5,7 @@ taxonomy:
     tag:
         - registry
         - dataset
+        - evaluating
 jscomments:
     active: false
 last_modified: true
@@ -19,13 +20,16 @@ hero_image: universal-registry.png
 
 An open database collecting and making available different data about objects, in order to support the reuse (repair, upcycling) and help evaluate the potential of objects for secondary markets.
 
+===
+
 Examples of data to be listed:
 
 * Manufacturer
 * Versions
+* Price of object offered online (new/used)
 * Materials
 * Service manuals
-* Parts 
+* Parts
 * Repair tools
 * Tutorials of repair and upcyling
 * Examples of reuse
@@ -34,7 +38,7 @@ Examples of data to be listed:
 ### Open questions
 
 * Who is responsible for maintaining the database? One organisation? A consortium of interested parties?
-* Is it relevant to set it up as a blockchain?
+* Is it relevant to set it up as a blockchain? Or a decentralised database / open protocol?
 * What are the risks involved? Copyright infingement, restricted materials etc.
 
 ### Sketches
@@ -68,4 +72,4 @@ Examples of data to be listed:
 
 #### Images used on this page
 
-- Disassembled Xbox Controller by [Sean Whelan](https://unsplash.com/photos/NG_a-z0ScM0).
+- Disassembled Xbox Controller by [Sean Whelan / Unsplash](https://unsplash.com/photos/NG_a-z0ScM0).

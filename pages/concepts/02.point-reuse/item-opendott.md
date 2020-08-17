@@ -6,6 +6,7 @@ taxonomy:
         - app
         - registry
         - 'computer vision'
+        - evaluating
 jscomments:
     active: false
 last_modified: true
@@ -18,10 +19,17 @@ feed:
 
 ### Description
 
+An  web app / native mobile app that allows users to take a picture of any object and match it against the [Universal Registry of Things](../universal-registry-things).
 
-App / Website
+===
 
-Allows users to quickly evaluate the potential value of an object.
+The app allows citizens, members of zero waste initiatives, repair professionals or anyone interested to quickly evaluate the potential value of an object, and find information on how to reuse it.
+
+Functionalities:
+
+* Make/upload picture -> server-side computer vision
+* Browse by brand or type
+* Search
 
 ### Open Questions
 
@@ -29,10 +37,37 @@ Allows users to quickly evaluate the potential value of an object.
 
 ### Target Groups
 
----
+- **Citizen / Household**
+- **Professional Repair**
+- **Community Reuse**
+- ~Council / Local Authority~
 
-Allows citizens, members of zero waste initiatives, repair professionals or anyone interested to quickly evaluate the potential value of an object.
+### Supporting Research Data
 
-Upload picture, browse by brand or type, search.
+### References
 
-Image: https://unsplash.com/photos/ggZuL3BTSJU
+#### Plant identification apps
+
+A list [here](https://youhadmeatgardening.com/best-plant-identification-app/):
+
+Top free plant identification app picks
+
+1. PlantNet
+1. iNaturalist
+1. PlantSnap
+
+Paid plant identification app picks
+
+1. PictureThis
+1. FlowerChecker
+1. Garden Compass
+
+Other plant identification app picks
+
+1. Agrobase
+1. Plantix
+1. What’s That Flower
+
+### Images used on this page
+
+* Mobile Camera by [SHTTEFAN / Unsplash](https://unsplash.com/photos/ggZuL3BTSJU)

@@ -18,12 +18,38 @@ feed:
     limit: 10
 ---
 
-App / Website
+App / website with a geo-referenced open directory of reuse alternatives and user evaluation / reputation system.
 
-Geo-referenced open directory of reuse alternatives with user evaluation / reputation system.
+===
 
----
+### Description
 
-Geo-referenced and user evaluated open directory of repair professionals, zero waste initiatives (community repair, upcycling, swap shops, etc), craftspeople, hardware stores, makerspaces, charity shops, recycling points, etc.
+Geo-referenced and user evaluated open directory of repair professionals, zero waste initiatives (community repair, upcycling, swap shops, etc), craftspeople, hardware stores, maker spaces, charity shops, recycling points, etc.
+
+### Open Questions
+
+### Sketches
+
+### Target Groups
+
+- **Citizen / Household**
+- ~Professional Repair~
+- ~Community Reuse~
+- ~Council / Local Authority~
+
+### Supporting Research Data
+
+> "It’s knowing where to look for people that you can in some way trust with your device or item"
+
+### References
+
+#### Make.Works
+
+> Use Make Works to source local fabricators, material suppliers & workshop facilities.
+
+[make.works](https://make.works/)
+
+### Images used on this page
+
 
 Image https://unsplash.com/photos/aHZF4sz0YNw

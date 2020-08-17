@@ -37,3 +37,22 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 - Upcycling / Antique / Design shops
 - FabLabs / Makerspaces
 - Council / Local Authority - reuse cabins, large item collection, house clearances, renovations of schools and public buildings,
+
+### Description
+
+### Open Questions
+
+### Sketches
+
+### Target Groups
+
+- Citizen / Household
+- Professional Repair
+- Community Reuse
+- Council / Local Authority
+
+### Supporting Research Data
+
+### References
+
+### Images used on this page
