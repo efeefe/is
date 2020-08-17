@@ -17,9 +17,9 @@ hero_image: universal-registry.png
 
 ### Description
 
-An open database collecting and making available different data about objects, in order to aid reuse (repair, upcycling, secondary market).
+An open database collecting and making available different data about objects, in order to aid reuse (repair, upcycling) and evaluate objects for secondary markets.
 
-Examples of data do be listed:
+Examples of data to be listed:
 
 * Unique Identifier
 * Manufacturer
@@ -29,7 +29,19 @@ Examples of data do be listed:
 * Parts and tools
 * Repair tutorials
 * Examples of reuse
- 
+
+### Sketches
+
+### Targeting
+
+- Citizen / Household
+- Professional repair
+- Community reuse
+
+### Research Data
+
+> "to be honest, eBay has been probably the main way of valuing stock. You can type in the specs of a laptop into eBay, you can click on sold listings, and you can see what a similar type product has sold for over the last week or month."
+
 ### References
 
 #### IFIXIT Repair Guide
