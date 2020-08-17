@@ -17,18 +17,19 @@ hero_image: universal-registry.png
 
 ### Description
 
-An open database collecting and making available different data about objects, in order to aid reuse (repair, upcycling) and evaluate objects for secondary markets.
+An open database collecting and making available different data about objects, in order to support the reuse (repair, upcycling) and help evaluate the potential of objects for secondary markets.
 
 Examples of data to be listed:
 
-* Unique Identifier
 * Manufacturer
 * Versions
 * Materials
 * Service manuals
-* Parts and tools
-* Repair tutorials
+* Parts 
+* Repair tools
+* Tutorials of repair and upcyling
 * Examples of reuse
+* How to dispose of
 
 ### Open questions
 
