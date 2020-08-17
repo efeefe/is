@@ -17,11 +17,11 @@ feed:
     limit: 10
 ---
 
-### Description
-
 An  web app / native mobile app that allows users to take a picture of any object and match it against the [Universal Registry of Things](../universal-registry-things).
 
 ===
+
+### Description
 
 The app allows citizens, members of zero waste initiatives, repair professionals or anyone interested to quickly evaluate the potential value of an object, and find information on how to reuse it.
 

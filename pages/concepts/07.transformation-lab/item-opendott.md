@@ -18,15 +18,13 @@ feed:
     limit: 10
 ---
 
-Blueprint
+Blueprint of urban infrastructure for reuse / upcycling of materials.
 
-Urban infrastructure for reuse / upcycling of materials.
-
----
-
-Plans for setting up urban infrastructure for reuse / upcycling of materials. Recommendation of equipment, data sources and processes. Assemble and create new devices allowing the reuse of materials.
+===
 
 ### Description
+
+Plans for setting up urban infrastructure for reuse / upcycling of materials. Recommendation of equipment, data sources and processes. Assemble and create new devices allowing the reuse of materials.
 
 ### Open Questions
 

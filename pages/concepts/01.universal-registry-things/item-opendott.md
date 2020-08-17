@@ -16,11 +16,11 @@ hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: universal-registry.png
 ---
 
-### Description
-
 An open database collecting and making available different data about objects, in order to support the reuse (repair, upcycling) and help evaluate the potential of objects for secondary markets.
 
 ===
+
+### Description
 
 Examples of data to be listed:
 

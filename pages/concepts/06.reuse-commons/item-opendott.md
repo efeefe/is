@@ -16,17 +16,17 @@ feed:
     limit: 10
 ---
 
-*Urban Service*
-
 Collective stewardship of post-consumption materials.
 
 ===
+
+### Description
 
 ![Reuse Commons](reuse-commons-hz.png)
 
 Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, redistribution projects), tracking of donations.
 
-### Potential members
+#### Potential members
 
 - Citizens / households
  - Donating / Selling goods to the commons and being able to track their destination / social impact.
@@ -37,8 +37,6 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 - Upcycling / Antique / Design shops
 - FabLabs / Makerspaces
 - Council / Local Authority - reuse cabins, large item collection, house clearances, renovations of schools and public buildings,
-
-### Description
 
 ### Open Questions
 

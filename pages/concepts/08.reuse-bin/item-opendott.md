@@ -17,16 +17,13 @@ feed:
     limit: 10
 ---
 
-Urban Service
+Track your donations throughout
 
-Track your donations
-
----
-
-Kerbside bins that allow citizens to donate unused objects. The equipment generates a tracking code that allows donors to learn where the objects are directed to, what is made of it and the social/economic impacts they have.
-
+===
 
 ### Description
+
+Kerbside bins that allow citizens to donate unused objects. The equipment generates a tracking code that allows donors to learn where the objects are directed to, what is made of it and the social/economic impacts they have.
 
 ### Open Questions
 
@@ -47,6 +44,6 @@ Kerbside bins that allow citizens to donate unused objects. The equipment genera
 
 https://unsplash.com/photos/rfEMsSggimc
 
-https://unsplash.com/photos/UOWAsztvBa0 vermelho
+https://unsplash.com/photos/UOWAsztvBa0
 
-https://unsplash.com/photos/vP3G46hrjno bin
+https://unsplash.com/photos/vP3G46hrjno 

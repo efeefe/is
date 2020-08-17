@@ -16,16 +16,13 @@ feed:
     limit: 10
 ---
 
-Open Dataset
+Open Dataset about different kinds of reuse of materials in urban environments.
 
-Data about different kinds of reuse of materials in urban environments.
-
-
----
-
-Integrate and make available  data about different kinds of reuse of materials in urban environments, including household, community and local initiatives.
+===
 
 ### Description
+
+Integrate and make available  data about different kinds of reuse of materials in urban environments, including household, community and local initiatives.
 
 ### Open Questions
 
@@ -33,10 +30,10 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 ### Target Groups
 
-- Citizen / Household
-- Professional Repair
-- Community Reuse
-- Council / Local Authority
+- **Council / Local Authority**
+- **Community Reuse**
+- ~Citizen / Household~
+- ~Professional Repair~
 
 ### Supporting Research Data
 
@@ -44,4 +41,4 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 ### Images used on this page
 
-Image:own + https://unsplash.com/photos/gcgves5H_Ac
+- Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)
