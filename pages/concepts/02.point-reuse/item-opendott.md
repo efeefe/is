@@ -4,11 +4,11 @@ published: true
 taxonomy:
     tag:
         - app
-        - computer vision
         - registry
-last_modified: true
+        - 'computer vision'
 jscomments:
     active: false
+last_modified: true
 show_sidebar: false
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: point-reuse.png
@@ -16,9 +16,18 @@ feed:
     limit: 10
 ---
 
+### Description
+
+
 App / Website
 
 Allows users to quickly evaluate the potential value of an object.
+
+### Open Questions
+
+### Sketches
+
+### Target Groups
 
 ---
 
