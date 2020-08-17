@@ -24,13 +24,28 @@ feed:
 # OpenDoTT
 ## Waste Avoidance in Smart Cities
 
-I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to insights on data collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
+I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to insights on [data](#research-data) collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
-I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time. 
+I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time.
 
 I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
 More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
+
+<a id="research-data"></a>
+
+## Research data
+
+The concepts are mainly based on data coming from two research studies:
+
+- [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
+- [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people working on the reuse or re-circulation of second-hand goods were interviewed in order to compose an overview of the field.
+
+Other contributions to the concept ideas came from:
+
+- My ongoing literature review - part of it documented in the [research blog](../opendott).
+- Previous experience in other projects on reuse and maintenance.
+- Attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/).
 
 <a id="design-concepts">![](header-concepts.png)</a>
 
