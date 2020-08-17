@@ -47,6 +47,21 @@ Other contributions to the concept ideas came from:
 - Previous experience in other projects on reuse and maintenance.
 - Attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/).
 
+### Target groups
+
+Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research:
+
+- Citizen
+ - Individual/household who has broken or unwanted things.
+ - Individual/household who is interested in acquiring affordable things.
+- Community
+ - Group or organisation willing to generate income for community members
+ - Volunteer group or not-for-profit organisation in charge of repair cafes, clothes swaps and other zero-waste projects.
+- Professional Reuse
+ - Social enterprises or SMEs working on the selection, transformation and redistribution of second-hand materials.
+- Local Authority
+ - City council or similar local government body looking into social, environmental and economic benefits of encouraging the reuse of materials.
+
 <a id="design-concepts">![](header-concepts.png)</a>
 
 ## Design Concepts
