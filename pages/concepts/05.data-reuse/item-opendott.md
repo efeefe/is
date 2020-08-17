@@ -39,6 +39,12 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 ### References
 
+#### Repair dataset
+
+> The Restart Project, on behalf of the (Open Repair) Alliance, led on collecting updated versions of all datasets and combining them. This involved preparing them for aggregation, separating data about non-electrical products collected by some of the partners, and finally publishing the combined dataset as well as the individual sets from all partners.
+
+[openrepair.org/repair-data](https://openrepair.org/repair-data/)
+
 ### Images used on this page
 
 - Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)
