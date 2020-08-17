@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-An  web app / native mobile app that allows users to take a picture of any object and match it against the [Universal Registry of Things](../universal-registry-things).
+A web app / native mobile app that allows users to take a picture of any object and match it against the [Universal Registry of Things](../universal-registry-things).
 
 ===
 
@@ -35,12 +35,12 @@ Functionalities:
 
 ### Sketches
 
-### Target Groups
+### Main target groups
 
 - **Citizen / Household**
-- **Professional Repair**
 - **Community Reuse**
-- ~Council / Local Authority~
+- **Professional Repair**
+- ~~Council / Local Authority~~
 
 ### Supporting Research Data
 

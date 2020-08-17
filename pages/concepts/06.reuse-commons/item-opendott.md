@@ -44,10 +44,10 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 
 ### Target Groups
 
-- Citizen / Household
-- Professional Repair
-- Community Reuse
-- Council / Local Authority
+- **Citizen / Household**
+- **Professional Repair**
+- **Community Reuse**
+- **Council / Local Authority**
 
 ### Supporting Research Data
 

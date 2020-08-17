@@ -32,8 +32,8 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 - **Council / Local Authority**
 - **Community Reuse**
-- ~Citizen / Household~
-- ~Professional Repair~
+- ~~Citizen / Household~~
+- ~~Professional Repair~~
 
 ### Supporting Research Data
 

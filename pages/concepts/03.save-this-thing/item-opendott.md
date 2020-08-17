@@ -18,7 +18,7 @@ feed:
     limit: 10
 ---
 
-App / website with a geo-referenced open directory of reuse alternatives and user evaluation / reputation system.
+An app / website with a geo-referenced open directory of shops, professionals and groups that offer alternatives to reuse materials.
 
 ===
 
@@ -30,12 +30,12 @@ Geo-referenced and user evaluated open directory of repair professionals, zero w
 
 ### Sketches
 
-### Target Groups
+### Main target groups
 
 - **Citizen / Household**
-- ~Professional Repair~
-- ~Community Reuse~
-- ~Council / Local Authority~
+- **Professional Repair**
+- **Community Reuse**
+- ~~Council / Local Authority~~
 
 ### Supporting Research Data
 
@@ -51,5 +51,4 @@ Geo-referenced and user evaluated open directory of repair professionals, zero w
 
 ### Images used on this page
 
-
-Image https://unsplash.com/photos/aHZF4sz0YNw
+Map by [Waldemar Brandt Unsplash](https://unsplash.com/photos/aHZF4sz0YNw).

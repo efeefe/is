@@ -24,13 +24,13 @@ feed:
 # OpenDoTT
 ## Waste Avoidance in Smart Cities
 
-I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I am working on [design concepts](#design-concepts) that respond to insights on [data](#research-data) collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
+I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I'm working on [design concepts](#design-concepts) that respond to insights on [data](#research-data) collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
 I have sketched eight concept ideas, listed below and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time.
 
 I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
-More information about my research focus can be found [here](../opendott/focus) and in my [research blog](../opendott).
+More information about my research focus can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
 
 <a id="research-data"></a>
 
@@ -41,26 +41,64 @@ The concepts are mainly based on data coming from two research studies:
 - [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
 - [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people working on the reuse or re-circulation of second-hand goods were interviewed in order to compose an overview of the field.
 
-Other contributions to the concept ideas came from:
+Other contributions to the concept ideas come from:
 
 - My ongoing literature review - part of it documented in the [research blog](../opendott).
-- Previous experience in other projects on reuse and maintenance.
-- Attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/).
+- Previous experience in other projects about reuse and maintenance.
+- My recent attendance at online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/) and discussions with colleagues in those courses.
+- Participation in events such as [Fixfest UK](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6) and [others](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6)
 
 ### Target groups
 
 Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research:
 
-- Citizen
- - Individual/household who has broken or unwanted things.
- - Individual/household who is interested in acquiring affordable things.
-- Community
- - Group or organisation willing to generate income for community members
- - Volunteer group or not-for-profit organisation in charge of repair cafes, clothes swaps and other zero-waste projects.
-- Professional Reuse
- - Social enterprises or SMEs working on the selection, transformation and redistribution of second-hand materials.
-- Local Authority
- - City council or similar local government body looking into social, environmental and economic benefits of encouraging the reuse of materials.
+<div class="columns ">
+  <div class="column col-6 col-sm-12">
+  <div class="card">
+    <h4 class="card-body">
+      Citizen
+    </h4>
+    <p class="card-body">
+     - Individual/household who has broken or unwanted things.
+    </p>
+    <p class="card-body">
+     - Individual/household who is interested in acquiring affordable things.
+    </p>
+  </div>
+  <div class="card">
+    <h4 class="card-body">
+      Community
+    </h4>
+    <p class="card-body">
+     - Group or organisation willing to generate income for community members.
+    </p>
+    <p class="card-body">
+     - Volunteer group or not-for-profit organisation in charge of repair cafes, clothes swaps and other zero-waste projects.
+    </p>
+    </div>
+  </div>
+  <div class="column col-6 col-sm-12">
+  <div class="card">
+    <h4 class="card-body">
+      Professional Reuse
+    </h4>
+    <p class="card-body">
+     - Social enterprises working on the selection, transformation and redistribution of second-hand materials.
+    </p>
+    <p class="card-body">
+    - Professional workshops dedicated to repair, maintenance, customization and upcycling of used objects.
+    </p>
+  </div>
+  <div class="card">
+    <h4 class="card-body">
+      Public Sector
+    </h4>
+    <p class="card-body">
+     - City council or similar official government body looking into social, environmental and economic benefits of encouraging the reuse of materials at a local scale.
+    </p>
+    </div>
+  </div>
+</div>
 
 <a id="design-concepts">![](header-concepts.png)</a>
 
@@ -72,7 +110,7 @@ The concepts can be grouped in three main categories:
 
 <div class="columns" style="text-align: center; margin-bottom: 10px;">
 
-  <div class="column col-4 col-md-6 col-sm-12">
+  <div class="column col-4 col-md-6 col-sm-12 card">
     <h4>
       Apps/Websites/Databases
     </h4>
@@ -95,7 +133,7 @@ The concepts can be grouped in three main categories:
         </li>
     </div>
   </div>
-  <div class="column col-4 col-md-6 col-sm-12">
+  <div class="column col-4 col-md-6 col-sm-12 card">
     <h4>
       Data/Visibility
     </h4>
@@ -114,7 +152,7 @@ The concepts can be grouped in three main categories:
     </div>
   </div>
 
-  <div class="column col-4 col-md-6 col-sm-12">
+  <div class="column col-4 col-md-6 col-sm-12 card">
     <h4>
       Reuse in the City
     </h4>

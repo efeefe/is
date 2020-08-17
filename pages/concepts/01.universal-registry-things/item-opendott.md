@@ -24,26 +24,26 @@ An open database collecting and making available different data about objects, i
 
 Examples of data to be listed:
 
-* Manufacturer
-* Versions
-* Price of object offered online (new/used)
-* Materials
-* Service manuals
-* Parts
-* Repair tools
-* Tutorials of repair and upcyling
-* Examples of reuse
-* How to dispose of
+* Manufacturer, support, end-of-life;
+* Versions and official recalls;
+* Price of object offered online (new/used);
+* Materials;
+* Service manuals;
+* Parts;
+* Repair tools;
+* Tutorials of repair and upcyling;
+* Examples of reuse;
+* How to dispose of.
 
 ### Open questions
 
-* Who is responsible for maintaining the database? One organisation? A consortium of interested parties?
+* Who is responsible for maintaining the database? Is it an organisation? A consortium of interested parties?
 * Is it relevant to set it up as a blockchain? Or a decentralised database / open protocol?
 * What are the risks involved? Copyright infingement, restricted materials etc.
 
 ### Sketches
 
-### Target groups
+### Main target groups
 
 - **Citizen / Household**
 - **Professional Repair**

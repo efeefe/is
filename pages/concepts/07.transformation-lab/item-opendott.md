@@ -32,10 +32,11 @@ Plans for setting up urban infrastructure for reuse / upcycling of materials. Re
 
 ### Target Groups
 
-- Citizen / Household
-- Professional Repair
-- Community Reuse
-- Council / Local Authority
+- [x] Community Reuse
+- [ ] Council / Local Authority
+- [ ] Citizen / Household
+- [ ] Professional Repair
+
 
 ### Supporting Research Data
 
