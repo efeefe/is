@@ -30,15 +30,22 @@ Examples of data to be listed:
 * Repair tutorials
 * Examples of reuse
 
+### Open questions
+
+* Who is responsible for maintaining the database? One organisation? A consortium of interested parties?
+* Is it relevant to set it up as a blockchain?
+* What are the risks involved? Copyright infingement, restricted materials etc.
+
 ### Sketches
 
-### Targeting
+### Target groups
 
-- Citizen / Household
-- Professional repair
-- Community reuse
+- **Citizen / Household**
+- **Professional Repair**
+- **Community Reuse**
+- ~~Council / Local Authority~~
 
-### Research Data
+### Supporting Research Data
 
 > "to be honest, eBay has been probably the main way of valuing stock. You can type in the specs of a laptop into eBay, you can click on sold listings, and you can see what a similar type product has sold for over the last week or month."
 
@@ -46,13 +53,15 @@ Examples of data to be listed:
 
 #### IFIXIT Repair Guide
 
-https://www.ifixit.com/Guide
+> What do you need to fix?
+
+[ifixit.com/Guide](https://www.ifixit.com/Guide)
 
 #### eBay What it's Worth
 
 > "Use eBay's appraisal tool to see the value of items bought and sold in specific categories"
 
-https://explore.ebay.com/nokeyword?keywords=&activity=sold&siteId=EBAY-US&trend=all&catid=0&lcf=11&level=1&interval=weekly
+[explore.ebay.com](https://explore.ebay.com/nokeyword?keywords=&activity=sold&siteId=EBAY-US&trend=all&catid=0&lcf=11&level=1&interval=weekly)
 
 ---
 
