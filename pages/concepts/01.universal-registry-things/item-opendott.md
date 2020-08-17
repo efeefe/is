@@ -36,11 +36,14 @@ Examples of data do be listed:
 
 https://www.ifixit.com/Guide
 
-
 #### eBay What it's Worth
 
 > "Use eBay's appraisal tool to see the value of items bought and sold in specific categories"
 
 https://explore.ebay.com/nokeyword?keywords=&activity=sold&siteId=EBAY-US&trend=all&catid=0&lcf=11&level=1&interval=weekly
 
-Image: https://unsplash.com/photos/NG_a-z0ScM0
+---
+
+#### Images used on this page
+
+- Disassembled Xbox Controller by [Sean Whelan](https://unsplash.com/photos/NG_a-z0ScM0).
