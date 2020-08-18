@@ -15,28 +15,23 @@ feed:
     limit: 10
 ---
 
-! This post is a work in progress. This warning will be removed once I'm done editing it.
+! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
 
-### To do
+> In Ecosystem Mapping, I have interviewed people who are related (either professionally or informally) with repair reuse. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved.
 
-Still to add to this post:
+### Design of the research study
 
-- methodology
-- short description of participants interviewed
+The goal of the project was to understand how broken or discarded materials circulate in the urban context, as well as where and how they are handled and transformed. I was looking particularly into how potential value is assessed in different kinds of facilities, and what types of equipment, methodologies and data sources can aid in that. I expected to do that by interviewing managers and staff working at places responsible for solid waste treatment, as well as organisations and companies that repair, repurpose or handle donations of different types of materials.
 
-> For the Ecosystem Mapping, I have interviewed people who have a professional or informal relationship with repair and waste management. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved.
+The COVID-19 lockdown in place during the whole of my data collection period made it difficult to visit and interview staff members from waste management, as well as volunteers in charities. I managed however to interview participants who brought me a sufficiently diverse set of perspectives: a local manufacturing / design shop; a nonprofit organising zero waste initiatives; a second hand shop / cash advancer; a scrap shop with an artists' studio attached; a data scientist creating ways to visualise waste data.
 
-### Research Study Design
+### Research data
 
-The aim of the Ecosystem Mapping was to acquire a systemic understanding of how materials circulate and are transformed in a local context. It ties with the goal of providing concrete evidence about the types of equipment, methods, and information currently in use, in order to inform subsequent phases of my research that will involve prototyping and policy recommendations.
-
-The goal of the project was to understand how discarded materials circulate in the urban context, as well as where and how they are handled and transformed. I was looking particularly into how potential value is assessed in different kinds of facilities, and what types of equipment, methodologies and data sources can aid in that. I expected to do that by interviewing managers and staff working at places responsible for solid waste treatment, as well as organisations and companies that repair, repurpose or receive donations of different types of materials.
-
-The research aimed at investigating the ways in which broken, malfunctioning or discarded materials circulate in cities, as well as where and how they are handled and transformed. It was interested in practices of repair, reuse and recycling of said materials. In particular, the study expected to understand the different types of equipment, skills and information that are used in those practices.
-
-### Topics
+The interview transcriptions and my own notes allowed me to compose topic maps for each of the interviews, which were then juxtaposed. Some patterns emerged from those maps, which I grouped in six topic clusters:
 
 ![Tags](tags.jpg)
+
+### Topic Clusters
 
 * Connect
   * Sources of materials
@@ -68,5 +63,15 @@ The research aimed at investigating the ways in which broken, malfunctioning or 
 
 ### See also
 
-* [Repair Journey](../repair-journey)
-* [Concept Ideas](../../concepts)
+* [Repair Journey](../repair-journey), the other research study I have conducted in the first semester of 2020.
+* [Concept Ideas](../../concepts) based on both studies.
+
+<a id="todo"></a>
+
+### To do
+
+Still to add to this post:
+
+- more on methodology
+- short description of participants interviewed
+- relevant excerpts from interviews

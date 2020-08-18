@@ -16,26 +16,17 @@ feed:
     limit: 10
 ---
 
-! This post is a work in progress. This warning will be removed once I'm done editing it.
-
-### To do
-
-Still to add to this post:
-
-* the original idea, broken probes
-* methodology / analysis / theme clustering
-* interview excerpts
-* diary samples
+! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
 
 > In the [Repair Journey](https://opendott.org/repair-diaries/), I have asked a group of participants to choose an object they would like to repair or repurpose, and spend two weeks keeping a diary of how the repair (or attempt to repair) went.
 
-### Research Study Design
+### Design of the research study
 
-The research study was designed to investigate ways in which materials that are broken, obsolete or otherwise inadequate can be repaired, adapted or transformed within urban contexts. In particular, the study expected to understand how the value of an object is perceived in different situations. It was part of a wider research project investigating alternatives for handling discarded materials in the city.
+The study was designed to investigate ways in which materials that are broken, obsolete or otherwise inadequate can be repaired, adapted or transformed in urban contexts. In particular, the study expected to understand how the value of an object is perceived in different situations, and how accessible are the possible ways to handle or transform it.
 
-Those who participated in the study were asked to start a repair diary of one object that is either broken, malfunctioning or inadequate. Each participant was able to choose the object their diary would focus on. It could be an object they were interested in exploring currently or some notable experience they have had in the past. During those two weeks, participants were asked to reflect upon the value of the object, in what ways it could be made usable and how easy it was to repair or repurpose it. Stories of failed attempts were considered as relevant as successful ones.
+Those who participated in the study were asked to start a repair diary of one object that was either broken, malfunctioning or inadequate. Each participant was able to choose the object their diary would focus on. It could be an object they were currently interested in exploring, or some notable experience they have had in the past. During two weeks, participants would be asked to reflect upon the value of the object, in what ways it could be made usable and how easy it was to repair or repurpose it. Stories of failed attempts were considered as relevant as successful ones.
 
-By the end of the two weeks of exploration, some participants met for a closing workshop. During the workshop, participants were asked to report how their journeys went, as well as to discuss what would need to be changed in the city to make the reuse of materials easier, more effective and more enjoyable. The main goal of the workshop was to understand what should be different in cities in order to allow society to reuse more of the materials they discard. Some participants were interviewed individually due to calendar conflicts or connectivity issues.
+By the end of the period of exploration (which ended up being three weeks), some participants met for a closing workshop. During the workshop, participants were asked to report how their journeys went, as well as to discuss what would need to be changed in the city to make the reuse of materials easier, more effective and more enjoyable. The main goal of the workshop was to understand what should be different in cities in order to allow society to reuse more of the materials they discard. Some participants were interviewed individually due to calendar conflicts or connectivity issues.
 
 ### Notes and insights
 
@@ -45,7 +36,7 @@ By the end of the two weeks of exploration, some participants met for a closing 
 
 ![Value](value.png?lightbox=1000)
 
-### Actionable clues
+### Actionable notes
 
 * How to find about manuals, tools and parts?
 * How to identify the problem of one specific broken object?
@@ -66,7 +57,19 @@ By the end of the two weeks of exploration, some participants met for a closing 
 
 ### See also:
 
-* [Repair Journey - preparation](../repair-journey-preparation)
-* [Repair Journey - a personal diary](../repair-journey-a-personal-diary)
-* [Ecosystem Mappiong](../ecosystem-mapping)
-* [Concept Ideas](../../concepts)
+* [Repair Journey - preparation](../repair-journey-preparation).
+* [Repair Journey - a personal diary](../repair-journey-a-personal-diary).
+* [Ecosystem Mappiong](../ecosystem-mapping), the other research study I have conducted in the first semester of 2020.
+* [Concept Ideas](../../concepts) based on both studies.
+
+<a id="todo"></a>
+
+### To do
+
+Still to add to this post:
+
+* the original idea, broken probes
+* methodology / analysis / questions / theme clustering
+* interview excerpts
+* diary samples
+* excerpts from emails sent to participants
