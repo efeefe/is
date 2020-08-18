@@ -32,10 +32,9 @@ Geo-referenced and user evaluated open directory of repair professionals, zero w
 
 ### Main target groups
 
-- **Citizen / Household**
-- **Professional Repair**
-- **Community Reuse**
-- ~~Council / Local Authority~~
+1. Citizen / Household
+1. Professional Repair
+1. Community Reuse
 
 ### Supporting Research Data
 
@@ -51,4 +50,4 @@ Geo-referenced and user evaluated open directory of repair professionals, zero w
 
 ### Images used on this page
 
-Map by [Waldemar Brandt Unsplash](https://unsplash.com/photos/aHZF4sz0YNw).
+* Header image: Map by [Waldemar Brandt Unsplash](https://unsplash.com/photos/aHZF4sz0YNw).

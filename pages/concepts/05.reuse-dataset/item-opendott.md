@@ -24,8 +24,7 @@ Open Dataset about different kinds of reuse of materials in urban environments.
 
 There is strong evidence that often times recycling is not the most appropriate solution for waste, Particularly when there are still potential uses for the discarded materials. However, there is little available data to inform society of the social, economic and environmental outcomes of reuse.
 
-Integrate and make available  data about different kinds of reuse of materials in urban environments, including household, community and local initiatives.
-
+The Reuse Dataset will integrate and make available data about different kinds of reuse of materials in urban environments, including household, community and local initiatives. It is an important element to build the [Reuse Commons](../reuse-commons).
 
 ### Open Questions
 
@@ -33,10 +32,8 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 ### Target Groups
 
-- **Council / Local Authority**
-- **Community Reuse**
-- ~~Citizen / Household~~
-- ~~Professional Repair~~
+1. Council / Local Authority
+1. Community Reuse
 
 ### Supporting Research Data
 
@@ -50,4 +47,4 @@ Integrate and make available  data about different kinds of reuse of materials i
 
 ### Images used on this page
 
-- Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)
+* Header image: Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)

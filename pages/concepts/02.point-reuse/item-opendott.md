@@ -70,4 +70,4 @@ Other plant identification app picks
 
 ### Images used on this page
 
-* Mobile Camera by [SHTTEFAN / Unsplash](https://unsplash.com/photos/ggZuL3BTSJU)
+* Header image: person taking photo by [SHTTEFAN / Unsplash](https://unsplash.com/photos/ggZuL3BTSJU)

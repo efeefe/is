@@ -44,4 +44,4 @@ The Transformation Lab is integrated with the [Reuse Commons](../reuse-commons),
 
 ### Images used on this page
 
-Header: mock-up of [Plateforme-C](https://www.plateforme-c.org/), in Nantes.
+* Header image: mock-up of [Plateforme-C](https://www.plateforme-c.org/), in Nantes.

@@ -54,3 +54,5 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 ### References
 
 ### Images used on this page
+
+* Header image: collage 

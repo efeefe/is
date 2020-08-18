@@ -46,4 +46,4 @@ The Reuse Bin is the most visible interface between citizens and the [Reuse Comm
 
 ### Images used on this page
 
-Header: collage with images from Unsplash ([gray wheeled trash bin, Siarhei Plashchynski](https://unsplash.com/photos/vP3G46hrjno); [Free Museum of tomorrow, by Vlad Tchompalov](https://unsplash.com/photos/UOWAsztvBa0); [assorted color box lot, by Leanne Jean](https://unsplash.com/photos/rfEMsSggimc)).
+* Header image: collage with images from Unsplash ([gray wheeled trash bin, Siarhei Plashchynski](https://unsplash.com/photos/vP3G46hrjno); [Free Museum of tomorrow, by Vlad Tchompalov](https://unsplash.com/photos/UOWAsztvBa0); [assorted color box lot, by Leanne Jean](https://unsplash.com/photos/rfEMsSggimc)).

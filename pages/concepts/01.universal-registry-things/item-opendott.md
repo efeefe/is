@@ -72,4 +72,4 @@ Examples of data to be listed:
 
 #### Images used on this page
 
-- Disassembled Xbox Controller by [Sean Whelan / Unsplash](https://unsplash.com/photos/NG_a-z0ScM0).
+* Header image: Disassembled Xbox One Controller by [Sean Whelan / Unsplash](https://unsplash.com/photos/NG_a-z0ScM0).
