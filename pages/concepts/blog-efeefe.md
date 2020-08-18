@@ -30,7 +30,7 @@ The main focus of my research is to contribute with ideas for cities and towns t
 
 I have sketched eight concept ideas, <a href="#design-concepts">listed below</a> and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time.
 
-I am expecting to gather feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
+I am expecting to get feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
 <a id="research-data"></a>
 
@@ -39,18 +39,18 @@ I am expecting to gather feedback on those concepts in order to understand their
 The concepts are mainly based on data coming from two research studies:
 
 - [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
-- [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people who work on the reuse or re-circulation of second-hand goods were interviewed to compose an overview of the field.
+- [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people whose work is related to the reuse or re-circulation of second-hand goods were interviewed to compose an overview of the field.
 
-Additional inspiration and contributions to the concept ideas come from:
+Additional insights, inspirationo and contributions to create the concept ideas came from:
 
-- My ongoing literature review - part of it documented in the [research blog](../opendott).
-- Previous experience in other projects about reuse and maintenance.
+- The ongoing process of constructing my literature review - part of it documented in the [research blog](../opendott).
+- Previous experience in other projects related to reuse and maintenance.
 - My recent attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/), and conversations with colleagues in those courses.
 - Participation in events such as [Fixfest UK](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6) and [others](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6)
 
-### Target groups
+## Target groups
 
-Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research. There is some overlap, but each can arguably be understood as a perspective that will pose a different emphasis on the way materials are to circulate and be handled:
+Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research. There is some overlap between them, but each can arguably be understood as a perspective that poses a different emphasis on the way materials are to be handled and circulate:
 
 <div class="columns ">
   <div class="column col-6 col-sm-12">
@@ -59,10 +59,10 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
       Citizen
     </h4>
     <p class="card-body">
-     - Individual/household who has broken or unwanted things.
+     - Individual/household who has things that are broken, ill-fit, inadequate or unwanted.
     </p>
     <p class="card-body">
-     - Individual/household who is interested in acquiring affordable things.
+     - Individual/household who is interested in acquiring trusted and affordable second-hand goods.
     </p>
   </div>
   <div class="card">
@@ -70,10 +70,10 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
       Community
     </h4>
     <p class="card-body">
-     - Group or organisation willing to generate income for community members.
+     - Group or organisation willing to offer second-hand goods to communities, or to use second-hand goods to generate income to community members.
     </p>
     <p class="card-body">
-     - Volunteer group or not-for-profit organisation in charge of repair cafes, clothes swaps and other zero-waste projects.
+     - Volunteer group or not-for-profit organisation organising repair cafes, clothes swaps and other zero-waste projects.
     </p>
     </div>
   </div>
@@ -83,7 +83,7 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
       Professional Reuse
     </h4>
     <p class="card-body">
-     - Social enterprises working on the selection, transformation and redistribution of second-hand materials.
+     - Social enterprises working on the selection, transformation and redistribution of second-hand goods.
     </p>
     <p class="card-body">
     - Professional workshops dedicated to repair, maintenance, customization and upcycling of used objects.
@@ -96,6 +96,9 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
     <p class="card-body">
      - City council or similar official government body looking into social, environmental and economic benefits of encouraging the reuse of materials at a local scale.
     </p>
+    <p class="card-body">
+    - Regional or inter-municipal public organisations tackling environmental issues.
+    </p>
     </div>
   </div>
 </div>
@@ -104,7 +107,7 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
 
 ## Design Concepts
 
-The concept ideas shown here are responses to issues and insights identified while exploring the idea of *waste avoidance* in cities and towns, and how those kinds of initiatives are largely absent from smart city projects. Each one connects differently to the four target groups.
+The concept ideas shown here are responses to issues and insights identified while exploring the idea of waste avoidance in cities and towns, and how initiatives under that perspective are usually absent from smart city projects. Each concept connects differently to at least one of the four target groups.
 
 ![Target groups](targeting.png)
 
