@@ -39,3 +39,22 @@ The research study will investigate ways in which materials that are broken, obs
 Those who choose to participate in the study will then be asked to start a repair diary of one object that is either broken, malfunctioning or inadequate. Each participant will be able to choose the object their diary will focus on. It can be an object they are interested in exploring currently or some notable experience they have had in the past. During those two weeks, participants will be asked to reflect upon the value of the object, in what ways it can be made usable and how easy it is to repair or repurpose it. Stories of failed attempts are as relevant as successful ones.
 
 By the end of the two weeks of exploration, we will meet online for a closing workshop. During the workshop, participants will be asked to report how their journeys went, as well as to discuss what would need to be changed in the city to make the reuse of materials easier, more effective and more enjoyable. The main goal of the closing workshop is to understand what should be different in cities to allow society to reuse more of the materials they discard. Additionally, some participants may be invited to take part voluntarily in personal interviews.
+
+### Actionable insights
+
+How to find about manuals, tools and parts?
+How to identify the problem of one specific broken object?
+How to reward people for repairing?
+How to find about people, spaces, events?
+How to store and move broken objects that can still be repaired?
+How to offer inclusive spaces for repairing?
+How to encourage repurposing by modularity?
+How to treat more objects as we do a cherished book?
+How to connect the practical skills of craft, repair and making?
+How to undo a robot's work?
+How to make Local Authorities and Councils more active in promoting reuse?
+How to make materials and services known?
+How to use prop shops as models for a local circular economy?
+How to welcome people who struggle with mental issues?
+
+![Takeaways](takeaways.jpg)
