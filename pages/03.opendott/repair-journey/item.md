@@ -24,6 +24,8 @@ Still to add to this post:
 
 * the original idea, broken probes
 * methodology / analysis / theme clustering
+* interview excerpts
+* diary samples
 
 > In the [Repair Journey](https://opendott.org/repair-diaries/), I have asked a group of participants to choose an object they would like to repair or repurpose, and spend two weeks keeping a diary of how the repair (or attempt to repair) went.
 
@@ -66,4 +68,5 @@ By the end of the two weeks of exploration, some participants met for a closing 
 
 * [Repair Journey - preparation](../repair-journey-preparation)
 * [Repair Journey - a personal diary](../repair-journey-a-personal-diary)
+* [Ecosystem Mappiong](../ecosystem-mapping)
 * [Concept Ideas](../../concepts)
