@@ -178,4 +178,4 @@ The concepts can be grouped in three main categories:
 
 </div>
 
-## More details
+## Detailed concepts
