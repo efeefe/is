@@ -16,7 +16,7 @@ feed:
     limit: 10
 ---
 
-Collective stewardship of post-consumption materials.
+Ecosystem for the collective stewardship of post-consumption materials.
 
 ===
 
@@ -24,11 +24,11 @@ Collective stewardship of post-consumption materials.
 
 ![Reuse Commons](reuse-commons-hz.png)
 
-Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, redistribution projects), tracking of donations.
+Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates [transformation labs](../transformation-labs), reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, zero waste and material redistribution projects), [reuse bins](../reuse-bin) and [reuse datasets](../reuse-dataset).
 
 #### Potential members
 
-- Citizens / households
+- Citizens / households.
  - Donating / Selling goods to the commons and being able to track their destination / social impact.
  - Having access (affordable prices / donation schemes) to trusted second-hand goods. Access to their provenance and individual history.
  - Possibility: reward donors with credits to aqcuire other goods.
@@ -44,10 +44,10 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 
 ### Target Groups
 
-- **Citizen / Household**
-- **Professional Repair**
-- **Community Reuse**
-- **Council / Local Authority**
+1. Community Reuse
+1. Citizen / Household
+1. Council / Local Authority
+1. Professional Repair
 
 ### Supporting Research Data
 

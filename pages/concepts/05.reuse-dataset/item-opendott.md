@@ -1,5 +1,5 @@
 ---
-title: 'Data on Reuse'
+title: 'Reuse Dataset'
 published: true
 taxonomy:
     tag:
@@ -22,7 +22,10 @@ Open Dataset about different kinds of reuse of materials in urban environments.
 
 ### Description
 
+There is strong evidence that often times recycling is not the most appropriate solution for waste, Particularly when there are still potential uses for the discarded materials. However, there is little available data to inform society of the social, economic and environmental outcomes of reuse.
+
 Integrate and make available  data about different kinds of reuse of materials in urban environments, including household, community and local initiatives.
+
 
 ### Open Questions
 

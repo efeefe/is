@@ -149,8 +149,8 @@ The concepts can be grouped in three main categories:
           </a>
         </li>
         <li>
-          <a href="concepts/data-reuse">
-          Data on Reuse
+          <a href="concepts/reuse-dataset">
+          Reuse Dataset
           </a>
         </li>
     </div>
