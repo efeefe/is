@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-A web app / native mobile app that allows users to take a picture of any object and match it against the [Universal Registry of Things](../universal-registry-things).
+An app that allows users to take a picture of any object, match it against the [Universal Registry of Things](../universal-registry-things) and instantly evaluate or learn about its potential for reuse and upcycling.
 
 ===
 
@@ -27,24 +27,38 @@ The app allows citizens, members of zero waste initiatives, repair professionals
 
 Functionalities:
 
-* Make/upload picture -> server-side computer vision
+* Make/upload picture
+ * *server-side computer vision matches against the database)
 * Browse by brand or type
 * Search
 
 ### Open Questions
 
+* How reliable are the computer vision possibilities?
+* Other ways to identify: serial number, RFID, qr code / barcode
+* Privacy / security (unintended effects)
+
 ### Sketches
+
+! to come
 
 ### Main target groups
 
-- **Citizen / Household**
-- **Community Reuse**
-- **Professional Repair**
-- ~~Council / Local Authority~~
+1. **Community Reuse**
+1. **Professional Repair**
+1. **Citizen / Household**
 
 ### Supporting Research Data
 
+! to come
+
 ### References
+
+#### Google Lens
+
+> Search what you see
+
+[lens.google.com](https://lens.google.com/)
 
 #### Plant identification apps
 

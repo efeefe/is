@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-Donate and track.
+Track what is made of your donations.
 
 ===
 
@@ -41,8 +41,13 @@ The Reuse Bin is the most visible interface between citizens and the [Reuse Comm
 
 ### Supporting Research Data
 
+! to come
 
 ### References
+
+#### SmartBin
+
+[SmartBin](https://www.smartbin.com/)
 
 ### Images used on this page
 

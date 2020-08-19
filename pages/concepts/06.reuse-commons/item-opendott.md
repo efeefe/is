@@ -24,7 +24,7 @@ Ecosystem for the collective stewardship of post-consumption materials.
 
 ![Reuse Commons](reuse-commons-hz.png)
 
-Reuse Commons is a multi-stakeholder local body governing the reuse of discarded materials. It integrates [transformation labs](../transformation-labs), reuse cabins, municipal lost and found services, community reuse initiatives (repair cafes, zero waste and material redistribution projects), [reuse bins](../reuse-bin) and [reuse datasets](../reuse-dataset).
+Reuse Commons is a model for a multi-stakeholder local body governing the reuse of discarded materials. It integrates [transformation labs](../transformation-labs), lost and found services, reuse cabins and similar initiatives, community reuse projects (repair cafes, zero waste and material redistribution projects), [reuse bins](../reuse-bin) and [reuse datasets](../reuse-dataset).
 
 #### Potential members
 
@@ -36,11 +36,22 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 - Repair/reuse services - SMEs and social enterprises making their services known. Smartphone and Laptop repairs, tailors, bike shops, automobile maintenance,
 - Upcycling / Antique / Design shops
 - FabLabs / Makerspaces
-- Council / Local Authority - reuse cabins, large item collection, house clearances, renovations of schools and public buildings,
+- Council / Local Authority - reuse cabins, large item collection, house clearances, renovations of schools and public buildings.
+
+#### Economic model
+
+One of the main motivations behind the reuse commons is to create ways for people and organisations to be rewarded for reusing materials themselves, or allowing others to reuse - instead of discarding things that would then be "downcycled" at best.
+
+Membership model - people, businesses and organisations sign up to participate in the commons. Every object they put into the system is registered. When it is reused or upcycled, the commons grows. Credits from donations of materials can be used to acquire other goods.
 
 ### Open Questions
 
+* Fine tune the system of incentives for different stakeholders
+* Communicate in a way that is easy to understand
+
 ### Sketches
+
+! to come
 
 ### Target Groups
 
@@ -51,8 +62,16 @@ Reuse Commons is a multi-stakeholder local body governing the reuse of discarded
 
 ### Supporting Research Data
 
+! to come
+
 ### References
+
+#### Waste Banks in Indonesia
+
+>  Like a regular commercial bank, you open up an account with your local waste bank. Periodically, you make deposits with your non-organic solid waste, which are weighed and given a monetary value, based on rates set by waste collectors. This value is saved in your account from which, like a regular bank, you can withdraw. The basic principles of waste banks remain the same across provinces: collect, save, earn, change behavior, and enjoy a clean neighborhood.
+
+[World Bank Blog](https://blogs.worldbank.org/eastasiapacific/waste-not-want-not-waste-banks-indonesia)
 
 ### Images used on this page
 
-* Header image: collage 
+* Header image: collage

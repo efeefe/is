@@ -1,5 +1,5 @@
 ---
-title: 'Save This Thing'
+title: 'Save this Thing'
 published: true
 taxonomy:
     tag:
@@ -18,17 +18,22 @@ feed:
     limit: 10
 ---
 
-An app / website with a geo-referenced open directory of shops, professionals and groups that offer alternatives to reuse materials.
+A website with a geo-referenced open directory of shops, professionals and groups that offer alternatives to reuse materials.
 
 ===
 
 ### Description
 
-Geo-referenced and user evaluated open directory of repair professionals, zero waste initiatives (community repair, upcycling, swap shops, etc), craftspeople, hardware stores, maker spaces, charity shops, recycling points, etc.
+Save this Thing is a geo-referenced and user evaluated open directory of repair professionals, zero waste initiatives (community repair, upcycling, swap shops, etc), craftspeople, hardware stores, maker spaces, charity shops, recycling points, etc.
 
 ### Open Questions
 
+- How best to implement user-based trust/reputation systems? Karma / testimonials.
+- Can any one professional be listed by someone involuntarily?
+
 ### Sketches
+
+! to come
 
 ### Main target groups
 

@@ -119,7 +119,7 @@ The concepts can be grouped in three main categories:
 
   <div class="column col-4 col-md-6 col-sm-12 card">
     <h4>
-      Apps/Websites/Databases
+      Data and Things
     </h4>
     <div>
       <ul>
@@ -142,7 +142,7 @@ The concepts can be grouped in three main categories:
   </div>
   <div class="column col-4 col-md-6 col-sm-12 card">
     <h4>
-      Data/Visibility
+      Transparency and Visibility
     </h4>
     <div>
       <ul>

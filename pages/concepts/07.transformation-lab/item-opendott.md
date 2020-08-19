@@ -30,7 +30,13 @@ The Transformation Lab is integrated with the [Reuse Commons](../reuse-commons),
 
 ### Open Questions
 
+* How to differentiate from / integrate with Fablabs, Makerspaces, Men's sheds, Repair Cafes etc.
+* Culture of inclusivity
+* Economic opportunities: courses, shop, repair services (attention not to disrupt repair shops)
+
 ### Sketches
+
+! to come
 
 ### Target Groups
 
@@ -40,7 +46,16 @@ The Transformation Lab is integrated with the [Reuse Commons](../reuse-commons),
 
 ### Supporting Research Data
 
+! to come
+
 ### References
+
+#### Atelier Partagé du Breil
+
+> En janvier 2016, PiNG poursuit ses explorations terrain des tiers-lieux et ouvre un atelier partagé dans ses locaux au Breil : espace hybride entre fablab et jardin partagé, à la fois lieu de bricolage, de création, de réparation, d’appropriation des technologies et de partage des connaissances. Un atelier propice à la médiation numérique et à la mixité sociale.
+Ce lieu est l’occasion pour les habitants du Breil d’accéder à un atelier équipé et fréquenté par un réseau de personnes capables de les accompagner pour réparer et apprendre à réparer ou encore fabriquer des objets. L’endroit idéal pour regagner confiance en soi en comprenant les rouages de notre environnement technologique. L’Atelier Partagé doit permettre aussi de re-dynamiser un tissu social local et de valoriser ses savoir-faire.
+
+[PiNG](https://ressource.pingbase.net/atelierpartagedubreil/)
 
 ### Images used on this page
 

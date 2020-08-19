@@ -27,7 +27,11 @@ Invite artists, designers and activists through residence programs, hackathons a
 
 ### Open Questions
 
+* Involve local groups in the discussion and reflection
+
 ### Sketches
+
+! to come
 
 ### Target Groups
 
@@ -36,17 +40,32 @@ Invite artists, designers and activists through residence programs, hackathons a
 
 ### Supporting Research Data
 
+! to come
+
 ### References
 
 Many projects treat waste as subject or material for artistic intervention.
 
-#### Recology
+#### Recology Aritst in Residence
+
+> The Artist in Residence (AIR) Program at Recology San Francisco is a unique art and education program that provides Bay Area artists with access to discarded materials, a stipend, and a large studio space at the Recology San Francisco Recycling and Transfer Station. By supporting artists who work with reused materials, Recology hopes to encourage people to conserve natural resources and promote new ways of thinking about art and the environment.
+
+[recology.com](https://www.recology.com/recology-san-francisco/artist-in-residence-program/)
 
 #### Gambiologia
+
+Brazilian collective exploring an aesthetics of reuse.
+
+> Art, Design, Technology, Invention, Reuse, Education
+
+[gambiologia.net](http://www.gambiologia.net/blog/)
 
 #### Film
 
 Some among many documentaries working to make waste visible.
+
+* [Waste Land, Estamira, Trash](../opendott/landfills)
+* [Island of Flowers](../opendott/ilha-das-flores)
 
 ### Images used on this page
 
