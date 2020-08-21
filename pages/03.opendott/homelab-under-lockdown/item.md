@@ -21,17 +21,17 @@ feed:
     limit: 10
 ---
 
-### Head
+**Head**
 
 In recent weeks I've been skimming through interview transcripts and my (copious) notes. It's a tiresome but rewarding phase of research. Things are starting to make sense, even if I feel it still is over my current grasp. As I work through, though, I find different forms of useful information coming from my participants. Sometimes confirming assumptions I already had, sometimes confronting them or redefining my sense of priority. I have already decided to go deeper in this or that aspect of my literature review to fill in perceived gaps, or to keep some topics out for the time being.
 
-My personal process was to get my transcripts to a tablet where I can focus on just reading, highlighting and making notes, sometimes outdoors, at a park or by the river. Then I'm assembling those notes, on occasion coming back to the recordings or to the sticky notes I made during the interaction with participants. I have pictures of all those notes, grouped together usually in the same day of the interviews or workshops. 
+My personal process was to get my transcripts to a tablet where I can focus on just reading, highlighting and making notes, sometimes outdoors, at a park or by the river. Then I'm assembling those notes, on occasion coming back to the recordings or to the sticky notes I made during the interaction with participants. I have pictures of all those notes, grouped together usually in the same day of the interviews or workshops.
 
 On tools: the notes from the _repair journey_ were added manually to a slide deck, together with the participants' outputs. When it came to the ecosystem mapping, I followed the advice to use one of these online mural services. I haven't found a free/open alternative for that yet, unfortunately. On the other hand, I'm happily using [Joplin](https://joplinapp.org/) for quick note-taking on multiple devices. On the side, I keep not one but three lightweight paper journals to explore ideas - one for each research study, and another one for loose ideas, brainstorming and structure. I'm not much of a sketcher, but paper gives me that feel of a window open to the unkown.
 
 [>> More about the current state of my research](../research-progress)
 
-### Hands
+**Hands**
 
 While I do enjoy being able to dedicate full time to research, there's only so much one can do within a given time span. I found my best combination to keep productive these days is to aim at 90-minute sprints looking at research outputs, interpolating with other activities. Those can be activities still related to research (for instance my attendance of the [Platform Co-ops course](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/)) or other work tasks (admin, preparing the next steps, meetings). Or the many other things I do everyday, from childcare and cooking and cleaning to music, keeping up and interacting with the networks I'm still part of in Brazil, or just going out to walk. But I recently found something in between.
 
@@ -66,10 +66,10 @@ I have used some of those materials to create bespoke furniture add-ons. Bear in
 ![](phone-support-01.jpg?lightbox&cropZoom=460,500)
 ![](phone-support-02.jpg?lightbox&cropZoom=460,500)
 
-Other tools proved useful along the way. A box cutter, operated naturally by adults only. And a hot glue gun. It was as though we were setting up a mini fablab of sorts in the simulation of a city that our house became. There are also other experiments under that frame. A compost bin sealed since 11 weeks and observed often. The vacuum cleaning robot that feels like those street cleaning cars. The industrial zone in the kitchen, now added of the sourdough starter and sauerkraut factories. The dry harbour at our door through which foreign produce arrives to feed our population of three. 
+Other tools proved useful along the way. A box cutter, operated naturally by adults only. And a hot glue gun. It was as though we were setting up a mini fablab of sorts in the simulation of a city that our house became. There are also other experiments under that frame. A compost bin sealed since 11 weeks and observed often. The vacuum cleaning robot that feels like those street cleaning cars. The industrial zone in the kitchen, now added of the sourdough starter and sauerkraut factories. The dry harbour at our door through which foreign produce arrives to feed our population of three.
 
 In the meantinme, though. The amount of materials kept growing.
- 
+
 ![](materials-02.jpg?ligthbox&cropZoom=920,500)
 
 I decided it was time to go further in exploring the possibilities with those objects. Hot glue in hand, I assembled my son and the nine year old daughter and we started joining things together. We ended with a sort of scarecrow that could have family ties to Wall-E.
