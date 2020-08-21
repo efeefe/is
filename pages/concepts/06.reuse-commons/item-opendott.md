@@ -72,6 +72,12 @@ Membership model - people, businesses and organisations sign up to participate i
 
 [World Bank Blog](https://blogs.worldbank.org/eastasiapacific/waste-not-want-not-waste-banks-indonesia)
 
+#### Plastic Bank
+
+> We are turning plastic into gold by revolutionizing the world’s recycling systems to create a regenerative, inclusive, and circular plastic economy
+
+[plasticbank.com](https://plasticbank.com/)
+
 ### Images used on this page
 
 * Header image: collage
