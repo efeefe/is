@@ -46,7 +46,7 @@ Additional insights, inspirationo and contributions to create the concept ideas 
 - The ongoing process of constructing my literature review - part of it documented in the [research blog](../opendott).
 - Previous experience in other projects related to reuse and maintenance.
 - My recent attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/), and conversations with colleagues in those courses.
-- Participation in events such as [Fixfest UK](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6) and [others](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6)
+- Participation in events such as [Fixfest UK](../../opendott/fixfest-uk-2020) and [others](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6)
 
 ## Target groups
 
