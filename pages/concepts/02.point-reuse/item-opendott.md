@@ -60,6 +60,13 @@ Functionalities:
 
 [lens.google.com](https://lens.google.com/)
 
+#### ODK - Object Detection Kit
+
+> **Convert garbage into resources**
+> The garbage on our streets can have a lot of value when it is repurposed. ODK aims to take a step forward into circularity, making it easier to give garbage a new life.
+
+[odk.ai](https://www.odk.ai/)
+
 #### Plant identification apps
 
 A list [here](https://youhadmeatgardening.com/best-plant-identification-app/):
