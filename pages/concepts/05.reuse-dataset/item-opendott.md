@@ -51,6 +51,10 @@ The Reuse Dataset will integrate and make available data about different kinds o
 
 [openrepair.org/repair-data](https://openrepair.org/repair-data/)
 
+Here's a presentation during Fixfest 2020:
+
+[plugin:youtube](https://www.youtube.com/watch?v=pFa7g66AEHk)
+
 ### Images used on this page
 
 * Header image: Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)
