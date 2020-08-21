@@ -7,6 +7,8 @@ taxonomy:
         - events
         - fixfest
         - 'restart project'
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: header.png
 show_sidebar: false
 feed:
     limit: 10
