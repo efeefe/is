@@ -107,7 +107,7 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
 
 ## Design Concepts
 
-The concept ideas shown here are responses to issues and insights identified while exploring the idea of waste avoidance in cities and towns, and how initiatives under that perspective are usually absent from smart city projects. Each concept connects differently to at least one of the four target groups.
+The concept ideas shown here are my responses to issues and insights identified while exploring the idea of waste avoidance in cities and towns, and how initiatives under that perspective are usually absent from smart city projects. Each concept connects differently to at least one of the four target groups.
 
 ![Target groups](targeting.png)
 
@@ -186,3 +186,5 @@ The concepts can be grouped in three main categories:
 </div>
 
 ## Detailed concepts
+
+Each page below shows more information about the concepts I have created with the input of participants of my research studies, as well as colleagues and supervisors. The contents of these pages will evolve as I get more feedback.
