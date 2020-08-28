@@ -34,6 +34,8 @@ I have sketched eight concept ideas, <a href="#design-concepts">listed below</a>
 
 I am expecting to get feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
 
+---
+
 <a id="research-data"></a>
 
 ## Research data
@@ -43,7 +45,7 @@ The concepts are mainly based on data coming from two research studies:
 - [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
 - [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people whose work is related to the reuse or re-circulation of second-hand goods were interviewed to compose an overview of the field.
 
-![Research Studies](https://archive.org/download/wasc-design-research/02-%20design%20research.mp4)
+! [This part in video](https://archive.org/download/wasc-design-research/02-%20design%20research.mp4)
 
 Additional insights, inspiration and contributions to create the concept ideas came from:
 
@@ -52,11 +54,13 @@ Additional insights, inspiration and contributions to create the concept ideas c
 - My recent attendance of online courses on [Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management) and [Platform Cooperativism](https://platform.coop/blog/pcc-mondragon-university-offer-online-course-to-incubate-platform-co-ops/), and conversations with colleagues in those courses.
 - Participation in events such as [Fixfest UK](../../opendott/fixfest-uk-2020) and [others](https://talk.restarters.net/t/fixfest-uk-2020-everything-you-need-to-know/2994/6)
 
+---
+
 ## Target groups
 
 Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research. There is some overlap between them, but each can arguably be understood as a perspective that poses a different emphasis on the way materials are to be handled and circulate:
 
-![Targeting](https://archive.org/download/wasc-targeting/03-%20targeting.mp4)
+! [This part in video](https://archive.org/download/wasc-targeting/03-%20targeting.mp4)
 
 <div class="columns ">
   <div class="column col-6 col-sm-12">
@@ -108,6 +112,8 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
     </div>
   </div>
 </div>
+
+---
 
 <a id="design-concepts">![](header-concepts.png)</a>
 
