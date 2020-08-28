@@ -45,7 +45,7 @@ The concepts are mainly based on data coming from two research studies:
 - [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
 - [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people whose work is related to the reuse or re-circulation of second-hand goods were interviewed to compose an overview of the field.
 
-! [This part in video](https://archive.org/download/wasc-design-research/02-%20design%20research.mp4)
+!!! [This part in video](https://archive.org/download/wasc-design-research/02-%20design%20research.mp4)
 
 Additional insights, inspiration and contributions to create the concept ideas came from:
 
@@ -60,7 +60,7 @@ Additional insights, inspiration and contributions to create the concept ideas c
 
 Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research. There is some overlap between them, but each can arguably be understood as a perspective that poses a different emphasis on the way materials are to be handled and circulate:
 
-! [This part in video](https://archive.org/download/wasc-targeting/03-%20targeting.mp4)
+!!! [This part in video](https://archive.org/download/wasc-targeting/03-%20targeting.mp4)
 
 <div class="columns ">
   <div class="column col-6 col-sm-12">
@@ -196,7 +196,11 @@ The concepts can be grouped in three main categories:
   </div>
 
 </div>
+      
+!!! [This part in video](https://archive.org/download/wasc-targeting/04-%20concept-ideas.mp4)
 
+---
+      
 ## Detailed concepts
 
 Each page below shows more information about the concepts I have created with the input of participants of my research studies, as well as colleagues and supervisors. The contents of these pages will evolve as I get more feedback.
