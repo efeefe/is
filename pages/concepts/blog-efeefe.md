@@ -28,6 +28,8 @@ I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://ww
 
 The main focus of my research is to contribute with ideas for cities and towns to avoid as much as possible the very need to manage waste in the usual ways, encouraging instead the *reuse of materials* through initiatives of *repair and repurposing* aimed at and run by *local actors*. More information about my research can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
 
+![Intro](https://ia601404.us.archive.org/29/items/wasc-intro/01-%20presentation.mp4)
+
 I have sketched eight concept ideas, <a href="#design-concepts">listed below</a> and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time.
 
 I am expecting to get feedback on those concepts in order to understand their relevance and prioritise further phases of development. Please send your comments to my email address if you have it already. Alternatively, please use this one: [5wbi948e9@relay.firefox.com](mailto:5wbi948e9@relay.firefox.com).
