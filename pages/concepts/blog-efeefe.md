@@ -26,10 +26,13 @@ feed:
 
 I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I'm working on [design concepts](#design-concepts) that respond to insights on [data](#research-data) collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
-See an introduction in video:
+A video introduction is available from the [Internet Archive](https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4):
 
 <div style="text-align: center">
-  <video src="https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4">
+  <video controls>
+   <source src="https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+  </video>
 </div>
 
 The main focus of my research is to contribute with ideas for cities and towns to avoid as much as possible the very need to manage waste in the usual ways, encouraging instead the *reuse of materials* through initiatives of *repair and repurposing* aimed at and run by *local actors*. More information about my research can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
