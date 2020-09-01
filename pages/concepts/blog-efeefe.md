@@ -29,9 +29,7 @@ I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://ww
 See an introduction in video:
 
 <div style="text-align: center">
-  <a href="https://archive.org/details/wasc-intro" title="Video on Internet Archive">
-    <img src="https://archive.org/download/wasc-intro/wasc-intro.thumbs/01-%20presentation_000087.jpg" alt="This introduction in video">
-  </a>
+  <video src="https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4">
 </div>
 
 The main focus of my research is to contribute with ideas for cities and towns to avoid as much as possible the very need to manage waste in the usual ways, encouraging instead the *reuse of materials* through initiatives of *repair and repurposing* aimed at and run by *local actors*. More information about my research can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
