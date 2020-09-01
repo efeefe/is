@@ -29,7 +29,7 @@ I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://ww
 A video introduction is available from the [Internet Archive](https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4):
 
 <div style="text-align: center">
-  <video controls>
+  <video width="960" height="540" controls>
    <source src="https://archive.org/download/wasc-intro/01-%20presentation.ia.mp4" type="video/mp4">
    Your browser does not support the video tag.
   </video>
@@ -50,7 +50,7 @@ I am expecting to get feedback on those concepts in order to understand their re
 Two research studies were conducted to generate data for this project. Here is a short description of them [in video](https://archive.org/details/wasc-design-research):
 
 <div style="text-align: center">
-  <video controls>
+  <video width="960" height="540" controls>
    <source src="https://archive.org/download/wasc-design-research/02-%20design%20research.mp4" type="video/mp4">
    Your browser does not support the video tag.
   </video>
@@ -128,7 +128,7 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
 A [video description](https://archive.org/details/wasc-targeting) of these target groups.
 
 <div style="text-align: center">
-  <video controls>
+  <video width="960" height="540" controls>
    <source src="https://archive.org/download/wasc-targeting/03-%20targeting.mp4" type="video/mp4">
    Your browser does not support the video tag.
   </video>
@@ -221,7 +221,7 @@ The concepts can be grouped in three main categories:
 [Concept categories in video](https://archive.org/details/wasc-concept-ideas):
 
 <div style="text-align: center">
-  <video controls>
+  <video width="960" height="540" controls>
    <source src="https://archive.org/download/wasc-concept-ideas/04-%20concepts.mp4" type="video/mp4">
    Your browser does not support the video tag.
   </video>
