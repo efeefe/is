@@ -67,6 +67,14 @@ Some among many documentaries working to make waste visible.
 * [Waste Land, Estamira, Trash](../opendott/landfills)
 * [Island of Flowers](../opendott/ilha-das-flores)
 
+#### European Week for Waste Reduction
+
+The theme for this year's (2020) theme of the European Week for Waste Reduction is "invisible waste".
+
+> This year, the EWWR challenges you to get informed and raise awareness on the huge amount of waste that we all unconsciously generate. We need to make this waste visible in order to make informed decisions when choosing which product to purchase, and take responsibility for our footprint. Producers, consumers, decision-makers, we all can take action to reduce the invisible waste. Extending the life of products by reuse and repair, buying second-hand, renting and sharing products rather than owning them, obtaining an eco-label and joining producer responsibility’s schemes… The list is long!
+
+[ewwr.eu](https://ewwr.eu/thematic-focus/2020-invisible-waste/)
+
 ### Images used on this page
 
 * Header image: Mauro Alvim's Usina at Tropixel Festival, image by [Luciana Fleischman / Flickr](https://www.flickr.com/photos/102890313@N05/10510916333/in/pool-tropixel/)

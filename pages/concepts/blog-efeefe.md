@@ -142,8 +142,6 @@ A [video description](https://archive.org/details/wasc-targeting) of these targe
 
 The concept ideas shown here are my responses to issues and insights identified while exploring the idea of waste avoidance in cities and towns, and how initiatives under that perspective are usually absent from smart city projects. Each concept connects differently to at least one of the four target groups.
 
-![Target groups](targeting.png)
-
 These ideas are not meant to be radically new. Rather, the intention is contributing to build a systemic, commons-based approach that allows society as a whole to benefit from the potential value that can be generated through secondary flows of matter.
 
 The concepts can be grouped in three main categories:
