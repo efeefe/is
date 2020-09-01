@@ -47,12 +47,19 @@ I am expecting to get feedback on those concepts in order to understand their re
 
 ## Research data
 
+Two research studies were conducted to generate data for this project. Here is a short description of them [in video](https://archive.org/details/wasc-design-research):
+
+<div style="text-align: center">
+  <video controls>
+   <source src="https://archive.org/download/wasc-design-research/02-%20design%20research.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+  </video>
+</div>
+
 The concepts are mainly based on data coming from two research studies:
 
 - [Repair Journey](../opendott/repair-journey) - seven participants were invited to spend some weeks trying to repair or repurpose broken objects, and were interviewed at the end to discuss what were their challenges and discoveries along the way.
 - [Ecosystem Mapping](../opendott/ecosystem-mapping) - five people whose work is related to the reuse or re-circulation of second-hand goods were interviewed to compose an overview of the field.
-
-!!! [This part in video](https://archive.org/details/wasc-design-research)
 
 Additional insights, inspiration and contributions to create the concept ideas came from:
 
@@ -66,8 +73,6 @@ Additional insights, inspiration and contributions to create the concept ideas c
 ## Target groups
 
 Even though the boundaries are somewhat blurred, each concept idea connects to at least one out of four target groups identified in the research. There is some overlap between them, but each can arguably be understood as a perspective that poses a different emphasis on the way materials are to be handled and circulate:
-
-!!! [This part in video](https://archive.org/details/wasc-targeting)
 
 <div class="columns ">
   <div class="column col-6 col-sm-12">
@@ -118,6 +123,15 @@ Even though the boundaries are somewhat blurred, each concept idea connects to a
     </p>
     </div>
   </div>
+</div>
+
+A [video description](https://archive.org/details/wasc-targeting) of these target groups.
+
+<div style="text-align: center">
+  <video controls>
+   <source src="https://archive.org/download/wasc-targeting/03-%20targeting.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
@@ -204,7 +218,14 @@ The concepts can be grouped in three main categories:
 
 </div>
 
-!!! [This part in video](https://archive.org/details/wasc-concept-ideas)
+[Concept categories in video](https://archive.org/details/wasc-concept-ideas):
+
+<div style="text-align: center">
+  <video controls>
+   <source src="https://archive.org/download/wasc-concept-ideas/04-%20concepts.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
