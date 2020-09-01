@@ -26,9 +26,11 @@ feed:
 
 I am Felipe Schmidt Fonseca, a researcher at [Northumbria University](https://www.northumbria.ac.uk/). At the time of publishing this page (August 2020), I'm working on [design concepts](#design-concepts) that respond to insights on [data](#research-data) collected during my [first year of research](../opendott/research-progress) in the [OpenDoTT](https://opendott.org) project.
 
-The main focus of my research is to contribute with ideas for cities and towns to avoid as much as possible the very need to manage waste in the usual ways, encouraging instead the *reuse of materials* through initiatives of *repair and repurposing* aimed at and run by *local actors*. More information about my research can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
+See an introduction in video:
 
 [![Video - Introduction](https://archive.org/download/wasc-intro/wasc-intro.thumbs/01-%20presentation_000087.jpg)](https://archive.org/details/wasc-intro)
+
+The main focus of my research is to contribute with ideas for cities and towns to avoid as much as possible the very need to manage waste in the usual ways, encouraging instead the *reuse of materials* through initiatives of *repair and repurposing* aimed at and run by *local actors*. More information about my research can be found [here](../opendott/focus) and elsewhere in my [research blog](../opendott).
 
 I have sketched eight concept ideas, <a href="#design-concepts">listed below</a> and further detailed in individual pages. These concepts and their descriptions will be edited as my research evolves over time.
 
