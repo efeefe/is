@@ -99,4 +99,3 @@ Still to add to this post:
 * methodology / analysis / questions / theme clustering
 * interview excerpts
 * diary samples
-* excerpts from emails sent to participants
