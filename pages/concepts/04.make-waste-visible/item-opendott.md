@@ -67,6 +67,18 @@ Some among many documentaries working to make waste visible.
 * [Waste Land, Estamira, Trash](../opendott/landfills)
 * [Island of Flowers](../opendott/ilha-das-flores)
 
+#### Ernesto Oroza
+
+Cuban designer Ernesto Oroza collects examples of what he calls *technological disobedience* and *architecture of necessity*.
+
+> This research blog/virtual archive Technologicaldisobedience.net was commissioned by the artist and curator Nicolas Maigret for the virtual exhibition «Futurs non-conformes», presented from April until October 2016 on Jeu de Paume’s virtual space.
+
+[technologicaldisobedience.com](http://www.technologicaldisobedience.com/)
+
+> I am using Architecture of necessity term as a metaphor. On the one hand it can be read as a descriptive term, austere in its rhetorical value, almost obvious. On the other hand, the term enunciates an architecture that is its self-diagram, and this image becomes structural and programmatic. I believe that architecture should be that. The home must be a structure of agreements. A factual connection between needs, materials, technology, urban regulations and social conditions.
+
+[architectureofnecessity.com](http://architectureofnecessity.com/)
+
 #### European Week for Waste Reduction
 
 The theme for this year's (2020) theme of the European Week for Waste Reduction is "invisible waste".

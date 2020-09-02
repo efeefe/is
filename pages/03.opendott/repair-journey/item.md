@@ -35,7 +35,7 @@ The Repair Journey was inspired by design research studies using probes: objects
 > Design Probes are often used in Design Research as means to provide open-ended interaction with a number of people, all the while keeping focus on a particular theme or issue. Probes are objects intentionally kept incomplete, so that the people targeted in the exercise can bring their own contributions to the fore. Examples of probes used in design research are cameras, portable diaries and other artifices that are given to the research subject for a period of time, and with/through which they are asked to interact.
 > This presentation will share the results of an experiment done as part of a PhD research on waste management within the context of smart city projects. In the experiment, people from different backgrounds will receive objects that are either broken, obsolete or unwanted for any other reason, and be asked to go around in the city trying to make such objects usable or/and valuable. The process of trying to make sense of those, so to say, inadequate objects in the city will inform a mapping of the ecosystem around waste, reuse and discard in the city of Dundee.
 
-As the UK was hit by the impacts of COVID-19 and lockdown measures were imposed, I had to refactor the study (and decided to rename it for clarity). Instead of having a public event in Dundee to present it and physically hand broken objects to participants, I ended up recruiting people that would conduct their own repair journeys and keep a repair diary along the way. The geographic reach was expanded to allow participants from the whole of the UK to sign up. I wish I could have involved participants from abroad as well, but that would entail a whole new submission to the University's ethics committee, which would take months to complete and disrupt the project's schedule.
+As the UK was hit by the impacts of COVID-19 and lockdown measures were imposed, I had to refactor the study (and decided to rename it for clarity). Instead of having a public event in Dundee to present it and physically hand broken objects to participants, I ended up recruiting people that would [conduct their own repair journeys](../repair-journey-preparation) and keep a repair diary along the way. The geographic reach was expanded to allow participants from the whole of the UK to sign up. I wish I could have involved participants from abroad as well, but that would entail a whole new submission to the University's ethics committee, which would take months to complete and disrupt the project's schedule.
 
 ### Participation
 
@@ -43,7 +43,7 @@ I have recruited participants over social media - my own and the project's - as 
 
 ### Cues
 
-During the weeks of the study, I would send emails to all participants nudging them to pay attention to one or other aspect of repairing and reusing things. I was interweaving those cues with the diary I was myself creating during those weeks - about a bicycle I had gotten for free after moving to Dundee. Here are some excerpts from those emails.
+During the weeks of the study, I would send emails to all participants nudging them to pay attention to one or other aspect of repairing and reusing things. I was interweaving those cues with the [diary I was myself creating](../repair-journey-a-personal-diary) during those weeks - about a bicycle I had gotten for free after moving to Dundee. Here are some excerpts from those emails.
 
 > Today I want to ask you to pay attention to one characteristic of what we're trying to accomplish here. The idea is to bring in particular stories related to broken objects, thinking of them as individual entities. Some years ago whilst spending some weeks as a resident designer working on reuse and circular economy in France, I attended a series of community repair events organised by a local nonprofit. Everyone was invited to bring things to be repaired, and a mixed group of volunteers and interns was there to help. Then I noticed that almost every object was brought with a story. "I've got this sewing machine from my mother", or "I found this vase just outside my place".
 > It would be great to incorporate a similar take in your diaries. You can frame this intention, for instance, by exploring the story of the object itself. Do you have any idea where it was designed or created, and where it was manufactured and distributed? How did it end up in your hands? In the case of an object previously owned by someone else, what brought it to you? Alternatively, you may want to tell more about the motivation you had to acquire this object in the first place. Or why you have decided to choose it for the Repair Journey. Are you trying to save it from a premature death? Did anything remarkable happen to it to cause its current state? Tell me more about it or, better yet, make it visible in your diary.
@@ -56,7 +56,29 @@ During the weeks of the study, I would send emails to all participants nudging t
 
 > If you managed to repair an object, how was it? Do you have thoughts about repairability, tools, skills, spare parts? Did you end up with a working object or not? I'm interested in knowing about successes as well as failures, obstacles, frustrations. Please reply to this email telling me a bit about either or all of those aspects.
 
-### Notes and insights
+### Diaries
+
+There was a diversity of outcomes in terms of diaries. From participants who had an exciting start but did not follow up to others who put an extra effort documenting and making things look good. There was a poem, a blog post, technical notes. And on occasion, no diary at all besides brief notes over email.
+
+![](battery.jpg?lightbox)
+
+![](calligraphy-box.jpg?lightbox&cropResize=500,500)
+![](messenger-bag.jpg?lightbox&cropResize=500,500)
+
+![](chair-diary.jpg?lightbox)
+
+![](toaster.jpg?lightbox)
+
+![](pants.jpg?lightbox&cropResize=500,500)
+![](power-bank.jpg?lightbox&cropResize=500,500)
+
+### Wrapping up
+
+In order to gather feedback and get a little deeper into the issues I would like to explore in my research, I had planned a final workshop with the participants. As mentioned above, four out of eight made it in the scheduled day in an online meeting that went on for almost two hours. Another two participants were interviewed individually.
+
+#### Notes and insights
+
+Upon analysing the diaries, email communication, workshop and interviews against the notes I made during the process, I have identified recurring topics and issues, shown below. From those I started building my [concept ideas](../concepts) for the next phases of the project.
 
 ![Repair in Public / Repair in Private](private-public.png?lightbox=1000)
 
@@ -64,7 +86,7 @@ During the weeks of the study, I would send emails to all participants nudging t
 
 ![Value](value.png?lightbox=1000)
 
-### Actionable notes
+##### Actionable notes
 
 * How to find about manuals, tools and parts?
 * How to identify the problem of one specific broken object?
@@ -87,7 +109,7 @@ During the weeks of the study, I would send emails to all participants nudging t
 
 * [Repair Journey - preparation](../repair-journey-preparation).
 * [Repair Journey - a personal diary](../repair-journey-a-personal-diary).
-* [Ecosystem Mappiong](../ecosystem-mapping), the other research study I have conducted in the first semester of 2020.
+* [Ecosystem Mapping](../ecosystem-mapping), the other research study I have conducted in the first semester of 2020.
 * [Concept Ideas](../../concepts) based on both studies.
 
 <a id="todo"></a>
@@ -96,6 +118,4 @@ During the weeks of the study, I would send emails to all participants nudging t
 
 Still to add to this post:
 
-* methodology / analysis / questions / theme clustering
 * interview excerpts
-* diary samples
