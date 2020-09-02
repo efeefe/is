@@ -62,15 +62,15 @@ There was a diversity of outcomes in terms of diaries. From participants who had
 
 ![](battery.jpg?lightbox)
 
-![](calligraphy-box.jpg?lightbox&cropResize=500,500)
-![](messenger-bag.jpg?lightbox&cropResize=500,500)
+![](calligraphy-box.jpg?lightbox&cropResize=500)
+![](messenger-bag.jpg?lightbox&cropResize=500)
 
 ![](chair-diary.jpg?lightbox)
 
 ![](toaster.jpg?lightbox)
 
-![](pants.jpg?lightbox&cropResize=500,500)
-![](power-bank.jpg?lightbox&cropResize=500,500)
+![](pants.jpg?lightbox&cropResize=500)
+![](power-bank.jpg?lightbox&cropResize=500)
 
 ### Wrapping up
 
