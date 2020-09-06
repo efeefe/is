@@ -7,6 +7,8 @@ taxonomy:
         - 'research questions'
         - focus
         - concepts
+jscomments:
+    provider: discourse
 show_sidebar: false
 feed:
     limit: 10

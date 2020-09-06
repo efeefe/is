@@ -10,6 +10,8 @@ taxonomy:
         - design research
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image:
+jscomments:
+    provider: discourse
 show_sidebar: false
 feed:
     limit: 10

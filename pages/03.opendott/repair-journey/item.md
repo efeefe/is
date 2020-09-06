@@ -10,6 +10,8 @@ taxonomy:
         - research study
         - design research
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+jscomments:
+    provider: discourse
 hero_image:
 show_sidebar: false
 feed:
