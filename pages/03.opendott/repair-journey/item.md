@@ -24,13 +24,13 @@ feed:
 
 The study was designed to investigate ways in which materials that are broken, obsolete or otherwise inadequate can be repaired, adapted or transformed in urban contexts. In particular, I expected to understand how the value of an object is perceived in different situations, and how accessible are the possible ways to handle or transform it.
 
-Those who volunteer to participate were asked to start a repair diary of one object that was either broken, malfunctioning or inadequate. Each participant was able to choose the object their diary would focus on. It could be an object they were currently interested in exploring, or some notable experience they have had in the past. During some weeks, participants would be asked to reflect upon the value of the object they chose, in what ways it could be considered usable and how easy it was to repair or repurpose it. Stories of failed attempts were to be considered as relevant as successful ones.
+Those who volunteered to participate were asked to start a repair diary of one object that was either broken, malfunctioning or inadequate. Each participant was able to choose the object their diary would focus on. It could be an object they were currently interested in exploring, or some notable experience they have had in the past. During some weeks, participants would be asked to reflect upon the value of the object they chose, in what ways it could be considered usable and how easy it was to repair or repurpose it. Stories of failed attempts were to be considered as relevant as successful ones.
 
 By the end of the period of exploration, the participants met for a closing workshop. During the workshop, they were asked to report how their journeys went, as well as to discuss what would need to be changed in their city or town to make the reuse of materials easier, more effective and more enjoyable. The main goal of the workshop was to understand what should be different in cities in order to allow local society to reuse more of the materials they currently discard.
 
 #### Broken Probes
 
-The Repair Journey was inspired by design research studies using probes: objects that invite participants to interact materially with them by completing, adding information or interventions, wearing or changing them. In February 2020 we (the OpenDoTT fellows) had a workshop with Jayne Wallace and Justin Marshall at Northumbria University to explore possibilities to use probes for our research. My interest in understanding the way citizens interacted with materials that were somehow inappropriate - broken, ill-fitted, obsolete or otherwise - led me to design what I originally named "broken probes". Here's a description I used to submit it to a conference (my proposal was approved, but the conference was unfortunately postponed until 2021):
+The Repair Journey was inspired by [design research studies](../design-research) using probes: objects that invite participants to interact materially with them by completing, adding information or interventions, wearing or changing them. In February 2020 we (the OpenDoTT fellows) had a workshop with Jayne Wallace and Justin Marshall at Northumbria University to explore possibilities to use probes for our research. My interest in understanding the way citizens interacted with materials that were somehow inappropriate - broken, ill-fitted, obsolete or otherwise - led me to design what I originally named "broken probes". Here's a description I used to submit it to a conference (my proposal was approved, but the conference was unfortunately postponed until 2021):
 
 > Design Probes are often used in Design Research as means to provide open-ended interaction with a number of people, all the while keeping focus on a particular theme or issue. Probes are objects intentionally kept incomplete, so that the people targeted in the exercise can bring their own contributions to the fore. Examples of probes used in design research are cameras, portable diaries and other artifices that are given to the research subject for a period of time, and with/through which they are asked to interact.
 > This presentation will share the results of an experiment done as part of a PhD research on waste management within the context of smart city projects. In the experiment, people from different backgrounds will receive objects that are either broken, obsolete or unwanted for any other reason, and be asked to go around in the city trying to make such objects usable or/and valuable. The process of trying to make sense of those, so to say, inadequate objects in the city will inform a mapping of the ecosystem around waste, reuse and discard in the city of Dundee.
@@ -58,7 +58,7 @@ During the weeks of the study, I would send emails to all participants nudging t
 
 ### Diaries
 
-There was a diversity of outcomes in terms of diaries. From participants who had an exciting start but did not follow up to others who put an extra effort documenting and making things look good. There was a poem, a blog post, technical notes. And on occasion, no diary at all besides brief notes over email.
+There was a diversity of outcomes in terms of diaries. From participants who had an exciting start but did not follow up to others who put an extra effort documenting and making things look good. There was a poem, a blog post, technical notes. And from at least one participant, no diary at all besides brief notes over email.
 
 ![](battery.jpg?lightbox)
 
@@ -78,7 +78,9 @@ In order to gather feedback and get a little deeper into the issues I would like
 
 #### Notes and insights
 
-Upon analysing the diaries, email communication, workshop and interviews against the notes I made during the process, I have identified recurring topics and issues, shown below. From those I started building my [concept ideas](../concepts) for the next phases of the project.
+By its own nature, this study focused more on the perception of individuals about reusing materials. At some points I decided to drive the conversation and ask more directly what they felt should be the role of the local government. Elsewhere I left discussions take their own pace.
+
+Upon analysing the diaries, email communication, workshop and interviews against the notes I made on my own, I have identified recurring topics and issues, shown below.
 
 ![Repair in Public / Repair in Private](private-public.png?lightbox=1000)
 
@@ -86,14 +88,17 @@ Upon analysing the diaries, email communication, workshop and interviews against
 
 ![Value](value.png?lightbox=1000)
 
+
 ##### Actionable notes
+
+Below is a set of questions I was left with after analysing the diaries, workshop and interview transcriptions. They form part of the foundation on top of which I started creating my [concept ideas](../concepts) for the next phases of the project.
 
 * How to find about manuals, tools and parts?
 * How to identify the problem of one specific broken object?
 * How to reward people for repairing?
-* How to find about people, spaces, events?
+* How to find about people, spaces, events that are relevant to reuse things?
 * How to store and move broken objects that can still be repaired?
-* How to offer inclusive spaces for repairing?
+* How to offer inclusive spaces for reusing?
 * How to encourage repurposing by modularity?
 * How to treat more objects as we do a cherished book?
 * How to connect the practical skills of craft, repair and making?
@@ -119,3 +124,5 @@ Upon analysing the diaries, email communication, workshop and interviews against
 Still to add to this post:
 
 * interview excerpts
+* methodology: more about diary studies
+* expand on notes from participation (value, joy of repair, private /community...)

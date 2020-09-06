@@ -17,15 +17,49 @@ feed:
 
 ! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
 
-> In Ecosystem Mapping, I have interviewed people who are related (either professionally or informally) with repair reuse. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved.
+> In the Ecosystem Mapping, I have interviewed people who are related (either professionally or informally) with repair and reuse. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved at a system level.
 
 ### Design of the research study
 
+During the first module of our [design research training](../design-research), I have experimented with identifying over a map of Dundee (especially around its West End where the University campus is located) what were the different sorts of organisations and services that would help reuse things.
+
 The goal of the project was to understand how broken or discarded materials circulate in the urban context, as well as where and how they are handled and transformed. I was looking particularly into how potential value is assessed in different kinds of facilities, and what types of equipment, methodologies and data sources can aid in that. I expected to do that by interviewing managers and staff working at places responsible for solid waste treatment, as well as organisations and companies that repair, repurpose or handle donations of different types of materials.
 
-The COVID-19 lockdown in place during the whole of my data collection period made it difficult to visit and interview staff members from waste management, as well as volunteers in charities. I managed however to interview participants who brought me a sufficiently diverse set of perspectives: a local manufacturing / design shop; a nonprofit organising zero waste initiatives; a second hand shop / cash advancer; a scrap shop with an artists' studio attached; a data scientist creating ways to visualise waste data.
+![Dundee](dundee-map.png)
 
-### Research data
+### Recruiting
+
+The COVID-19 lockdown in place during the whole of my data collection period made it difficult to visit and interview staff members from waste management, or volunteers in charities. I managed however to recruit participants for online or phone interviews who brought me a sufficiently diverse set of perspectives: a local manufacturing / design shop; a nonprofit organising zero waste initiatives; a second hand shop / cash advancer; a scrap shop with an artists' studio attached; a data scientist creating ways to visualise waste data.
+
+I could not get a hold of anyone from a local Council that would agree to be interviewed for the study, despite asking around in different cities and social circles. It may be only a result of the current times, with a lot of pressure over waste collection and many new issues to deal with regarding health and safety of staff and citizens. But I couldn't help reiterating the feeling that many cities are uncomfortable to discuss their waste policies. I was able however to acquire a broad understanding of waste management systems by attending an online course called "[Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management)". As my [research focus](../focus) is not exactly waste management but rather waste prevention, that proved a good starting point.
+
+### Research Data
+
+Here are some excerpts of the interviews that contributed to my understanding of the field.
+
+#### Data Scientist
+
+I have interviewed a data scientist who is working on ways to make sense of a dataset about waste flows, with data sent by local authorities from the whole of the United Kingdom. The dataset is updated quarterly.
+
+> It is a graph, if that makes sense. It flows to and from. So, it \[is\] all about flows of tonnes from local authorities through to different processing facilities and how all of it gets separated or combined in the process.
+
+> \[There are\] material recovery facilities, where a lot of mixed up recycling ends up or where people drive to, to put things in there. So, in there, there are lots of trucks coming in. What they do, they also scan their number plates, so that they know that if this truck comes from this borough or this area, locate some of those tonnes that way and then they weight the trucks, so they know how much comes in.
+
+On value:
+
+> I think with this data that currently exists, you can measure the value of materials, after they have been through a material processing facility. So, you would know that this much of aluminium was recovered. This much of textile was recovered, which is normally carpet, which is normally made of polyester. So, you would know how much it would cost, but you don't know before it goes in because it is all mixed up. In the UK, it is collected together.
+So,
+
+There is data about reuse as well:
+
+> So, for things like books or some white goods, like fridges and things, they measure how many were reused because councils, they do this scheme where they repair it, then they give it to people who don't have much money or, the council tenant, they can offer them this reused product. I think books were also part of that. I can have a look for you in detail, because I think the materials \[in UK's waste dataset\], they can be quite detailed.
+
+> The only time when I have spoken with them \[waste management authorities\], they seem to be focussing on education campaigns. That is the sort of things that they are looking at. Whereas, when I look at data science area, they are all thinking about using robots to separate waste better, but it looks like it is not that much better than what is currently being done.
+
+> The other thing maybe worth looking at is charity shops, because charity shops, from my observation, and this is not scientific, I just looked at them, they throw away most of the stuff that they are given. So, they are supposed to recycle it, but I think the sheer volume of the clothes and stuff that people give and they don't sell, there are just big bins next to them or behind them that you can see full of stuff. The stuff that you see in there is crazy.
+Big things like copper, really valuable things like that, like copper, artworks. Some of those artworks could be valuable, who knows. So, it is not just clothes as well. There is lots of stuff.
+
+### Analysing
 
 The interview transcriptions and my own notes allowed me to compose topic maps for each of the interviews, which were then juxtaposed. Some patterns emerged from those maps, which I grouped in six topic clusters:
 
@@ -73,5 +107,9 @@ The interview transcriptions and my own notes allowed me to compose topic maps f
 Still to add to this post:
 
 - more on methodology
-- short description of participants interviewed
-- relevant excerpts from interviews
+- relevant excerpts from all participants
+- Expand on Notes
+  - Cleaning objects
+  - Encourage the use of old things
+  - Reuse cabin
+  - Deal with excess - big data
