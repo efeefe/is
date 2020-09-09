@@ -8,9 +8,9 @@ taxonomy:
         - map
         - website
         - registry
-last_modified: true
 jscomments:
     active: false
+last_modified: true
 show_sidebar: false
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: save-this-thing.png
@@ -46,6 +46,12 @@ Save this Thing is a geo-referenced and user evaluated open directory of repair 
 > "It’s knowing where to look for people that you can in some way trust with your device or item"
 
 ### References
+
+#### Repair Directory
+
+> Broken gadget? No time to fix it yourself or to bring it to a Restart Party in London? Search the Restart Repair Directory to find a reliable repair business in your area. This is a beta release and includes businesses in 12 boroughs in London.
+
+[therestartproject.org/repairdirectory](https://therestartproject.org/repairdirectory/)
 
 #### Make.Works
 
