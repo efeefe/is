@@ -27,7 +27,7 @@ Invite artists, designers and activists through residence programs, hackathons a
 
 ### Open Questions
 
-* Involve local groups in the discussion and reflection
+* How to involve local groups in the discussion and reflection
 
 ### Sketches
 
@@ -40,7 +40,7 @@ Invite artists, designers and activists through residence programs, hackathons a
 
 ### Supporting Research Data
 
-! to come
+> "There was a bit of criticism that actually with… I mean, I work a lot with organisations that are funded by the Climate Challenge Fund and so a lot of the projects seem to focus on poverty and poor areas and it is, like you say, about saving money and food waste and things like that. But, actually, saying maybe some more of the funding should be targeting the wealthy areas because actually when people have too much money, they can afford to go out and buy new stuff all the time and don't see the value in reusing or repairing."
 
 ### References
 

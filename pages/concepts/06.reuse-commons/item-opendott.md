@@ -24,14 +24,18 @@ Ecosystem for the collective stewardship of post-consumption materials.
 
 ![Reuse Commons](reuse-commons-hz.png)
 
-Reuse Commons is a model for a multi-stakeholder local body governing the reuse of discarded materials. It integrates [transformation labs](../transformation-labs), lost and found services, reuse cabins and similar initiatives, community reuse projects (repair cafes, zero waste and material redistribution projects), [reuse bins](../reuse-bin) and [reuse datasets](../reuse-dataset).
+Reuse Commons is a model for a multi-stakeholder body governing the reuse of discarded materials in aß city or region.
+
+#### Relation to other concept ideas
+
+The reuse commons integrates [transformation labs](../transformation-labs), lost and found services, reuse cabins and similar initiatives, community reuse projects (repair cafes, zero waste and material redistribution projects), [reuse bins](../reuse-bin) and [reuse datasets](../reuse-dataset).
 
 #### Potential members
 
 - Citizens / households.
  - Donating / Selling goods to the commons and being able to track their destination / social impact.
- - Having access (affordable prices / donation schemes) to trusted second-hand goods. Access to their provenance and individual history.
- - Possibility: reward donors with credits to aqcuire other goods.
+ - Having access (affordable prices / donation schemes) to trusted second-hand goods - provenance and individual history.
+ - Possibility: reward donors with credits to acquire other goods.
 - Community reuse initiatives - repair cafes, men's sheds, charity shops, *ressourceries*, clothes swaps, zero waste projects,
 - Repair/reuse services - SMEs and social enterprises making their services known. Smartphone and Laptop repairs, tailors, bike shops, automobile maintenance,
 - Upcycling / Antique / Design shops
@@ -46,8 +50,8 @@ Membership model - people, businesses and organisations sign up to participate i
 
 ### Open Questions
 
-* Fine tune the system of incentives for different stakeholders
-* Communicate in a way that is easy to understand
+* How to reward citizens and organisations for reusing materials? Fine tune the system of incentives for different stakeholders.
+* Communicate in a way that is easy to understand.
 
 ### Sketches
 
@@ -62,7 +66,8 @@ Membership model - people, businesses and organisations sign up to participate i
 
 ### Supporting Research Data
 
-! to come
+> I found two chairs, wooden chairs. They look as if they are mid-century, but it was missing the seat. That’s the diary I made and shared with you. And I guess in this case, because we moved into this place a year ago and we’ve slowly been putting things in it. And we tend not to have too many things because my work sometimes takes me to other countries and I move for a bit of time. So we try not to have too many things.
+But we knew we needed chairs, so I took it in as a necessity/opportunity to do something creative with it. Especially since I was looking for excuses to use my printer, that was kind of the idea. What else was there? What else has broken recently? Quite a few things.
 
 ### References
 

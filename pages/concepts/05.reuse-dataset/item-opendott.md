@@ -24,11 +24,13 @@ Open Dataset about different kinds of reuse of materials in urban environments.
 
 There is strong evidence that often times recycling is not the most appropriate solution for waste, particularly when there are still potential uses for the discarded materials. However, there is little available data to inform society of the social, economic and environmental outcomes of reuse when compared to data about recycling.
 
+#### Relation to other concept ideas
+
 The Reuse Dataset will integrate and make available data about different kinds of reuse of materials in urban environments, including household, community and local initiatives. It is a central element to build the [Reuse Commons](../reuse-commons) and its economic model.
 
 ### Open Questions
 
-* Governance of the database
+* Governance of the database. Ownership, decision-making. How to ensure data is correct and consistent. Who is responsible for editing when data is wrong?
 
 ### Sketches
 
@@ -41,7 +43,9 @@ The Reuse Dataset will integrate and make available data about different kinds o
 
 ### Supporting Research Data
 
-! to come
+> Yes, I think with this data that currently exists, you can measure the value of materials, after they have been through a material processing facility. So, you would know that this much of aluminium was recovered. This much of textile was recovered, which is normally carpet, which is normally made of polyester. So, you would know how much it would cost, but you don't know before it goes in because it is all mixed up. In the UK, it is collected together.
+So, it is called [commingled recycled 00:16:06] because it is all together mostly. Apart from, okay, carpet is separated. It is not a good example, but your standard rubbish is typically separated. In this dataset, there is also a reuse element.
+So, for things like books or some white goods, like fridges and things, they measure how many were reused because council, they do this scheme where they repair it, then they give it to people who don't have much money or, the council tenant, they can offer them this reused product. I think books were also part of that. I can have a look for you in detail, because I think the materials, they can be quite detailed.
 
 ### References
 

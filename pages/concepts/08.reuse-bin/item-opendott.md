@@ -23,15 +23,18 @@ Track what is made of your donations.
 
 ### Description
 
-Kerbside bins that allow citizens to donate unused objects. The equipment generates a tracking code which allows donors to learn where the objects are taken to, what is made of them and the social/economic impacts they end up having.
+A system of kerbside bins that allow citizens to donate unused objects. Each unit generates a tracking code which allows donors to learn where the objects are taken to, what is made of them and their social/economic impacts along the way.
 
-The Reuse Bin is the most visible interface between citizens and the [Reuse Commons](../reuse-commons). Materials are taken to [Transformation Labs](../transformation-lab) to be assessed and acted upon. All data generated along the process is fed into the [Reuse Dataset](../reuse-dataset).
+### Relation to other concept ideas
+
+The Reuse Bin is the most visible interface between citizens/households and the [Reuse Commons](../reuse-commons). Materials are taken to [Transformation Labs](../transformation-lab) to be assessed and reused. All data generated in the process is continuously fed into the [Reuse Dataset](../reuse-dataset).
 
 ### Open Questions
 
-- How to integrate with municipal waste management?
-- Who is in charge of collecting the materials?
-- How do citizens interact with the bin? A rugged screen? Smartphone app? Paper slips for the tracking code?
+- How to integrate the Reuse Bin with municipal waste management? Location of Bins, funding, integration with other destinations of waste.
+- Who is in charge of collecting the materials? Current waste management companies vs. newly formed organisations or consortia involving community initiatives.
+- How do citizens interact with the bin? A rugged screen? RFID Card? Smartphone app? Paper slips for the tracking codes? Will the Bin accept anonymous donations?
+- Ownership of materials put into the bin. What happens if a citizen regrets donating something? What happens when someone puts other people's materials in the Bin?
 
 ### Target Groups
 
@@ -41,13 +44,18 @@ The Reuse Bin is the most visible interface between citizens and the [Reuse Comm
 
 ### Supporting Research Data
 
-! to come
+> "There are a few projects at council recycling centres where they will have what they tend to call a reuse cabin.
+So when you take your things in, they will say – have big banners up saying – ‘could this actually be reused? Put it in this cabin.’ And such-and-such community group will come and collect those things. So, like, a couple of really good ones, there's one called Moray Waste Busters, up near Inverness and they have a big site at the council recycling centre. So you go in and the first bit you come to is Moray Waste Busters.
+So if you've got anything that you think could be reused, you give it to them and then they have an onsite shop as well. So they will put stuff in the shop. So while you're there getting rid of stuff, you can also park up and go in and do your shopping. And they've got a section for books and a section for electrical items and a section for bikes and all different things. So, they’re really trying to push reuse. So it's only if they can't reuse it, then you move on to the recycling or the landfill bin."
 
 ### References
 
 #### SmartBin
 
-[SmartBin](https://www.smartbin.com/)
+> Intelligent Remote Monitoring Solutions for Collectors of Waste and Recycling
+Optimize logistic resources while reducing collection and delivery costs by up to 50%
+
+[smartbin.com](https://www.smartbin.com/)
 
 ### Images used on this page
 

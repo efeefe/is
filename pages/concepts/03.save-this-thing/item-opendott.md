@@ -26,6 +26,10 @@ A website with a geo-referenced open directory of shops, professionals and group
 
 Save this Thing is a geo-referenced and user evaluated open directory of repair professionals, zero waste initiatives (community repair, upcycling, swap shops, etc), craftspeople, hardware stores, maker spaces, charity shops, recycling points, etc.
 
+#### Relation to other concept ideas
+
+Save this Thing uses data from the [Universal Registry of Things](../universal-registry-things) and is also related to [Point and Reuse](../pont-reuse).
+
 ### Open Questions
 
 - How best to implement user-based trust/reputation systems? Karma / testimonials.
