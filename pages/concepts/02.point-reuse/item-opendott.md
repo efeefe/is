@@ -32,6 +32,10 @@ Functionalities:
 * Browse by brand or type
 * Search
 
+#### Relation to other concept ideas
+
+Point and Reuse is mainly a user/citizen interface for the [Universal Registry of Things](../universal-registry-things).
+
 ### Open Questions
 
 * How reliable are the computer vision possibilities?
@@ -50,7 +54,8 @@ Functionalities:
 
 ### Supporting Research Data
 
-! to come
+> "So I guess- I don’t know about you guys really, but what I’ve noticed, there is a- For example, the food mixers I work on, these Kenwood Chefs, a lot of them, different variants. To replace those with the modern equivalent would be between £200 and £400. But the repair would be a tenth, roughly, to me, of that purchase. So the old item, it doesn’t matter how old it is, still has value."
+
 
 ### References
 

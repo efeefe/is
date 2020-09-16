@@ -25,7 +25,7 @@ An open database about objects, to support the reuse (repair, recirculation, upc
 
 The Universal Registry of Things is a trusted source of information about how to reuse objects. It covers information about repair, customisation and repurposing of virtually any kind of thing.
 
-Examples of data to be listed:
+Examples of data to be featured:
 
 * Manufacturer
 * Support and end-of-life policy;
@@ -38,6 +38,10 @@ Examples of data to be listed:
 * Tutorials of repair and upcyling;
 * Examples of reuse;
 * How to dispose of.
+
+#### Relation to other concept ideas
+
+The Universal Registry of Things provides the information groundwork for the [Point and Reuse](../point-reuse) app, as well as having indirect connections both to [Save this Thing](../save-this-thing) and
 
 ### Open questions
 
