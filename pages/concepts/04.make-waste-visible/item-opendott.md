@@ -87,6 +87,14 @@ The theme for this year's (2020) theme of the European Week for Waste Reduction 
 
 [ewwr.eu](https://ewwr.eu/thematic-focus/2020-invisible-waste/)
 
+### Basurama
+
+> Basurama es un colectivo dedicado a la investigación, creación y producción cultural y medioambiental fundado en 2001 que ha centrado su área de estudio y actuación en los procesos productivos, la generación de desechos que éstos implican y las posibilidades creativas que suscitan estas coyunturas contemporáneas. Nacido en la Escuela de Arquitectura de Madrid ha ido evolucionando y adoptando nuevas formas desde sus orígenes. Pretende estudiar fenómenos inherentes a la producción masiva de basura real y virtual en la sociedad de consumo aportando nuevas visiones que actúen como generadores de pensamiento y actitud. Detecta resquicios dentro de estos procesos de generación y consumo que no sólo plantean interrogantes sobre nuestra forma de explotar los recursos, sino también sobre nuestra forma de pensar, de trabajar, de percibir la realidad.
+
+[plugin:youtube](https://www.youtube.com/watch?v=E47JJNumh3w)
+
+[basurama.org](https://basurama.org/)
+
 ### Images used on this page
 
 * Header image: Mauro Alvim's Usina at Tropixel Festival, image by [Luciana Fleischman / Flickr](https://www.flickr.com/photos/102890313@N05/10510916333/in/pool-tropixel/)
