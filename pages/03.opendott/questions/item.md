@@ -16,7 +16,7 @@ feed:
 
 ! This post will be updated every time my research questions have changed. **Current version:** September 2020, closing the first year of research.
 
-My investigation topic is the *smart city*. I am directing my attention in particular to the reuse of materials in cities and towns through initiatives aimed at and run by local actors. It is a critical take to the way waste management is often implemented by local governments. Instead of increasing the efficiency of waste collection and disposal (usually towards reycling, incineration or landfills), I expect to generate ideas that contribute to avoid as much as possible the very need to manage waste on the first time.
+My investigation topic is the *smart city*. I am directing my attention in particular to the reuse of materials in cities and towns through initiatives aimed at and run by local actors. It is a critical take to the way waste management is often implemented by local governments. Instead of increasing the efficiency of waste collection and disposal (usually towards recycling, incineration or landfills), I expect to generate ideas that contribute to avoid as much as possible the very need to manage waste on the first time.
 
 In other words, I am proposing the prevention of waste, or its avoidance, through repair and repurposing. The research entails discussions about the collective ownership, as well as local sovereignty, over discarded or unwanted materials.
 
