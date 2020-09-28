@@ -6,9 +6,9 @@ taxonomy:
         - city
         - governance
         - commons
-last_modified: true
 jscomments:
     active: false
+last_modified: true
 show_sidebar: false
 hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
 hero_image: reuse-commons-hz.png
@@ -24,7 +24,7 @@ Ecosystem for the collective stewardship of post-consumption materials.
 
 ![Reuse Commons](reuse-commons-hz.png)
 
-Reuse Commons is a model for a multi-stakeholder body governing the reuse of discarded materials in aß city or region.
+Reuse Commons is a model for a multi-stakeholder body governing the reuse of discarded materials in a city or region.
 
 #### Relation to other concept ideas
 
