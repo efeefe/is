@@ -91,6 +91,12 @@ While essentially different in purpose, Thingiverse is another database of objec
 
 [thingiverse.com](https://www.thingiverse.com/)
 
+#### Persistent things
+
+> There’s an exuberance of energy on the surface of the Earth. As Georges Bataille suggested “[…]there is generally no growth but a luxurious squandering of energy in every form!” This excess of energy is stored in things. However, our production systems dissipate this energy willingly and catastrophically through institutional infrastructures, activities and organisations that fail to reinvest things within recuperative regimes or frameworks. We have failed to notice that matter can be designed to persevere. Persistent Things interrogates how we can change our relationship to materials to ensure they persist over time.
+
+[Persistent Things](https://www.climate-kic.org/opinion/persistent-things/)
+
 ---
 
 ### Images used on this page

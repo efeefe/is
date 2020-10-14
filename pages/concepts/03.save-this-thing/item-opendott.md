@@ -63,6 +63,12 @@ Save this Thing uses data from the [Universal Registry of Things](../universal-r
 
 [make.works](https://make.works/)
 
+#### Dsposal
+
+> We build easy-to-use tech to connect UK waste producers to licensed waste services and simplify compliance. We believe in making the relevant data accessible and convenient to use, driving behaviour change and creating value by maximising the utility of waste.
+
+[dsposal.uk](https://dsposal.uk/)
+
 ### Images used on this page
 
 * Header image: Map by [Waldemar Brandt Unsplash](https://unsplash.com/photos/aHZF4sz0YNw).

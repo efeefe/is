@@ -59,6 +59,12 @@ Here's a presentation during Fixfest 2020:
 
 [plugin:youtube](https://www.youtube.com/watch?v=pFa7g66AEHk)
 
+#### KnoWaste
+
+> Smart waste means smart use of data to stitch together the patchwork of today’s waste data including returns from permitted sites, voluntary initiatives and one-off surveys. We know from HM Government’s Resources and Waste Strategy for England that waste data is time-consuming, complex to use and doesn’t support effective tacking of waste crime. We know today’s technologies can help make better use of waste data to become a zero waste society.
+
+[OpenDataManchester/KnoWaste](https://github.com/OpenDataManchester/KnoWaste)
+
 ### Images used on this page
 
 * Header image: Collage of an image made by the research and one of [Markus Spiske / Unsplash](https://unsplash.com/photos/gcgves5H_Ac)
