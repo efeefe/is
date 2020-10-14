@@ -69,6 +69,12 @@ Save this Thing uses data from the [Universal Registry of Things](../universal-r
 
 [dsposal.uk](https://dsposal.uk/)
 
+#### Remap Berlin
+
+> Altes Sofa, defekter Toaster oder zu kleiner Pulli - was tun mit kaputten, ausgedienten oder anderen Gegenständen, die Du nicht mehr brauchst? Frag die ReMap und finde den umweltfreundlichsten Weg sie weiterzugeben oder zu entsorgen. Auch in Sachen Reparatur, Second Hand, Leihen und Tauschen hilft Dir die ReMap weiter. Sie zeigt Dir die richtigen Adressen in Deiner Nähe und im Internet. So wird Zero Waste ganz einfach.
+
+[remap-berlin.de](https://www.remap-berlin.de/)
+
 ### Images used on this page
 
 * Header image: Map by [Waldemar Brandt Unsplash](https://unsplash.com/photos/aHZF4sz0YNw).
