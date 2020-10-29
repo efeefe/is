@@ -1,18 +1,17 @@
 ---
 title: 'Repair Journey'
-date: ''
 published: true
+date: '09-10-2020 09:42'
 taxonomy:
     tag:
-        - repair journey
-        - broken probes
+        - 'repair journey'
         - research
-        - research study
-        - design research
-hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
+        - 'research study'
+        - 'design research'
+        - 'broken probes'
 jscomments:
     provider: discourse
-hero_image:
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 show_sidebar: false
 feed:
     limit: 10
