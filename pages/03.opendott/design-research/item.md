@@ -1,15 +1,14 @@
 ---
 title: 'Design Research'
-date: ''
 published: true
+date: '09-10-2020 09:42'
 taxonomy:
     tag:
-        - design research
         - research
-        - research study
+        - 'research study'
+        - 'design research'
         - training
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
-hero_image:
 show_sidebar: false
 feed:
     limit: 10
