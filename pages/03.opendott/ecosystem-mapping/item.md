@@ -1,17 +1,16 @@
 ---
 title: 'Ecosystem Mapping'
-date: ''
 published: true
+date: '09-10-2020 09:40'
 taxonomy:
     tag:
-        - ecosystem mapping
         - research
-        - research study
-        - design research
-hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
-hero_image:
+        - 'ecosystem mapping'
+        - 'research study'
+        - 'design research'
 jscomments:
     provider: discourse
+hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 show_sidebar: false
 feed:
     limit: 10
