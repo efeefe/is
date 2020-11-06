@@ -19,7 +19,7 @@ content:
     pagination: true
     url_taxonomy_filters: true
 feed:
-  limit: 10
+    limit: 10
 ---
 
 ## My Stuff
@@ -30,9 +30,13 @@ A curated list of ideas and works, old and new.
 
 **[OpenDoTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of University of Dundee and Mozilla Foundation (2019-2022).
 
+**[Tropixel](https://tropixel.org)** - Brazil-based network around arts, science, technology and society (since 2013).
+
 ### Archived projects
 
-**[Ciência Aberta Ubatuba](http://cienciaaberta.ubatuba.cc/)** - Ubatuba Open Science, research-action project (2015-2017).
+**[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, research-action project (2015-2017).
+
+**[Rede//Labs](https://redelabs-org.github.io/)** - open research about networked labs and experimental digital culture (2009-2016).
 
 **[BricoLabs](https://www.pixelache.ac/festivals/festival-2013/theme/bricolabs)** - international network on free/open hardware, software, spectrum and culture, and generic infrastructures (2006-2013).
 
