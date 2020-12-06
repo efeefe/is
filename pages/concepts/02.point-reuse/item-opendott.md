@@ -72,6 +72,12 @@ Point and Reuse is mainly a user/citizen interface for the [Universal Registry o
 
 [odk.ai](https://www.odk.ai/)
 
+#### Pi Trash Classifier
+
+> Build a custom trash classifier using the Raspberry Pi and Lobe, a beginner-friendly machine learning program (without coding).
+
+[hackster.io/jenfoxbot](https://www.hackster.io/jenfoxbot/make-a-pi-trash-classifier-with-ml-e037a6)
+
 #### Plant identification apps
 
 A list [here](https://youhadmeatgardening.com/best-plant-identification-app/):
