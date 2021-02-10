@@ -28,9 +28,9 @@ A curated list of ideas and works, old and new.
 
 ### Current projects
 
-**[OpenDoTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of University of Dundee and Mozilla Foundation (2019-2022).
+**[OpenDoTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of ~University of Dundee~ Northumbria University and Mozilla Foundation (2019-2022).
 
-**[Tropixel](https://tropixel.org)** - Brazil-based network around arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
+**[Tropixel](https://tropixel.org)** - Brazil-based network on arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
 
 ### Archived projects
 
