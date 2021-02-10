@@ -30,9 +30,11 @@ A curated list of ideas and works, old and new.
 
 **[OpenDoTT](../opendott)** - PhD research on smart city, part of the Open Design of Trusted Things project of University of Dundee and Mozilla Foundation (2019-2022).
 
-**[Tropixel](https://tropixel.org)** - Brazil-based network around arts, science, technology and society (since 2013).
+**[Tropixel](https://tropixel.org)** - Brazil-based network around arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
 
 ### Archived projects
+
+**[Inovação Cidadã - Conceitos](https://cursos.tropixel.org/ic-conceitos/home)** - Open learning itinerary on 'citizen innovation' (2019 / 2020).
 
 **[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, research-action project (2015-2017).
 
