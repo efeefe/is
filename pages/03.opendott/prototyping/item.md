@@ -37,7 +37,7 @@ For my research purposes, the link between the repair/upcycle machine and "smart
 
 I know I repeat myself a lot, but I do think that the role of "agent valoriste" that I heard of for the first time during a residency in Nantes in 2016 must be a core part of my research. Here's a professional course on it being taught by an association there:
 
-https://ecossolies.fr/Formation-Agent-valoriste
+[https://ecossolies.fr/Formation-Agent-valoriste](https://ecossolies.fr/Formation-Agent-valoriste)
 
 Have a look:
 
@@ -63,7 +63,7 @@ I am currently expecting a feedback on approval of 4 (and 5) from the University
 
 With the turn of the year and the perception that I've already crossed the 18 months mark (which means I'm halfway in this project), I decided to start mobilising my networks to speed things up. Here's a tweet trying to map the terrain:
 
-https://twitter.com/efeefe/status/1349005161046437888
+[https://twitter.com/efeefe/status/1349005161046437888](https://twitter.com/efeefe/status/1349005161046437888)
 
 The replies to this tweet are already good clues on where and how to recruit participants. Ultimately, I would love to engage with agents valoristes active on the field, but there is a risk that I can only find them in Nantes, and my French is not that great, so I may skip that for the time being. But here are some loose ideas for afterwards, going into the third year:
 
