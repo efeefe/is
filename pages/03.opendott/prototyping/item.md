@@ -6,6 +6,7 @@ taxonomy:
         - Berlin
         - Northumbria
         - prototyping
+        - Valooe
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 hero_image: header.jpg
 show_sidebar: false
