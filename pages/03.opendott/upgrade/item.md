@@ -15,7 +15,8 @@ feed:
 
 As briefly mentioned in [another post](../halfway), last month I went through a process of research evaluation at the University. Northumbria calls it an "annual progression", which should take place, obviously, every year during the research period. In my case, it was delayed by about six months, due to the whole [OpenDott project](https://opendott.org) having migrated from the University of Dundee last June and to other events beyond my control (COVID-19, visa paperwork and processing, moving to another country with two children, deserved holidays in Brazil). I am expected to undergo another annual progression before the end of 2021. If we still were at the University of Dundee, the process would be similar but would happen only once, akin to what is usually called "qualificação" in Brazilian PhD programmes. In that (Brazilian) context, it would be about assessing the academic "quality" of my work. At Northumbria it's about the "progress". But the geek in me likes the way it's phrased in Dundee: upgrade. This word made into the deliverables we were expected to provide to the funder, one of which is called the "upgrade report". It makes me think of the output log of shell commands such as "apt upgrade". What follows is version 0.3 of my upgrade report - the one I sent in for my annual progression.
 
-# Upgrade report - (Waste Prevention in) Smart Cities - OpenDoTT
+# (Waste Prevention in) Smart Cities
+## Upgrade Report
 
 - _Version 0.2 delivered to the funder in October 2020_
 - _Version 0.3 submitted as proof of annual progression at Northumbria University, approved after session in January 2021_
