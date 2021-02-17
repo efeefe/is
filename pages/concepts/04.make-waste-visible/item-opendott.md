@@ -52,6 +52,11 @@ Many projects treat waste as subject or material for artistic intervention.
 
 [recology.com](https://www.recology.com/recology-san-francisco/artist-in-residence-program/)
 
+**Recology / Artatthedump Flickr albums:**
+
+- [https://www.flickr.com/photos/artatthedump/albums/]
+
+
 #### Gambiologia
 
 Brazilian collective exploring an aesthetics of reuse.
