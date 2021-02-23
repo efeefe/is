@@ -16,7 +16,7 @@ feed:
     limit: 10
 ---
 
-[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme\* to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/) in the first phase of the programme, and relocated recently to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The whole project has migrated from the University of Dundee to Northumbria University in June 2020.
+[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme\* to explore how to build a more open, secure, and trustworthy Internet of Things". I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The whole project has migrated from the University of Dundee to Northumbria University in June 2020\(\*\).
 
 My research topic in the project is (waste prevention in) "smart cities". I am documenting in this blog what I am reading, learning and discovering as I go deeper into my research. I will also maintain a list of links with the *opendott* tag in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott).
 
