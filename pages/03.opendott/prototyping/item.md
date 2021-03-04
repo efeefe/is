@@ -52,10 +52,10 @@ If anything, I'd love my prototypes to serve those people and organisations.
 I have accepted that the possibility of doing any kind of face to face fieldwork in this semester is remote if at all viable. So I took the advice from my academic supervisors earlier this week and will plan for a 100% online study this year. This way:
 
  1. Work on the tech side of my prototype with Officine Innesto and have some kind of functionality ready by late February (March)
- 2. Work in tandem with (a) designer/s to have the form factor of Valooe, online UX/UI of the info screens, general look and ID ready ASAP.
- 3. Produce a speculative video of Valooe as if it's already 100% functional... showing at least the machine, but hopefully the other 3 versions of it as well.
+ 2. Work in tandem with (a) designer/s to have the form factor of e-i ~~Valooe~~, online UX/UI of the info screens, general look and ID ready ASAP.
+ 3. Produce a speculative video of e-i ~~Valooe~~ as if it's already 100% functional... showing at least the machine, but hopefully the other 3 versions of it as well.
  4. Organise online workshops in which I will exhibit the video and discuss what is the relevance and implications of developing this sort of technology. I would like to recruit people active in different areas that might be interested in it.
- 5. I will host a workshop at #mozfest exploring data structures for the [universal registry of things](../../concepts/universal-registry-things) (which would be the backbone of Valooe).
+ 5. I will host a workshop at #mozfest exploring data structures for the [universal registry of things](../../concepts/universal-registry-things) (which would be the backbone of e-i ~~Valooe~~).
 
 I am currently expecting a feedback on approval of 4 (and 5) from the University's ethic committee.
 
