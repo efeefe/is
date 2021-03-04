@@ -18,11 +18,11 @@ This is a slightly edited version of an email I sent some weeks ago to my superv
 
 ## 1
 
-In February, we're having the IoT tech training with Officine Innesto. My plans are of making a speculative machine (tentatively called ~~Valooe~~ [e-i](https://github.com/opendott-smartcities/II/tree/main/prototyping/e)) that identifies objects and brings information about their repairability, spare parts, upcycling and stories/instructables. Rolling documentation/brainstorm / sketches in the doc I've just shared with you.
+In February, we're having the IoT tech training with Officine Innesto. My plans are of making a speculative machine (tentatively called ~~Valooe~~ [e-i](https://github.com/opendott-smartcities/II/tree/main/prototyping/e-i)) that identifies objects and brings information about their repairability, spare parts, upcycling and stories/instructables. Rolling documentation/brainstorm / sketches in the doc I've just shared with you.
 
-I don't expect to have a functional machine in a couple of months, but rather a prototype to demo how it would work. I can see Valooe operating in at least 3 or 4 different versions: mobile app, website, desktop machine (for repair workshops, flea markets, scrap stores, repair cafes), standalone kiosk (for public spaces). For the tech demo, we'll probably use NFC/RFID to mock the identification of objects and have a small display with a website displaying info about the "recognised" objects.
+I don't expect to have a functional machine in a couple of months, but rather a prototype to demo how it would work. I can see e-i ~~Valooe~~ operating in at least 3 or 4 different versions: mobile app, website, desktop machine (for repair workshops, flea markets, scrap stores, repair cafes), standalone kiosk (for public spaces). For the tech demo, we'll probably use NFC/RFID to mock the identification of objects and have a small display with a website displaying info about the "recognised" objects.
 
-![Valooe - sketching](valooe.png)
+![e-i - sketching](valooe.png)
 
 ## 2
 
