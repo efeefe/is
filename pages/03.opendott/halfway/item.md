@@ -1,7 +1,6 @@
 ---
 title: 'Halfway'
 date: '10-02-2021 16:41'
-published: 'false'
 taxonomy:
     tag:
         - Berlin
