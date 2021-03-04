@@ -18,6 +18,8 @@ feed:
 
 This is a slightly edited version of an email I sent some weeks ago to my supervisors (all four of them) and project management.
 
+**Update:** the plans below may be outdated. Please refer to documentation in this [GitHub repository](https://github.com/opendott-smartcities/II/tree/main/prototyping/).
+
 ## 1
 
 In February, we're having the IoT tech training with Officine Innesto. My plans are of making a speculative machine (tentatively called ~~Valooe~~ [e-i](https://github.com/opendott-smartcities/II/tree/main/prototyping/e-i)) that identifies objects and brings information about their repairability, spare parts, upcycling and stories/instructables. Rolling documentation/brainstorm / sketches in the doc I've just shared with you.
