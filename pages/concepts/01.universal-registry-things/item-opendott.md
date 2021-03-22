@@ -106,6 +106,29 @@ While essentially different in purpose, Thingiverse is another database of objec
 
 [Persistent Things](https://www.climate-kic.org/opinion/persistent-things/)
 
+#### Open Repair Data standard
+
+> As members of the Open Repair Alliance, organisations are committed to share data that is accessible, useful and usable for a range of partners.
+>To ensure this, organisations are expected to consider that their Open Repair data is:
+> - Structured - data is valid in line with the requirements of the standard
+> - Comparable - data can be linked across publishers through codelists and shared references
+> - Open - data is appropriately licensed and published
+> - Accurate - data is as accurate as possible
+> - Timely - data is kept up-to-date and updated regularly
+> The standard is focused on collecting and sharing information about repair of small electricals and consumer electronics. Due to the open nature of the standard, it could in the future lead to adaptations to cater for other areas of repair information.
+
+See also: [Notes about repair data](https://notes.fixfest.org/p/2020-repairdata) from the session during Fixfest 2020.
+
+[Open Repair Data Standard](https://standard.openrepair.org/)
+
+#### WasteNet
+
+> [Recycleye](https://recycleye.com/) has partnered with academics at leading universities to create WasteNet; the world’s largest dataset for waste, holding over 2.5 million training images created by deep learning and computer vision.
+> These datasets are refined by weight and brand-level detection enabled through Recycleye’s vision system. This technology holds world-leading accuracy that has disrupted the waste industry, and is revolutionising the current waste infrastructure.
+
+[WasteNet](https://recycleye.com/wastenet/)
+
+
 ---
 
 ### Images used on this page
