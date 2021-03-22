@@ -1,3 +1,42 @@
+# v5.0.0
+## 02/17/2021
+
+1. [](#new)
+   * Requires **Grav 1.7.0**
+   * Allow admins to temporarily disable form process actions by setting the value to `false` [#481](https://github.com/getgrav/grav-plugin-form/pull/481)
+1. [](#improved)
+   * Add `id` attribute to hidden field [#495](https://github.com/getgrav/grav-plugin-form/pull/495)
+   * Escape text as YAML in multi-line textarea [#464](https://github.com/getgrav/grav-plugin-form/pull/464)
+1. [](#bugfix)
+   * Fixed reCaptcha v3 incompatibility with multiple forms on the same page sharing different actions [#416](https://github.com/getgrav/grav-plugin-form/issues/416)
+   * Toggle fields do not save `false` if they are `toggleable` [#497](https://github.com/getgrav/grav-plugin-form/issues/497)
+   * Data template fixes [#494](https://github.com/getgrav/grav-plugin-form/pull/494)
+   * Fix deprecated Twig method
+
+# v4.3.1
+## 01/31/2021
+
+1. [](#improved)
+   * Updated deprecated `Twig_SimpleFunction` code
+   * Added Lithuanian translation [#485](https://github.com/getgrav/grav-plugin-form/pull/485)
+1. [](#bugfix)
+   * Fixed state of the checkbox if no value is provided
+   * Fixed evaluating default value in `hidden` field (thanks @NicoHood)
+   * Fixed default value to come from the `Form` in overridable field (thanks @NicoHood)
+   * Fix for disabling `client_side_validation` [#482](https://github.com/getgrav/grav-plugin-form/pull/482)
+   * Fix for translations in `select` field in data template [#475](https://github.com/getgrav/grav-plugin-form/pull/475)
+   * PHPDoc fixes 
+
+# v4.3.0
+## 12/14/2020
+
+1. [](#new)
+    * Added a new ‘condition’ attribute for tab for logic to process if it should display or not
+1. [](#improved)
+    * Added priority to form translations/config
+1. [](#bugfix)
+    * Fix admin access check [#463](https://github.com/getgrav/grav-plugin-form/pull/463)
+
 # v4.2.0
 ## 12/02/2020
 
