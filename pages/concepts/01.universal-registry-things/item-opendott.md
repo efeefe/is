@@ -75,13 +75,22 @@ IFIXIT is a comprehensive portal with "repair guides to every thing, written by 
 
 [ifixit.com/Guide](https://www.ifixit.com/Guide)
 
+#### Thinkwiki
+
+Example of individual entry for a Thinkpad laptop on Thinwiki:
+
+[T430](https://www.thinkwiki.org/wiki/Category:T430)
+
+
 #### eBay What it's Worth
 
 eBay is often used by both businesses and volunteer groups operating in secondary markets to evaluate products. *What it's worth* is a web service to make that easier.
 
+**Update:** apparently, eBay discontinued this web service.
+
 > "Use eBay's appraisal tool to see the value of items bought and sold in specific categories"
 
-[explore.ebay.com](https://explore.ebay.com/nokeyword?keywords=&activity=sold&siteId=EBAY-US&trend=all&catid=0&lcf=11&level=1&interval=weekly)
+~~[explore.ebay.com](https://explore.ebay.com/nokeyword?keywords=&activity=sold&siteId=EBAY-US&trend=all&catid=0&lcf=11&level=1&interval=weekly)~~
 
 #### Thingiverse
 
