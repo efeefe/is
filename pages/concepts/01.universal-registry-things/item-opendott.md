@@ -51,7 +51,7 @@ The Universal Registry of Things provides the information groundwork for the [Po
 
 ### Sketches
 
-! to come
+Prototyping the structure for the data registry. Ongoing documentation can be found [here](https://github.com/opendott-smartcities/II/tree/main/prototyping/universal-registry).
 
 ### Main target groups
 
@@ -65,7 +65,10 @@ The Universal Registry of Things provides the information groundwork for the [Po
 
 ### References
 
-! to come
+- [Selecting a data sharing structure: a value-based choice](https://datatrusts.uk/blogs/selectingdatastructures)
+- [Manifesto in favour of technological sovereignty and digital rights for cities](https://www.barcelona.cat/digitalstandards/manifesto/0.2/)
+- [The Data Speecetrum - ODI](https://theodi.org/about-the-odi/the-data-spectrum/)
+- [European Data Portal](https://www.europeandataportal.eu/en)
 
 #### IFIXIT Repair Guide
 
@@ -81,6 +84,7 @@ Example of individual entry for a Thinkpad laptop on Thinwiki:
 
 [T430](https://www.thinkwiki.org/wiki/Category:T430)
 
+https://datatrusts.uk/blogs/selectingdatastructures
 
 #### eBay What it's Worth
 
