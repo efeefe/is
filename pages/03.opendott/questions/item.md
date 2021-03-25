@@ -16,7 +16,6 @@ feed:
 
 ! This post will be updated every time my research questions have changed. **Current version:** January 2021, following my successful Annual Progression review.
 
-
 **Research Question 1 (RQ1):** What prevents more widespread reuse of discarded materials in contemporary cities?
 
 To address RQ1, I will investigate how citizens evaluate and decide - at an individual/household scale - what to do with such objects. A specific focus will be applied on how their maintenance, repair, customizations and transformations happen in private, community and public spaces. I will also explore the individual, cultural and material conditions impacting the decision whether or not to reuse objects. Finally, I intend to understand how those activities may tie in with municipal waste management - and how much are citizens aware of the proper destination of each kind of material.
