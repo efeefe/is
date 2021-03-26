@@ -19,3 +19,9 @@ I am currently inviting people interested in joining a series of activities to t
 
 - If you want to join one or more of the co-design workshops taking place online in April, please [fill this sign up form](https://forms.gle/rat12rsPstvg89aX9). Alternatively, you can download PDF versions of the [Participant Information Sheet](participant-information.pdf) and [Informed Consent Form](consent-form.pdf), sign the consent form and send it to me via email (you can find my email address in the PDF).
 - If you just want to be informed of future developments, please [fill this form](https://forms.gle/BJoPHMk2NEj1HHxd7). If you prefer, contact me on [Twitter](https://twitter.com/efeefe), [Linkedin](https://www.linkedin.com/in/felipefonseca/) or via [e-mail](5wbi948e9@relay.firefox.com).
+
+## Open Studio - April 2021
+
+- Throughout the month - online conversations (platform/tool to be defined).
+- April 9th - Online Workshop.
+-
