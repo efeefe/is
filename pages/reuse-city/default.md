@@ -13,7 +13,7 @@ Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the
 
 In this page you can find current information about my current effort to co-design and prototype technologies that promote the reuse of goods and materials in contemporary cities. In [previous research activities](../opendott/upgrade) I found that a critical point is the ability to assess the potential value of discarded materials. At the moment I am adopting a speculative approach towards potential uses of digital technologies to aid on that matter.
 
-Everyday documentation about my research can be found on [this git repository](https://github.com/opendott-smartcities/II/). More general research progression will usually reported on [this blog](https://is.efeefe.me/opendott). During four weeks of April 2021 I'm recruiting people to participate on an [online co-design lab](https://make.reuse.city) (see below) in order to develop these ideas openly.
+Everyday documentation about my research can be found on [this git repository](https://github.com/opendott-smartcities/II/). More general research progression is usually reported on [this blog](https://is.efeefe.me/opendott). During four weeks of April 2021 I'm recruiting people to participate on an [online co-design lab](https://make.reuse.city) (see below) in order to develop these ideas openly.
 
 ## Online co-design lab
 
