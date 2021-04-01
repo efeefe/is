@@ -9,6 +9,8 @@ visible: true
 
 ![Bin it!](https://github.com/opendott-smartcities/II/raw/main/prototyping/reuse.city/images/hennie-stander-Ga_aQ9OaarI-unsplash.jpg)
 
+**TL;DR:** help me co-design ways to reuse materials and reduce waste! Hop to [make.reuse.city](https://make.reuse.city) to sign up.
+
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse.
 
 In this page you can find current information about my current effort to co-design and prototype technologies that promote the reuse of goods and materials in contemporary cities. In [previous research activities](../opendott/upgrade) I found that a critical point is the ability to assess the potential value of discarded materials. At the moment I am adopting a speculative approach towards potential uses of digital technologies to aid on that matter.
