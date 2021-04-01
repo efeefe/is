@@ -9,7 +9,7 @@ visible: true
 
 ![Bin it!](reuse-city.jpg)
 
-**TL;DR:** help me co-design ways to reuse materials and reduce waste! Hop to [make.reuse.city](https://make.reuse.city) to sign up.
+**TL;DR:** [help me](#help) co-design ways to reuse materials and reduce waste! Hop to [make.reuse.city](https://make.reuse.city) to sign up.
 
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse.
 
@@ -22,6 +22,8 @@ Everyday documentation about my research can be found on [this git repository](h
 I am currently inviting practitioners, researchers and activists to join a series of online activities during the month of April 2021. I expect to gather feedback on some ideas I've been developing, as well as to co-create and validate new ones.
 
 The outcomes of the co-design lab will be published with open licenses and shared openly. Participants of the online workshops must adhere to the informed consent terms approved by Northumbria University's ethics processes (see below, Participant Information Sheet and Informed Consent Form).
+
+<a id="help"></a>
 
 ### Help needed - sign up now!
 
