@@ -7,7 +7,7 @@ visible: true
 ---
 # reuse.city
 
-![Bin it!](https://github.com/opendott-smartcities/II/raw/main/prototyping/reuse.city/images/P1000829.jpg)
+![Bin it!](https://github.com/opendott-smartcities/II/raw/main/prototyping/reuse.city/images/P1000012.jpg)
 
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse.
 
