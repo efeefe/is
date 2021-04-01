@@ -11,7 +11,7 @@ visible: true
 
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse.
 
-In this page you can find ongoing documentation of my current efforts to co-design and prototype technologies and other measures to promote the reuse of goods and materials in contemporary cities. In previous research activities I found that one critical point lies in the ability to assess the potential value of discarded materials. At the moment I am adopting a speculative approach towards potential uses of digital technologies to provide aid on that matter.
+In this page you can find current information about my current efforts to co-design and prototype technologies and other measures to promote the reuse of goods and materials in contemporary cities. In previous research activities I found that one critical point lies in the ability to assess the potential value of discarded materials. At the moment I am adopting a speculative approach towards potential uses of digital technologies to provide aid on that matter.
 
 Everyday documentation about my research is to be found on [this git repository](https://github.com/opendott-smartcities/II/). More general research progression will be reported on [this blog](https://is.efeefe.me/opendott). During four weeks of April 2021 I'm recruiting people to participate on an [online co-design lab](https://make.reuse.city) (see below) in order to develop these ideas in an open environment.
 
