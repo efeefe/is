@@ -7,7 +7,7 @@ visible: true
 ---
 # reuse.city
 
-![Bin it!](https://github.com/opendott-smartcities/II/raw/main/prototyping/reuse.city/images/hennie-stander-Ga_aQ9OaarI-unsplash.jpg)
+![Bin it!](reuse-city.jpg)
 
 **TL;DR:** help me co-design ways to reuse materials and reduce waste! Hop to [make.reuse.city](https://make.reuse.city) to sign up.
 
