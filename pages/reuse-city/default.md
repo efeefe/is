@@ -27,5 +27,6 @@ The outcomes of the co-design lab will be published with open licenses and share
 
 ### Help needed - sign up now!
 
-- If you want to join one or more of the co-design workshops taking place online in April, please [fill this sign up form](https://forms.gle/rat12rsPstvg89aX9). Alternatively, you can download PDF versions of the [Participant Information Sheet](participant-information.pdf) and [Informed Consent Form](consent-form.pdf), date and sign the consent form, and send it to me via email (you can find my email address in the PDF).
+- If you want to join one or more of the co-design workshops taking place online in April, please [fill this sign up form](https://forms.gle/rat12rsPstvg89aX9).
+- <a id="PDF"><a>Alternatively, you can download PDF versions of the [Participant Information Sheet](participant-information.pdf) and [Informed Consent Form](consent-form.pdf), date and sign the consent form, and send it to me via email (you can find my email address in the PDF).
 - If you just want to stay informed of future developments, please [subscribe](https://make.reuse.city/#subscribe) to updates. You can also contact me directly on [Twitter](https://twitter.com/efeefe), [Linkedin](https://www.linkedin.com/in/felipefonseca/) or via [e-mail](mailto:5wbi948e9@relay.firefox.com).
