@@ -22,6 +22,4 @@ I am currently inviting people interested in joining a series of activities to t
 
 ## Open Studio - April 2021
 
-- Throughout the month - online conversations (platform/tool to be defined).
-- April 9th - Online Workshop.
--
+- Throughout the month - online conversations (scheduled via mailing list, restricted to subscribers + telegram group).
