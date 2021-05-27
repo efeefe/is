@@ -1,19 +1,19 @@
 ---
-title: 'Interim'
+title: Interim
 date: '27-04-2021 13:51'
 taxonomy:
     tag:
         - research
-        - design research
-        - anthropology
+        - 'design research'
         - methodology
-hero_image: 'chuttersnap-xmdcHrocC_M-unsplash.jpg'
+        - anthropology
+hero_image: chuttersnap-xmdcHrocC_M-unsplash.jpg
 show_sidebar: false
 feed:
     limit: 10
 ---
 
-Smart cities, superficially understood as "using information technologies to make urban management more informed, efficient and easy", is a trend already underway in many parts of the world. Trying to persuade municipalities to use more IT is not something I feel my research would contribute much with. I prefer to focus on the question that was on the [OpenDoTT](https://opendott.org) call for this specific research topic: "can we create cities that are not just smarter, but kinder, fairer and more citizen-centred?".
+Smart cities, superficially understood as "using information technologies to make urban management more informed, efficient and easy", are a trend already being implemented in many parts of the world. Trying to persuade municipalities to use more IT is not something I feel my research would contribute much with. I prefer to focus on the question that was on the [OpenDoTT](https://opendott.org) call for this specific research topic: "can we create cities that are not just smarter, but kinder, fairer and more citizen-centred?".
 
 There would be many ways to approach this question. Open design, trust and IoT could help create such a future on fields as diverse as traffic control or public safety. I however do not start from scratch. Along with a somewhat fragmented academic career, I have spent the last couple of decades as an activist, as well as working for nonprofits and occasionally advising public administration. I was even elected for a role in a public advisory committee on cultural policy at a local level where I used to live, and tried to create a similar body for science and technology.
 
