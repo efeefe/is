@@ -10,7 +10,7 @@ visible: true
 
 ![](reuse-city.jpg)
 
-Hi, and welcome to reuse.city. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse.
+Hi, and welcome to reuse.city. I am [Felipe Schmidt Fonseca](https://is.efeefe.me), a PhD researcher in the [OpenDoTT project](https://opendott.org) (Northumbria University / Mozilla Foundation). My current [research questions](https://is.efeefe.me/opendott/questions) revolve around waste prevention through practices of reuse. Learn more about my research [here](../opendott).
 
 This page holds the ongoing documentation of my current efforts to co-design and prototype technologies and other ways to help assess the potential value of discarded materials. It will be updated in tandem with meta-documentation on [my second year of research](https://github.com/opendott-smartcities/II/).
 
