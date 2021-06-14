@@ -19,6 +19,8 @@ hero_image: universal-registry.png
 
 An open database about objects, to support the reuse (repair, recirculation, upcycling) and help evaluate the potential of objects for secondary markets.
 
+**Update on June 2021:** see more information about the process of prototyping this concept in [these lab notes](https://github.com/reuse-city/lab/tree/main/prototypes/universal-registry).
+
 ===
 
 ### Description

@@ -4,6 +4,8 @@ date: '11:58 14-06-2021'
 show_sidebar: false
 feed:
     limit: 10
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: thingwiki-inkscape.png
 ---
 
 From [this lab documentation log](https://github.com/reuse-city/lab/blob/main/prototypes/universal-registry/README.md). I summarise: planning for a data commons that welcomes contributions from humans as well as non-human (more-than-human?) systems.

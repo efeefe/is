@@ -20,6 +20,8 @@ feed:
 
 Blueprint of facilities for reuse / upcycling of materials in urban contexts.
 
+**Update on June 2021:** see more information about the process of prototyping this concept in [these lab notes](https://github.com/reuse-city/lab/tree/main/prototypes/transformation-labs).
+
 ===
 
 ### Description
