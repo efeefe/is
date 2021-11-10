@@ -16,13 +16,11 @@ feed:
     limit: 10
 ---
 
-[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme* to explore how to build a more open, secure, and trustworthy Internet of Things". I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The whole project has migrated from the University of Dundee to Northumbria University in June 2020\*.
+[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to Northumbria University in June 2020\*.
 
-My research topic in the project is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research.
+My research topic is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research. Partial outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/reuse-city/II) (2021).
 
-Partial outputs of my research can be seen in [this set of concept ideas](../concepts)(2020) and [this documentation repository](https://github.com/reuse-city/II).
-
-I maintain a list of links with the *opendott* tag in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). In the near future I plan to release comprehensive documentation in a public wiki.
+I maintain a list of links with the tah *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). In the near future I plan to release comprehensive documentation in a public wiki.
 
 ---
 
