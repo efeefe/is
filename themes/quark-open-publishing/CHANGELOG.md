@@ -1,3 +1,21 @@
+# v2.3.0
+## 09/27/2021
+
+1. [](#bugfix)
+    * Added needed script load for embedly.com embeds
+
+# v2.2.9
+## 09/27/2021
+
+1. [](#new)
+    * Added initial support for NextGen Editor custom media embeds
+
+# v2.2.8
+## 08/06/2021
+
+1. [](#bugfix)
+    * Added check for <a> (anchor tag) without href attribute
+
 # v2.2.7
 ## 03/21/2021
 

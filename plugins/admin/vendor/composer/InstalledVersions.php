@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '1acb94e85744589877484a13af715394b3558bd2',
+    'reference' => '092e26c2c6643e0e5a655fd77f7da8baaec48186',
     'name' => 'getgrav/grav-plugin-admin',
   ),
   'versions' => 
@@ -41,7 +41,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '1acb94e85744589877484a13af715394b3558bd2',
+      'reference' => '092e26c2c6643e0e5a655fd77f7da8baaec48186',
     ),
     'laminas/laminas-xml' => 
     array (
@@ -54,12 +54,12 @@ private static $installed = array (
     ),
     'laminas/laminas-zendframework-bridge' => 
     array (
-      'pretty_version' => '1.2.0',
-      'version' => '1.2.0.0',
+      'pretty_version' => '1.4.0',
+      'version' => '1.4.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '6cccbddfcfc742eb02158d6137ca5687d92cee32',
+      'reference' => 'bf180a382393e7db5c1e8d0f2ec0c4af9c724baf',
     ),
     'miniflux/picofeed' => 
     array (
@@ -79,12 +79,12 @@ private static $installed = array (
     ),
     'scssphp/scssphp' => 
     array (
-      'pretty_version' => 'v1.4.1',
-      'version' => '1.4.1.0',
+      'pretty_version' => 'v1.8.1',
+      'version' => '1.8.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'ba86c963b94ec7ebd6e19d90cdab90d89667dbf7',
+      'reference' => '5e37759a63caf54392a4b709358a39ac7425a69f',
     ),
     'symfony/polyfill-php72' => 
     array (
