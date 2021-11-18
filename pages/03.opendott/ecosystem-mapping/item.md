@@ -1,7 +1,7 @@
 ---
-title: 'Year 2'
+title: 'E'
 published: true
-date: '18-11-2021 09:00'
+date: '18-11-2020 09:00'
 taxonomy:
     tag:
         - research
@@ -11,6 +11,7 @@ jscomments:
     provider: discourse
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 show_sidebar: false
+published: false
 feed:
     limit: 10
 ---
