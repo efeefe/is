@@ -1,13 +1,12 @@
 ---
-title: 'Ecosystem Mapping'
+title: 'Year 2'
 published: true
-date: '09-10-2020 09:40'
+date: '18-11-2021 09:00'
 taxonomy:
     tag:
         - research
-        - 'ecosystem mapping'
-        - 'research study'
-        - 'design research'
+        - 'Berlin'
+        - 'prototyping'
 jscomments:
     provider: discourse
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
@@ -16,116 +15,44 @@ feed:
     limit: 10
 ---
 
-! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
+The overall structure of OpenDoTT was designed around an expected sequence of events: each of us [fellows](https://opendott.org/team/) would spend the first year in Dundee using design research to explore and scope our research focus and questions. Then we would move to Berlin to spend 18 months working as a group at the Mozilla Foundation. The first 12 months - our second year - would focus on prototyping, with focal points on open hardware, internet health and privacy by design. And the final year would be split in half, the first 6 months focusing on policy and later giving us time to return to work individually on our theses.
 
-> For the Ecosystem Mapping, I have interviewed people who are related (either professionally or informally) with repair and reuse. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved at a system level.
+It is commonplace nowadays to point a disconnection between planned estimates and the actual pace of activities as time passes. One could just as well argue that things were always like that, we're only paying more attention now. In any case, my individual reiteration of that is here. This month I am turning in the deliverables of my second year at OpenDoTT, even though the Gregorian calendar accuses me of being well into the third year. The deadline extension was negotiated with the funder and properly documented by the project management, but I felt like making a note of it on here as well. Amid these busy and odd-paced times, this research blog has not been that active. What follows is an overview of what my second year was like.
 
-### Design of the research study
+## Open*
 
-During the first module of our [design research training](../design-research), I have experimented with a map of Dundee, trying to identify what were the different sorts of organisations and services that would be relevant for reusing things in the city (especially around its West End where the University campus is located). Based on that quick exercise, I wanted to get a deeper understanding of the scenario, and decided to conduct a series of interviews in order to map the ecosystem aroung repair, customizations and reuse.
+We started with a training module on internet health and open leadership. It reached me as an opportunity to revisit and refresh my perspective on open design, particular that branch influenced by digital technologies. I tend to lean towards a critical take. I still use open licenses in all of my projects, naturally. But I don't see them as revolutionary, only minimally sustainable. We should discuss different levels of openness, taking into account intentionality and externalities. It shouldn't be only about releasing outputs in the open for any takers, but about creating caring ecosystems in which the common can thrive. It is not a typo to use "common" instead of "commons" here. While the idea of a pre-capitalist commons can obviously inspire us in seeking generous systems, their finite nature can lead to distortions in understanding. I will hopefully be able to go deeper in that direction in the future. For now, I'll just point to the open-ended discussion I started with the blog post "[A spiral of openness](../spiral-of-openness)" as an outcome of this training module. The image of a spiral (instead or a line, or even a circle) was an element I carried forward in this year's activities.
 
-The goal of the research study was to understand how broken or discarded materials circulate in the urban context, as well as where and how they are handled and transformed. I was looking particularly into how potential value is assessed in different kinds of organisations, and what types of equipment, methodologies and data sources could help it. I expected to do that by interviewing managers and staff working at places responsible for solid waste treatment, as well as organisations and companies that repair, repurpose or handle donations of different types of materials.
+## Co-design and prototyping
 
-![Dundee](dundee-map.png)
+As the project moved on to a prototyping phase, we had the chance to embody some of the discussions of our research. I recombined some of the [concept ideas](https://is.efeefe.me/concepts) created in the first year, and could examine them from different perspectives.
 
-### Recruiting
+In a sense, I was not a newcomer to the ideas of open hardware and iteractive methodologies, but taking the time to apply them purposefully was indeed a novelty. On the other hand, I come from a background treating [gambiarra](https://web.archive.org/web/20100615153750/http://medialab-prado.es/article/gambiarra) as a critical take on prototyping: the physical assemblage that is not a rehearsal to a future product, but rather a solution in itself.
 
-The COVID-19 lockdown in place during the entirety of my data collection period made it difficult to visit and interview staff members from waste management, or volunteers in charities. I managed however to recruit participants for online or phone interviews who brought me a sufficiently diverse set of perspectives: a local manufacturing / design shop; a nonprofit organising zero waste initiatives; a second hand shop / cash advancer; a scrap shop with an artists' studio attached; a data scientist creating ways to visualise waste data.
+Through a design study originally called "technology for reuse" I wanted to engage with people who were already involved or interested in practices of reuse through repair, upcycling or re-circulation of second-hand goods. In adapting to COVID-19 times, the study would be conducted exclusively online, and that opened the possibility of inviting people from virtually anywhere in the world.
 
-I could not get a hold of anyone from a local Council that would agree to be interviewed for the study, despite asking around in different cities and social circles. It may be only a result of the current times, with a lot of pressure over waste collection and many new issues to deal with regarding health and safety of staff and citizens. But I couldn't help reiterating the feeling that many cities are uncomfortable to discuss their waste policies. I was able however to acquire a broad understanding of waste management systems by attending an online course called "[Waste Management in Developing Countries](https://www.coursera.org/learn/solid-waste-management)". As my [research focus](../focus) is not exactly waste management but rather waste prevention, that proved to be a good reference point.
+As a way to make explicit my expectation to frame the discussion in connection with an urban setting, I adopted a different public name (and a newly registered URL) for the study: reuse.city. The starting phase of reuse.city took the shape of a 4-week online co-design lab. I wanted mainly to discuss two new assemblages of my original concept ideas: an universal registry of things offering information about goods and materials and how to reuse them; and a machine to easily access that information.
 
-### Research Data
+As the goal of my research is not to create new products whose deployment must be feasible immediately, I had the freedom to adopt a more speculative approach. A had the chance to discuss ideas and experiment with open conversations ahead of the study when conducting a discussion session about the universal registry of things during the Mozilla Festival in March. I was then already starting to recruit participants for the study.
 
-Here are some excerpts of the interviews that contributed to my understanding of the field.
+Almost 29 people registered to participate in the study and filled the consent form. They were coming from 10 different countries, and had mixed backgrounds and levels of experience with reuse and repair. During four weeks in April (and an extra week in May) we had a series of activities proposed with them. Not everyone attended the sessions, but the ones who did were indeed a pretty diverse sample.
 
-#### Data Scientist
+Two or three times a week I would send triggers to conversations, share references and contents, and organise online meetings. We have decided collectively on the preferred ways to maintain the conversation in parallel to the calls (an e-mail discussion list and a group in Telegram). Participants were invited not only to contribute to guided discussions but also to present their own work.
 
-I have interviewed a data scientist who is working on ways to make sense of a dataset about waste flows, with data sent by local authorities from the whole of the United Kingdom. The dataset is updated quarterly.
+We ended with a very rich [collection of experiences and discussions](https://github.com/opendott-smartcities/II/tree/main/D13_deployment-datasets/reuse-city/meetings). In addition to getting situated feedback that helped me refine the concept ideas of the universal registry of things and the machine (now called E-I, or evaluation interface), the conversations have shown me it was important also to work on another of the original concepts that I had intended to keep to a later stage of research: the transformation labs. These are a mix of community repair workshops and makerspaces. In the end I had [three updated concepts](https://github.com/opendott-smartcities/II/tree/main/D11_co-designed-concepts) with which to inspire my prototyping.
 
-> It is a graph, if that makes sense. It flows to and from. So, it \[is\] all about flows of tonnes from local authorities through to different processing facilities and how all of it gets separated or combined in the process.
+In about the same period I was conducting the study, we had a training module on open hardware. With the support of Davide Gomba of Offizine Innesto, I worked on a simple way to demonstrate how [E-I](https://github.com/opendott-smartcities/II/tree/main/D12_documentation-of-prototypes/e-i) would work: the concept was about a machine that would recognize objects and offer information about them. In my prototype, that was accomplished with a NFC readed that woul identify predefined objects added of a NFC tag, and display different HTML pages based on what object was presented.
 
-> \[There are\] material recovery facilities, where a lot of mixed up recycling ends up or where people drive to, to put things in there. So, in there, there are lots of trucks coming in. What they do, they also scan their number plates, so that they know that if this truck comes from this borough or this area, locate some of those tonnes that way and then they weight the trucks, so they know how much comes in.
+I was also experimenting with different ways to display information stored locally on E-I. When discussing the universal registry of things, one participant suggested it should be governed the same way Wikipedia is. I understood the point, but disagree on some particular aspects. Summarising as much as possible: Wikipedia is too centralised; and it is based on the contribution of individual authors. I would prefer a distributed governance model, and one that would also welcome collective and institutional contributions. That's something to be inspired by one of the templates of [community rule](https://communityrule.info/).
 
-On value:
+The imaginary of a wiki is none the less ellusive of what I intend to do, and I have chosen to prototype an implementation of the Universal Registry of Things under the name ThingWiki. It took the shape of a small website featuring information about objects I have collected in the course of my research. The website is based on [wiki.js](https://js.wiki), an easy to use wiki engine that allows information to be stored as markdown files on a git repository (the feature is not yet perfect, but will hopefully improve in the near future).
 
-> I think with this data that currently exists, you can measure the value of materials, after they have been through a material processing facility. So, you would know that this much of aluminium was recovered. This much of textile was recovered, which is normally carpet, which is normally made of polyester. So, you would know how much it would cost, but you don't know before it goes in because it is all mixed up. In the UK, it is collected together.
-So,
+In addition to E-I and ThingWiki, I consider the community around reuse.city to be a third prototype, connecting back to the aforementioned point of the spiral of openness and making things in an open-ended way. I expect to return to this group of people in coming phases of research.
 
-There is data about reuse as well:
+## Context and cooperation
 
-> So, for things like books or some white goods, like fridges and things, they measure how many were reused because councils, they do this scheme where they repair it, then they give it to people who don't have much money or, the council tenant, they can offer them this reused product. I think books were also part of that. I can have a look for you in detail, because I think the materials \[in UK's waste dataset\], they can be quite detailed.
+Besides a noted difficulty of situating my research into a particular academic discipline, I was happy to find like-minded people and organisations doing interesting work on fields such as zero waste. I also found I'm not the only one trying to [walk on the boundary of circular economy](https://is.efeefe.me/opendott/waste-value-and-reuse) without adopting it as gospel.
 
-> The only time when I have spoken with them \[waste management authorities\], they seem to be focussing on education campaigns. That is the sort of things that they are looking at. Whereas, when I look at data science area, they are all thinking about using robots to separate waste better, but it looks like it is not that much better than what is currently being done.
+Weeks after I moved to Berlin, I had the chance to conduct a workshop during the [Data Cities](https://www.disruptionlab.org/data-cities) conference, which brought me a good overview of second-hand, reuse, zero waste and circular economy in the city. I am still learning about the immense amount of initiatives active in those sectors, and hope to work closer to some of them in the near future. I was also happy to collaborate with international projects such as [Tales of Care and Repair](https://tales.repairacts.net/), through which not only could I learn about important projects and research active today, have me the opportunity to connect back to the Brazilian context and plant some seeds there.
 
-> The other thing maybe worth looking at is charity shops, because charity shops, from my observation, and this is not scientific, I just looked at them, they throw away most of the stuff that they are given. So, they are supposed to recycle it, but I think the sheer volume of the clothes and stuff that people give and they don't sell, there are just big bins next to them or behind them that you can see full of stuff. The stuff that you see in there is crazy.
-Big things like copper, really valuable things like that, like copper, artworks. Some of those artworks could be valuable, who knows. So, it is not just clothes as well. There is lots of stuff.
-
-
-#### Scrap Shop
-
-> So \[our shop\] aims to deal with excess. (...) we recycle industry and retail waste. I think those are the largest wasters of resources. And so it's trying to take their resources that basically they just can't afford to store and there isn't a great belief in environmental sustainability, so they're much more- as long as they can cover the cost, they're willing to just get rid of it and landfill it.
-> And so everywhere needs a scrap store and we need to find a way in which we can use those. So I'm not necessarily an artist that is trying to create what happens to that waste. But if we can create a portal where it can all be stored, then, you know, I don't need to do that.
-
-
-> So, yes, and then of course, people right down the chain from the industry to shops to the community, you have people who also have far too much stuff. They don't know what to do with it either because we have charity shops, but at the same time, charity shops only want the cream of the crop and, like, so how \[our shop\] is different to that is it doesn't look at something what it is now, it looks at the material that it is and how it can be reused.
-
-> So if companies are applying for procurement to the council for big contracts, something that will get them a lot of points is community give-back and we can help them with that. The community give-back scheme, so they can either donate their resources to us to be used, or they can buy our workshop facilities. And we'll take their materials into schools. So they pay us to go into schools and look at their resources and how it can be used with young people.
-
-
-
-
-
-### Analysing
-
-The interview transcriptions and my own notes allowed me to compose topic maps for each of the interviews, which were then juxtaposed. Some patterns emerged from those maps, which I grouped in six topic clusters:
-
-![Tags](tags.jpg)
-
-### Topic Clusters
-
-* Connect
-  * Sources of materials
-  * Transformation
-  * Destination - shoppers, communities, recycling
-* Urban presence
-  * Workshops / Local manufacturing
-  * Donate / Sell
-  * Repair
-  * Buy / Be given
-* Systems approach
-  * Business models for different actors
-  * Commons governance
-  * Social need - Opportunities
-* Change
-  * “Trending” vs. “Ethical decision”
-  * Behaviour / Education / “Niceness”
-  * Concrete incentives - Policy / Taxing
-  * Autonomy / Sovereignty
-  * Islands / Rural areas - resourceful
-* Data on Zero Waste / Repair / Reuse
-  * Generate / Integrate
-  * Manage
-  * Publish
-  * e.g. charity shop refuse
-* Stories / Curation / Presentation
-  * Find information
-  * Remove information
-
-### See also
-
-* [Repair Journey](../repair-journey), the other research study I have conducted in the first semester of 2020.
-* [Concept Ideas](../../concepts) based on both studies.
-
-<a id="todo"></a>
-
-### To do
-
-Still to add to this post:
-
-- more on methodology
-- relevant excerpts from all participants
-- Expand on Notes
-  - Cleaning objects
-  - Encourage the use of old things
-  - Reuse cabin
-  - Deal with excess - big data
+The next phase of OpenDoTT will focus on policy and legislation, and I hope to strengthen my research, possibly along the lines of recommending transformation labs to be offered to city dwellers as places where they can learn how to reuse second-hand things. I hope also to turn my observations on the availability of second-hand materials in different contexts into an essay about "generous cities". More on that soon (ish) on this blog./
