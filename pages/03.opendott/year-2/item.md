@@ -9,6 +9,7 @@ taxonomy:
         - 'prototyping'
 jscomments:
     provider: discourse
+hero_image: IMG_20210423_083819.jpg
 hero_classes: 'parallax text-fardk overlay-light hero-fullscreen'
 show_sidebar: false
 feed:
