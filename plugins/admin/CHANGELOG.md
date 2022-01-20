@@ -1,3 +1,28 @@
+# v1.10.27
+## 01/12/2022
+
+1. [](#new)
+   * Support for `YubiKey OTP` 2-Factor authenticator
+   * New `elements` container field that shows/hides children fields based on boolean trigger value
+   * Requires Grav `v1.7.27` and Login `v3.6.2`
+2. [](#improved)
+   * Added new asset language strings
+
+# v1.10.26.1
+## 01/03/2022
+
+3. [](#bugfix)
+   * Fixed an issue with missing files reference by cached autoloader
+
+# v1.10.26
+## 01/03/2022
+
+2. [](#improved)
+   * Updated SCSS compiler to v1.9 and other vendor libraries
+   * Fixed various deprecation warnings
+   * Localized dialog buttons and icons [#2207](https://github.com/getgrav/grav-plugin-admin/pull/2207)
+   * Updated copyright year
+
 # v1.10.25
 ## 11/16/2021
 
