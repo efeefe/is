@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
-    'Grav\\Plugin\\ShortcodeCorePlugin' => $baseDir . '/shortcode-core.php',
+    'Grav\\Plugin\\PageInjectPlugin' => $baseDir . '/page-inject.php',
 );
