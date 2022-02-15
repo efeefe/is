@@ -16,11 +16,11 @@ feed:
     limit: 10
 ---
 
-[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to Northumbria University in June 2020\*.
+[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to [Northumbria University](https://www.northumbria.ac.uk/) in June 2020.
 
-My research topic is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research. Partial outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/opendott-smartcities/II/) (2021).
+My research topic is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research. Partial outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) (2021).
 
-I maintain a list of links with the tag *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). In the near future I plan to release comprehensive documentation in a public wiki.
+I maintain a list of links with the tag *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). I am gradually moving relevant documentation to a [public wiki](https://wiki.reuse.city).
 
 ---
 
@@ -29,5 +29,3 @@ I maintain a list of links with the tag *opendott* in my [infinite bookmark coll
 </div>
 
 ---
-
-\* * The project started as a partnership between the [University of Dundee](https://www.dundee.ac.uk) and [Mozilla Foundation](https://foundation.mozilla.org/en/). <br />By mid 2020 its academic arm moved to the [Northumbria University](https://www.northumbria.ac.uk/)*
