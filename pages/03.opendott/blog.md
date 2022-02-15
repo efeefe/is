@@ -20,7 +20,7 @@ feed:
 
 My research topic is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research. Partial outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/opendott-smartcities/II/) (2021).
 
-I maintain a list of links with the tah *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). In the near future I plan to release comprehensive documentation in a public wiki.
+I maintain a list of links with the tag *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). In the near future I plan to release comprehensive documentation in a public wiki.
 
 ---
 
