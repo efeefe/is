@@ -16,7 +16,7 @@ hero_image: philippe-d-uxnWliBKBkg-unsplash.jpg
 hero_classes: 'hero-fullscreen, overlay-light-gradient'
 ---
 
-By the end of November 2022 I finished up my [second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) for the OpenDoTT project. They are:
+By the end of November 2021 I finished up my [second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) for the OpenDoTT project. They are:
 
 - [Technology Demonstrators](https://github.com/opendott-smartcities/II/blob/main//D10_technology-demonstrators) ([README.txt](https://raw.githubusercontent.com/opendott-smartcities/II/main/D10_technology-demonstrators/README.txt))
 - [Updated co-design concepts](https://github.com/opendott-smartcities/II/blob/main/D11_co-designed-concepts/D11_ESR4_Updated-Concepts.pdf) (PDF)
