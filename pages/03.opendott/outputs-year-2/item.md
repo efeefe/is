@@ -1,7 +1,7 @@
 ---
 title: 'Outputs - Year 2'
 date: '14:30 01-03-2022'
-published: false
+published: true
 taxonomy:
     tag:
         - research
