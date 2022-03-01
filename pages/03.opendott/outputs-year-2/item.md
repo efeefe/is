@@ -12,6 +12,7 @@ jscomments:
 show_sidebar: false
 feed:
     limit: 10
+hero_image: philippe-d-uxnWliBKBkg-unsplash.jpg
 ---
 
 By the end of November 2022 I finished up my [second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) for the OpenDoTT project. They are:
