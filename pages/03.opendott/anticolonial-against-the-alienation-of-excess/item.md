@@ -3,6 +3,8 @@ title: 'Anticolonial - against the alienation of excess'
 date: '19:18 13-04-2022'
 feed:
     limit: 10
+hero_classes: 'hero-large, overlay-dark-gradient'
+show_sidebar: false
 ---
 
 Let me start by acknowledging my ignorance, and perhaps a years-long negligence. I can’t tell for sure when and how the topic of coloniality appeared explicitly on my radar. I do recall my friend (and MA supervisor at Unicamp) [Rafael Evangelista](https://tuttlebuttle.wordpress.com/) talking in class about (British) cultural studies and decolonisation, a decade ago. But the topic slipped out of my attention for a while. More recently I would come across the work of [Luiza Prado](https://luiza-prado.com/) and learn of her involvement with [Decolonising Design](https://www.decolonisingdesign.com/). An anticolonial stance was also noticeably articulated in events I attended such as the 2021 edition of DRS’s [Pivot Conference](https://pivot2021conference.com/).
