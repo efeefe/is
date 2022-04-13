@@ -3,7 +3,7 @@ title: 'Anticolonial - against the alienation of excess'
 date: '19:18 13-04-2022'
 feed:
     limit: 10
-hero_classes: 'hero-large, overlay-dark-gradient'
+hero_classes: 'hero-large, overlay-light-gradient'
 show_sidebar: false
 hero_image: fsf.jpg
 ---
