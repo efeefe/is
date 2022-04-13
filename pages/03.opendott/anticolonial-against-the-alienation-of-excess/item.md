@@ -1,7 +1,6 @@
 ---
 title: 'Anticolonial - against the alienation of excess'
-date: '15:18 13-04-2022'
-published: false
+date: '19:18 13-04-2022'
 feed:
     limit: 10
 ---
