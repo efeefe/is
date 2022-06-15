@@ -7,7 +7,8 @@ feed:
     limit: 10
 ---
 
-2.2.1. Cultura Digital: hacking institutional infrastructure
+## Cultura Digital: hacking institutional infrastructure
+
 In the last quarter of 2002, president-elect Lula da Silva appointed Gilberto Gil as the Brazilian Culture Minister. Throughout his long career as an international musician, Gil had been connecting traditional, popular and contemporary cultures from Brazil and the world. When he became a Minister, Gil was particularly interested in the role digital technologies could play. Just a couple of months into his tenure, he was invited to host the opening panel of a Festival in São Paulo. 
 
 That Festival, Mídia Tática Brasil, was about the then-emerging field of tactical media, which proposed the instrumental use of media and information technology by social movements and interest groups as instruments for political struggle. The Minister’s role was delicate at that opening: mediating a panel composed of authors with radically divergent perspectives. On one side was John Perry Barlow, founder of the EFF (Electronic Frontier Foundation) who had written “A Declaration of the Independence of Cyberspace”[4] according to which the Internet was an autonomous environment that should not be regulated by national governments at all. On the other was Richard Barbrook, co-author of an essay titled “The Californian Ideology”[3] whose main argument was that the assertion that the Internet was located outside the sphere of governments was a fallacy. According to Barbrook, the Internet wouldn’t even have been created without significant public investment in research in the first place. Gilberto Gil made the point that both were right and that what should be done then was to recognise this fundamental contradiction of information technologies and adapt to it.
