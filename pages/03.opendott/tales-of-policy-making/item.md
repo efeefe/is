@@ -1,7 +1,7 @@
 ---
 title: 'Tales of policy-making'
 date: '20:06 15-06-2022'
-published: false
+published: true
 show_sidebar: false
 feed:
     limit: 10
@@ -24,7 +24,9 @@ Members of Articuladores would from time to time discuss how much this way of do
 The Articuladores group created a document titled “appropriate technologies”. Connecting to a lecture in which Gilberto Gil proposed that the Ministry should perform anthropologic acupuncture (“do-in antropológico”), the department of cultural policies transformed an unused idea of top-down cultural centres called BACs (“culture support bases”) into what came to be known as the Pontos de Cultura (“cultural points”) that formed the Cultura Viva (“living culture”) programme. Instead of building shining new landmark cultural centres, the Ministry made the choice to support hundreds of grassroots cultural initiatives in all the 26 states of Brazil. They would adopt a digital culture strategy based on free and open-source software, implemented through regional events called Encontros de Conhecimentos Livres (“free knowledge gatherings”). Almost twenty such gatherings were organised in the following years. After struggling for some years managing the support contracts with the growing number of Pontos de Cultura, the Ministry opted for a different strategy, by conceding awards instead of regular grants. 
 
 Jamie King [18] writes about the para-constituted: a stage in between loose networks and formalised institutions. He poses that despite the appearances, the gang is the real shape of power of current times: radically informal as well as situated deeply within organisation bodies. In that sense, it could be said that attempting to create and implement policy as an object of pure design, without taking into account the role of personal liaisons, culture, tradition and prejudices would be the easiest way to well-intentioned failures. The experiment of creating and implementing the digital culture strategy for the Brazilian Culture Ministry suggests that operating as a gang of sorts can lead to effective change in policy. Looking back on it after some years, however, one is also driven to reflect on how permanent such changes are. In other words, a para-constituted group can rapidly influence common-sensical institutional perception over a theme and sometimes budgetary decisions. As a kind of prototype, however, such a mode of operation has also the limitation of not building a wide enough institutional base so as to ensure its survival to tidal changes in politics. That would arguably be the role of an official, established policy. 
-2.2.2. National Policy on Solid Waste - advocacy and campaigning
+
+## 2.2.2. National Policy on Solid Waste - advocacy and campaigning
+
 Not long after the current Brazilian Constitution was brought forth in 1988, the Federal Congress started discussing how to solve the issue of urban waste. Open landfills were still largely used in cities large and small. A bill was proposed to create a national regulation for waste management, partly seizing on the awareness caused by the preparations to ECO’92, the UN-sponsored conference on the environment. Over time, the discussions in Congress led to a quite modern piece of legislation called PNRS - Portuguese for National Policy on Solid Waste. The problem, however, was that the process was stuck on some particular issues. One of the most contentious ones was the legislator’s decision to treat WEEE (Waste from Electrical and Electronic Equipment) as potentially toxic. As such, the producers and importers of electronics would be responsible for their collection and disposal. That was one of the reasons for the PNRS being stalled for a long time.
 
 In 2008, 17 years into the process, one congressman proposed to remove electronics from the coverage of the policy, in an attempt to have it approved. That fact drew the attention of some members of MetaReciclagem - a self-organised network that supported the creation of centres for the reuse of discarded computers. I was one of them. We decided to act by creating a group called Lixo Eletrônico (Portuguese for “Electronic Waste”) which would campaign for the permanence of electronics in the national policy for solid waste. We provided up-to-date information about how electronics were handled in different parts of the globe, about environmental legislation, and how to transition to the production of electronics with a smaller environmental footprint. We set up a website filled with relevant information. We would write articles that made their way to large newspapers. We were invited to do radio interviews, collaborate with art exhibitions and lecture on events.
@@ -38,9 +40,12 @@ Some years later, I would get involved with the matter once again when invited b
 From what I was told by the consultancy leaders, the fiercest opposition to implementing the PNRS mechanisms came from manufacturers and importers. And explicitly so by Abinee, the Brazilian Association of the Electro-electronics Industry. They didn’t want to be held accountable for the potential pollution their products were causing. Without their agreement, the law became a largely fictional piece when it comes to electronics. The main argument is that they won’t be able to turn a profit if the costs of handling electronic waste are to be embedded into the price of their merchandise. Apparently, a well-written and extensively discussed legislation is not enough to promote effective change, if the underlying productive system keeps failing to reward positive behaviour. As long as producing potentially polluting materials is cheaper than extending the lifetime of products, the transformation will only happen within the limits that capital owners are willing to tolerate.
 2.2.3. Cultura Digital Experimental
 
-Cultura Digital Experimental: consultancy
-2.2.4. SimCiTI
+## Cultura Digital Experimental: consultancy
 
+
+## 2.2.4. SimCiTI
+
+Permeability / porosity / membrane (Ciencia Aberta Ubtuba)
 
 Marco Civil. SiMCiTI
 SiMCiTI - participatory process, positive wave from federal gov. Inheriting from Marco Civil. But… not. And still, seed for future interventions. Pick it up later. Comment on Sistema Nacional de Cultura, PNPS, CMPC, Lei Aldir Blanc. In it for the long run. 
