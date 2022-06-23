@@ -7,7 +7,7 @@ feed:
     limit: 10
 ---
 
-Over the course of the last two decades, I had the occasional opportunity to engage with policy-making on different capacities: as a social activist, a formulator, a campaigner and an advisor.
+Over the course of the last two decades, I had the occasional opportunity to engage with policy-making on different capacities: as a social activist, a formulator, a campaigner and an advisor. The stories below summarise those that I see most relevant and some of the lessons learned. Most of these have been told by others in Portuguese, but this is my individual take in English in 2022 about them.
 
 <a id="culturadigital">&nbsp;</a>
 
