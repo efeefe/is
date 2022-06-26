@@ -1,7 +1,6 @@
 ---
 title: 'am I efeefe?'
 media_order: ff-blackmirrorshades-p.jpg
-jscomments: {  }
 body_classes: 'title-center title-h1h2'
 visible: true
 ---
@@ -26,9 +25,3 @@ I have two kids. We love travelling, playing music and cooking.
 - [Knowledge, Skill and Labor](../stuff/knowledge-skill-labor )
 - [Transformed Worlds](../stuff/transformed-worlds )
 - [Gambiarra: Repair Culture](../stuff/gambiarra-repair-culture)
-
-#### Ubatuba Emergency Fund
-
-I'm helping raise funds to alleviate some of the impacts of COVID-19 in Ubatuba. Please consider making a contribution following the link below:
-
-[https://opencollective.com/ubatuba-emergency-fund](https://opencollective.com/ubatuba-emergency-fund)
