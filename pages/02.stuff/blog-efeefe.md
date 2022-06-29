@@ -38,7 +38,7 @@ A curated list of ideas and works, old and new.
 
 **[Inovação Cidadã - Conceitos](https://cursos.tropixel.org/ic-conceitos/home)** - Open learning itinerary on 'citizen innovation' (2019 / 2020).
 
-**[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, research-action project (2015-2017).
+**[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, action-research project (2015-2017).
 
 **[Rede//Labs](https://redelabs-org.github.io/)** - open research about networked labs and experimental digital culture (2009-2016).
 
