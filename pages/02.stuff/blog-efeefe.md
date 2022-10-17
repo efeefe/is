@@ -40,7 +40,7 @@ A curated list of ideas and works, old and new.
 
 **[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, action-research project (2015-2017).
 
-**[Rede//Labs](https://redelabs-org.github.io/)** - open research about networked labs and experimental digital culture (2009-2016).
+**[Rede//Labs](redelabs)** - open research about networked labs and experimental digital culture (2009-2016).
 
 **[BricoLabs](https://www.pixelache.ac/festivals/festival-2013/theme/bricolabs)** - international network on free/open hardware, software, spectrum and culture, and generic infrastructures (2006-2013).
 
