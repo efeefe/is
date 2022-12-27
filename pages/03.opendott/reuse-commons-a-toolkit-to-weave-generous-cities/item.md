@@ -21,3 +21,5 @@ To ensure that waste prevention is effectively developed within cities and regio
 I approach that context using mixed participatory methods, direct observation and co-design. I have identified individual/household behaviour, mapped urban flows of second-hand materials, created and prototyped design concepts, and engaged with an international community of practitioners and researchers experienced with different aspects of material reuse.
 
 I am particularly interested in adopting a commons-based perspective - following the work of Elinor Ostrom - to identify and shape the governance of material resources in cities and regions. To achieve that, I have created a toolkit called Reuse Commons, through which local actors can weave systems for material reuse. The current form of the toolkit is described in this paper.
+
+**Full text available [here](https://zenodo.org/record/7432153#.Y6rB8fej-V4)**
