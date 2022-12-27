@@ -5,9 +5,9 @@ feed:
     limit: 10
 ---
 
-Paper published in the Proceedings of the Fab 17 Research Papers Stream, Hogeschool Rotterdam, Rotterdam, The Netherlands, pp. 123-133. 
+Paper [published]((https://zenodo.org/record/7432153#.Y6rB8fej-V4)) in the Proceedings of the Fab 17 Research Papers Stream, Hogeschool Rotterdam, Rotterdam, The Netherlands, pp. 123-133. 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7432153.svg)](https://zenodo.org/record/7432153#.Y6rB8fej-V4)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7432153.svg)
 
 ## Abstract
 Over the last decades, there have been significant improvements in waste management in contemporary cities - notably technology, methods and policies to improve the collection and recycling of materials. However, the industrial practice of recycling - transforming objects back into material for manufacturing - equates at least in part to cutting short the lifetime of things that may still have value. In addition, it requires significant investment and has environmental impacts that should be factored in. Keeping still usable materials away from waste is therefore of utmost importance. Done the right way, it can also create local opportunities for social inclusion and economic development.
