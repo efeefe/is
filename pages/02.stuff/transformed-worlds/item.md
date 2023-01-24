@@ -4,6 +4,9 @@ date: '12-01-2017 12:12'
 hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 hero_image: nantes.png
 show_sidebar: false
+published: true
+feed:
+    limit: 10
 ---
 
 > This is the first of two texts, written in October 2016, resulting from my period as a resident researcher in Nantes, invited by [PiNG Association](http://www.pingbase.net/). It was published originally on [Medium](https://medium.com/@felipefonseca/transformed-worlds-9a6bd7c44e8e). There is a french version [here](http://www.slowtech.fr/archives/576). It is followed by the other part titled “Knowledge, Skill and Labor”, available [here](../knowledge-skill-labor). Both texts were based on my lecture in the event called *Ceci n’est pas un déchet*. 
