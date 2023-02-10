@@ -32,7 +32,11 @@ A curated list of ideas and works, old and new.
 
 **[Tropixel](https://tropixel.org)** - Brazil-based network on arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
 
-**[fonte.wiki](https://fonte.wiki)** - Public repository of open educational resources on community-based digital policies.
+**[Semente](https://fonte.wiki/semente-en)** - An interactive method to create community-based digital policy.
+
+**[fonte.wiki](https://fonte.wiki)** - Public repository of open educational resources on digital rights.
+
+**[ID21](https://fonte.wiki/id21)** - A study about digital inclusion and communities in Brazil.
 
 ### Past projects
 
