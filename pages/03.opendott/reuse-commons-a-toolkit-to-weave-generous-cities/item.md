@@ -5,7 +5,7 @@ feed:
     limit: 10
 ---
 
-Open Access Conference Paper [published](https://zenodo.org/record/7432153#.Y6rB8fej-V4) in the Proceedings of the [Fab 17](https://fab17.fabevent.org/) Research Papers Stream, Hogeschool Rotterdam, Rotterdam, The Netherlands, pp. 123-133. 
+Open Access Conference Paper [published](https://zenodo.org/record/7432153#.Y6rB8fej-V4) in the Proceedings of the [Fab 17](https://fab17.fabevent.org/) Research Papers Stream, Hogeschool Rotterdam, Rotterdam, The Netherlands, pp. 123-133. A video of the presentation is available [here](https://youtu.be/9FffmnQeZCU).
 
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7432153.svg)
 
