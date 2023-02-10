@@ -4,7 +4,7 @@ date: '08:59 13-09-2021'
 feed:
     limit: 10
 hero_image: ID21.png
-hero_classes: 'text-white, overlay-dark'
+hero_classes: 'text-dark, overlay-light'
 ---
 
 Para boa parte das iniciativas brasileiras de referência sobre o uso de tecnologias digitais em comunidades, a expressão _inclusão digital_ é incompleta e pode levar a distorções. Ainda assim, é um campo que possui relevância institucional e social, tornando-se um espaço importante de engajamento e visibilidade. Por algum tempo a partir do início dos anos 2000, o Brasil contribuiu de maneira definitiva para a discussão e prática sobre inclusão digital, a partir de uma multiplicidade de projetos. Muitos desses projetos questionavam uma noção superficial de que para promover a inclusão digital bastava oferecer a possibilidade do consumo de equipamentos e acesso.
