@@ -1,0 +1,11 @@
+---
+title: 'Scaling Distributed Manufacturing in the Global South'
+date: '18-04-2023 09:00'
+show_sidebar: false
+hero_classes: 'text-dark overlay-light hero-fullscreen'
+hero_image: web.archive.jpeg
+---
+
+I collaborated with a group of brilliant researchers and practitioners conducting a study about the expansion of distributed manufacturing in the Global South commissioned by the UK's [Frontier Tech Hub](https://www.frontiertechhub.org/). This endeavor generated valuable insights into this crucial domain and allowed us to devise innovative strategies for accelerating the worldwide adoption of distributed manufacturing.
+
+The report can be found [here](https://www.frontiertechhub.org/resources/dm-evidence/) ([internet archive copy](https://web.archive.org/web/20230419093958/https://www.frontiertechhub.org/resources/dm-evidence/))
