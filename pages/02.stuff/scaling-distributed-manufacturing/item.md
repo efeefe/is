@@ -8,4 +8,4 @@ I collaborated with a group of brilliant researchers and practitioners conductin
 
 [![FT Hub Deep Dive - Scaling Distributed Manufacturing in the Global South](web.archive.jpeg)](https://www.frontiertechhub.org/resources/dm-evidence/)
 
-The report can be found [here](https://www.frontiertechhub.org/resources/dm-evidence/) ([internet archive copy](https://web.archive.org/web/20230419093958/https://www.frontiertechhub.org/resources/dm-evidence/))
+The report can be found [here](https://www.frontiertechhub.org/resources/dm-evidence/) ([internet archive copy](https://web.archive.org/web/20230419093958/https://www.frontiertechhub.org/resources/dm-evidence/)).
