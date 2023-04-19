@@ -2,7 +2,7 @@
 title: 'Scaling Distributed Manufacturing in the Global South'
 date: '18-04-2023 09:00'
 show_sidebar: false
-hero_classes: 'text-transparent overlay-dark hero-fullscreen'
+hero_classes: 'text-dark overlay-light hero-fullscreen'
 hero_image: web.archive.jpeg
 ---
 
