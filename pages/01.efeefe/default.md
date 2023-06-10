@@ -18,7 +18,10 @@ I have two kids. We love travelling, playing music and cooking.
 #### More about me
 
 - [My Stuff](../stuff)
-- [Linkedin](https://www.linkedin.com/in/felipefonseca )
+- felipefonseca on [Linkedin](https://www.linkedin.com/in/felipefonseca) and [YouTube](https://www.youtube.com/felipefonseca)
+- efeefe on [Twitter](https://twitter.com/efeefe)
+- efeefe.me on [Instagram](https://www.instagram.com/efeefe.me/)
+- efefonseca on [Facebook](https://www.facebook.com/efefonseca)
 - [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (portuguese only)
 
 #### Texts
