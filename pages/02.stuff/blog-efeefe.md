@@ -46,6 +46,8 @@ A curated list of ideas and works, old and new.
 
 **[Inovação Cidadã - Conceitos](https://cursos.tropixel.org/ic-conceitos/home)** - Open learning itinerary on 'citizen innovation' (2019 / 2020). Based on a consultancy to the Culture Administration of Santo André Municipality (Brazil).
 
+**[TransforMatéria](transformateria.wordpress.com/)** - Open investigation about potential connections between maker culture, repair/reuse and craftsmanship.
+
 **[Ciência Aberta Ubatuba](https://cienciaabertaubatuba.github.io/)** - Ubatuba Open Science, action-research project (2015-2017). Part of the OCSDNet and supported by IDRC.
 
 **[Rede//Labs](redelabs)** - open research about networked labs and experimental digital culture (2009-2016).
