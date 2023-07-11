@@ -28,11 +28,13 @@ A curated list of ideas and works, old and new.
 
 ### Current projects
 
+**[On the Exactitude of Maps](exactitude-maps)** - Artwork and situated research on implications of geospatial data in contemporary society.
+
+**[Semente](https://semente.de)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
+
 **[OpenDoTT](../opendott)** - PhD research on waste prevention and generous cities, part of the Open Design of Trusted Things project of ~~University of Dundee~~ Northumbria University and Mozilla Foundation (2019-2023). Funded by the EU’s Horizon 2020 / Marie Skłodowska-Curie research and innovation programme. 
 
 **[Tropixel](https://tropixel.org)** - Brazil-based network on arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
-
-**[Semente](https://semente.de)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
 
 ### Past projects
 
