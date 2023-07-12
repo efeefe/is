@@ -3,6 +3,13 @@ title: 'On the Exactitude of Maps'
 date: '14:57 11-07-2023'
 feed:
     limit: 10
+published: true
+taxonomy:
+    tag:
+        - maps
+        - geolivre
+        - memelab
+hero_image: OEOM.jpg
 ---
 
 > As part of the CODE programme led by [Impakt](https://impakt.nl), I have collaborated with [Rebekka Jochem](https://www.rebekkajochem.com/) to conduct research and create artworks investigating the impact of maps in contemporary life, labour and cities. The collaboration generated a mobile audioguide and a physical installation.
