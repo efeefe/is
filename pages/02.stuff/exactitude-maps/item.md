@@ -32,7 +32,7 @@ Such data have become a massive resource that a select few corporations are expl
 
 ![](foto01.jpg)
 
-![]()foto02.jpg
+![](foto02.jpg)
 
 ## References
 
