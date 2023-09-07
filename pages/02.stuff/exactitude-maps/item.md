@@ -34,6 +34,12 @@ Such data have become a massive resource that a select few corporations are expl
 
 ![](foto02.png)
 
+## Exhibitions
+
+- CPDP (Brussels) - May 2023
+- MozFest House (Amsterdam) - June 2023
+- Ars Electronica (Linz) - September 2023
+
 ## References
 
 - [Link collection - "geolivre"](https://links.efeefe.me/?searchtags=geolivre)
