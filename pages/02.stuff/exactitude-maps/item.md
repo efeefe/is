@@ -18,9 +18,10 @@ hero_image: OEOM.jpg
 
 This piece delves into the world of user-generated geospatial data and how it is exploited economically by tech corporations. In our digital age, real-time digital representations of the physical world are continuously created and updated by people using smartphones, computers, and various devices as they go about their daily lives.
 
-Users not only plan their routes and destinations but also contribute by posting and reading reviews of restaurants, parks, or hotels. Even when they deviate from recommended routes or choose different cafes than the highest-rated ones, they generate data that is immediately captured and integrated into the vast digital landscape. This landscape not only describes our physical world but simultaneously creates digital maps of our behaviors, desires, and potential consumption patterns.
+Users not only plan their routes and destinations but also contribute by posting and reading reviews of restaurants, parks, or hotels. Even when they deviate from recommended routes or choose different cafes than the highest-rated ones, they generate data that is immediately captured and integrated into vast datasets. Such datasets not only describe our physical world but simultaneously create algorithmic representations of our behaviors, desires, and potential consumption patterns.
 
-This collectively constructed dataset has become a massive resource that a select few corporations are exploiting for profit. It can be used overtly for advertising purposes or for more covert forms of manipulation. Furthermore, it serves as a vital means of production for the digital economy, actively utilized by gig workers in industries such as ride-sharing, food delivery apps, online shopping, and platform-based freelance work, including services like house cleaning and home repairs.
+Such data have become a massive resource that a select few corporations are exploiting for profit. It can be used overtly for advertising purposes or for more covert forms of manipulation. Furthermore, it serves as a vital yet not clearly visible means of production for the digital economy, actively utilized by gig workers in industries such as ride-sharing, food delivery apps, online shopping, and platform-based freelance work, including services like house cleaning and home repairs.
+
 ## References
 
 - [Link collection - "geolivre"](https://links.efeefe.me/?searchtags=geolivre)
