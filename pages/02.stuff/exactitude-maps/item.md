@@ -22,6 +22,18 @@ Users not only plan their routes and destinations but also contribute by posting
 
 Such data have become a massive resource that a select few corporations are exploiting for profit. It can be used overtly for advertising purposes or for more covert forms of manipulation. Furthermore, it serves as a vital - though not clearly visible - means of production for the digital economy, actively utilized by gig workers in industries such as ride-sharing, food delivery apps, online shopping, and platform-based freelance work, including services like house cleaning and home repairs.
 
+## Images
+
+![](3d.jpeg)
+
+![](bike01.png)
+
+![](bike02.png)
+
+![](foto01.jpg)
+
+![](foto02.jpg)
+
 ## References
 
 - [Link collection - "geolivre"](https://links.efeefe.me/?searchtags=geolivre)
