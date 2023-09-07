@@ -30,9 +30,9 @@ Such data have become a massive resource that a select few corporations are expl
 
 ![](bike02.png)
 
-![](foto01.jpg)
+![](foto01.png)
 
-![](foto02.jpg)
+![](foto02.png)
 
 ## References
 
