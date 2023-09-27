@@ -18,9 +18,12 @@ feed:
 
 [OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to [Northumbria University](https://www.northumbria.ac.uk/) in June 2020.
 
-My research topic is *waste prevention and generous cities*. I am using this blog to document what I am reading, learning and discovering as I go deeper into my research. Partial outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) (2021).
+The title of my thesis is *Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts*.
 
-I maintain a list of links with the tag *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). I am gradually moving relevant documentation to a [public wiki](https://wiki.reuse.city).
+I am gradually moving relevant documentation to a [public wiki](https://wiki.reuse.city). I maintain a list of links with the tag *opendott* in my [infinite bookmark collection](https://links.efeefe.me/?searchtags=opendott). 
+
+I have used this blog to document what I read, learnt and discovered as I went deeper into my research. Earlier outputs can be seen in [this set of concept ideas](../concepts)(2020) and [this repository with second year deliverables](https://github.com/opendott-smartcities/II/tree/main/WP2-deliverables) (2021).
+
 
 ---
 
