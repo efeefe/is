@@ -59,7 +59,7 @@ In my search for alternatives, I pay particular attention to - and hope to promo
 
 Generosity as a political choice seems to be even more important when the world is looking for novel ways to address what I called the trouble, to echo Donna Haraway. That is, the multiple crises of current times. Climate change, economic inequality, dissolution of social ties. All suggest that convivial responses are needed to move forward.
 
-The theme of participation was present throughout my investigation. Not only for extracting data and validating my ideas, but in an ongoing effort to deconstruct the different roles I myself played. That allowed me to produce an open-ended discussion, generating outputs such as datasets, design concepts and prototypes. Part of that is raw material that I still intend to develop further, as I'll discuss later today. 
+The theme of participation was present throughout my investigation. Not only for extracting data and validating my ideas, but in an ongoing effort to deconstruct the different roles I myself played. That allowed me to produce an open-ended discussion, generating outputs such as datasets, design concepts and prototypes. Part of that is raw material that I still intend to develop further, as I'll discuss later today.
 
 In parallel, my research journey also led me to reflect on methods for building - and in some cases weaving - community-grounded knowledge. In other words, "how?"
 
@@ -69,7 +69,7 @@ My research tries to promote an unusual point. I acknowledge that this is not at
 
 An usual reaction I get when I tell people about my work is "that's great, you're also working with recycling!". In other words, the social imaginary around the topic of waste leads people to believe recycling is the appropriate solution for all and any unused material. Even as I found interesting movements happening in terms of policy and activism to prioritise waste prevention over waste management, that is still very distant from public opinion.
 
-There is however a growing number of people in the whole world who have been actively countering that way of thinking. Of course, my past engagement with reuse initiatives gave me clues about it. The question was then how to acquire evidence that would allow the valitidy of a reuse-based approach to be tested and expanded on.
+There is however a growing number of people in the whole world who have been actively countering that way of thinking. Of course, my past engagement with reuse initiatives gave me clues about it. The question was then how to acquire evidence that would allow the validity of a reuse-based approach to be tested and expanded on.
 
 My PhD was first of all a dive into the conditions of doing research at the intersection of academia, industry and society, guided by design and by reflections about participatory policy. My own positionality emerged meanwhile as a sort of foreigner to all of those areas. I never saw myself as an academic, a technologist, a designer or a policy-maker. Yet, my research led me to reflect from all of those perspectives.
 
