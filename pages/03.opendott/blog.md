@@ -16,7 +16,7 @@ feed:
     limit: 10
 ---
 
-[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) *"is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to [Northumbria University](https://www.northumbria.ac.uk/) in June 2020.
+[OpenDoTT](https://opendott.org) (Open Design of Trusted Things) was *"a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things"*. I have moved in 2019 to Dundee to work at the [Duncan of Jordanstone College of Art and Design](https://www.dundee.ac.uk/djcad/), and relocated later to Berlin to work at the [Mozilla Foundation](https://foundation.mozilla.org). The academic side of the project has migrated from the University of Dundee to [Northumbria University](https://www.northumbria.ac.uk/) in June 2020.
 
 The title of my thesis is *Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts*.
 
