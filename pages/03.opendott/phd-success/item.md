@@ -34,8 +34,11 @@ Before the viva, I prepared slides and a guiding text. I never read during my pr
 ---
 
 > Saravá Exu, que abre caminhos 
+> 
 > Saravá meu pai Ogum, guerreiro da luz 
+> 
 > Agradeço a abertura e generosidade da instituição que me acolheu com paciência 
+> 
 > Agradeço o apoio delicado e contínuo de meu orientador Nick Spencer
 
 First of all, let me thank you Dr. Mark Bailey for chairing this session. Thanks, Professor Joyce Yee and Professor Gordon Hush for composing the board.
