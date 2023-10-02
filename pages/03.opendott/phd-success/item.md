@@ -23,18 +23,20 @@ The examiners recommended the University award my degree, subject to modificatio
 
 Differently from what I know of Universities in other locations, the viva is not a public event. From what I heard, it is rare for a thesis to be approved immediately during the viva. This characteristic may lead to some confusion for my friends and acquaintances used to seeing the defence as an open and final moment of the doctoral studies.
 
-For what it's worth, the discussion I had with the examiners was extremely fruitful. Instead of, as I expected, having my literature or methodology severely criticised, what I had was a positive conversation on how to make the thesis more consistent. Instead of being considered too bold or insubstantial, they recommended being bolder on my concept of generous cities as a way to frame regenerative ways to handle excess materials locally. My spiral-shaped methodology for developing research was also suggested to be a valid contribution to scholarship, so I will explore it a bit more in the final version. This is probably the second-to-last post to this blog. Further documentation of my research and potential future projects stemming from it will be published on the [reuse.city wiki](https://wiki.reuse.city).
+For what it's worth, the discussion I had with the examiners was extremely fruitful. Instead of, as I expected, having my literature or methodology severely criticised, what I had was a positive conversation on how to make the thesis more consistent. Instead of being considered too bold or insubstantial, they recommended being bolder on my concept of generous cities as a way to frame regenerative ways to handle excess materials locally. My spiral-shaped methodology for developing research was also suggested to be a valid contribution to scholarship, so I will explore it a bit more in the final version.
 
-As a curiosity, due to the COVID era and the characteristics of OpenDoTT, the programme my PhD was part of, this was only the second time I've been to Newcastle-upon-Tyne. The first one happened even before I was enrolled at Northumbria and still a PhD candidate at the University of Dundee. I am finalising my doctoral studies at Northumbria without having ever been to the library. Nonetheless, while there I was happy to meet some friends for dinner and lunch.
+This is probably the second-to-last post to this blog. Further documentation of my research and potential future projects stemming from it will be published on the [reuse.city wiki](https://wiki.reuse.city).
+
+As a curiosity, due to the COVID era and the characteristics of OpenDoTT, the programme my PhD was part of, this was only the second time I've been to Newcastle-upon-Tyne. The first one happened even before I was enrolled at Northumbria and still a PhD candidate at the University of Dundee. I am finalising my doctoral studies at Northumbria without having ever been to the library, for example. No to mention the pubs and coffe shops I've never been to. Nonetheless, on the few days there I was happy to meet some friends for dinner and lunch.
 
 Before the viva, I prepared slides and a guiding text. I never read during my presentations, so the text is not a script but rather a device I used to organise thoughts. As happens often, my presentation diverged substantially in shape from the text. But I share the text below to document the moment.
 
 ---
 
-_Saravá Exu, que abre caminhos 
-Saravá meu pai Ogum, guerreiro da luz 
-Agradeço a abertura e generosidade da instituição que me acolheu com paciência 
-Agradeço o apoio delicado e contínuo de meu orientador Nick Spencer_
+> Saravá Exu, que abre caminhos 
+> Saravá meu pai Ogum, guerreiro da luz 
+> Agradeço a abertura e generosidade da instituição que me acolheu com paciência 
+> Agradeço o apoio delicado e contínuo de meu orientador Nick Spencer
 
 First of all, let me thank you Dr. Mark Bailey for chairing this session. Thanks, Professor Joyce Yee and Professor Gordon Hush for composing the board.
 
