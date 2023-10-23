@@ -8,6 +8,10 @@ feed:
 ### Coletivo Digital, São Paulo, 2023
 ### Mozfest House, Amsterdam, 2023
 ### Critical Infrastructures Lab Launch Event, Amsterdam, 2023
+### CRDM Symposium Infrastructures and/as Anticolonialism, 2022
+https://crdmsymposium2022.wordpress.ncsu.edu/ / https://web.archive.org/web/20230610174002/https://crdmsymposium2022.wordpress.ncsu.edu/
+https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view
+
 ### Colaboramérica, Medellín, 2018
 ### Digital Inclusion Policy and Research Conference, London, 2018
 ### Open and Collaborative Science Workshop, Cyprus, 2017
