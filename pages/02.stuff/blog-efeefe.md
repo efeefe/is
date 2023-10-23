@@ -28,7 +28,11 @@ A curated list of ideas and works, old and new.
 
 ### Current projects
 
-**[On the Exactitude of Maps](exactitude-maps)** - Artwork and situated research on implications of geospatial data in contemporary society.
+**[Distributed Design Mentor Scheme](https://distributeddesign.eu/resources/mentor-scheme/)** - Mentoring community-based projects (2023).
+
+**[ALGO*]** - Co-design lab studying the relation between algorithmic biases and racial justice in Brazil (2023). Part of a research project to create a critical videogame challenging algorithmic racism, supported by the University of Bristol.
+
+**[On the Exactitude of Maps](exactitude-maps)** - Artwork and situated research on implications of geospatial data in contemporary society (2023). Created within the project CODE - Reclaiming Digital Agency (Impakt, Transmediale, CPDP).
 
 **[Semente](https://semente.de)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
 
