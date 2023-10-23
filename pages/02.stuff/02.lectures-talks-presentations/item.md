@@ -6,12 +6,19 @@ feed:
 ---
 
 ### Coletivo Digital, São Paulo, 2023
+### Re-publica, Berlin, 2023
 ### Mozfest House, Amsterdam, 2023
 ### Critical Infrastructures Lab Launch Event, Amsterdam, 2023
+### Urban Hosts, Berlin, 2022
+http://www.urbanhosts.org/meet-the-guests/felipe-schmidt-fonseca/
+
 ### CRDM Symposium Infrastructures and/as Anticolonialism, 2022
 https://crdmsymposium2022.wordpress.ncsu.edu/ / https://web.archive.org/web/20230610174002/https://crdmsymposium2022.wordpress.ncsu.edu/
 https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view
-
+### Tales of Care and Repair, 2021
+https://tales.repairacts.net/events/tales-of-care-and-repair-symposium-day-1
+### Fixfest 2020
+https://www.youtube.com/watch?v=cU5R2MzPGjw&list=PLuRLn6aJYSF8YKqQwH3V4-zIJO3pBMq6G&index=7&t=533s
 ### Colaboramérica, Medellín, 2018
 ### Digital Inclusion Policy and Research Conference, London, 2018
 ### Open and Collaborative Science Workshop, Cyprus, 2017
