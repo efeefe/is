@@ -16,6 +16,11 @@ Group discussion about digital policy in Brazil and the semente project. Co-orga
 
 Session "[Reuse Commons - weaving generous cities](https://web.archive.org/web/20231030104353/https://re-publica.com/de/session/reuse-commons-weaving-generous-cities)".
 
+### Global Innovation Gathering, Berlin, 2023
+
+Session "From Makers to Ministers: Suggestions for Future Policy Dialogues". Video recording available [here](https://www.youtube.com/watch?v=GosVMluSsco).
+
+
 ### Mozfest House, Amsterdam, 2023
 
 Exhibition of the installation "On the Exactitude of Maps".
