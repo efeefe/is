@@ -6,6 +6,8 @@ feed:
 published: true
 ---
 
+## Recent
+
 ### Coletivo Digital, São Paulo, 2023
 
 Group discussion about digital policy in Brazil and the semente project. Co-organised by Maira Begalli and Coletivo Digital.
