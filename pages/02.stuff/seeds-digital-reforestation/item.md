@@ -2,6 +2,8 @@
 title: 'Seeds of Digital Reforestation'
 date: '02-11-2023 12:00'
 show_sidebar: false
+feed:
+    limit: 10
 ---
 
 Berlin, ~~May 2023~~ (updated November 2023)
@@ -60,3 +62,7 @@ In recent years, many initiatives have emerged that aim to help people – even 
 We take a different path from many open methods for building technology-based projects that assume the need for a project leader. We equate that character to the prototypical gardener – usually a man, white, educated, with knowledge of multiple languages, and ties to powerful individuals – who convinces the world to help care for the outcomes of his store-bought seeds, whilst killing wild species and other competitors. Our bet is always to start by observing and creating relationships, discovering who the community is in all its diversity of knowledge, aspirations, and levels of involvement – our dense and complex forest – to collectively build what we want to be together.
 
 We propose to think of community in a broad sense. Not a group that shares a single common trait – geographical, ethnic, religious – but the combination of multiple and diverse commonalities. To accomplish this, we need to create connections between multiple species and understand that it takes time. Tall trees cannot exist without the prior presence of fungi, ground cover vegetation, shrubs, and smaller trees, as well as microorganisms, insects, fish, birds, and other animal species. As far as metaphors go, we are obviously aware that not all plant species propagate through seeds. Still, we insist on the relevance of developing methods that help understand the conditions and act on them. Our seed – semente – is one such experiment.
+
+---
+
+> An earlier version of this text was submitted some months ago to be published in an upcoming edition of Facta, edited by Fred Paulino. As conversations and experiments with semente evolved, however, I felt like updating some parts of it. Special thanks to Sofia Galvão Lima for the feedback.
