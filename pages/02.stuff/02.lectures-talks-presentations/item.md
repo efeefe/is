@@ -1,6 +1,6 @@
 ---
 title: 'Lectures, Talks, Presentations'
-date: '22:52 23-10-2023'
+date: '22:52 23-10-2015'
 feed:
     limit: 10
 published: true
