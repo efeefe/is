@@ -28,7 +28,7 @@ A curated list of ideas and works, old and new. See also a list of [lectures, ta
 
 ### Current projects
 
-**[ALGO]** - Co-design lab studying the relation between algorithmic biases and racial justice in Brazil (2023). Part of a research project to create a critical videogame challenging algorithmic racism, supported by the University of Bristol.
+**[ALGO](https://globalinnovationgathering.org/algoracism/)** - Co-design lab studying the relation between algorithmic biases and racial justice in Brazil (2023). Part of a research project to create a critical videogame challenging algorithmic racism, supported by the University of Bristol.
 
 **[On the Exactitude of Maps](exactitude-maps)** - Artwork and situated research on implications of geospatial data in contemporary society (2023). Created within the project CODE - Reclaiming Digital Agency (Impakt, Transmediale, CPDP).
 
