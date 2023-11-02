@@ -28,19 +28,19 @@ A curated list of ideas and works, old and new. See also a list of [lectures, ta
 
 ### Current projects
 
-**[Distributed Design Mentor Scheme](https://distributeddesign.eu/resources/mentor-scheme/)** - Mentoring community-based projects (2023).
-
 **[ALGO]** - Co-design lab studying the relation between algorithmic biases and racial justice in Brazil (2023). Part of a research project to create a critical videogame challenging algorithmic racism, supported by the University of Bristol.
 
 **[On the Exactitude of Maps](exactitude-maps)** - Artwork and situated research on implications of geospatial data in contemporary society (2023). Created within the project CODE - Reclaiming Digital Agency (Impakt, Transmediale, CPDP).
 
-**[Semente](https://semente.de)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
+**[Semente](seeds-digital-reforestation)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
 
 **[OpenDoTT](../opendott)** - PhD research on waste prevention and generous cities, part of the Open Design of Trusted Things project of ~~University of Dundee~~ Northumbria University and Mozilla Foundation (2019-2023). Funded by the EU’s Horizon 2020 / Marie Skłodowska-Curie research and innovation programme.
 
 **[Tropixel](https://tropixel.org)** - Brazil-based network on arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
 
 ### Past projects
+
+**[Distributed Design Mentor Scheme](https://distributeddesign.eu/resources/mentor-scheme/)** - Mentoring community-based projects (2023).
 
 **[Scaling Distributed Manufacturing in the Global South](scaling-distributed-manufacturing)** - Report commissioned by UK's Frontier Tech Hub (2023).
 
