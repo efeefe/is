@@ -39,6 +39,7 @@ Such data have become a massive resource that a select few corporations are expl
 - CPDP (Brussels) - May 2023
 - MozFest House (Amsterdam) - June 2023
 - Ars Electronica (Linz) - September 2023
+- Impakt Festival (Utrecht) - November 2023 - January 2024
 
 ## References
 
