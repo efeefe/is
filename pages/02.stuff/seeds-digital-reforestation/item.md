@@ -9,8 +9,11 @@ feed:
 Berlin, ~~May 2023~~ (updated November 2023)
 
 >It's not enough to protect what is left
+>
 >As the voracious chainsaw cashes in
+>
 >We need to understand it's already enough
+>
 >And replant the forest
 
 > Gil + Gilsons - [Refloresta](https://www.youtube.com/watch?v=YAQxp-rkFVM)
