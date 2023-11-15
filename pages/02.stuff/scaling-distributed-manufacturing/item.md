@@ -12,4 +12,4 @@ I collaborated with a group of brilliant researchers and practitioners conductin
 
 The report can be found [here](https://www.frontiertechhub.org/resources/dm-evidence/) ([internet archive copy](https://web.archive.org/web/20230419093958/https://www.frontiertechhub.org/resources/dm-evidence/) / [Zenodo](https://zenodo.org/records/7916430)).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7916430.svg)](https://zenodo.org/records/7916430)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7916430.svg)](https://zenodo.org/records/7916430))
