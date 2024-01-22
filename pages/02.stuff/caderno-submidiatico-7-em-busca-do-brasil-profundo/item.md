@@ -10,4 +10,4 @@ feed:
 
 Micropublicação compilada em 2008, como uma "tentativa de levantar algumas questões que me parecem relevantes na busca do que pode ser uma identidade brasileira nos contextos de ativismo midiático e apropriação tecnológica dos dias de hoje. Na ausência de repertório teórico e método científico, vou lançar mão de uma ou outra analogia equivocada, jogar aqui e ali uma conclusão precipitada, contar histórias sob a minha perspectiva individual, e certamente ignorar outras pessoas que já pensaram de maneira muito mais correta este ou aquele aspecto. Aos inevitáveis descontentes, aviso de antemão: não percam seu tempo, pulem pro próximo artigo."
 
-Disponível em PDF [aqui](https://efeefe-arquivo.github.io/sites/efeefe.no-ip.org/files/midia/caderno_07/index.pdf).
+Disponível em PDF [aqui](https://efeefe-arquivo.github.io/sites/efeefe.no-ip.org/files/midia/caderno_07/index.pdf) e no [archive.org](https://archive.org/details/cadernos-submidiaticos-07/).
