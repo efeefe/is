@@ -1,10 +1,8 @@
 ---
 title: Concepts
 published: true
-jscomments:
-    active: false
 body_classes: 'title-center title-h1h2h3'
-visible: false
+visible: true
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
