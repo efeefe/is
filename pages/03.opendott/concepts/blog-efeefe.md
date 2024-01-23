@@ -19,6 +19,7 @@ content:
     url_taxonomy_filters: true
 feed:
     limit: 10
+date: '30-06-2020 00:00'
 ---
 
 # OpenDoTT
