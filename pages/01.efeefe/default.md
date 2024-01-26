@@ -21,15 +21,15 @@ I have two kids. We love travelling, playing music and cooking.
 
 #### More about me
 
-- [My Stuff](../stuff)
+- [My Stuff](../stuff) - projects, talks, writings.
 - felipefonseca on [Linkedin](https://www.linkedin.com/in/felipefonseca) and [YouTube](https://www.youtube.com/felipefonseca)
-- efeefe on [Twitter](https://twitter.com/efeefe)
-- efeefe.me on [Instagram](https://www.instagram.com/efeefe.me/)
+- efeefe on [Mastodon](https://social.coop/@efeefe) and [Twitter](https://twitter.com/efeefe)
+- efeefe.me on [Threads](https://www.threads.net/@efeefe.me) and [Instagram](https://www.instagram.com/efeefe.me/)
 - efefonseca on [Facebook](https://www.facebook.com/efefonseca)
-- [A more complete profile page](http://wiki.ubatuba.cc/doku.php?id=felipefonseca) (portuguese only)
 
 #### Texts
 
+- [Seeds of Digital Reforestation](../stuff/seeds-digital-reforestation)
 - [Socio-ecological innovation](https://magazine.vunela.com/socio-ecological-innovation-dc1999d556a5)
 - [Knowledge, Skill and Labor](../stuff/knowledge-skill-labor )
 - [Transformed Worlds](../stuff/transformed-worlds )
