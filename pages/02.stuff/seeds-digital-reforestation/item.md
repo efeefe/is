@@ -6,6 +6,8 @@ feed:
     limit: 10
 ---
 
+> A version of this text was included as a chapter of [Driving Design II](https://distributeddesign.eu/resources/driving-design-book-ii/), published by the [Distributed Design Plaform](https://distributeddesign.eu/). That version is available as a free PDF from their website, but there are some minor errors. I corrected them and made an edited PDF available [here](DDBook_year6_online_FSF.pdf) (13,4 Mb PDF).
+
 Berlin, ~~May 2023~~ (updated November 2023)
 
 >"It's not enough to protect what is left
