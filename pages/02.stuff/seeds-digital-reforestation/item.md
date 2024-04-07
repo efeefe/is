@@ -6,7 +6,7 @@ feed:
     limit: 10
 ---
 
-> An updated version of this text was included as a chapter of [Driving Design II](https://distributeddesign.eu/resources/driving-design-book-ii/), published by the [Distributed Design Plaform](https://distributeddesign.eu/). That version is available as a free PDF from their website, but there are some minor errors. I corrected them and made an edited PDF available [here](DDBook_year6_online_FSF.pdf) (13,4 Mb PDF).
+> **Update:** A slightly edited version of this text was included as a chapter of [Driving Design II](https://distributeddesign.eu/resources/driving-design-book-ii/), published by the [Distributed Design Plaform](https://distributeddesign.eu/). That version is available as a free PDF from their website, but there are some minor errors. I corrected them and made an edited PDF available [here](DDBook_year6_online_FSF.pdf) (13,4 Mb PDF).
 
 ---
 
@@ -80,4 +80,4 @@ We propose to think of community in a broad sense. Not a group that shares a sin
 
 ---
 
-> An earlier version of this text was submitted some months ago to be published in an upcoming edition of Facta, edited by Fred Paulino. As conversations and experiments with semente evolved, however, I felt like updating some parts of it. My special thanks to Sofia Galvão Lima for the feedback that triggered some of these updates.
+> PS: An earlier version of this text was submitted some months ago to be published in an upcoming edition of Facta, edited by Fred Paulino. As conversations and experiments with semente evolved, however, I felt like updating some parts of it. My special thanks to Sofia Galvão Lima for the feedback that triggered some of these updates.
