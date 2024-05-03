@@ -19,15 +19,15 @@ I have two kids. We love travelling, playing music and cooking.
 
 - [My Stuff](../stuff) - projects, talks, writings.
 - My [ORCID](https://orcid.org/0000-0002-4764-7069), [Academia](https://northumbria.academia.edu/FelipeFonseca), [ResearchGate](https://www.researchgate.net/profile/Felipe-Schmidt-Fonseca).
-- felipefonseca on [Linkedin](https://www.linkedin.com/in/felipefonseca) and [YouTube](https://www.youtube.com/felipefonseca)
-- efeefe on [Mastodon](https://social.coop/@efeefe) and [Twitter](https://twitter.com/efeefe)
-- efeefe.me on [Threads](https://www.threads.net/@efeefe.me) and [Instagram](https://www.instagram.com/efeefe.me/)
-- efefonseca on [Facebook](https://www.facebook.com/efefonseca)
+- felipefonseca on [Linkedin](https://www.linkedin.com/in/felipefonseca) and [YouTube](https://www.youtube.com/felipefonseca).
+- efeefe on [Mastodon](https://social.coop/@efeefe) and [Twitter](https://twitter.com/efeefe).
+- efeefe.me on [Threads](https://www.threads.net/@efeefe.me) and [Instagram](https://www.instagram.com/efeefe.me/).
+- efefonseca on [Facebook](https://www.facebook.com/efefonseca).
 
 #### Texts
 
-- [Seeds of Digital Reforestation](../stuff/seeds-digital-reforestation)
-- [Socio-ecological innovation](https://magazine.vunela.com/socio-ecological-innovation-dc1999d556a5)
-- [Knowledge, Skill and Labor](../stuff/knowledge-skill-labor )
-- [Transformed Worlds](../stuff/transformed-worlds )
-- [Gambiarra: Repair Culture](../stuff/gambiarra-repair-culture)
+- [Seeds of Digital Reforestation](../stuff/seeds-digital-reforestation).
+- [Socio-ecological innovation](https://magazine.vunela.com/socio-ecological-innovation-dc1999d556a5).
+- [Knowledge, Skill and Labor](../stuff/knowledge-skill-labor ).
+- [Transformed Worlds](../stuff/transformed-worlds ).
+- [Gambiarra: Repair Culture](../stuff/gambiarra-repair-culture).
