@@ -14,7 +14,7 @@ feed:
     limit: 10
 ---
 
-! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
+! This post is outdated. Its contents have been moved to my [research wiki](https://wiki.reuse.city/en/opendott/studies/design-research).
 
 
 ### See also

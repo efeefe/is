@@ -17,7 +17,7 @@ feed:
     limit: 10
 ---
 
-! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
+! This post is oudated. Its contents have been moved to my [research wiki](https://wiki.reuse.city/en/opendott/studies/repair-journey).
 
 > In the [Repair Journey](https://opendott.org/repair-diaries/), I have asked a group of participants to choose an object they would like to repair or repurpose, and spend some weeks keeping a diary of how the repair (or attempt to repair) went.
 
