@@ -16,7 +16,7 @@ feed:
     limit: 10
 ---
 
-! This post is a [work in progress](#todo). This warning will be removed once I'm done editing it.
+! This post is outdated. Updated contents have been moved to my [research wiki](https://wiki.reuse.city/en/opendott/studies/ecosystem-mapping).
 
 > For the Ecosystem Mapping, I have interviewed people who are related (either professionally or informally) with repair and reuse. The main idea was to understand how the value of discarded materials can be assessed from diverse perspectives, and what kinds of transformations, equipment and knowledge are involved at a system level.
 
