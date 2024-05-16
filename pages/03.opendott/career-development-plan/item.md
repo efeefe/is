@@ -3,9 +3,9 @@ title: 'Career Development Plan'
 date: '30-07-2019 10:00'
 taxonomy:
     tag:
-        - lifelog
         - career
         - research
+        - lifelog
 show_sidebar: false
 feed:
     limit: 10
@@ -25,7 +25,7 @@ Excerpts from my Career Development Plan, written during my first days in Dundee
 > To fulfill my research objectives, I will need to improve skills in some specific areas:
 > -Ethnography, design research methods - formal research processes, evidence-based participatory constructions. How to understand the needs or desires of a group of people, and to show how choices are grounded on that.
 > - English / academic writing skills. I need to improve my writing in English.
-> -Making/reuse/digital fabrication. While I have been working with makers for over a decade, my instrumental knowledge of fabrication technologies is relatively small.
+> - Making/reuse/digital fabrication. While I have been working with makers for over a decade, my instrumental knowledge of fabrication technologies is relatively small.
 > - Documenting and archiving the findings of design research both for reference, dissemination and building trust.
 
 (...)
@@ -38,4 +38,4 @@ Excerpts from my Career Development Plan, written during my first days in Dundee
 
 (...)
 
-I will be looking for communities and nonprofits organisations working on fields relevant to my research, and hopefully find ways to collaborate with them. Additionally, I believe the OpenDoTT cohort could have an online presence, if nothing else at least to share research references with the world. Perhaps a collective blog will be useful at some point.
+> I will be looking for communities and nonprofits organisations working on fields relevant to my research, and hopefully find ways to collaborate with them. Additionally, I believe the OpenDoTT cohort could have an online presence, if nothing else at least to share research references with the world. Perhaps a collective blog will be useful at some point.
