@@ -8,6 +8,14 @@ published: true
 
 ## Recent
 
+### Circular Berlin
+
+Presentation Reuse datasets for alternative circularities of products and materials for Circular Berlin's Learning Circle. Video recording available [here](https://www.youtube.com/watch?v=tUn0bJl5wAE).
+
+### Scottish Universities Innovation Institute, Glasgow, 2024
+
+Presentation "Reuse Datasets" at the [Valuing Public Data Workshop](https://pureportal.strath.ac.uk/en/projects/suii-valuing-public-sector-data-in-scotland-and-europe-data-gover).
+
 ### Coletivo Digital, São Paulo, 2023
 
 Group discussion about digital policy in Brazil and the semente project. Co-organised by Maira Begalli and Coletivo Digital.
