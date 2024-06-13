@@ -8,6 +8,11 @@ published: true
 
 ## Recent
 
+### Re:Publica 24
+
+Participation on the panel [Understanding the Right-to-Repair Movement in the Global North and Global South](https://re-publica.com/de/session/understanding-right-repair-movement-global-north-and-global-south). Video recording available [here](https://www.youtube.com/watch?v=JCdRvdSm3do).
+
+
 ### Circular Berlin
 
 Presentation Reuse datasets for alternative circularities of products and materials for Circular Berlin's Learning Circle. Video recording available [here](https://www.youtube.com/watch?v=tUn0bJl5wAE).
