@@ -22,7 +22,7 @@ feed:
     limit: 10
 ---
 
-## My Stuff
+> ## My Stuff
 
 A curated list of ideas and works, old and new. See also a list of [lectures, talks and presentations](lectures-talks-presentations).
 
@@ -48,7 +48,7 @@ A curated list of ideas and works, old and new. See also a list of [lectures, ta
 
 **[fonte.wiki](https://fonte.wiki)** - Public repository of open educational resources on digital rights (2021). Project supported by the University of Bristol.
 
-**[ID21](https://fonte.wiki/id21)** - A study about digital inclusion and communities in Brazil (2021). Supported by the University of Bristol.
+**[ID21](https://fonte.wiki/projetos/id21)** - A study about digital inclusion and communities in Brazil (2021). Supported by the University of Bristol.
 
 **[Inovação Cidadã - Conceitos](https://cursos.tropixel.org/ic-conceitos/home)** - Open learning itinerary on 'citizen innovation' (2019 / 2020). Based on a consultancy to the Culture Administration of Santo André Municipality (Brazil).
 
