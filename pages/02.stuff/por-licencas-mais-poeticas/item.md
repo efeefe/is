@@ -3,6 +3,8 @@ title: 'Por licenças mais poéticas'
 date: '17:23 09-07-2013'
 feed:
     limit: 10
+hero_classes: 'text-light overlay-dark-gradient'
+hero_image: copyfight.png
 ---
 
 > Texto publicado originalmente como capítulo do livro [Copyfight: Pirataria & Cultura Livre](https://imotiro.org/livros/copyfight-pirataria-cultura-livre/), editado por Adriano Belisário e Bruno Tarin.
