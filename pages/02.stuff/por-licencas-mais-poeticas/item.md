@@ -7,7 +7,7 @@ hero_classes: 'hero-fullscreen text-light overlay-dark-gradient '
 hero_image: copyfight.png
 ---
 
-> Texto publicado originalmente em 2013 como capítulo do livro [Copyfight: Pirataria & Cultura Livre](https://imotiro.org/livros/copyfight-pirataria-cultura-livre/), editado por Adriano Belisário e Bruno Tarin.
+> Texto publicado originalmente em 2013 como capítulo do livro [Copyfight: Pirataria & Cultura Livre](https://imotiro.org/livros/copyfight-pirataria-cultura-livre/), organizado por Adriano Belisário e Bruno Tarin.
 
 Já estamos há algum tempo criticando o copyright. Hoje, todo mundo do nosso lado do rio sabe que licenças fechadas e proprietárias estabelecem uma série de restrições à circulação de conhecimento e cultura. Tipicamente, autorizam somente o uso individual e doméstico, enquanto que condicionam todas as outras possibilidades à autorização expressa de autores ou atravessadores. Isso é anacrônico, improdutivo e estúpido. Alguém aí discorda? Legal, vamos além.
 
