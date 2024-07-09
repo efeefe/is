@@ -21,10 +21,10 @@ Essa distorção acontece porque tais licenças “abertas” concentram-se muit
 
 Difícil é começar. Que tal pensar em licenças mais poéticas? Licenças que questionem a própria função do licenciamento. Por exemplo:
 
-• Esta música pode ser utilizada, decomposta, “remisturada” e redistribuída de todas as formas tecnicamente possíveis, desde que você mande um e-mail para o autor escrevendo “Tcharam!” no campo de Assunto.
-• Este vídeo pode ser assistido sem som em semanas de lua cheia.
-• Este disco deve ser ouvido por pelo menos cinco pessoas dançando em roda. Qualquer outro uso constituirá quebra de licença e enfrentará as sanções legais. Nós sabemos quando você dança.
-• Este texto pode ser distribuído, reproduzido, modificado e ter todas as suas palavras reordenadas por mulheres de escorpião e homens com barba por fazer.
-• Para autorizar todo uso possível desta ideia (acesso, modificação, remixagem, redistribuição e o que mais quiseres), feche os olhos e visualize o autor sendo abraçado por mil pessoas sorridentes.
+* Esta música pode ser utilizada, decomposta, “remisturada” e redistribuída de todas as formas tecnicamente possíveis, desde que você mande um e-mail para o autor escrevendo “Tcharam!” no campo de Assunto.
+* Este vídeo pode ser assistido sem som em semanas de lua cheia.
+* Este disco deve ser ouvido por pelo menos cinco pessoas dançando em roda. Qualquer outro uso constituirá quebra de licença e enfrentará as sanções legais. Nós sabemos quando você dança.
+* Este texto pode ser distribuído, reproduzido, modificado e ter todas as suas palavras reordenadas por mulheres de escorpião e homens com barba por fazer.
+* Para autorizar todo uso possível desta ideia (acesso, modificação, remixagem, redistribuição e o que mais quiseres), feche os olhos e visualize o autor sendo abraçado por mil pessoas sorridentes.
 
 Esse tipo de decisão pode ter pouca utilidade prática, mas sugere formas mais aprofundadas de relacionamento entre pessoas que se dizem colaborativas do que as licenças que se propõem eficientes, automáticas e frias. Vamos pensar o próprio licenciamento como espaço criativo!
