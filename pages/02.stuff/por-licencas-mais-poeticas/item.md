@@ -3,7 +3,7 @@ title: 'Por licenças mais poéticas'
 date: '17:23 09-07-2013'
 feed:
     limit: 10
-hero_classes: 'text-light overlay-dark-gradient'
+hero_classes: 'text-light overlay-dark-gradient hero-large parallax'
 hero_image: copyfight.png
 ---
 
