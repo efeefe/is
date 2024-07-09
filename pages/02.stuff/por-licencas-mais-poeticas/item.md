@@ -5,7 +5,9 @@ feed:
     limit: 10
 ---
 
-á estamos há algum tempo criticando o copyright. Hoje, todo mundo do nosso lado do rio sabe que licenças fechadas e proprietárias estabelecem uma série de restrições à circulação de conhecimento e cultura. Tipicamente, autorizam somente o uso individual e doméstico, enquanto que condicionam todas as outras possibilidades à autorização expressa de autores ou atravessadores. Isso é anacrônico, improdutivo e estúpido. Alguém aí discorda? Legal, vamos além.
+> Texto publicado originalmente como capítulo do livro [Copyfight: Pirataria & Cultura Livre](https://imotiro.org/livros/copyfight-pirataria-cultura-livre/), editado por Adriano Belisário e Bruno Tarin.
+
+Já estamos há algum tempo criticando o copyright. Hoje, todo mundo do nosso lado do rio sabe que licenças fechadas e proprietárias estabelecem uma série de restrições à circulação de conhecimento e cultura. Tipicamente, autorizam somente o uso individual e doméstico, enquanto que condicionam todas as outras possibilidades à autorização expressa de autores ou atravessadores. Isso é anacrônico, improdutivo e estúpido. Alguém aí discorda? Legal, vamos além.
 
 Olhando para o lado de cá, grande parte das licenças livres que se popularizaram nos últimos anos (em especial as licenças Creative Commons, mas também similares como GNU-FDL, GPL, Arte Livre...) contentam-se em, simplesmente, reagir às restrições do copyright. Contrapõem ao “todos os direitos reservados” o “alguns direitos reservados”, mas não refletem mais a fundo sobre a natureza da criação colaborativa.
 
