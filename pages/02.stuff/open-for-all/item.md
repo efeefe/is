@@ -1,7 +1,7 @@
 ---
 title: 'Open for all'
 date: '14:49 26-07-2024'
-published: false
+published: true
 feed:
     limit: 10
 hero_image: hero.png
