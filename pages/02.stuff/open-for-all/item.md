@@ -1,6 +1,6 @@
 ---
 title: 'Open for all'
-date: '14:49 26-07-2024'
+date: '09:00 30-07-2024'
 published: true
 feed:
     limit: 10
