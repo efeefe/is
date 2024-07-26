@@ -111,7 +111,7 @@ A point I raised during the discussions was the intentionality of openness. The 
 
 To be clear: ethics, political awareness, mission-driven work and, yes, the SDGs, should not be optional modules of market-oriented IT development and education. Rather, we should start from them and build up, instead of only focusing on employability and pushing forward a startup mindset. Digital technologies have become too important to ignore deeper conceptual and political consideration. The true questions - generative questions, to reference Freire again, should reflect that. How to design and deploy openly governed technologies for the global majority, on each and all of the next seven (and more) generations of humanity? How to create open solutions that respect and improve the living conditions of humans and other living species? How to use openness as a driver for systemic change, and to rebalance the systems of reward, identity, and belonging? How to understand and account for the wider implications of doing things openly?
 
-I suppose we will keep discussing these and other matters. And I hope that it happens in truly open settings, with shared and permanent documentation practices and constant reminders of the purpose and long-term goals. I'll be sure to keep on writing and helping good projects thrive. Is there an OSPO community in the making? We will see to it.
+I suppose we will keep discussing these and other matters. And I hope that it happens in truly open settings, with shared and permanent documentation practices and constant reminders of the purpose and long-term goals. I'll be sure to keep on writing and helping good projects thrive. Is there an OSPO community in the making? We shall see to it.
 
 ---
 
