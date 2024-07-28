@@ -91,7 +91,7 @@ Storytelling, story-listening, story-recalling. Something that points to the lon
 
 One of the organisers of the conferences used the expression “green field” to describe OSPOs in government and in international agencies. Another participant said that “people in your organisations are the seeds”. Expanding on that metaphor (which is completely aligned with the [semente](http://canvas.semente.de) toolkit for communities that I co-created with a colleague a couple of years ago), I am interested in the soil composition of that green field. To me, stories are one of the most significant elements of that soil.
 
-### Education and professionalism
+### Education and its biases
 
 When organisations in that kind of event talk about the need to invest more in education, I have to pause and ask, “what kind of education?”. Here again, if the focus is exclusively on open source as a more efficient way to develop software and hardware, we may be losing focus on the pressing global challenges that the UN SDGs were created to address. There is no real open-source discussion of wicked problems if we don't put an extra effort into building alliances between all the stakeholders, documenting in the open, ensuring long-term permanence of the documentation. It should not be only about doing things a bit better by inviting “users” to give their opinion and by promoting exchange between actors with similar concerns.
 
