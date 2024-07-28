@@ -5,6 +5,7 @@ published: true
 feed:
     limit: 10
 hero_image: hero.png
+hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 ---
 
 I was recently in New York City, for two combined events about “open source”. Even typing these words right now makes me quite conscious of how this may sound somehow anachronistic these days. Not that (free and) open source software is not present in virtually everyone's lives in one way or the other. In some senses, one might even say that their widespread use makes it so that open source is now taken for granted. In that sense, free-and-open technologies – operating systems, server software, programming languages, user applications, content management platforms, and even hardware – are part of the global infrastructure. On the other hand, there is something about the current vocabulary and culture around open source that feels lacking and deserves further discussion. Two insights here are perhaps simultaneously contradictory and complementary to one another:
