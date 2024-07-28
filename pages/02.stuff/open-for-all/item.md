@@ -19,7 +19,7 @@ In this post, I won’t try to solve that apparent paradox. It will be addressed
 
 Now back to the two events in New York. They were organised around the concept of “OSPO”, an acronym that to be honest I hadn't paid attention to until being invited, some months ago. OSPO means “open source program offices”. In a very brief description, they are departments specialised in promoting a transition towards open source. They focus chiefly on software, but may potentially expand to other topics, as I'll explore below. The events were particularly focused on promoting the implementation of OSPOs in government and international agencies, and some examples were described of OSPOs in corporations and universities.
 
-The first event I attended, “[OSPOS For Good](https://www.un.org/techenvoy/content/ospos-good-2024)”, happened at the United Nations Headquarters. Germany and Kenya were its host countries. The second one, organised by the Linux Foundation, was called “[What's Next for Open Source?](https://events.linuxfoundation.org/whatsnext4oss/)”, and happened at the Microsoft Office in Times Square. Both events were structured under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule), which allows participants to later share the topics and contents discussed, but forbids attribution of individual authorship. For this reason, I'll focus this text more on my personal impressions and observations and won't quote any speaker.
+The first event I attended, “[OSPOS For Good](https://www.un.org/techenvoy/content/ospos-good-2024)”, happened at the United Nations Headquarters. Germany and Kenya were its host countries. The second one, organised by the Linux Foundation, was called “[What's Next for Open Source?](https://events.linuxfoundation.org/whatsnext4oss/)”, and happened at the Microsoft Office in Times Square. The conversations followed the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule), which allows participants to later share the topics and contents discussed, but forbids attribution of individual authorship. For this reason, I'll focus this text more on my personal impressions and observations and won't quote any speaker.
 
 ### OSPOS for Good
 
@@ -117,3 +117,12 @@ I suppose we will keep discussing these and other matters. And I hope that it ha
 ---
 
 My travel to, accommodation in and subsistence in New York during the days of the events had the support of the OpenDoTT project (Northumbria University, funded by H2020 Marie Curie Programme) and the Global Innovation Gathering - GIG. I also thank my friend Giseli Vasconcelos, who kindly hosted me and my partner for a few extra days, so I could get to know a bit of the city. Finally, thanks again Paloma Oliveira and all the OSPOS for Good 2024 Committee for the invitations.
+
+---
+
+**P.S.:** videos of the first two days are available from the UN Web TV:
+
+- [Day 1, Part 1](https://webtv.un.org/en/asset/k1m/k1ma4k9rff)
+- [Day 1, Part 2](https://webtv.un.org/en/asset/k1u/k1uvv0xd6d)
+- [Day 2, Part 1](https://webtv.un.org/en/asset/k1q/k1qmxhno3c)
+- [Day 2, Part 2](https://webtv.un.org/en/asset/k15/k1517v486n)
