@@ -8,12 +8,20 @@ published: true
 
 ## Recent
 
-### Re:Publica 24
+### ESOCITE, Campinas
+
+Presentation of paper "An online co-design lab: reuse.city" in the Working Group Emergent Technologies of the Latin-American Meeting of Social Studies of Science.
+
+### Livable Cities, London
+
+Presentation of paper "Generous cities - commons-based handling of excess materials" in the panel [Cities and Sustainability III](https://amps-research.com/event/in-person-london-section-b/schedule/cities-sustainability-iii/) of the Livable Cities Conference at City University London.
+
+### Re:Publica, Berlin, 2024
 
 Participation on the panel [Understanding the Right-to-Repair Movement in the Global North and Global South](https://re-publica.com/de/session/understanding-right-repair-movement-global-north-and-global-south). Video recording available [here](https://www.youtube.com/watch?v=JCdRvdSm3do).
 
 
-### Circular Berlin
+### Circular Berlin, Online, 2024
 
 Presentation Reuse datasets for alternative circularities of products and materials for Circular Berlin's Learning Circle. Video recording available [here](https://www.youtube.com/watch?v=tUn0bJl5wAE).
 
