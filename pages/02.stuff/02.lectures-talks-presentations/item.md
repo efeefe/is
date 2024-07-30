@@ -10,7 +10,7 @@ published: true
 
 ### ESOCITE, Campinas
 
-Presentation of paper "An online co-design lab: reuse.city" in the Working Group Emergent Technologies of the Latin-American Conference on Social Studies of Science.
+Presentation of paper "An online co-design lab: reuse.city" in the Working Group Emergent Technologies of the Latin-American Conference on Social Studies of Science and Technology.
 
 ### Livable Cities, London
 
