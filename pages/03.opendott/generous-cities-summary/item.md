@@ -17,7 +17,6 @@ taxonomy:
         - northumbria
         - dundee
         - mozilla
-show_sidebar: true
 hero_image: uni-crop.jpg
 page-toc:
   active: true
