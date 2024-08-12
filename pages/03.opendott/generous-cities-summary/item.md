@@ -18,6 +18,7 @@ taxonomy:
         - dundee
         - mozilla
 hero_image: uni-crop.jpg
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 page-toc:
   active: true
 feed:
@@ -216,6 +217,8 @@ Searching for ways to establish conversation between different sectors and make 
 > A dancing unicorn on the sidewalk.   
 > Bike. Barcelona. Train station   
 > Where will it end up?
+
+![Unicorn](uni.jpg?lightbox&resize=200,200)
 
 Though today I would not use generosity any more in that sense, from that point it started to appear on my notes and writings. At first, I’d use generosity and abundance almost interchangeably. As if, consequentially, excess resulted in abundance and generosity. Granted, I had used those terms in the past in diverse contexts. Before leaving Brazil in 2019, I tried organising an edition of the Tropixel Festival discussing abundance and survival. The years of precariousness following a political coup and the emergence of the extreme right were so taxing that it seemed important to attempt to rephrase our situation. Abundance as a change in lenses to counter scarcity. Sadly – and tellingly – we had to cancel the festival for the lack of resources. Generosity, in turn, was used for the training sessions on free/open licensing within the Brazilian digital culture strategy back in the early 2000s. We named those courses “intellectual generosity” to establish a conversation with artists and cultural producers not familiar with permissive licences on the internet.
 
