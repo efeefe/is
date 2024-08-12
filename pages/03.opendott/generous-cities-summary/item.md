@@ -18,14 +18,17 @@ taxonomy:
         - dundee
         - mozilla
 show_sidebar: false
+page-toc:
+  active: true
 feed:
     limit: 10
 ---
 
 **Felipe Schmidt Fonseca**
+
 **Berlin, July 2024**
 
-#generosity #urban #conviviality #reuse #repair #circularity
+ #generosity #urban #conviviality #reuse #repair #circularity
 
 **Initial comment**
 
