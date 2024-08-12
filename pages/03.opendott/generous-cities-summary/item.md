@@ -17,8 +17,8 @@ taxonomy:
         - northumbria
         - dundee
         - mozilla
-show_sidebar: false
-hero_image: uni.jpg
+show_sidebar: true
+hero_image: uni-crop.jpg
 page-toc:
   active: true
 feed:
@@ -36,13 +36,13 @@ Keywords: #generosity #urban #conviviality #reuse #repair #circularity
 > After my [Viva Voce](../phd-success), the examination board required me to apply modifications to my thesis as a condition to awarding the doctoral degree. I agreed with all the recommendations, as they would make the thesis more robust and clear. I, however, struggled for a couple of months trying to find the best way to work on those improvements. My brilliant supervisor Dr Nick Spencer offered a suggestion during a call: “start with a blank document and summarise your research”. I did just that. The resulting text would be handy when editing the thesis, reminding me what the main elements of the whole research were. I submitted the final version of the thesis in March, and my degree was confirmed in May. Subsequently, I was left with the summary without knowing exactly what to do with it. It is too long to be submitted as a typical conference paper, and arguably too broad to be a book chapter. I ended up editing it a bit further, and finally decided to post it openly here in my research blog. It will probably be one of the last posts to this blog. A PDF version is also available [from the Internet Archive](https://archive.org/details/generous-cities-summary).
 
 
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png?resize:160)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png?resize=160)](https://creativecommons.org/licenses/by/4.0/)
 
-1. ## TL;DR
+## TL;DR
 
 The concept of generous cities was the central binding element of my PhD thesis produced for  the OpenDoTT project (Northumbria University / Mozilla / University of Dundee, 2019–2023). It proposes an alternative framing for the handling of excess materials (things kept unused or prematurely discarded), to overcome the conceptual and practical limitations of a waste management paradigm chiefly focused on recycling. A generous city perspective, in turn, promotes the development of commons-based systems to collectively identify and realise the value of excess materials. It does so through practices of reuse to benefit local communities, organisations, and businesses. The concept borrows elements from diverse fields of knowledge and is aligned with growing awareness of the need to mitigate the impacts of human activity on the planet. The generous city perspective offers a concrete critique of unregulated industrial production guided only by profit extraction under neoliberal capitalism. It promotes conviviality as a basis for the regeneration of social bonds and the creation of more sustainable practices. This text provides an overview of the scenario, motivations, and methods I adopted in my doctoral research, and describes some of its outcomes and potential future developments.
 
-2. ## Excess
+## Excess
 
 The groundwork that brought my investigation to the concept of generous cities started with a focus on waste and discarded materials in cities. I was particularly interested in what can be called excess materials. Those would be, as defined in my thesis, those goods, and objects that retain potential value but are either:
 
@@ -54,7 +54,7 @@ My approach to transforming the handling of such materials is founded on critica
 
 This text questions the assumption that excess materials should be immediately sent to recycling by logistic operations shaped exclusively on industrial foundations. I start describing two central reasons for that: the objective value of things, and a social-political critique of contemporary conditions. I also reflect on the participation of local communities, describe the research studies performed during my doctoral studies and show some of the outputs they generated. Finally, I explore ways to reshape the narrative on excess materials and waste, towards convivial practices to address these issues as developed in length in my doctoral thesis. 
 
-1. ### The value of things
+### The value of things
 
 The first reason to avoid the immediate recycling of excess materials is simply the concrete value of physical things. Recycling frequently results in a decrease in the objective quality of materials. Many authors argue that such processes would more appropriately be called “downcycling” precisely for that reason (McDonough & Braungart, 2013). As a typical example, recycled paper is typically less resistant than virgin paper. Similarly, most recycled plastics are less versatile and mouldable than newly produced ones. The same applies to other types of materials, with a handful of exceptions. In other words, in many cases, recycling – downcycling – devalues things.
 
@@ -68,7 +68,7 @@ The confusion between such significantly distinct processes leads to conceptual 
 
 The generous city perspective proposes to shift emphasis from a recycling narrative towards one centred on reuse, particularly through repairs, upcycling and re-circulation. Recycling should only come as a second-to-last resource. In my doctoral research, I decided to be strict and only use the term recycling for those processes aiming at recovering value by transforming goods and objects back into source materials for industrial production (Jørgensen, 2019). My investigation subscribes to the principles mentioned above: that such processes should only take place once the possibilities of reusing said goods and materials have been fully explored, allowing society at large to benefit primarily from their potential value. Additionally, my research centred on the human perspective of the reuse of materials, and proposed ways to augment the capacity of people and communities who engage with such practices. That is, intentionally shifting away from a strictly efficiency-oriented top-down industrial perspective so as to incorporate wider social and political considerations.
 
-2. ### The (eco-)politics of reuse
+### The (eco-)politics of reuse
 
 In addition to the loss of objective value, it is equally important to describe a second set of reasons to avoid the immediate processing of excess materials through industrial recycling, based on a social-political and social-environmental critique. As hinted above, most of the global industrial production adopts the so-called linear paradigm, sometimes summarised on the words “take – make – waste” Webster (2017). In other words: extracting materials from nature, transforming them into products, and later discarding them with little regard for planetary impacts. I have already discussed some implications of that in terms of material value. What remains to be reflected upon is the following: in seeking solutions for the destruction of value that results from typically wasteful capitalist industrial production, should we resort to the same actors who created that situation in the first place? In other words, should industrial corporations be trusted and rewarded with guaranteed and frictionless source materials for sustaining their production? My research adopts a critical perspective on that.
 
@@ -87,7 +87,7 @@ Some assumptions must be challenged if we are to understand and develop systems 
 
 The search for more appropriate ways to balance economic development, social justice and environmental responsibility will benefit from perspectives more diverse than the mere opposition between public and private actors. Elinor Ostrom’s life work on the commons (Ostrom, 1990\) brings contributions to the discussion on how to recognise and further develop sustainable and inclusive systems for the collective management of shared resources. My research explored attempts to apply commons-inspired visions to post-consumption goods and materials. I focus particularly on post-consumption. That is, what happens to things after being designed, manufactured and sold to consumers. Most of the discussion of alternatives seems to focus on influencing the design of things yet to be produced – and thus disregards those already piling up in cities and towns around the world. In the next sections, I’ll explore a bit more of those contradictions.
 
-3. ### On circles and doughnuts
+### On circles and doughnuts
 
 Lately, emerging fields of discourse and policy have attempted to promote awareness about the externalities of industrial production in order to effect positive system change. That is the case of the circular economy and the doughnut economy, summarised critically below.
 
@@ -113,7 +113,7 @@ More than half of the global population lives in cities (‘World Urbanization P
 
 Additionally, cities are understood by some as the main sites of reproduction of neoliberal capitalism (Morozov & Bria, 2018). As noted earlier in this text, the adoption of market-based mechanisms to handle matters of societal importance should be questioned critically, and that extends to municipalities. The urban scale is precisely where a culturing of political change towards more inclusive and sustainable futures can take place, to mention again Stirling. That is true for many elements impacting the right to the city (Lefebvre, 2017), and the same is particularly valid in the case of smart city initiatives. Digital technologies can arguably aid in improving services as diverse as transportation, lighting, communications, inventory, tax collection, public safety and other areas. It is important though to create and implement solutions in a deep partnership with local populations. Truly transformative participation, it must be remarked, requires at the same time a more nuanced understanding of the present and a more profound engagement of the people who live in cities. That is also true in the case of waste management, a field in which visibility of decisions, awareness of systems and democratic participation are particularly rare. Such a condition looks even more unbalanced when one expands from a perspective focused on managing waste (those materials already considered unusable and hence discarded) to a more nuanced one based on absorbing excess and generating value locally—economic, social and environmental. 
 
-4. ### Absorbing excess in cities
+### Absorbing excess in cities
 
 The previous sections have discussed the manifold implications of exclusively profit-oriented ways to manage post-consumption materials under neoliberal capitalism. Before I describe how my research conceptualised and designed ways to approach those questions, I recap below my intentions and motivations, as well as the scenario, some symbolic connections, and social-economic considerations.
 
@@ -130,13 +130,13 @@ Circular design is of course crucial for the future of manufacturing and distrib
 
 We should bear in mind that the value of industrial production is not generated exclusively by capitalist corporations. It owes significantly to societal assets – such as public infrastructure, education systems, culture, and the arts, among others. It may follow then that the potential value that can be realised by better handling excess materials should benefit society at large instead of being directed automatically to manufacturers. Furthermore, it’s about ensuring societal value, not merely replacing mining fields. Part of that vision is already being incorporated in terms of industrial policy, legislation, and regulations. But a fundamental aspect to discuss is how to connect it with the everyday lives of people and communities in cities and towns.
 
-3. ## Community knowledge
+## Community knowledge
 
 I have been involved with initiatives of material repairs and reuse since the early 2000s – as an activist and co-founder of open networks, consultant to public institutions, and independent researcher. It follows that my doctoral investigation was partly an effort to document the knowledge embodied through my practical and situated experience, whilst identifying the conceptual context in which such knowledge was generated. Just as such documenting adopted elements of auto-ethnography of my past and ongoing experiences, though, it was not at all an individual exploration. Everything I ever learnt was with others, and that should always be reflected on how I drive my research.
 
 During the PhD I have developed a series of studies borrowing methods from design research, open-source technologies, and social studies of science and technology. All of them had the purpose of establishing dialogue with people interested and experienced in different aspects of the post-consumption handling of materials. I came to define my overall method as a “spiral of openness”, both cyclical and linear. At every cycle, I would get to a different starting point, changing not only the methods for subsequent phases but also the founding definitions and purposes of the overall research. That gave me a considerable level of freedom to engage and learn from participants, and to adapt accordingly.
 
-1. ### Cycle 1: entering fields
+### Cycle 1: entering fields
 
 In the first phase of investigation, I conducted a design research study that asked participants to try to repair an object, and keep a journal as they progressed. At about the same time, I was interviewing different participants who worked with second-hand and discarded materials in different capacities, to help compose an ecosystem mapping of reuse in the urban context. I had naturally started my doctoral investigation bringing aboard my lived experience and assumptions deriving from it. Such assumptions were confronted, at times validated, and expanded through those first two studies.
 
@@ -149,7 +149,7 @@ The outputs of those first studies allowed me to dive deeper into aspects that w
   * Upcycling / transformation, and  
   * Re-circulation.
 
-    2. ### Cycle 2: assessing potential value
+### Cycle 2: assessing potential value
 
 The second cycle of research was also designed as a participatory study, but would take a more concrete shape, in particular trying to address the need to identify the potential value of excess materials. I was inspired by the image of the *valoriste*, a role performed in France by professionals whose expertise is to assess the potential value of excess materials. I came across the idea of *valoristes* before the PhD, and found little mention of them outside the French circular economy context.
 
@@ -159,7 +159,7 @@ During about a month, the participants of reuse.city were asked to join live onl
 
 In parallel, participants were called to provide feedback as I improved and prototyped a subset of my design concepts. We drafted a blueprint for the concept called Transformation Labs – reuse centres that would mix makerspaces and repair shops. I also started working on a remix of other designs that ended up taking the form of two prototypes to augment and replicate the skills of *valoristes*: ThingWiki, an instance of the concept of a Universal Registry of Things, and E-I, a machine to identify objects and offer information on how to repair or reuse them. Additionally, the lab itself became what I called a proto-community, which I intend to return to once I’m done with thesis work.
 
-3. ### Cycle 3: materials in the city
+### Cycle 3: materials in the city
 
 For the third and final research cycle, I decided not to carry a new participatory study. Instead, I would review what I had learnt so far in the PhD from the perspective of the research interests I had at that point. I was then exploring how to revert my findings back from the workbench onto the city, so to speak. Until that point, my research had mapped post-consumption flows and the transformations that could be operated on things to make them regain potential value. I had created concept ideas and learned from experienced practitioners about the skills and experience involved in repairs, upcycling and re-circulation of goods and materials. Now, my central question would be how to promote effective transformation in how cities handle excess materials.
 
@@ -167,7 +167,7 @@ This cycle of my investigation was arguably the most individualistic one, as I d
 
 This last cycle enabled me to further develop a design-based approach to my research topic, working further on the concept idea called reuse commons. It is a toolkit to map and establish communication between local actors that can potentially be activated to create local reuse systems. At this point, I also had the chance to refine the central argument of my thesis, which I started calling the generous city. The next section will recount its founding elements and how it unfolds as a concept in itself.
 
-4. ## Conviviality and participation
+## Conviviality and participation
 
 The third research spiral cycle shifted the framing of my research. As mentioned, I felt moving from a micro-focus on things, technologies, and facilities towards a broader view of how to promote the changes I envisioned in cities and towns. In parallel to revisiting notes from the first cycles and documentation of my past projects, I re-engaged with literature and references. The idea was to find areas and practices of policy-making that would contribute to reshaping how cities handle excess materials. I found there was potential in exploring some policy areas recently emerging or undergoing transformations. For instance, the image of “green deals” based on growing public awareness about the effects of climate change, as well as fields such as zero waste and the aforementioned circular economy and doughnut economy.
 
@@ -181,7 +181,7 @@ Of course, a productivity-oriented mindset can go as far as questioning the appr
 
 For all its openness, though, the type of participatory budgeting described above still relies on a top-down intention. That is, such policies are only tried when the local authorities are willing to do so, and for however long they allow. Even then, it is usually limited to a minor fraction of municipal budgets, and for decisions in areas of administration clearly under the responsibility of the public sector. Discussing hospitals or playgrounds happens on the level of desire. Communities generally want them, it’s more a matter of prioritising than deciding whether they are needed. In the case of infrastructure to handle excess, however, things are more complex. Very few city-dwellers want a waste management facility in their vicinity, which may stigmatise even initiatives focused on socially driven repair and reuse.
 
-1. ### Waste prevention by affected communities
+### Waste prevention by affected communities
 
 Even focused on the prevention of waste, imposing top-down solutions oriented towards industrial productivity is problematic. The mere fact that an initiative is associated with the local waste authority is likely to raise suspicion among the community. A different take here would be to draw inspiration from Lafuente’s notion of affected communities, putting more attention to commonalities and conviviality, and designing services and infrastructure with which the local society can relate. Making more explicit the human connections between hardware stores and tool shops, repair and adaptation professionals and community repair cafés, things libraries and thrift shops. People love to share stories about their things: how they were acquired, transformed, passed on. Similarly, virtually everyone with some kind of hands-on involvement with things finds joy in telling those stories. In some cases, it’s about making new things. But not always. 
 
@@ -191,7 +191,7 @@ Another set of commonalities worth exploring lies in the concrete and practical 
 
 How then to create local strategies that contribute to reshaping the narrative about excess materials? My take after some years into this question is that we must strike a balance between driving change – based on the informed understanding that the status quo of waste management’s best practices is unsustainable and wasteful – and establishing alliances with local agents in diverse capacities to incorporate their needs. That is, neither trying to transform from the top down nor expecting *ad hoc* grassroots change to happen, for time is pressing. To build such alliances of intentional progressive change and effective participation, we need a common vocabulary. Once again, I refer to the powerful concept of boundary object to aid (Star & Griesemer, 1989). Establishing a common vocabulary does not mean replacing one’s own. Rather, it is about establishing a reduction of complexity that is acceptable for the diverse parties involved so that cross-boundary conversation of some sort can take place. That common vocabulary can take many forms. My proposal is to think in terms of generosity, as I’ll describe in the next section.
 
-2. ### Situating reuse
+### Situating reuse
 
 For a considerable part of my PhD, I struggled to circumscribe my research topic within disciplinary borders. One of my supervisors once asked me who were “my people”. I ended up accepting that my topics of interest required me to engage with diverse fields of knowledge and practice. That position owes, obviously, to my background experience working in diverse areas. It’s not, however, an easy place to be in the context of a doctoral investigation submitted at the same time to the formal requirements of academia and to the dynamic expectations of a consortium of organisations working with open-source technologies. Moreover, the whole project was an international cooperation between the UK and the EU commission, conceptualised before Brexit was a concrete reality, which added more restrictions and conditions.
 
@@ -205,7 +205,7 @@ Here again, a productivity centred perspective would say that, given the immense
 
 Needless to say, processes like those happen frequently, practically in every place where humans dwell. They are activities that keep the world running. That makes reuse inherently embedded in and aligned with the perspective of maintenance, echoing again the work of Vinsel and Russell (Russell & Vinsel, 2016). The authors assert that innovation is overvalued, and urge society to “hail the maintainers”. That change in narrative is among the chief elements of inspiration for a good part of my research. It is akin to how Ursula K. Le Guin theorises her fiction-writing as being about carrier bags, instead of spears and arrows. It’s a re-balance between conquest and care, so to say.
 
-3. ### Generosity as a common language
+### Generosity as a common language
 
 Seeking to make space for convivial approaches in my research, my view over excess gradually changed. From my past engagement with reuse initiatives looking inward, I used to see excess manifest as abundance. In other words, when we would set up labs to re-manufacture second-hand computers in Brazil, we were on the receiving end. Our lab in São Paulo, for instance, had to stop asking for donations after a couple of months, as we could not process enough of what we received. From that perspective, materials abound for initiatives willing to act. In earnest, it would take me a couple of years of experience and exchange with others to understand that such abundance was nothing but a side effect of a dysfunctional mode of production based on infinite growth and unsustainable extraction.
 
@@ -222,13 +222,13 @@ In my research, those two terms acquired different connotations, though. It was 
 
 But there were some particularities worth noting. The neighbourhoods where I could see that kind of behaviour were definitely not the wealthier ones in Berlin. Similarly, the users I would see parting with their stuff in donation groups in social media platforms didn’t feel like rich people wasting away. Moreover, unlike the computer donations we received in Brazil back in the day – which always required some sort of repair —, many of the products donated in Berlin were immediately usable. Talking to friends who resided in the city for some years, I got the sense that people who put things outside would do that intentionally, hoping that someone else would use them. They were not only getting rid of things to make room in their homes. That intentionality caught my attention.
 
-4. ### Intentional care
+### Intentional care
 
 In 2022, I presented my ongoing research in a symposium organised by professor Teresa Dillon (UWE). The name of the event, part of COP 26 (the UN Conference of the Parts on Climate Change) mentioned two elements that Dillon has been connecting in her academic as well as artistic work for some years: “Tales of Care and Repair”. The panel where I presented my work was also composed of Dr Julia Corwin (LSE), who noticed that I was not clearly differentiating between abundance and generosity. She pointed out that it was interesting to think about abundance not as the stereotypical image of the cornucopia, where everything is provided for you, but as something that requires engagement. My reaction was to discuss “care” as the core element of that kind of engagement. As I formulated then, incorporating care to handle excess enables us to turn abundance into generosity. And that was aligned with the aforementioned intentionality I was seeing in my field explorations of how second-hand goods circulate in Berlin.
 
 Care is an important concept in contemporary feminist social theory. Joan Tronto sees care as profoundly political and proposes a “care revolution” (Tronto, 2015). That aligns with the references mentioned and reiterated in this section – the notion of conviviality in Illich, the focus on maintenance proposed by Vinsel and Russell, Le Guin’s carrier bags. That combination became the groundwork for my concept of Generous Cities.
 
-5. ### Commons to weave generosity
+### Commons to weave generosity
 
 Part of reimagining excess requires understanding human sociability as largely convivial, instead of essentially competitive. Care and empathy are building elements of all cultures, even if we sometimes fail to see such elements in others. Material generosity can take place in public, as I saw in Berlin, or in private, how I recall being more common in Brazil. I see advantages and disadvantages on either extreme of those kinds of social behaviour. Anonymous material generosity may feel lacking in human touch for some – exactly my case when I donate things in the streets of Berlin, in fact. Being raised in Brazil makes it seem a bit empty to just put things outside for someone to collect. On the other hand, the practices of what we might call hyperpersonal generosity like I saw growing up often cause or reinforce unbalanced relations of dependency. If someone gives you something, you automatically owe that person something.
 
