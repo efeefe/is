@@ -35,7 +35,9 @@ Keywords: #generosity #urban #conviviality #reuse #repair #circularity
 > After my [Viva Voce](../phd-success), the examination board required me to apply modifications to my thesis as a condition to awarding the doctoral degree. I agreed with all the recommendations, as they would make the thesis more robust and clear. I, however, struggled for a couple of months trying to find the best way to work on those improvements. My brilliant supervisor Dr Nick Spencer offered a suggestion during a call: “start with a blank document and summarise your research”. I did just that. The resulting text would be handy when editing the thesis, reminding me what the main elements of the whole research were. I submitted the final version of the thesis in March, and my degree was confirmed in May. Subsequently, I was left with the summary without knowing exactly what to do with it. It is too long to be submitted as a typical conference paper, and arguably too broad to be a book chapter. I ended up editing it a bit further, and finally decided to post it openly here in my research blog. It will probably be one of the last posts to this blog. A PDF version is also available [from the Internet Archive](https://archive.org/details/generous-cities-summary).
 
 
-[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png?resize=160)](https://creativecommons.org/licenses/by/4.0/)
+[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png?resize=80)](https://creativecommons.org/licenses/by/4.0/)
+
+[TOC]
 
 ## TL;DR
 
