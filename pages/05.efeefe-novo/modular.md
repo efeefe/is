@@ -1,6 +1,7 @@
 ---
 title: 'am I efeefe?'
 onpage_menu: true
+published: no
 content:
     items: '@self.modular'
     custom:
