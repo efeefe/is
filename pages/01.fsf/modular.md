@@ -1,5 +1,5 @@
 ---
-title: 'am I efeefe?'
+title: 'Felipe Schmidt Fonseca'
 onpage_menu: true
 published: false
 content:
@@ -7,9 +7,7 @@ content:
     custom:
         - _about
         - _resume
-#        - _portfolio
         - _call
-#        - _testimonials
-#        - _contact
 theme: efeefe-cv
 ---
+
