@@ -1,7 +1,7 @@
 ---
 title: 'Felipe Schmidt Fonseca'
 onpage_menu: true
-published: false
+published: true
 content:
     items: '@self.modular'
     custom:
