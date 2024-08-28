@@ -1,8 +1,7 @@
 ---
 title: OpenDOTT
-jscomments:
-    active: false
 show_sidebar: false
+visible: false
 content:
     items:
         - '@self.children'
