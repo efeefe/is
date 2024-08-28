@@ -1,13 +1,10 @@
 ---
 title: About
-# title2: Contact Details
-#address:
-#    - line: Felipe Schmidt Fonseca
-#    - line: Berlin, Germany
 buttons:
-    - url: "fsf/resume/2406_fsf-cv.pdf"
-      icon: download
-      text: Download CV (PDF)
+    -
+        url: 01.fsf/02._resume/cv.pdf
+        icon: download
+        text: 'Download CV (PDF)'
 ---
 
 ## About me
