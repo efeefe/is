@@ -2,7 +2,7 @@
 title: About
 buttons:
     -
-        url: 01.fsf/02._resume/cv.pdf
+        url: user/pages/01.fsf/02._resume/cv.pdf
         icon: download
         text: 'Download CV (PDF)'
 ---
