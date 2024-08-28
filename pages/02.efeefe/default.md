@@ -4,6 +4,7 @@ media_order: ff-blackmirrorshades-p.jpg
 body_classes: 'title-center title-h1h2'
 visible: true
 theme: g5_helium
+published: false
 ---
 
 ![](ff-blackmirrorshades-p.jpg?resize=220&classes=float-right)
