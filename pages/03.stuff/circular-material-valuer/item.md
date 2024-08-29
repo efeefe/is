@@ -14,9 +14,9 @@ hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 hero_image: objets.jpg
 ---
 
-Berlin, August 2024
-Felipe Schmidt Fonseca
-https://reuse.city | https://efeefe.me
+> Berlin, August 2024
+> Felipe Schmidt Fonseca
+> https://reuse.city | https://efeefe.me
 
 The world is full of things. Many of those things were made by humans, using materials sourced ultimately from nature. But such materials won’t always return gracefully to where they came from. The process is typically as follows, in a very simplified description: “raw” materials are removed from their original setting through mining, harvesting, or similar processes. They are then transformed through the use of energy, tools, equipment, and knowledge. The results are products to be sold to consumers, or combined with other products to assemble more complex ones that will be sold to consumers.
 
