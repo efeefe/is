@@ -15,8 +15,10 @@ hero_image: objets.jpg
 ---
 
 > Berlin, August 2024
+>
 > Felipe Schmidt Fonseca
-> https://reuse.city | https://efeefe.me
+>
+> [https://reuse.city](https://reuse.city) | [https://efeefe.me](https://efeefe.me)
 
 The world is full of things. Many of those things were made by humans, using materials sourced ultimately from nature. But such materials won’t always return gracefully to where they came from. The process is typically as follows, in a very simplified description: “raw” materials are removed from their original setting through mining, harvesting, or similar processes. They are then transformed through the use of energy, tools, equipment, and knowledge. The results are products to be sold to consumers, or combined with other products to assemble more complex ones that will be sold to consumers.
 
@@ -56,4 +58,4 @@ Reducing the impact of goods already manufactured requires activities to be adop
 
 In other localities of the global majority, valuers don’t provide goods to but rather overtake the place of recycling. That can happen because of pressing local demand for second-hand goods, or due to the effective absence of local manufacturing capacity. In any case, knowledgeable valuers can make things stay in use for longer, by helping them get back into use. They can be the connectors between those who own something that can be reused and the appropriate repairspeople, second-hand resellers, upcyclers, educators, artists, and designers that can ensure such reuse. Many of those trades, by the way, do equally deserve to be upgraded with eyes on circular valuing. Together, they can weave thriving local ecosystems that divert materials from the waste stream, all the while generating economic opportunity, regenerating social bonds, and reducing the environmental impact of industrial production.
 
-The Reuse City studio is starting to work on a curriculum for circular material valuers, to be built collaboratively and openly. It is the first step of a more ambitious goal: creating a collaborative School of Reuse. Learn more, engage your initiative and contribute here: https://reuse.city. 
+The Reuse City studio is starting to work on a curriculum for circular material valuers, to be built collaboratively and openly. It is the first step of a more ambitious goal: creating a collaborative School of Reuse. Learn more, engage your initiative and contribute here: [https://reuse.city](https://reuse.city). 
