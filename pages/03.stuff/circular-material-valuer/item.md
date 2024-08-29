@@ -10,5 +10,7 @@ taxonomy:
         - reuse
         - 'reuse city'
         - 'zero waste'
+hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
+hero_image: objets.jpg
 ---
 
