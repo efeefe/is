@@ -1,7 +1,6 @@
 ---
 title: 'Circular Material Valuers'
 date: '11:19 29-08-2024'
-publish_date: '01-09-2024 11:20'
 taxonomy:
     tag:
         - valuer
@@ -12,6 +11,7 @@ taxonomy:
         - 'zero waste'
 hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 hero_image: objets.jpg
+published: true
 ---
 
 > Berlin, August 2024
