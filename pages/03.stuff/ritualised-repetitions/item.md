@@ -6,8 +6,6 @@ hero_image: birmingham-museums-trust-PMlBcuUf81E-unsplash.jpg
 show_sidebar: false
 ---
 
-## Ritualised repetitions
-
 > A short note (September 2024): I started writing this text around June 2024 as I prepared to participate on an event about open source. Since time is not always linear, it took me longer to finish this one than to write a [narrower report of the event and my reflections about it](../open-for-all/). If you read that other text first, some of the ideas below will sound redundant. It feels fitting, however, given the main topic here. I even considered for some months not publishing this one, or keeping it for a future book. But my habit is of sharing ideas and asking peers to help me understand them, so here we are. 
 
 Every year the nonprofit organisation [Global Innovation Gathering](https://globalinnovationgathering.org) (or “GIG”) organises the _GIG Week_, an in-person meeting in Berlin in which its members from various parts of the world come together to exchange, learn, explore, decide, and create. I’ve been going to these meetings since joining GIG in 2022, but only this year was I able to be more present in the activities. As I attended presentations and workshops, two fragments of conversation caught my attention in particular. They seemed to be symbols of an apparent contradiction, which in my view deserve further reflection.
