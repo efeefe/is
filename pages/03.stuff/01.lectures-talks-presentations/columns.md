@@ -4,8 +4,10 @@ date: '22:52 23-10-2015'
 feed:
     limit: 10
 published: true
+sidebar: false
 ---
 
+---
 ## Recent
 
 ### ESOCITE, Campinas
@@ -89,6 +91,7 @@ Online talk "Reuse and Repair in Urban Environments". Recording available [here]
 
 Panel "[The Wheres and Whens of Networks](https://web.archive.org/web/20220121174550/https://archive.transmediale.de/content/remixing-digital-cities)". Recording available [here](https://youtu.be/9mvGHa0J6MQ?t=5404).
 
+---
 ## Past
 
 - Colaboramérica, Medellín, 2018
@@ -129,3 +132,5 @@ Panel "[The Wheres and Whens of Networks](https://web.archive.org/web/2022012117
 - Alternative Law Forum, Bangalore, 2004
 - Next 5 Minutes, Amsterdam, 2003
 - Mídia Tática Brasil - Casa das Rosas, São Paulo, Brazil – Mar 2003
+
+---
