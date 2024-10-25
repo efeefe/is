@@ -19,7 +19,7 @@ It's been over a year since I defended my thesis, or as it's called there, had m
 
 I posted something then, but was still waiting for the thesis to be published by Northumbria University before I shared the PDF. Or that was just an excuse to leave it to sleep for a while before I re-engaged with it and overcame the feeling that I should have done some parts differently. Now it's out anyway, so no point in hiding. Here's the link:
 
-https://nrl.northumbria.ac.uk/id/eprint/51731/
+[https://nrl.northumbria.ac.uk/id/eprint/51731/](https://nrl.northumbria.ac.uk/id/eprint/51731/)
 
 ![submitted](submitted.jpg "submitted")
 
@@ -29,4 +29,4 @@ Curiously, it was only a couple of weeks ago that I printed a hard copy of the t
 
 For those not willing to read hundreds of pages, there's also the summary of the thesis that I posted some months ago:
 
-https://is.efeefe.me/opendott/generous-cities-summary
+[https://is.efeefe.me/opendott/generous-cities-summary](../generous-cities-summary)
