@@ -1,7 +1,7 @@
 ---
 title: 'Thesis published'
 date: '10:54 25-10-2024'
-publish_date: '25-10-2024 11:58'
+publish_date: '25-10-2024 11:30'
 hero_image: thesis-cover.jpg
 ---
 
