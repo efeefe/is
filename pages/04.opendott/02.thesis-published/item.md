@@ -5,7 +5,7 @@ publish_date: '25-10-2024 11:30'
 hero_image: thesis-cover.jpg
 ---
 
-![viva](viva.jpg "viva")
+![viva](viva.jpg?classes=caption "Viva Voce")
 
 It's been over a year since I defended my thesis, or as it's called there, had my 'viva voce'. Some months later I would submit a final version, with great improvements suggested by the examiners. And on May 1st this year - a holiday in Berlin, by the way - I received by email confirmation of the PhD degree.
 
