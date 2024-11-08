@@ -13,6 +13,7 @@ hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
 show_sidebar: false
 feed:
     limit: 10
+never_cache_twig: true
 ---
 
 Message sent on the first day of the study:
