@@ -1,0 +1,56 @@
+{% block stylesheets %}
+    <style>
+        .score {
+            background-color: #f56a6a;
+            color: #ffffff !important;
+            transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+            border-bottom: 0;
+            border-radius: 0.375em;
+            display: inline-block;
+            font-size: 0.8em;
+            font-weight: 600;
+            height: 2em;
+            line-height: 2em;
+            margin: 0 0.125em;
+            min-width: 2em;
+            padding: 0 0.5em;
+            text-align: center;
+        }
+    </style>
+{% endblock %}
+<section id="relatedpages">
+    <header class="major">
+        <h2>{{ 'EDITORIAL.SIDEBAR.RELATEDPAGES_SECTION'|t }}</h2>
+    </header>
+<ul class="actions aln-left">
+    {% for related_path, score in related_pages %}
+        {% set related = grav['pages'].get(related_path) %}
+        {% if related %}
+        {% set related_image = related.media.images[related.header.featured_image] ?: related.media.images|first %}
+            <li>
+                <div class="row aln-between">
+                    {% if related.taxonomy.category is not null %}
+                        {% if related_image is not empty %}
+                            <div class="col-4">
+                                <a class="image" aria-label="{{ related.title }}" href="{{ related.url }}">
+                                    {{ related_image.cropResize(64,64).loading('lazy').attribute('decoding','async').html|raw }}
+                                </a>
+                            </div>
+                        {% endif %}
+                            <div class="{% if related_image is not empty %}col-8 {% else %} col-12 {% endif %}">
+                                <a class="" href="{{ related.url }}" title="{{ related.title }}" rel="nofollow">{{ related.title }}</a>
+                                <small class="published">
+                                    {{ 'EDITORIAL.MISC.IN'|t }} <span class="catlist">
+                                    {% for category in related.taxonomy.category %}
+                                        <a class="" href="{{ new_base_url }}/category{{ config.system.param_sep }}{{ category }}">{{ category|raw }}</a>{% if not loop.last %}<span class="sep">, </span>{% endif %}
+                                    {% endfor %}
+                                    </span>
+                                </small>
+                            </div>
+                    {% endif %}
+                </div>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+</section>

@@ -1,0 +1,87 @@
+{% extends 'partials/base.html.twig' %}
+
+{# Set gallery options #}
+{% set columns = page.header.layout == 'standard' ? 'col-4 col-6-medium col-12-small' : 'col-6 col-12-small'  %}
+{% set gallery = page.header.images %}
+{% set thumb_w = page.header.thumb_width|default(600) %}
+{% set thumb_h = page.header.thumb_height|default(450) %}
+
+{% block stylesheets %}
+	{{ parent() }}
+	{% do assets.addCss('theme://assets/css/glightbox.min.css') %}
+	{% set styling %}
+	button.gclose.gbtn, button.gnext.gbtn, button.gprev.gbtn {
+			box-shadow: none !important;
+		}
+	{% endset %}
+{% do assets.addInlineCss(styling) %}
+{% endblock %}
+
+{% block content %}
+	<header class="main">
+		{% if show_image and image %}
+			<span class="image main">
+				{{ image.cropZoom(img_width, img_height).loading('lazy').attribute('decoding','async').html(title,title,'image')|raw }}
+			</span>
+		{% endif %}
+		{% if show_title %}<h1>{{ title }}</h1>{% endif %}
+		{% if page.header.subtitle %}<p>{{ page.header.subtitle|raw }}</p>{% endif %}
+	</header>
+	<div style="margin-bottom: 4em">
+	{{ page.content|raw}}
+	</div>
+	<!-- Gallery -->
+	{% block gallery %}
+		<section itemscope itemtype="http://schema.org/ImageGallery">
+			<div class="row aln-center">
+				{% for item in gallery %}
+					{% set item_image = page.media[item.image] %}
+					{% set item_title = item.title %}
+					{% set item_desc = item.description %}
+					{% set thumbnail = item_image.cropZoom(thumb_w, thumb_h).attribute('itemprop','http://schema.org/image').html(item_title,item_title,'gallery_content-image') %}
+					
+					<div class="gallery_container {{columns}}" itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject">
+						<h3 class="title">{{item_title|raw}}</h3>
+						<div class="gallery_content">
+							<a href="{{item_image.url}}" class="glightbox" data-height="{{page.header.height}}" data-width="{{page.header.width}}" data-title="{{item_title}}" data-description="{{item_desc|e('html_attr')|raw}}" data-desc-position="{{item.descPosition}}" data-zoomable="{{page.header.zoomable}}" data-draggable="{{page.header.draggable}}" data-type="image">
+							<div class="gallery_content-overlay"></div>
+								{{ thumbnail|raw }}
+							<div class="gallery_content-details {{page.header.overlay_hover_effect}}">
+								<h3 class="gallery_content-title">{{item_title|raw}}</h3>
+								<p class="gallery_content-text">{{item_desc|truncate(75)|raw}}</p>
+							</div>
+							</a>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</section>
+	{% endblock %}
+{% endblock %}
+
+{% block javascripts %}
+	{{ parent() }}
+	{% set script %}
+	const lightbox = GLightbox({
+	    closeButton: {{ page.header.close_button }},
+	    touchFollowAxis: {{ page.header.touch_axis }},
+	    touchNavigation: {{ page.header.touch_navigation }},
+	    keyboardNavigation:	{{ page.header.keyboard_navigation }},
+	    loop: {{ page.header.loop }},
+	    openEffect: '{{ page.header.open_effect }}',
+	    closeEffect: '{{ page.header.close_effect }}',
+	    slideEffect: '{{ page.header.slide_effect }}',
+	    closeOnOutsideClick: {{ page.header.closeOutside }},
+	    dragToleranceX: {{ page.header.draggableX }},
+	    dragToleranceY: {{ page.header.draggableY }},
+	    preload: {{ page.header.preload }},
+	    dragAutoSnap: {{ page.header.dragAuto }},
+	    moreText: '{{ page.header.more_text }}',
+		{% if page.header.startAt is defined %}startAt: {{ page.header.startAt }},{% endif %}
+	    moreLength: {{page.header.more_length}}
+	});
+	{% endset %}
+
+	{% do assets.addJs('theme://assets/js/glightbox.min.js', {group:'bottom'}) %}
+	{% do assets.addInlineJs(script,{'group':'bottom'}) %}
+{% endblock %}

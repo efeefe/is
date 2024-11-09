@@ -1,0 +1,4 @@
+enabled: true
+dropdown:
+  enabled: true
+sidebar_open: false

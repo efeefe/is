@@ -1,0 +1,85 @@
+<!--
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+    Ported to Grav by Pedro Moreno <https://github.com/pmoreno-rodriguez>
+    https://github.com/pmoreno-rodriguez/grav-theme-editorial
+-->
+{# SET THEME OPTIONS #}
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+{% set compress = theme_var('production-mode') ? '.min.css' : '.css' %}
+{% set favicon = theme_var('favicon') %}
+{% set logo_enabled = theme_var('custom_logo_enabled')|defined(false) %}
+{% set logo = theme_var('custom_logo_mobile') ?: theme_var('custom_logo') %}
+{% set social = theme_var('social_enabled')|defined(false) %}
+{% set slogan = theme_config.themeSlogan %}
+{% set google_fonts = theme_var('google_fonts_local') ? '-local.css' : '-remote.css' %}
+{% set right_sidebar = theme_config.right_sidebar == true ? 'sidebar-right' : '' %}
+
+{# SET DEFAULT GRAV LANGUAGE #}
+{% set lang = grav.language.getActive ?: grav.config.site.default_lang %}
+
+{# SET PAGE OPTIONS #}
+{% set show_title = header_var('show_title')|defined(true) %}
+{% set title = page.title|raw  %}
+{% set show_image = header_var('show_pageimage')|defined(true) %}
+{% set image = page.media[header.featured_image] ?: page.media.images|first %}
+{% set img_width = header_var('image_width')|default(1000) %}
+{% set img_height = header_var('image_height')|default(300) %}
+
+{# SET DEFAULT BLOG URL #}
+{% set blog = page.find(header_var('blog_url', [page, blog])|defined(theme_var('blog-page'))) %}
+
+<!DOCTYPE HTML>
+<html lang="{{ lang }}">
+<!-- HEAD SECTION -->
+<head>
+{% include 'partials/page-bits/head.html.twig' with { favicon } %}
+{% block stylesheets %} 
+    {% include 'partials/page-bits/head-styles.html.twig' with { compress, google_fonts } %}
+{% endblock %}
+{% block javascripts %} 
+    {% include 'partials/page-bits/head-scripts.html.twig' %}
+{% endblock %}
+{% block assets deferred %}
+    {{ assets.css()|raw }}
+    {{ assets.js()|raw }}
+{% endblock %}
+</head>
+<!-- BODY SECTION -->
+<body class="is-preload {{ page.header.body_classes }} {{ right_sidebar }}">
+    <!-- Wrapper -->
+    <div id="wrapper">
+    <!-- Main -->
+        <div id="main">
+            <div class="inner">
+                <!-- Header -->
+                {% block header %}
+                    {% include 'partials/header.html.twig' %}
+                {% endblock %}
+                <!-- Content -->
+                <section>
+                    {% block messages %}
+                        {% include 'partials/messages.html.twig' ignore missing %}
+                    {% endblock %}
+
+                    {% block content %}{% endblock %}
+                </section>
+            </div>
+        </div>
+        {% block sidebar %}
+            {% include 'partials/sidebar.html.twig' %}
+        {% endblock %}
+    </div>
+
+    <a id="back-to-top" href="#" aria-label="{{ 'EDITORIAL.MISC.BACK_TO_TOP'|t }}" title="{{ 'EDITORIAL.MISC.BACK_TO_TOP'|t }}">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+
+    {% block bottom %}
+    <!-- Scripts -->
+        {{ assets.js('bottom')|raw }}
+    {% endblock %}
+</body>
+</html>

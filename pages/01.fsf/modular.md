@@ -1,5 +1,5 @@
 ---
-title: 'Felipe Schmidt Fonseca'
+title: 'HOME'
 onpage_menu: true
 published: true
 content:

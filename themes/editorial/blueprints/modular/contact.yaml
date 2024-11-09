@@ -1,0 +1,28 @@
+extends@: default
+
+form:
+  fields:
+    
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          fields:
+            header.page_index:
+              unset@: true
+        contactSettings:
+          type: tab
+          title: Settings
+     
+          fields:
+            addressSection:
+              type: section
+              label: Address
+            header.addressDetails:
+              type: editor
+              label: Address details
+              markdown: true
+              validate:
+                type: textarea          

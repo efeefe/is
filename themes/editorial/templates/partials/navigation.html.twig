@@ -1,0 +1,21 @@
+{% import 'macros/macros.html.twig' as macros %}
+
+<ul>
+    {% if config.theme.dropdown.enabled %}
+        {{ macros.nav_loop(pages, 'dropdown', 'submenu', true) }}
+    {% else %}
+        {{ macros.nav_loop(pages, 'no-dropdown', '', false) }}
+    {% endif %}
+    {% if theme_var('custommenu_enabled') %}
+    {% for mitem in theme_var('custommenu') %}
+        <li>
+            <a href="{{ mitem.url }}" target="{{ mitem.target }}">
+                {% if mitem.icon %}
+                    <i class="fa fa-{{ mitem.icon }}"></i>
+                {% endif %}
+                {{ mitem.text }}</span>
+            </a>
+        </li>
+    {% endfor %}
+    {% endif %}
+</ul>

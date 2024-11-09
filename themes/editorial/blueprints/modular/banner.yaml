@@ -1,0 +1,35 @@
+title: EDITORIAL.ADMIN.MODULAR.BANNER.TAB
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          type: tab
+          fields:
+            header.page_index:
+              unset@: true
+            _BannerSection:
+              type: section
+              underline: true
+              ordering@: _ContentOptions
+              title: EDITORIAL.ADMIN.MODULAR.BANNER.SECTION
+            _BannerOptions:
+              type: columns
+              ordering@: _BannerSection
+              fields:
+                header.content:
+                  type: column
+                  fields:
+                    header.button_text:
+                      type: text
+                      size: medium
+                      label: EDITORIAL.ADMIN.MODULAR.BANNER.BUTTON_TEXT
+                    header.button_url:
+                      type: text
+                      size: medium
+                      label: EDITORIAL.ADMIN.MODULAR.BANNER.BUTTON_URL
+            
+
+                
