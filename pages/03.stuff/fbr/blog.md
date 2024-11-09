@@ -1,5 +1,5 @@
 ---
-title: Future Beyond Repair
+title: 'Future Beyond Repair'
 content:
     items:
         - '@self.children'
@@ -19,4 +19,4 @@ image_height: 300
 theme: editorial
 ---
 
-By [Felipe Schmidt Fonseca](/#about).
+Future Beyond Repair is an open-ended investigation journal about tacticality, regeneration, openness, and futures. It connects to and goes beyond earlier projects, seeking to overcome the limitations of our ways of seeing things.
