@@ -27,12 +27,19 @@
         {% if not loop.last %}, {% endif %}
         {% endfor %}
         </small>{% endif %}
+        <small itemprop="author" itemscope itemtype="https://schema.org/Person">by <i class="fas fa-user"></i>
+        <a class="authors" title="author"
+        href="/#about"><span class="name" itemprop="name" rel="author">Felipe Schmidt Fonseca</span>
+        </a>
+        </small>
         </p>
         
     </header>
-    {% if show_image and image %}
+
+    <!-- {% if show_image and image %}
         <span class="image main" itemprop="image">{{ image.cropZoom(img_width, img_height).loading('lazy').attribute('decoding','async').html(title,title,'image')|raw }}</span>
     {% endif %}
+    -->
     <div itemprop="articleBody">
         {{ page.content|raw }}
     </div>
