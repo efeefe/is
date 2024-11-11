@@ -1,0 +1,14 @@
+name: efeefe Editorial
+slug: efeefe-editorial
+type: theme
+version: 0.0.1
+description: efeefe website based on editorial theme
+icon: rebel
+author:
+  name: Felipe Schmidt Fonseca
+  email: felipefonseca+grav@gmail.com
+homepage: https://is.efeefe.me/stuff/fbr
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

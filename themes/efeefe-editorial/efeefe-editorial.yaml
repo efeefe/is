@@ -1,0 +1,9 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/efeefe-editorial'
+         - 'user://themes/editorial'
+enabled: true

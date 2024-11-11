@@ -16,7 +16,7 @@ feed:
 show_pageimage: true
 image_width: 1000
 image_height: 300
-theme: editorial
+theme: efeefe-editorial
 ---
 
 Future Beyond Repair is an open-ended investigation journal about tactics, regeneration, openness, and futures. It connects to and goes beyond my earlier projects, seeking to overcome the limitations of our ways of seeing things in these turbulent times.	
