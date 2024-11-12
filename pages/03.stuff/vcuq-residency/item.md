@@ -1,9 +1,10 @@
 ---
-title: VCUQ Residency
+title: 'VCUQ Residency'
 published: true
 hero_image: IMG_20141101_171522824_HDR.jpg
 hero_classes: 'text-light overlay-dark'
-
+feed:
+    limit: 10
 ---
 
 During two weeks in 2014, I was a Designer in Residence at the Virginia Commonwealth University Qatar, in Doha. The invitation came in the context of a "Brazil-Qatar Culture year" connected to the FIFA Football World Cups. And that was not the most uncommon part. It was a relatively short immersion that got me to reflect on many aspects of contemporary times and echoed in many of my following projects.
@@ -14,7 +15,7 @@ Some outputs of the residency were:
 
 - Images collected during [fieldwork](fieldwork) with [crafters and repairers](fieldwork/craft), [dumpsites in the desert](fieldwork/desert) (and some [psychogeography](psychogeography)), as well as a [repair cafe and some upcycling experiments](sallehlab) at the University. Most of the images were shared earlier on an [Album on Flickr](https://www.flickr.com/photos/felipefonseca/sets/72157649068360535/) before being edited.
 - The text Gambiarra: repair culture, initially published in Makery ([English](https://www.makery.info/en/2015/03/31/gambiarra-la-culture-de-la-reparation/) / [French](https://www.makery.info/en/2015/03/31/gambiarra-la-culture-de-la-reparation/?lang=fr)). An improved version was included in an issue of [Tvergastein](https://www.academia.edu/20808625/Gambiarra_Repair_Culture). A copy of the text is kept here in [my blog](https://is.efeefe.me/stuff/gambiarra-repair-culture).
-- By the end of the residency one of the professors started organising a publication with photos of the activities. I wrote a text and contributed with some images, but we never properly finished the publication. A draft, however, can be found [here](repair-culture).
+- By the end of the residency, one of the professors started organising a publication with photos of the activities. I wrote a text and contributed with some images, but we never properly finished the publication. A working version, however, can be found [here](repair-culture).
 - A microblog [on Tumblr](https://repairculture.tumblr.com/) during the residency (I keep a [copy here](repairculture-tumblr) to make sure it doesn't disappear).
 - Interim blog posts (in Portuguese):
   - [Gambiarra Studies](https://desvio.github.io/blog/gambiarra-studies/)
