@@ -1,8 +1,6 @@
 ---
 title: 'Defeated'
 date: '11-11-2024'
-show_hero: true
-
 ---
 
 ![Defeated](defeated.jpg)
