@@ -4,7 +4,7 @@ date: '09-11-2024'
 subtitle: Before we start...
 ---
 
-This is a new subsection of my website, set up in November 2024. It is an open-ended research journal. I felt the need to air some stuff - reflections, repetitions, rants. New stuff made anew, old stuff again and again. To postpone the end of the world. To re-access myself and our networks. And reaffirm my tiny and relatively autonomous infrastructure as the core of my writing on the internet, against the tiring social networks and their unbearable attention exploitation.
+This is a new subsection, set up in November 2024, of my website. It is an open-ended research journal. I felt the need to air some stuff - reflections, repetitions, rants. New stuff made anew, old stuff again and again. To postpone the end of the world. To re-access myself and our networks. And reaffirm my tiny and relatively autonomous infrastructure as the core of my writing on the internet, against the tiring corporate social networks and their unbearable attention exploitation.
 
 
 ![Sketch to Image](sketch_to_image_20241103_060306.jpg)
