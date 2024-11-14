@@ -4,7 +4,7 @@ date: '12:33 28-07-2024'
 published: true
 feed:
     limit: 10
-hero_image: hero.png
+# hero_image: hero.png
 hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 ---
 
