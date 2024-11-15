@@ -1,6 +1,6 @@
 ---
 title: 'Defeated'
-date: '08-11-2024'
+date: '08-09-2024'
 ---
 
 ![Defeated](defeated.jpg)
