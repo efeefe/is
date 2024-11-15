@@ -3,7 +3,7 @@ title: 'Future Beyond Repair'
 content:
     items:
         - '@self.children'
-    limit: 6
+    limit: 12
     order:
         by: date
         dir: desc
@@ -21,8 +21,8 @@ theme: efeefe-editorial
 
 Future Beyond Repair ("FBR") is an independent research journal about materiality, regeneration, tactics, openness, and futures.
 
-> I [set up](opening-up) FBR in November 2024, with an initial collection of recent texts.  It was created to hold space for reconnecting with and going beyond [earlier projects](../), in an attempt to overcome the limitations of our ways of seeing things in these turbulent times.
+> I [set up](opening-up) FBR in November 2024 as a subsection of my website, with an initial collection of recent texts.  It was created to hold space for reconnecting with and going beyond [earlier projects](../), in an attempt to overcome the limitations of our ways of seeing things in these turbulent times.
 
 > Have a read at the texts here, and feel free to [contact me](/#contact-me) to discuss these and other ideas.
 
-> **Felipe Schmidt Fonseca**
+> **[Felipe Schmidt Fonseca](/)**
