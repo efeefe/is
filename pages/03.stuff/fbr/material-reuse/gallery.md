@@ -1,5 +1,7 @@
 ---
 title: 'Material reuse'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: 3.jpg
 date: '08-09-2024'
 layout: standard
 thumb_width: 450

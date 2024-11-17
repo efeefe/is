@@ -1,6 +1,8 @@
 ---
 title: 'Beyond Repair'
 date: 03.09.2024
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: beyond-repair.jpg
 ---
 
 > From my typewriter series. Berlin, 03.09.24.
