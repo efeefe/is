@@ -1,0 +1,10 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/efeefe-cv'
+         - 'user://themes/ceevee'
+
+enabled: true

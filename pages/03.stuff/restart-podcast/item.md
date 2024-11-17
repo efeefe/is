@@ -1,0 +1,21 @@
+---
+title: 'Restart podcast'
+date: '25-07-2018 11:18'
+hero_classes: 'parallax text-dark overlay-light hero-fullscreen'
+hero_image: Restart-podcast.png
+show_sidebar: false
+---
+
+On a fine afternoon of June, I was interviewed for the Restart Podcast. The conversation covered a number of subjects - from my background in the MetaReciclagem project to the social meaning of Gambiarra, as well as brazilian politics now and fifteen years ago. I believe we talked for more than one hour, and they had to edit to fit the lenght of the podcast, and the results are here:
+
+[https://therestartproject.org/podcast/improvisation-brazilian-repair/](https://therestartproject.org/podcast/improvisation-brazilian-repair/)
+
+> We interview Brazilian technologist and researcher Felipe Fonseca, who has long been on our radar screen. Dave and Janet discuss with Felipe the role of improvisation in problem-solving and repair, and we learn from Brazilian approaches to repurposing discarded technology.
+> First, Felipe tells us about the origin of his project “MetaReciclagem”, which started collecting discarded PCs and reviving them with free open software. These were then either used by various social projects, or repurposed or turned into artworks.
+> At the time of MetaReciclagem (2002) the Brazilian government was showing a budding interest in Linux for public projects, and in increasing public access to technology. This occurred against the backdrop of the World Social Forum in Porto Alegre. Metareciclagem sprung from the hope that free and open-source technology would help address social inequalities.
+> Noting that, currently Brazil is living a very different and darker political moment. In this edit, we did not have time to include Felipe’s concerns about the ongoing crisis in his country, with an unelected government and serious questions hanging over upcoming Presidential elections. He told us that the current scenario seems “unpredictable”, as Lula da Silva – ex-President and strongest candidate – is currently in jail. (In second place in the polls there is extreme-right candidate Jair Bolsonaro.)
+> We focus on Brazilian cultural practices of mutirão and gambiarra. The mutirão is an informal and collaborative gathering to solve a problem or achieve a common goal, while the gambiarra has to do with fixing specific things through improvisation, even when one lacks the appropriate tools or resources. While these practices may be specific to Brazil, we recognise their spirit in every culture and definitely in every Restart Party.
+> Felipe shares his concerns that these skills may be disappearing as the economy grows, with Brazilians buying into the throw-away culture. He fears people will lose this appetite for improvisation that can help them diagnose and fix their stuff – as he puts it: “you shouldn’t need to study for 8 years to replace a light switch”.
+> Then, we reflect on the meaning and purposes of the “maker” culture. Felipe talks about his shift from an initial enthusiasm about the concept to a gradual realisation of its obsession with careless innovation. He confesses that labelling his work as “making” can draw people in, however his actual aim is to promote collaborative projects driving sustainability and social inclusion.
+> We also discuss the importance of local action as a powerful driver for national change. In the context of Ubatuba, Fonseca’s region, he is focusing on sharing spaces for social and innovation projects and making the region a spot for open source technology.
+> Interwoven with Fonseca’s interview, we also hear from Restart Party goer Joseph Brant, who managed to fix his smart TV himself. With basic soldering skills gained at Restart Parties, access to information on the internet – some of it in Chinese, and a big amount of patience, Joseph tinkered with the circuit board and managed to repair the device, replacing a fuse and a capacitor. More than anything, from his achievement we learn about the power of improvisation in fixing the things that we own.

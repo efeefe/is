@@ -1,0 +1,20 @@
+---
+title: 'Corona inspiration'
+published: true
+date: '23-03-2020 23:06'
+taxonomy:
+    tag:
+        - corona
+        - waste collection
+show_sidebar: false
+feed:
+    limit: 10
+---
+
+Still transcribing and editing some reflections about, among other issues, the impact of the current events in my research. As already mentioned in my research blog, I had some concrete plans for the near future. Part of it was performing an ecosystem mapping: I would visit diverse organisations, professionals and communities either involved with repairing, adapting or repurposing things; or which handle donated objects. I would be interviewing the people directly involved with those activities. The other part of my research would start with a meeting in which I would talk about previous work and my current goals, then I’d give broken or malfunctioning objects to a group of participants and ask them to try to make them valuable in the city over the period of two weeks. My main question with both studies was about how to assess value of materials, and what kinds of transformations do they undergo in urban contexts. To visualise the labour and equipment activated to recover materials. 
+
+Nothing of that is going to happen the way I expected. Visits to workshops, giving people objects, asking them to wander the city looking for solutions. There are decisions we’ll need to make on a project level including my colleagues, the OpenDoTT consortium and the funder. Postponing to future phases may be an option. I’m sure Berlin has rich contributions to the questions I want to investigate, but then language would be a barrier. I could also look for alternatives such as performing similar studies either in Amsterdam or Barcelona. In any case, refactoring is needed, and I still intend to do a version of what I was planning soon enough.
+
+I’ll be using part of the time now to get back to my literature review. I still want to write about cooperativism and commons, and explore ways to apply that to the potential value that lies in reusable discarded materials. On the other hand, I feel the need to stay updated to what happening right now. For instance, how could I find trustworthy accounts of the impact of the current crisis on waste management around the world? What’s being made of the medical waste in towns thorn by COVID-19? How the usual municipal solid waste is being handled? What measures are put in place to increase the security of waste management workforce against contamination?
+
+Of course, the fact that my life and research are deeply impacted by the corona virus (and whose aren’t?) does not mean I need to focus my research on it only. But overall it adds urgency in some aspects, as well as bringing in new challenges. I have been talking to lots of people about it, and writing as intensely as I am seems to be a way to make sense of all those conversations. We need to think of autonomy and resilience. How can a city like Dundee increase its sovereignty over what happens to the waste it generates? Right now, materials are collected and sent to a private company. What if the city - not necessarily the local public administration, but the society as a whole - had competence, technical domain and a governance configuration that allowed it to better absorb its solid waste? Giving it all over to private corporations may be having a fox take care of the hen-house. Typically, these companies are not at all interested in reducing the amount of waste, as I know from experience in Brazil. They need to justify their own investment in equipment and the price they charge, usually by weight of materials handled. As long as profit is the main objective, greed will be the main driver. We need not only to absorb more of the potential value in waste, but distribute it as well. And I’m repeating myself.

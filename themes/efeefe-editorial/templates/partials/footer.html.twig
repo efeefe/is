@@ -1,0 +1,10 @@
+{% set year = 'now'|date('Y') %}
+{% set copyright = theme_var('copyright.text') %}
+{% if copyright is not empty %}
+<!-- Footer -->
+<footer id="footer">
+    <div class="copyright">{{ year }} <i class="fa-brands fa-creative-commons"></i><br>
+    CC-BY Felipe Schmidt Fonseca
+    </div>
+</footer>
+{% endif %}
