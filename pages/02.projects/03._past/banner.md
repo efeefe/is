@@ -1,40 +1,9 @@
 ---
-title: Stuff
-published: true
-jscomments:
-    active: false
-body_classes: 'title-center title-h1h2'
-visible: true
-blog_url: /blog
-show_sidebar: false
-show_breadcrumbs: true
-show_pagination: true
-content:
-    items:
-        - '@self.children'
-    limit: 15
-    order:
-        by: date
-        dir: desc
-    pagination: true
-    url_taxonomy_filters: true
-feed:
-    limit: 10
+title: 'Past Projects'
+body_classes: modular
 ---
 
-> ## My Stuff
-
-A curated list of ideas and works, old and new. See also a list of [lectures, talks and presentations](lectures-talks-presentations).
-
-### Current projects
-
-**[Distributed Design Mentor Scheme](https://distributeddesign.eu/resources/mentor-scheme/)** - Mentoring community-based projects (since 2023).
-
-**[Semente](seeds-digital-reforestation)** - An interactive method to create and re-generate community-based initiatives (2022-). Project supported by the University of Bristol.
-
-**[Tropixel](https://tropixel.org)** - Brazil-based network on arts, science, technology and society (since 2013 as a festival, reactivated as ongoing online group in 2020).
-
-### Past projects
+Projects I've been involved with in the past.
 
 **[ALGO](https://globalinnovationgathering.org/algoracism/)** - Co-design lab studying the relation between algorithmic biases and racial justice in Brazil (2023). Part of a research project to create a critical videogame challenging algorithmic racism, supported by the University of Bristol.
 
@@ -68,4 +37,7 @@ A curated list of ideas and works, old and new. See also a list of [lectures, ta
 
 **[efeefe](https://efeefe-arquivo.github.io/)** - my old blog.
 
-### More
+See also:
+
+- a list of [lectures, talks, and presentations](../stuff/lectures-talks-presentations).
+- a selection of texts and posts about my activities.
