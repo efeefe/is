@@ -20,8 +20,9 @@ content:
     url_taxonomy_filters: true
 feed:
     limit: 10
+theme: 'efeefe-editorial'
 ---
 
 > ## My Stuff
 
-Ideas, reflections, musings and works. See also a list of my [lectures, talks and presentations](lectures-talks-presentations).
+Ideas, reflections, musings, and works. See also a list of my [lectures, talks and presentations](lectures-talks-presentations).
