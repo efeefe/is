@@ -41,3 +41,17 @@ See also:
 
 - a list of [lectures, talks, and presentations](../stuff/lectures-talks-presentations).
 - a selection of texts and posts about my activities.
+
+
+[ed-flex-row class="gtr-50"]
+[column class="col-4 col-12-medium"]
+[ed-box color="primary" heading="Primary"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed eleifend magna, non tempor urna. Integer maximus, velit non scelerisque ornare, ante libero porta lorem, ac eleifend felis sapien eu leo. Fusce mauris justo, ullamcorper ut urna a, scelerisque viverra magna.
+[/ed-box]
+[/column]
+
+[column class="col-4 col-12-medium"]
+[ed-box color="secondary" heading="Secondary"]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed eleifend magna, non tempor urna. Integer maximus, velit non scelerisque ornare, ante libero porta lorem, ac eleifend felis sapien eu leo. Fusce mauris justo, ullamcorper ut urna a, scelerisque viverra magna.
+[/ed-box]
+[/column]
