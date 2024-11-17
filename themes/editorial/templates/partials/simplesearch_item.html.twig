@@ -1,0 +1,25 @@
+{% set title = page.title|raw %}
+{% set show_image = header_var('show_pageimage')|defined(true) %}
+{% set image = page.media[header.featured_image] ?: page.media.images|first %}
+{% set datestamp = include('partials/page-bits/date.html.twig') %}
+
+<section class="search-row">
+    {% if show_image and image %}
+        <div class="search-image">
+            <a href="{{ page.url }}">{{ image.cropZoom(100,100).loading('lazy').decoding('async').html(title,title,'image')|raw }}</a>
+        </div>
+    {% endif %}
+    <div class="search-item">
+        <div class="search-title">
+            <h3><a href="{{ page.url }}">{{ title }}</a></h3>
+        </div>
+
+        <div class="search-details">
+            <span class="search-date">{{ datestamp }}</span>
+        </div>
+
+        {{ page.summary|striptags|truncate(300, true)|raw }}
+
+        <hr/>
+    </div>
+</section>
