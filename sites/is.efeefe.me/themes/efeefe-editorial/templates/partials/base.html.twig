@@ -35,7 +35,6 @@
 <html lang="{{ lang }}">
 <!-- HEAD SECTION -->
 <head>
-    {{ parent() }}
     {% do assets.addCss('plugin://photoswipe/dist/photoswipe.css') %}
 {% include 'partials/page-bits/head.html.twig' with { favicon } %}
 {% block stylesheets %} 
@@ -82,7 +81,6 @@
     {% block bottom %}
     <!-- Scripts -->
         {{ assets.js('bottom')|raw }}
-    {{ parent() }}
     {% do assets.addJs('plugin://photoswipe/dist/umd/photoswipe.umd.min.js') %}
     {% do assets.addJs('plugin://photoswipe/dist/umd/photoswipe-lightbox.umd.min.js') %}
     {% endblock %}
