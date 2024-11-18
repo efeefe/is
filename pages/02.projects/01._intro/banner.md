@@ -6,4 +6,4 @@ subtitle: 'A curated list of works, old and new.'
 ---
 
 
-This page hosts a sample of the projects I developed over more than two decades of activity at the intersections of culture, technology, environment and science.
+This page hosts a selection of projects I have developed over more than two decades at the intersections of culture, technology, environment and science.
