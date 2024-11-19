@@ -15,6 +15,10 @@ image_height: 300
 ---
 ## Recent
 
+### Berlin Science Week, 2024
+
+Debate [Data for Survival: confronting the climate crisis](https://www.linkingdebate.com/debate/2024/autumn-2024-debate-v/), part of [FORUM linking:debate](https://www.linkingdebate.com/).
+
 ### Knowle West Media Centre, Bristol, 2024
 
 Debate with Edward King at the event [What if...? Seeds of Tomorrow Growing Today](https://www.knowlewest.co.uk/whats-on/what-if-seeds-of-tomorrow-growing-today/). Video recording available here: [What If We Thought of Technologies as Plants?](https://semente.de/lab/what-if/)
