@@ -5,12 +5,21 @@ feed:
     limit: 10
 published: true
 sidebar: false
+show_title: '1'
+page_index: '0'
+show_pageimage: true
+image_width: 1000
+image_height: 300
 ---
 
 ---
 ## Recent
 
-### ESOCITE, Campinas
+### Knowle West Media Centre, Bristol, 2024
+
+Debate with Edward King at the event [What if...? Seeds of Tomorrow Growing Today](https://www.knowlewest.co.uk/whats-on/what-if-seeds-of-tomorrow-growing-today/). Video recording available here: [What If We Thought of Technologies as Plants?](https://semente.de/lab/what-if/)
+
+### ESOCITE, Campinas, 2024
 
 Presentation of paper "[An online co-design lab: reuse.city](https://wiki.reuse.city/opendott/public/online-codesign-lab-reuse-city)" in the Working Group Emergent Technologies of the Latin-American Conference on Social Studies of Science and Technology.
 
@@ -21,7 +30,6 @@ Presentation of paper "Generous cities - commons-based handling of excess materi
 ### Re:Publica, Berlin, 2024
 
 Participation on the panel [Understanding the Right-to-Repair Movement in the Global North and Global South](https://re-publica.com/de/session/understanding-right-repair-movement-global-north-and-global-south). Video recording available [here](https://www.youtube.com/watch?v=JCdRvdSm3do).
-
 
 ### Circular Berlin, Online, 2024
 
