@@ -1,6 +1,10 @@
 ---
 title: 'On openness, circularity, and spirals'
 date: '00:08 05-12-2024'
+show_title: '1'
+show_pageimage: true
+image_width: 1000
+image_height: 300
 ---
 
 We live in times of crises. Not a single crisis, but multiple, plural and interconnected ones. Environmental degradation causing extreme climate events. The severance of social bonds, generating insurmountable polarisation – not only of opinion, but fundamentally of world-views – and leading to a general lack of trust. Economic disparity and precarious working conditions everywhere. Times of trouble, indeed. And [stay with it, we must](https://en.wikipedia.org/wiki/Staying_with_the_Trouble). In such a grim context, many attempt to look for solutions beyond the typically western/northern/white ways of producing knowledge. After all, if we are to dribble the traps of the current state and build futures that help integrate society rather than increase divides, we'd better search for alternatives outside the dry and individualistic horizon of “modern” ([have we been ever?](https://en.wikipedia.org/wiki/We_Have_Never_Been_Modern)) ways of solving problems.
@@ -13,7 +17,7 @@ In that sense, instead of seeing time as a single arrow pointing towards an inev
 
 My writing about openness and spirals is grounded on a couple of decades of concrete experience seeding and helping maintain various knowledge-oriented collective initiatives. I build on previous work conducted in diverse contexts and in discrete times. Finally, this text expands on the concept of “spiral of openness” developed during my [research on generous cities](https://wiki.reuse.city/opendott) and on the concepts we're using to develop [semente](https://semente.de). There is the occasional reuse of notes, insights, and whole paragraphs that I may have drafted for one project report or another, but never properly published. Or have I? Actually, it doesn't matter.
 
-**P.S.:** this text has been in my text editor for months. I kept writing, adding, deleting, moving things around. I finally accepted that it is an experiment more than an essay. The text doesn't start here to reach conclusions at the end. Rather, it gradually constantly gets closer to its core and then goes away again, as if it's trying to [approach Al-Mu'tasim](https://en.wikipedia.org/wiki/The_Approach_to_Al-Mu'tasim). Maybe, maybe—it doesn't have a proper core. Only a diverse body reflected on each part, as a fractal. A spiralled and open fractal itself.
+**P.S.:** this text has been in my text editor for months. I kept writing, adding, deleting, moving things around. I finally accepted that it is an experiment more than an essay. The text doesn't start here to reach conclusions at the end. Rather, it constantly gets closer to its core and then goes away again, as if it's trying to [approach Al-Mu'tasim](https://en.wikipedia.org/wiki/The_Approach_to_Al-Mu'tasim). Maybe, maybe—it doesn't have a proper core. Only a diverse body reflected on each part, as a fractal. A spiralled and open fractal itself.
 
 ## A culture of openness
 
