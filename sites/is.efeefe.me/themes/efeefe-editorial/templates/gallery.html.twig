@@ -1,5 +1,10 @@
 {% extends 'partials/base.html.twig' %}
 
+{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
+{% set new_base_url = blog.url == '/' ? '' : blog.url %}
+{% set show_pagination = header_var('content.pagination')|defined(true) %}
+{% set show_breadcrumbs = header_var('content.breadcrumbs')|defined(false) %}
+{% set datestamp = include('partials/page-bits/date.html.twig') %}
 
 {% block stylesheets %}
     {{ parent() }}
