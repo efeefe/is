@@ -3,6 +3,9 @@ title: 'On openness, circularity, and spirals'
 date: '00:08 05-12-2024'
 show_title: '1'
 page_index: '0'
+hero_classes: 'parallax text-light overlay-dark hero-fullscreen'
+hero_image: spiral-staircase-3598458_1280.jpg
+show_sidebar: false
 show_pageimage: true
 image_width: 1000
 image_height: 300
@@ -93,3 +96,7 @@ In the intense times of the [MetaReciclagem](https://twitter.com/dormirai/status
 > Every village has a tuxáua, who has the power of solving internal conflicts and quarrels, summoning meetings, scheduling celebrations and rituals, defining the agricultural activities and commercial transactions, ordering the building of houses etc. The tuxáua is in charge of hosting guests, **demonstrating his generosity** and carrying out the ceremonial role of offering çapó – guaraná sticks grated in water, a beverage drunk in large quantities daily that also has ritual and religious functions.”
 
 Generosity should arguably be at the core of leading open, post-scarcity initiatives. The role of tuxáua is reportedly an alternating one, based on the ongoing development of generous leadership. It is not enforced by violence or the threat of violence. Quite the opposite. If anything, that can inspire a different approach for community-based initiatives. A possible take would be to intentionally avoid the insistence on exploitative uses of communities to develop one's own projects. A better alternative could then be to offer such projects to communities: to make them true open-ended offerings, by establishing collective governance and power distribution since the inception. That would require us to start open initiatives with matter so malleable that presents itself differently to different people. Further, the community should always have agency to keep changing it, perhaps always leaving the collective construction away from mindless enclosure. We should start with stories and strive for the community itself to be the community project – not its unpaid workforce. Open should be seen more as a verb than an adjective. A collective process, not a transactional end state. And fundamentally, open should not be about promoting virtuous authors that see sharing as voluntary benevolence on their account. Doing things openly should be, after all, a social activity.
+
+---
+
+Image: [HOerwin56 on Pixabay](https://pixabay.com/photos/spiral-staircase-wood-rise-building-3598458/)
