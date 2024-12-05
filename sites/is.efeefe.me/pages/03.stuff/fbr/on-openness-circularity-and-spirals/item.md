@@ -9,6 +9,7 @@ show_sidebar: false
 show_pageimage: true
 image_width: 1000
 image_height: 300
+featured_image: spiral-staircase-3598458_1280.jpg
 ---
 
 We live in times of crises. Not a single crisis, but multiple, plural and interconnected ones. Environmental degradation causing extreme climate events. The severance of social bonds, generating insurmountable polarisation – not only of opinion, but fundamentally of world-views – and leading to a general lack of trust. Economic disparity and precarious working conditions everywhere. Times of trouble, indeed. And [stay with it, we must](https://en.wikipedia.org/wiki/Staying_with_the_Trouble). In such a grim context, many attempt to look for solutions beyond the typically western/northern/white ways of producing knowledge. After all, if we are to dribble the traps of the current state and build futures that help integrate society rather than increase divides, we'd better search for alternatives outside the dry and individualistic horizon of “modern” ([have we been ever?](https://en.wikipedia.org/wiki/We_Have_Never_Been_Modern)) ways of solving problems.
