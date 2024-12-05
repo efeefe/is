@@ -73,6 +73,30 @@
     </style>
 {% endblock %}
 
+<article itemscope itemtype="http://schema.org/Article">
+    <header>
+        {% if show_title %}<h1 itemprop="name headline">{{ title }}</h1>{% endif %}
+        {% if page.header.subtitle %}<p>{{ page.header.subtitle|raw }}</p>{% endif %}
+        <p class="data-post">
+        {% if config.plugins.readingtime.enabled %}<small><i class="fas fa-book-reader"></i> {{ page.content|readingtime}}</small>{% endif %}
+        <br><time itemprop="datePublished"><i class="far fa-clock"></i> {{ 'EDITORIAL.ITEM.POSTED_ON'|t }} {{ datestamp }}</time>
+        {% if page.taxonomy.author %}<br><small itemprop="author" itemscope itemtype="https://schema.org/Person"><i class="fas fa-user"></i>
+        {% for author in page.taxonomy.author %}
+        <a class="authors" title="{{ 'EDITORIAL.ITEM.SEE_OTHER_POSTS_OF'|t }} {{ (author|capitalize) }}"
+        href="{{ new_base_url }}/author{{ config.system.param_sep }}{{ author }}"><span class="name" itemprop="name" rel="author">{{ author|capitalize }}</span>
+        </a>
+        {% if not loop.last %}, {% endif %}
+        {% endfor %}
+        </small>{% endif %}
+        <small itemprop="author" itemscope itemtype="https://schema.org/Person">by <i class="fas fa-user"></i>
+        <a class="authors" title="author"
+        href="/#about"><span class="name" itemprop="name" rel="author">Felipe Schmidt Fonseca</span>
+        </a>
+        </small>
+        </p>
+        
+    </header>
+
 {% block content %}
     <section>
         <h1>{{ page.title }}</h1>
