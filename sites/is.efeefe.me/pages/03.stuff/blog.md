@@ -25,4 +25,4 @@ theme: 'efeefe-editorial'
 
 > ## My Stuff
 
-Ideas, reflections, musings, and works. See also a list of my [lectures, talks and presentations](lectures-talks-presentations).
+A carrier bag filled with ideas, reflections, musings, and works. See also a list of my [lectures, talks and presentations](lectures-talks-presentations) and an ever-growing [link collection](https://links.efeefe.me/).
