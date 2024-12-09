@@ -30,7 +30,7 @@
         {% if show_image %}
             <span class="image main"> 
                 {% set hero_media = page.media.files|first %}
-                {% if hero_media.extension in ['mp4', 'webm', 'ogg'] %}
+                {% if hero_media and hero_media.extension in ['mp4', 'webm', 'ogg'] %}
                     <video autoplay muted loop playsinline>
                         <source src="{{ hero_media.url }}" type="video/{{ hero_media.extension }}">
                         Your browser does not support the video tag.
