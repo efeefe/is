@@ -82,7 +82,7 @@ Those actions are rarely linear in a straight direction. However, as mentioned a
 
 A spiral shape can move forward in circular yet open-ended ways. It combines linearity and circularity, so to say. As actions unfold, the whole system keeps changing. The spiral never returns to its point of origin – the composition of the community, its goals and objectives, and the ways of coming together and organising are continually in transformation. Difference and contradiction are the flip side of diversity and true openness. They help dynamically distil improved visions and move the spirals forward.
 
-![spiral-staircase-3598458_1280](spiral-staircase-3598458_1280.jpg?lightbox=1024&resize=800) {.center}
+![spiral-staircase-3598458_1280](spiral-staircase-3598458_1280.jpg?lightbox=1024&resize=1024)
 
 Spirals, of course, are present in many world cultures old and new. From the _Igbin_ snails representing the creation of the world in Yoruba cosmogony to the Triskelion in Celtic peoples. Some depictions of the Greek cornucopia end (or start) in a spiral. Just as Heraclitus famously said that one can never enter the same river twice for it is constantly changing, the image of the spiral is a reminder of the impossibility of moving back in time. Even when one gets back to a point that feels similar to a past one, the very person has been changed through experience.
 
