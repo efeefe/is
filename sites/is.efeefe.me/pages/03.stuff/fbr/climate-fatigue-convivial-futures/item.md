@@ -72,6 +72,8 @@ The economist Mariana Mazzucato proposes a [mission-driven economy](https://www.
 
 Berlin-based nonprofit Tactical Tech has developed an initiative called “[What the Future Wants](https://theglassroom.org/en/what-the-future-wants/)”. Their project partners conducted workshops with youngsters from 51 countries, co-creating resources that discuss critically the reality and effects of digital technologies on their lives. One of the outcomes of the project was the creation of an openly replicable exhibition for teenagers that draws attention to some harms and dangers of using digital technologies. It succeeds in bringing such conditions a bit closer to the everyday reality of children and teenagers in very diverse localities. Can a similar effort be made that connects to the effects of climate change as well? Further, can we think of new forms of being tactical that go beyond identifying and protecting from harms, and advance on creating more convivial futures?
 
+![pexels-dirk-2622726-4634341](pexels-dirk-2622726-4634341.jpg "pexels-dirk-2622726-4634341")
+
 ## Climate effects
 
 This text feeds from past and present initiatives that successfully combine local sensibility and social embeddedness, and a translocal and systemic world-view. There are many examples of such: the Brazilian Waste Pickers movement (MNCR); the network of Pontos de Cultura; the global movements of social innovation and critical making such as GIG network; organised social movements in cities and rural areas; the enduring remnants of the World Social Forum and its proposal of another possible world; the Zapatistas, among others. They all combine acute awareness of territory, society, and culture with the ability to prefigure and enact better realities, and to communicate them.
