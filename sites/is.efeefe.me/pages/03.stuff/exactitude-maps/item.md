@@ -10,6 +10,10 @@ taxonomy:
         - geolivre
         - memelab
 hero_image: OEOM.jpg
+show_title: '1'
+show_pageimage: true
+image_width: 1000
+image_height: 300
 ---
 
 > As part of the CODE programme led by [Impakt](https://impakt.nl), I have collaborated with [Rebekka Jochem](https://www.rebekkajochem.com/) to conduct research and create artworks investigating the impact of maps in contemporary life, labour and cities. The collaboration generated a mobile audioguide and a physical installation.
@@ -38,7 +42,7 @@ Such data have become a massive resource that a select few corporations are expl
 
 - CPDP (Brussels) - May 2023
 - MozFest House (Amsterdam) - June 2023
-- Ars Electronica (Linz) - September 2023
+- [Ars Electronica (Linz) - September 2023](https://ars.electronica.art/who-owns-the-truth/en/on-the-exactitude-of-maps/)
 - Impakt Festival (Utrecht) - November 2023 - January 2024
 
 ## References
