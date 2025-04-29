@@ -19,7 +19,7 @@ image_height: 300
 theme: g5_helium
 ---
 
-Future Beyond Repair ("FBR") is an independent research journal about materiality, regeneration, tactics, openness, and futures.
+Future Beyond Repair ("FBR") is an independent research notebook about materiality, regeneration, tactics, openness, and futures.
 
 > I [set up](opening-up) FBR in November 2024 as a subsection of my website, with an initial collection of recent texts.  It was created to hold space for reconnecting with and going beyond [earlier projects](../), in an attempt to overcome the limitations of our ways of seeing things in these turbulent times.
 
