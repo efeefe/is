@@ -4,6 +4,10 @@ date: '04-08-2012 00:30'
 show_sidebar: false
 ---
 
+**P.S.:** uma versão em espanhol deste texto foi incluída no livro [Espacio público y cultura en acción](https://kreantaeditorial.org/producto/espacio-publico-y-cultura-en-accion-2/) publicada pela Fundação Kreanta.
+
+---
+
 > No início deste mês estive em Medellín, na Colômbia, participando da quinta edição das Jornadas [Ciudades Creativas](http://ciudadescreativas.org/), organizada pela [Fundação Kreanta](http://www.kreanta.org/). O texto abaixo é uma costura da [minha apresentação](https://www.slideshare.net/felipefonseca/labs-experimentais-jornadas-kreanta) na mesa sobre "Apropriação de tecnologias para cidades inteligentes". Pra quem já leu meus outros textos, esse não tem nenhuma novidade. Mas fica como impressão do momento. Assim que tiver tempo também quero publicar por aqui um relato sobre minha experiência durante o evento.
 
 Respondendo a uma questão da plateia após sua palestra na edição de 2012 das Jornadas Kreanta, a socióloga Saskia Sassen problematizou a aparente "explosão de adjetivos" que tem atualmente acompanhado a reflexão sobre cidades e urbanismo: cidades criativas, cidades digitais, cidades sustentáveis, cidades inteligentes, e por aí vai. Disse que ela mesma tem tentado evitar os adjetivos, porque em pouco tempo as consultorias comerciais oportunistas que se multiplicam pelo mundo acabam por sequestrar quaisquer termos que poderiam ter alguma relevância.
