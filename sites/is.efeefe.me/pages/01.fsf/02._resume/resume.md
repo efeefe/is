@@ -30,6 +30,6 @@ sections:
                 description: 'I have developed and advised on projects with diverse organisations. For example the University of Bristol, FTHub, GIG, Itaú Cultural, the Brazilian Ministry of Culture, UNDP, as well as numerous municipalities and nonprofits. I am also a member and mentor of the Distributed Design Platform.'
             -
                 title: Writing
-                description: 'Some recent highlights are texts about <a href="../stuff/open-for-all">open source</a> in government, and the <a href="../stuff/seeds-digital-reforestation">semente toolkit</a> for community-based initiatives. A summary of my PhD research is available <a href="https://is.efeefe.me/opendott/generous-cities-summary">here</a> and further documentation about it can be found in <a href="https://wiki.reuse.city/opendott">this research wiki</a>.'
+                description: 'Some recent highlights are texts about <a href="https://is.efeefe.me/stuff/fbr/climate-fatigue-convivial-futures">climate fatigue and meaningful work</a>, <a href="../stuff/open-for-all">open source</a> in government, and the professional role of <a href="https://is.efeefe.me/stuff/fbr/circular-material-valuers">circular material valuers</a>. A summary of my PhD research is available <a href="https://is.efeefe.me/opendott/generous-cities-summary">here</a> and further documentation about it can be found in <a href="https://wiki.reuse.city/opendott">this research wiki</a>.'
 ---
 
