@@ -1,6 +1,7 @@
 ---
 title: 'VCUQ Residency'
 published: true
+date: '21-12-2014 11:12'
 hero_image: IMG_20141101_171522824_HDR.jpg
 hero_classes: 'text-light overlay-dark'
 feed:
