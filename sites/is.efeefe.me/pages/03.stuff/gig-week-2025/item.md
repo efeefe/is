@@ -17,7 +17,7 @@ feed:
 Another spring in Berlin (at least in theory, though challenged by this disappointing weather), another edition of the GIG week - annual meeting of the [Global Innovation Gathering](https://globalinnovationgathering.org/), a network and organisation I'm proudly part of. The week took place in late May and was, as usual, a great opportunity to be among my kind of people.
 
 
-![GIG hugs](hug.jpg?lightbox)
+[center]![GIG hugs](hug.jpg?lightbox&resize=1200)[/center]
 
 Even though I was present when the first seeds of GIG started sprouting in 2013, it took me years to become a member. And even then, when I finally joined the association, I was neck-deep into writing my thesis. For that reason, my onboarding and engagement were slow. But steady nonetheless. Over the last few years, I joined many calls, co-wrote proposal submissions, met members and partners of GIG in different parts of the world. I'd eventually work on a first collaboration, for a project on algorithmic bias in Brazil. More recently, I became a part-time researcher at GIG, in a project I co-created and helped raise funds for.
 
