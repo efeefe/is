@@ -31,7 +31,8 @@ I was reminded – once again – of that talk when my colleague Bernardo Schepo
 
 Semente is a collaborative tool for advancing community initiatives. We are working to distil decades of experience in open, people-centred, and participatory projects into a format for straightforward application. It builds upon previous work, especially the [ID21 study](https://fonte.wiki/id21) and the [fonte.wiki](https://fonte.wiki/) repository. At its core, semente prompts people to reflect on four perspectives that, we believe, should be part of every attempt to develop ideas and desires in the community: soil (foundations, preconditions, prior experience), handling (practices, tactics, and their adaptations based on environmental observation and changes), time (cycles, memory, documentation, and planning for future generations), and fruits (expected outcomes, how to measure them and assess their impact).
 
-![Macro Areas](macro-areas.png)
+[center]![Macro Areas](macro-areas.png?lightbox&resize=1200)[/center]
+
 
 > Macro areas of semente.
 
@@ -41,7 +42,7 @@ We designed semente to be a dynamic and iterative method. It is currently shaped
  - Seeding is the heart of the community, so to speak. Here we describe who the community is in direct and indirect terms, what are its boundaries, how it sees itself.
  - Silo is the place to preserve elements for later. Such elements can take many forms: accomplishments, principles, ethos to uphold, limits the community won’t overstep.
 
-![semente Canvas](canvas.png)
+[center]![semente Canvas](canvas.png?lightbox&resize=1200)[/center]
 
 > The semente canvas (November 2023 version).
 
@@ -49,7 +50,7 @@ Beyond the name itself – semente is Portuguese for “seed” – the areas of
 
 Those sessions left us with doubts about whether to keep using analogies coming from vegetable cultivation and care. Would that approach condition the use of the tool to possibly cartoonish depictions of gardening? For some time, I accepted this question as unresolved and allowed myself to reflect further. It was only during the event in Amsterdam almost one year later, however, that I realised the importance of reaffirming these botanical metaphors that are also cultural – in the very sense of “culture” as cultivation: collective care for the continuous reproduction of conditions for life.
 
-![Tropixel 2022](tropixel.jpg)
+[center]![Tropixel 2022](tropixel.jpg?lightbox&resize=1200)[/center]
 
 > Graphic documentation of Tropixel Semente by [Marina Nicolaiewsky](https://marinanica.wixsite.com/vida).
 
@@ -71,7 +72,7 @@ The semente toolkit emerged from a process that started three years earlier amid
 
 The interviews with those individuals shed light on the importance of discussing the consequences of the dismantling of public policies in the years since the political coup in 2016. In the project report, titled [ID21](https://fonte.wiki/id21), this absence of policy was one of the most striking points. It is important to remember that in 2021, Brazil was governed by an extremist regime with authoritarian aspirations, which rejected much of what had been developed previously in fields related to human rights, social inclusion, and cultural diversity. Development policies for Brazilian digital culture, social participation, and representation of differences no longer had the institutional support they had previously enjoyed.
 
-![ID21](id21.png)
+[center]![ID21](id21.png?lightbox&resize=1200)[/center]
 
 > ID21 study. Report available [here](https://archive.org/details/ID21_0-5/) (PDF, Portuguese).
 
@@ -83,7 +84,7 @@ The following stage of cooperation between Neos Institute and the University of 
 
 Obviously, the choice of the term fonte (Portuguese for “source”) evokes the role that free and open-source software played in the origins of Brazilian digital culture. But the fonte in Portuguese can also be read as “water fountain” – the constant supply of water, capable of countering desertification if properly managed.
 
-![fonte.wiki](fonte.png)
+[center]![fonte.wiki](fonte.png?lightbox&resize=1200)[/center]
 
 > Sample of contents in [fonte.wiki](https://fonte.wiki)
 
