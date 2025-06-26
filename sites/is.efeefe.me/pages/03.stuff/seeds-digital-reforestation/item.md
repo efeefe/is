@@ -96,4 +96,4 @@ We propose to think of community in a broad sense. Not a group that shares a sin
 
 ---
 
-> PS: An earlier version of this text was submitted in 2023 ago to be published in an upcoming edition of Facta Magazine, edited by Fred Paulino. As conversations and experiments with semente evolved, however, I felt like updating some parts of it. My special thanks to Sofia Galvão Lima for the feedback that triggered some of these updates.
+> PS: An earlier version of this text was submitted in 2023 to be published in an edition of Facta Magazine, edited by Fred Paulino. As conversations and experiments with semente evolved, however, I felt like updating some parts of the text. My special thanks to Sofia Galvão Lima for the feedback that triggered some of these updates.
