@@ -2,7 +2,7 @@
 title: About
 buttons:
     -
-        url: sites/is.efeefe.me/pages/01.fsf/02._resume/cv.pdf
+        url: user/sites/is.efeefe.me/pages/01.fsf/02._resume/cv.pdf
         icon: download
         text: 'Download CV (PDF)'
 ---
