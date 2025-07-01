@@ -15,6 +15,19 @@ image_height: 300
 ---
 ## Recent
 
+### NØSCHOOL Nevers 2025
+
+Talk "Commons-based reuse of materials".
+
+### Funding the Commons Berlin 2025
+
+Talk "Permacomputing for a Sustainable 'Material Commons'", presenting [ThingData](https://thingdata.org).
+
+### Open, Circular, and Regenerative Innovation for a Sustainable Future, Berlin, 2025
+
+Panel "Repair Cultures" presenting the [Circular Material Valuer Curriculum](https://wiki.reuse.city/en/projects/circular-valuer-curriculum). 
+
+
 ### Berlin Science Week, 2024
 
 Debate [Data for Survival: confronting the climate crisis](https://www.linkingdebate.com/debate/2024/autumn-2024-debate-v/), part of [FORUM linking:debate](https://www.linkingdebate.com/).
