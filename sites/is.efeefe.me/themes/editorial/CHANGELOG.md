@@ -1,3 +1,31 @@
+# v2.3.5
+## 05/18/2025
+
+1. [](#improved)
+   * Added addressDetails to demo contact page
+2. [](#bugfix)
+   * **Fixed:** Recent Posts template now correctly respects the user-defined post limit in modular pages.
+
+# v2.3.4
+## 03/13/2025
+
+1. [](#improved)
+   * Upgraded Glightbox library to version 3.3.0
+   * Added theme version dynamically in HTML comment using Twig
+   * Moved sidebar partials templates into a dedicated `partials/sidebar` folder for better organization
+   * Replaced `logo.png` with `favicon.png` in the head section
+  
+# v2.3.3
+## 02/03/2025
+
+1. [](#improved)
+   * Updated menu heading text in sidebar
+   * Adapted to latest version of [Taxonomylist plugin](https://github.com/getgrav/grav-plugin-taxonomylist/)
+   * Updated README
+   * Updated styles for Dropdown menu
+2. [](#bugfix)
+   * Fixed favicon type in link rel html attribute
+
 # v2.3.2
 ## 11/18/2024
 
