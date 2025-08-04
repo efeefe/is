@@ -10,6 +10,7 @@ show_title: '1'
 show_pageimage: true
 image_width: 1000
 image_height: 300
+date: '04-08-2025 19:07'
 ---
 
 This text is based on the notes I had prepared for a talk and a workshop at [FAB25](https://fab25.fabevent.org/) in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the groundwork and first insights leading to the **Reuse Academy**, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
