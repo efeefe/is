@@ -234,7 +234,7 @@ The final question of this rather long text is: do we need Fab Labs to create re
 
 ---
 
-## Final words
+## Next steps
 
 If you read this far (or if you skipped the text and jumped straight here, I don't mind), take this as an invitation. Let's experiment and create these realities together. And while we're at it:
 
