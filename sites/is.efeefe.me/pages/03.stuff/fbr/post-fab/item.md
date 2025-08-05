@@ -18,7 +18,6 @@ This text is based on the notes I had prepared for a talk and a workshop at [FAB
 The days in Czechia gave me the opportunity to chat with plenty of bright people, refine ideas, and acquire new perspectives. Good parts of the text below will be nothing new to those who already read my [previous writing](https://is.efeefe.me/stuff) on inclusive circularity, communities, and material reuse. In any case, the tension between [reiteration and divergence](https://fbr.efeefe.me/fbr/ritualised-repetitions) is central to my way of doing things (as some of you may be aware), so I'm posting this longish - while admittedly redundant - version.
 
 > *Too long, won't read?* Jump straight to the [Reuse Academy](#reuse-academy) section. I'll also update and keep maintaining processual documentation of the project through [this wiki page](https://wiki.reuse.city/en/solutions/academy). If you are interested and want to go deeper into this and similar topics, drop me a line and I'll invite you to a telegram group called reuse city lab.
-> This text was also published on [LinkedIn](https://www.linkedin.com/pulse/post-fab-reuse-academy-felipe-schmidt-fonseca-ph-d-q11ee/).
 
 ## (almost) a joke
 
@@ -242,3 +241,7 @@ If you read this far (or if you skipped the text and jumped straight here, I don
 - If you are already involved with any kind of material reuse initiative, please help our project on the material valuer curriculum by filling out [this survey](https://forms.gle/ArxtMa3YLewLkt358). It's fast, most questions are optional, and it would be great to have your take on it.
 - I'm available to discuss these and other topics - here's my [LinkedIn profile](https://www.linkedin.com/in/felipefonseca/), and a [zcal to book calls](https://zcal.co/i/TtAvqmhK).
 - For more on repair, reuse and upcycling and multiple other versions of most of my arguments above, check the [Reuse City wiki](https://wiki.reuse.city).
+
+---
+
+> This text was also published on [LinkedIn](https://www.linkedin.com/pulse/post-fab-reuse-academy-felipe-schmidt-fonseca-ph-d-q11ee/).
