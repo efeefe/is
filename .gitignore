@@ -1,1 +1,11 @@
+# Ignore the output directory
+/output/
+
+# Ignore the combined markdown file
+/combined.md
+
+# Ignore the pandoc metadata file
+/metadata.yml
+
+# Ignore macOS system files
 .DS_Store
