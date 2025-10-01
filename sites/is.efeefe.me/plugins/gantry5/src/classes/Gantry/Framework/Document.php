@@ -2,8 +2,10 @@
 
 /**
  * @package   Gantry5
- * @author    RocketTheme http://www.rockettheme.com
- * @copyright Copyright (C) 2007 - 2021 RocketTheme, LLC
+ * @author    Tiger12 http://tiger12.com
+ * @originalCreator  RocketTheme (Gantry Framework) 
+ * @currentDeveloper  Tiger12, LLC 
+ * @copyright Copyright (C) 2007 - 2021 Tiger12, LLC
  * @license   MIT
  *
  * http://opensource.org/licenses/MIT
@@ -88,7 +90,7 @@ class Document extends HtmlDocument
                 $path_append .= $active_language ? '/' . $active_language : '';
             }
 
-            $url = rtrim($grav['base_url'] . $path_append, '/') ?: '/';
+            $url = rtrim($grav['base_url_absolute'] . $path_append, '/') ?: '/';
         }
 
         return $url;

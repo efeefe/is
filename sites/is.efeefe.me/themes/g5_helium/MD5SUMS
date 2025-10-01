@@ -5,8 +5,8 @@ admin/images/preset3.png	016dc86550ce964ad7517428547469c7
 admin/images/preset4.png	9beebb6d87c64ff47f6dd4969131ea88
 admin/images/preset5.png	57ffde03f72207c0b13d56e2c4254646
 admin/images/preset6.png	811be19e12ceef212a89941049c14fbe
-admin/templates/pages/about/about.html.twig	54dbcb3d8644b22f168184f9e0cdcb14
-blueprints.yaml	5203a2a4b54207b9002b7de2d73a525b
+admin/templates/pages/about/about.html.twig	87be6519f35629656c425326177d7d9a
+blueprints.yaml	0a66fc9a9050e0778b5540a744b7499c
 blueprints/styles/above.yaml	08e3b34af01e786436cdc45e2311ebde
 blueprints/styles/accent.yaml	88b7140fde979d903e0ba332dca7c588
 blueprints/styles/base.yaml	eb099f24a6083962727fce82fc643fde
@@ -25,9 +25,9 @@ blueprints/styles/testimonials.yaml	2ba12c91c790bd858ea3e152e3c4515f
 blueprints/styles/utility.yaml	3c2db8279b257842247146042f900eea
 config/default/page/body.yaml	951fc10febe2180289a7ab7c57c291d8
 config/default/particles/branding.yaml	3e70aa1c6e2baefb8c7c165b903819e9
-config/default/particles/copyright.yaml	f7a684993646a37f2f2abd320dd9170b
+config/default/particles/copyright.yaml	9dbd0952e5f75bc98c780d140713d30a
 config/default/particles/logo.yaml	805f7f490fb0c576adda2ec484566dc3
-config/default/particles/social.yaml	78c259a9a66293a3b6d3e58cc5f4d061
+config/default/particles/social.yaml	32d8c08af78ba6d4bed939619b973443
 config/default/particles/totop.yaml	a38dbe0584c37eadda1f0c82bba68070
 fonts/lato/lato-black/lato-black-webfont.eot	e43203b277294e9d0befb32e5c6f6b22
 fonts/lato/lato-black/lato-black-webfont.svg	46dd77bfc2edd71e8a903b0686205a64
@@ -136,7 +136,7 @@ fonts/rockettheme-apps/rockettheme-apps.woff	f1258374fedaa30401743337048a64bb
 fonts/rockettheme-apps/rockettheme-apps.woff2	0b76f0674592d3d4653e6524045e890e
 g5_helium.yaml	c992c6c2943becc7320a32e402e7e4f8
 gantry/presets.yaml	4edfd8f32f98ba3020831b1ed61db43f
-gantry/theme.yaml	89ce6a524f15b3bffd3d6b1fa71e2f83
+gantry/theme.yaml	62607fb520e8c355c810cde3780c0018
 images/above/img01.jpeg	45d1bc6fa1ac764f15b937a1e1e9a377
 images/above/img02.jpeg	c08f1ce863d7c69e1b73ce49f8b48416
 images/header/img01.jpg	fb3b9862ecc04e7206e246659e68f2af
@@ -152,14 +152,14 @@ images/styles/preset5.png	e6c9becfc68f1c17272648012a282660
 images/styles/preset6.png	ca4e91b130ff7af13e53b6f1a6d0304c
 images/testimonials/face.jpg	118d004b5e5309af72459585aa1ff789
 images/testimonials/img01.jpg	272ee57acb3c0cc6d863f60001143da6
-includes/theme.php	e69d826af51f8e6f5663c10ae602ced9
+includes/theme.php	4ddd8bf126338df2f0ac1243b7600c1e
 js/juitabs.js	1e05f058abf0f4eaacc926a14e936d19
 js/owl.carousel.min.js	f416f9031fef25ae25ba9756e3eb6978
 layouts/_body_only.yaml	43dce3ad03bac74c337c6151f59bc94a
 layouts/_error.yaml	ade3d185bc08148bd7295c1e89f1e4b1
 layouts/_offline.yaml	8a05c4dde55e6811ac95fdc639c88404
 layouts/default.yaml	15fd05bda30a83f05ccfde7b970d716f
-layouts/home_-_particles.yaml	017f550c84c223aeba36e811da2711e5
+layouts/home_-_particles.yaml	4d236bf4197249729ff48c4d58391e9b
 particles/contentcubes.html.twig	9e0caa29709930da5340b13f3d0fe6bb
 particles/contentcubes.yaml	286ea382c0919026540047d4e0eea53b
 particles/contenttabs.html.twig	49364c62b4fddf68318449fe49cf70fc
@@ -218,5 +218,5 @@ scss/helium/styles/_tables.scss	6e98ce2eec18fb2877cdf0e309e88ae2
 scss/helium/styles/_typography.scss	3ceef80704646c220c50c9f2e9ec5ada
 scss/helium/styles/_utilities.scss	5d8aacbecee8059c244371deac2d938e
 scss/helium/styles/_variations.scss	d0cfbd7f75d8cca38131eeeab0e52de8
-theme.php	138d1e6f9b1ec30d062bda6173185ca6
+theme.php	926504f9fe1322d8e1a9edc6f567ec69
 thumbnail.jpg	04c6c1b93403ff58809bf441687f9a48

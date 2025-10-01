@@ -12,7 +12,7 @@ form:
     version:
       type: input.text
       label: Version
-      default: "@version@"
+      default: "5.5.25"
 
     icon:
       type: input.text
@@ -22,7 +22,7 @@ form:
     date:
       type: input.text
       label: Release Date
-      default: "@versiondate@"
+      default: "Sep 15, 2025"
 
     author.name:
       type: input.text
@@ -51,7 +51,7 @@ form:
     copyright:
       type: input.text
       label: Copyright
-      default: '(C) 2005 - 2021 RocketTheme, LLC. All rights reserved.'
+      default: '(C) 2005 - 2021 Tiger12, LLC. All rights reserved.'
 
     license:
       type: input.text

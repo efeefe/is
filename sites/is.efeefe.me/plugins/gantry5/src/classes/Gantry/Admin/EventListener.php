@@ -2,8 +2,10 @@
 
 /**
  * @package   Gantry5
- * @author    RocketTheme http://www.rockettheme.com
- * @copyright Copyright (C) 2007 - 2021 RocketTheme, LLC
+ * @author    Tiger12 http://tiger12.com
+ * @originalCreator  RocketTheme (Gantry Framework) 
+ * @currentDeveloper  Tiger12, LLC 
+ * @copyright Copyright (C) 2007 - 2021 Tiger12, LLC
  * @license   MIT
  *
  * http://opensource.org/licenses/MIT
@@ -57,7 +59,8 @@ class EventListener implements EventSubscriberInterface
         /** @var UniformResourceLocator $locator */
         $locator = $gantry['locator'];
 
-        $filename = 'config://plugins/gantry5.yaml';
+        // Use the main configuration file path to avoid multisite domain-specific paths
+        $filename = 'user://config/plugins/gantry5.yaml';
         $file = YamlFile::instance($locator->findResource($filename, true, true));
 
         $content = $file->content();
