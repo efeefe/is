@@ -9,7 +9,7 @@
         jQuery(document).ready(function($) {
           function scrollToSection(event) {
             event.preventDefault();
-            var $section = $($(this).attr('href')); 
+            var $section = $($(this).attr('href'));
             $('html, body').animate({
               scrollTop: $section.offset().top - 60
             }, 500);
@@ -21,12 +21,17 @@
 {% endblock %}
 
 {% block content %}
-     {% for module in page.collection() %}
-        {% if show_onpage_menu == true %}
-            <div id="{{ module.menu|hyphenize }}"></div>
-        {% endif %}
-        {{ module.content|raw }}
-    {% endfor %}
+    {% if page.content %}
+        <section class="page-content">
+            {{ page.content|raw }}
+        </section>
+    {% endif %}
+    {% for module in page.collection() %}
+    {% if show_onpage_menu == true %}
+        <div id="{{ module.menu|hyphenize }}"></div>
+    {% endif %}
+    {{ module.content|raw }}
+{% endfor %}
 {% endblock %}
 
 {% block sidebar %}
@@ -52,8 +57,8 @@
                 {% endif %}
                 </ul>
             {% else %}
-                {% include 'partials/sidebar/navigation.html.twig' %}
+                {{ include('partials/sidebar/navigation.html.twig') }}
             {% endif %}
-        {% endblock %}   
+        {% endblock %}
 {% endembed %}
 {% endblock %}

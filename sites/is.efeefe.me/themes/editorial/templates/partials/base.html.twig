@@ -1,37 +1,39 @@
-{% set theme_name = config.system.pages.theme %}
-{% set blueprint_path = "user://themes/#{theme_name}/blueprints.yaml" %}
-{% set blueprint_content = read_file(blueprint_path) %}
-{% if blueprint_content %}
-{% set blueprint_data = blueprint_content|yaml_decode %}
+{% spaceless %}
+{# THEME INFO COMMENT BLOCK #}
+{% set version = (grav.theme.getBlueprint()).get('version') %}
+{% set theme_name = (grav.theme.getBlueprint()).get('name') %}
 <!--
-    Editorial by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Editorial by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-    Ported to Grav by Pedro Moreno <https://github.com/pmoreno-rodriguez>
-    https://github.com/pmoreno-rodriguez/grav-theme-editorial
+Ported to Grav by Pedro Moreno <https://github.com/pmoreno-rodriguez>
+https://github.com/pmoreno-rodriguez/grav-theme-editorial
 
-    Grav theme version: {{ blueprint_data.version }}
--->
+{% if theme_name %}
+Theme name: {{ theme_name }}
 {% endif %}
+{% if version %}
+Version: v{{ version }}
+{% endif %}
+-->
 
 {# SET THEME OPTIONS #}
 {% set theme_config = attribute(config.themes, config.system.pages.theme) %}
 {% set compress = theme_var('production-mode') ? '.min.css' : '.css' %}
-{% set favicon = theme_var('favicon') %}
-{% set logo_enabled = theme_var('custom_logo_enabled')|defined(false) %}
-{% set logo = theme_var('custom_logo_mobile') ?: theme_var('custom_logo') %}
-{% set social = theme_var('social_enabled')|defined(false) %}
-{% set slogan = theme_config.themeSlogan %}
-{% set google_fonts = theme_var('google_fonts_local') ? '-local.css' : '-remote.css' %}
 {% set right_sidebar = theme_config.right_sidebar == true ? 'sidebar-right' : '' %}
 
 {# SET DEFAULT GRAV LANGUAGE #}
 {% set lang = grav.language.getActive ?: grav.config.site.default_lang %}
 
-{# SET PAGE OPTIONS #}
+{# Canonical URL #}
+{% set canonical_url = page.url(true, true) %}
+
+{# Tile settings #}
 {% set show_title = header_var('show_title')|defined(true) %}
-{% set title = page.title|raw  %}
+{% set page_title = page.title %}
+
+{# SET PAGE OPTIONS #}
 {% set show_image = header_var('show_pageimage')|defined(true) %}
 {% set image = page.media[header.featured_image] ?: page.media.images|first %}
 {% set img_width = header_var('image_width')|default(1000) %}
@@ -39,17 +41,17 @@
 
 {# SET DEFAULT BLOG URL #}
 {% set blog = page.find(header_var('blog_url', [page, blog])|defined(theme_var('blog-page'))) %}
-
+{% endspaceless %}
 <!DOCTYPE HTML>
 <html lang="{{ lang }}">
 <!-- HEAD SECTION -->
 <head>
-{% include 'partials/page-bits/head.html.twig' with { favicon } %}
-{% block stylesheets %} 
-    {% include 'partials/page-bits/head-styles.html.twig' with { compress, google_fonts } %}
+{{ include('partials/page-bits/head.html.twig', {favicon: favicon}) }}
+{% block stylesheets %}
+    {{ include('partials/page-bits/head-styles.html.twig', {compress: compress, google_fonts: google_fonts}) }}
 {% endblock %}
-{% block javascripts %} 
-    {% include 'partials/page-bits/head-scripts.html.twig' %}
+{% block javascripts %}
+    {{ include('partials/page-bits/head-scripts.html.twig') }}
 {% endblock %}
 {% block assets deferred %}
     {{ assets.css()|raw }}
@@ -57,28 +59,28 @@
 {% endblock %}
 </head>
 <!-- BODY SECTION -->
-<body class="is-preload {{ page.header.body_classes }} {{ right_sidebar }}">
+<body class="is-preload {{ page.header.body_classes|e('html_attr') }} {{ right_sidebar }}">
     <!-- Wrapper -->
     <div id="wrapper">
     <!-- Main -->
-        <div id="main">
+        <main id="main">
             <div class="inner">
                 <!-- Header -->
                 {% block header %}
-                    {% include 'partials/header.html.twig' %}
+                    {{ include('partials/header.html.twig') }}
                 {% endblock %}
                 <!-- Content -->
                 <section>
                     {% block messages %}
-                        {% include 'partials/messages.html.twig' ignore missing %}
+                        {{ include('partials/messages.html.twig', [], true, true) }}
                     {% endblock %}
 
                     {% block content %}{% endblock %}
                 </section>
             </div>
-        </div>
+        </main>
         {% block sidebar %}
-            {% include 'partials/sidebar.html.twig' %}
+            {{ include('partials/sidebar.html.twig') }}
         {% endblock %}
     </div>
 
@@ -87,7 +89,7 @@
       </a>
 
     {% block bottom %}
-    <!-- Scripts -->
+    <!-- PAGE SCRIPTS -->
         {{ assets.js('bottom')|raw }}
     {% endblock %}
 </body>

@@ -1,3 +1,60 @@
+# v3.0.2
+## 11/11/2025
+
+1. [](#improved)
+   * Improved CSS styles
+   * Downgraded Grav version dependency from 1.7.50 to 1.7.49.5
+   * Added page content to the `modular.html.twig` template
+
+# v3.0.1
+## 11/01/2025
+
+1. [](#new)
+   * New option to choose the banner's HTML headings
+2. [](#improved)
+   * Standardized Twig template formatting using [CS fixer tool](https://github.com/VincentLanglet/Twig-CS-Fixer)
+
+# v3.0.0
+## 10/28/2025
+
+1. [](#new)
+   * Added global SEO configuration options in theme settings
+   * Added icon type option to social media icons
+2. [](#improved)
+   * Refactored `metadata.html.twig` for better SEO management
+   * Reorganized page blueprints from blueprints to `blueprints/pages` directory
+   * Split theme `blueprints.yaml` into partial files within `blueprints/theme`
+   * Split `languages.yaml` into individual language files
+   * Improved social media meta tags implementation
+   * Changed page title variable from `title` to `page_title` to prevent conflicts with Grav core
+   * Removed [WordCount](https://learn.getgrav.org/17/themes/twig-tags-filters-functions/filters#wordcount) custom filter from theme (now part of Grav core)
+   * Updated minimum required Grav version to 1.7.50
+   * Moved dependencies from required to recommended during theme installation
+   * Changed the alignment of the image titles in the gallery [#71](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/71)
+   * **Updated README**: Comprehensive documentation update with new features
+3. [](#bugfix)
+   * Fixed recent posts displayed in the sidebar (only published posts are shown) [#72](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/72)
+
+# v2.4.1
+## 10/05/2025
+
+1. [](#new)
+   * Added German (Deutsch) language translation support (Thanks to [@oozeat](https://github.com/oozeat))
+2. [](#improved)
+   * Enhanced security in metadata template by implementing proper Twig escape filters
+   * Variables relocated from the base template to their respective partial templates
+   * Optimized SEO metadata with absolute URLs for social media compatibility
+
+# v2.4.0
+## 09/30/2025
+
+1. [](#new)
+   * New `WordCount` twig filter for word counting functionality
+2. [](#improved)
+   * Enhanced security across all templates by implementing Twig escape filters to prevent malicious code injection
+   * Changed apostrophes to acute accents in French translations (`languages.yaml`) to avoid escape filter conflicts
+   * Refactored `onTwigSiteVariables()` to dynamically detect active theme
+
 # v2.3.8
 ## 08/04/2025
 
