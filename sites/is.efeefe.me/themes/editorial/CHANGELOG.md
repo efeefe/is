@@ -1,3 +1,46 @@
+# v3.3.0
+## 02/05/2026
+
+1. [](#new)
+   * Added modular Text Blocks template with configurable columns and boxed content styles.
+2. [](#improved)
+   * Improved box typography handling for links, tables, and list elements in colored boxes.
+   * Updated demo content with new Text Blocks modular page.
+
+# v3.2.3
+## 01/30/2026
+
+1. [](#bugfix)
+   * Fixed missing Open Sans italic font face when using locally hosted Google Fonts, preventing incorrect semibold italic rendering (thanks to [@rwamI](https://github.com/rwam)).
+
+# v3.2.2
+## 01/30/2026
+
+1. [](#improved)
+    * Improved Featured Posts sidebar summaries to ensure truncated text displays a proper ellipsis (`...`) instead of the escaped `&hellip;`.
+
+# v3.2.1
+## 01/23/2026
+
+1. [](#improved)
+    * Featured posts can now be sorted by publication date
+
+# v3.2.0
+## 01/21/2026
+
+1. [](#new)
+    * Added theme configuration options to control featured posts ordering (sort field and direction)
+    * Added translations for new featured posts settings
+2. [](#bugfix)
+    * Fixed featured posts sidebar not updating correctly.
+
+# v3.1.0
+## 01/19/2026
+
+1. [](#improved)
+   * Re-added `wordcount` Twig filter as theme extension due to Grav core regression from v1.7.50 to v1.7.49.5
+   * Refactored `editorial.php` main theme class
+
 # v3.0.2
 ## 11/11/2025
 

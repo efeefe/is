@@ -6,7 +6,7 @@ admin/images/preset4.png	9beebb6d87c64ff47f6dd4969131ea88
 admin/images/preset5.png	57ffde03f72207c0b13d56e2c4254646
 admin/images/preset6.png	811be19e12ceef212a89941049c14fbe
 admin/templates/pages/about/about.html.twig	87be6519f35629656c425326177d7d9a
-blueprints.yaml	0a66fc9a9050e0778b5540a744b7499c
+blueprints.yaml	46d7296b5f8802609c4cb693e2e59f3e
 blueprints/styles/above.yaml	08e3b34af01e786436cdc45e2311ebde
 blueprints/styles/accent.yaml	88b7140fde979d903e0ba332dca7c588
 blueprints/styles/base.yaml	eb099f24a6083962727fce82fc643fde
@@ -136,7 +136,7 @@ fonts/rockettheme-apps/rockettheme-apps.woff	f1258374fedaa30401743337048a64bb
 fonts/rockettheme-apps/rockettheme-apps.woff2	0b76f0674592d3d4653e6524045e890e
 g5_helium.yaml	c992c6c2943becc7320a32e402e7e4f8
 gantry/presets.yaml	4edfd8f32f98ba3020831b1ed61db43f
-gantry/theme.yaml	62607fb520e8c355c810cde3780c0018
+gantry/theme.yaml	d5e88e969381a00ea42e2d6f6c60515a
 images/above/img01.jpeg	45d1bc6fa1ac764f15b937a1e1e9a377
 images/above/img02.jpeg	c08f1ce863d7c69e1b73ce49f8b48416
 images/header/img01.jpg	fb3b9862ecc04e7206e246659e68f2af
@@ -214,7 +214,7 @@ scss/helium/styles/_fonts.scss	b101ca9e6436bca82ff603915d9e68c8
 scss/helium/styles/_forms.scss	1ea44e837ec68891d9a185c63393a349
 scss/helium/styles/_helium-style.scss	5c4d5b13a0a546742153d94682b7a8cc
 scss/helium/styles/_hyperlinks.scss	043f16f01a82f84565ada8915bb74e1e
-scss/helium/styles/_tables.scss	6e98ce2eec18fb2877cdf0e309e88ae2
+scss/helium/styles/_tables.scss	1c808a9bc19eaaa3ef256f041297a02c
 scss/helium/styles/_typography.scss	3ceef80704646c220c50c9f2e9ec5ada
 scss/helium/styles/_utilities.scss	5d8aacbecee8059c244371deac2d938e
 scss/helium/styles/_variations.scss	d0cfbd7f75d8cca38131eeeab0e52de8

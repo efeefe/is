@@ -5,7 +5,7 @@ README.md	8511a3dc3e157529c511ac2bfbcef49c
 VERSION	1910ba5370af59f46175f5086b53489a
 admin/blueprints/gantry/theme/admin.yaml	b0f2b75b7146342191a950e684cbb8f5
 admin/blueprints/gantry/theme/configuration.yaml	bdca7a752f17b86e81a7d3bd65b81d21
-admin/blueprints/gantry/theme/details.yaml	b143676cf6b3eab390fd7676ee5ac6c9
+admin/blueprints/gantry/theme/details.yaml	213686f69f0d464413ff28e5fd4d8a13
 admin/blueprints/menu/menu.yaml	80368c3fd17890c95d2056496f45ec60
 admin/blueprints/menu/menuitem.yaml	874493b2bb114d74acb7f58cc88843d9
 admin/css-compiled/g-admin.css	5bb38cca2f1a19a1ef3acd9b095f7d4f
@@ -288,7 +288,7 @@ assets/webfonts/fa7/fa-regular-400.woff2	49d7fd7a16b90576fb4ac8e2b5f2ad27
 assets/webfonts/fa7/fa-solid-900.woff2	18dd0b25bda3d372b262b08edeed525a
 assets/webfonts/fa7/fa-v4compatibility.woff2	67b58b166bfed8ac01a5f93c2c57f431
 assets/yarn.lock	0d81a067ae8b0d8abe9cba4a78096331
-blueprints.yaml	910209bb7bac9a97833ce90cdff0b95e
+blueprints.yaml	6cf6be8c3720689f396642b9e0bcd6c3
 cli/ChildThemeCommand.php	62ef596278f252bb7bd9a83bc651c8c1
 compat/composer.json	9ef181366529cd6b8506d8d9d4da1981
 compat/composer.lock	3ed6b3f2f885aab607be41be6f83219c
@@ -301,9 +301,9 @@ compat/vendor/composer/autoload_classmap.php	5615b29a1f5688414d56a1515d954a91
 compat/vendor/composer/autoload_namespaces.php	224007c97efb82c7b45b0e92f240af41
 compat/vendor/composer/autoload_psr4.php	bed40add64d86e4ad72b7b248b3f1fe0
 compat/vendor/composer/autoload_real.php	331edabb3db6488402c6c70e4cfa9e73
-compat/vendor/composer/autoload_static.php	9329384bbf6c21e9d9783aec1658af9f
+compat/vendor/composer/autoload_static.php	41fe27506df94a56911e39c689ee9b6a
 compat/vendor/composer/installed.json	56006013bd7c8af52ecf7bae14c44d2f
-compat/vendor/composer/installed.php	212f6564559a1a2693e29552d2133ead
+compat/vendor/composer/installed.php	df4f6d1811df55cd5fe3b6c529936e3a
 compat/vendor/composer/platform_check.php	5e5df33a706e5c5ea077cbd9df3ac012
 compat/vendor/scssphp/scssphp/LICENSE.md	80326dc7359e3695138903093fa75793
 compat/vendor/scssphp/scssphp/README.md	74c73691b1cf15da442c2ca3e30acf5a
@@ -617,7 +617,7 @@ engines/nucleus/templates/particle.html.twig	aa90ad7819501a05562a24f5559691cd
 engines/nucleus/templates/particle.json.twig	21643c3c16c8b657c7c860df31268352
 engines/nucleus/templates/snipcart.html.twig	aa7194c3ef9d32e5f74a8eb1751898b8
 engines/nucleus/yarn.lock	add15b7eb0d2628efd9438c69dbd6f3c
-gantry5.php	6e8fd9f27ed02fc864eea22152b37d65
+gantry5.php	b2a7cdd5cc4ad937178536ffd206b7cb
 gantry5.yaml	4ff7defa3b349559be29a7a19cffb378
 hebe.json	89ee8d6347efd5a6066620a45289fdec
 pages/gantry.md	bf64f34358ef081cc0a686671f8cb931
@@ -625,7 +625,7 @@ pages/offline.md	532dcef45e197d4fa9d0e5c2a49a860d
 pages/particle.md	e8ce0876cc983b1c5a86c21ddec7692b
 permissions.yaml	9bf197b9b94998a16f1892073e45be32
 src/Loader.php	7bcac3ed4b2071dc85e3a8695865f6cb
-src/RealLoader.php	581d7aaa559c4b67f98e8098ed03f471
+src/RealLoader.php	0a1600ddf409eff266f35cb6a52be9c3
 src/bootstrap.php	cf7d06ca4e9e453b67d7e16fccb2388c
 src/classes/Gantry/Admin/Controller/Html/About.php	8950b7330c6181eed3bb37567e06bb12
 src/classes/Gantry/Admin/Controller/Html/Cache.php	c6c7ca87ac31cdd846ed86b51bb78e82
@@ -655,7 +655,7 @@ src/classes/Gantry/Admin/Controller/Json/Particle.php	6ac49c59ca6903c67c0d90fe3f
 src/classes/Gantry/Admin/Controller/Json/Unsaved.php	ac5ee51bfeed3e5ebc27cff6b6089b24
 src/classes/Gantry/Admin/EventListener.php	3468a94e89f6091c0d419f44a0a96189
 src/classes/Gantry/Admin/Events/AssigmentsEvent.php	18bc677e6f1d2aa6d9175841f281043d
-src/classes/Gantry/Admin/Events/Event.php	9d7cb3071577530a0846fbe6305fe35f
+src/classes/Gantry/Admin/Events/Event.php	15e3a48ed92a369f1df89c3e463fa1f7
 src/classes/Gantry/Admin/Events/InitThemeEvent.php	5a0e347ffbd648cf70c74f976d3407e5
 src/classes/Gantry/Admin/Events/LayoutEvent.php	3df6ad57d3c22b3b386e4259297fc01d
 src/classes/Gantry/Admin/Events/MenuEvent.php	2f35c0a7ff1bcab293a6ad9263de7b92
@@ -727,11 +727,11 @@ src/classes/Gantry/Component/Stylesheet/Scss/Functions.php	8695cd2bfa5b36e59af55
 src/classes/Gantry/Component/Stylesheet/Scss/LegacyCompiler.php	ee86540d43bcd475496cdae24e6beed0
 src/classes/Gantry/Component/Stylesheet/ScssCompiler.php	280c4a64fa6933fb1c9bd097c2e7745e
 src/classes/Gantry/Component/System/Messages.php	0e01f185ac9ddc26a11cf4117a1aee11
-src/classes/Gantry/Component/Theme/AbstractTheme.php	44918aebefd1b0c0517b030fa42574c5
+src/classes/Gantry/Component/Theme/AbstractTheme.php	531ee7711c7a89f1f61d8f768212a048
 src/classes/Gantry/Component/Theme/ThemeDetails.php	2f69babac26cadc8bb979c8f8e0fd631
 src/classes/Gantry/Component/Theme/ThemeInstaller.php	892f6f9edd7fa1c81d267c8e84aa4d24
 src/classes/Gantry/Component/Theme/ThemeInterface.php	671c203e0293cf308d35c527ec0209fe
-src/classes/Gantry/Component/Theme/ThemeTrait.php	365bf70f92f6b86103b89afd466b8f50
+src/classes/Gantry/Component/Theme/ThemeTrait.php	9f0810abdf3be0890a99036aaf492799
 src/classes/Gantry/Component/Translator/Translator.php	5dba66a26b47c1602efbe394e8116321
 src/classes/Gantry/Component/Translator/TranslatorInterface.php	546acadd4d6ed6139402b4423f7c23fe
 src/classes/Gantry/Component/Twig/Node/TwigNodeAssets.php	34fd715148b0c85c5a4ba8900fa9fa10
@@ -796,9 +796,9 @@ vendor/composer/autoload_classmap.php	73265ccac24b645e3a90a0fb19c7abd5
 vendor/composer/autoload_namespaces.php	224007c97efb82c7b45b0e92f240af41
 vendor/composer/autoload_psr4.php	9954d22b564b50f8015091ec0932c7cf
 vendor/composer/autoload_real.php	96d3b837f543758dc52570bdfc3fd965
-vendor/composer/autoload_static.php	eed2f629e648f4639aad4a4a226f4ff1
+vendor/composer/autoload_static.php	5a275175ec8beae6d529c4f9ee13cacd
 vendor/composer/installed.json	56006013bd7c8af52ecf7bae14c44d2f
-vendor/composer/installed.php	611268f7292db30be82665d98688a2cd
+vendor/composer/installed.php	b59d6ffb64b62cb4b05eb7a8924715d2
 vendor/composer/platform_check.php	5e5df33a706e5c5ea077cbd9df3ac012
 vendor/scssphp/scssphp/composer.json	86e1842b1053eea53a69ce5ae8ae9603
 vendor/scssphp/scssphp/scss.inc.php	5c4019021e3e835cee4ba96e44a807eb

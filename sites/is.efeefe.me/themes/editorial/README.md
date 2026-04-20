@@ -2,10 +2,6 @@
 
 The **Editorial** Theme is for [Grav CMS](http://github.com/getgrav/grav).  **Editorial** is a GravCMS port of the Editorial theme from HTML5Up.net.  The theme from HTML5Up.net is free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license).
 
-**If you enjoy this theme, please consider sponsoring:**
-
-<a href="https://www.buymeacoffee.com/birdydesign" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Installation
 
 ### GPM Installation (Preferred)
@@ -20,7 +16,7 @@ This will install the Editorial theme into your `/user/themes` directory within 
 
 To install this theme, just download the zip version of this repository and unzip it under `/your/site/grav/user/themes`. Then, rename the folder to `editorial`. You can find these files on [GitHub](https://github.com/pmoreno-rodriguez/grav-theme-editorial) or via [GetGrav.org](http://getgrav.org/downloads/themes).
 
-## Dependencies
+### Dependencies
 
 Although the theme does not have specific dependencies to function, **it is highly recommended to install the following plugins for a complete experience**:
 
@@ -63,6 +59,7 @@ Do not directly edit the editorial.yaml file found in the theme folder. Copy the
 * Blog (optional) - Blog and Item templates.
 * Features module
 * Banner module like the original theme.
+* Text Blocks module
 * Contact Form module.
 * Contact Form non-modular template.
 * Recent Posts module - Show the latest posts in a module, eg. Home. (can be changed from twig template)
@@ -303,21 +300,21 @@ Alternatively, you can you use the drag-n-drop "Custom Logo" field in the Editor
 | dragAutoSnap | boolean | `false` | If true the slide will automatically change to prev/next or close if dragToleranceX or dragToleranceY is reached, otherwise it will wait till the mouse is released. |
 | preload | boolean | `true` | Enable or disable preloading. | 
 
-# Shortcodes
+## Shortcodes
 
 To view details of Editorial theme shortcodes visit this link: [Editorial theme shortcodes](https://pmoreno-rodriguez.github.io/#/./gravthemes/editorial/index?id=shortcodes)
 
 You can view some examples of shortcodes in the demo page.
 
-# Downloads template
+## Downloads template
 
 Editorial theme includes a simple template to manage downloads of files uploaded to a page. These files are automatically found and processed by Grav using `page.media.all` and displayed in a table with four columns: name, size, modification date and download button.
 
-# Demo page
+## Demo page
 
 [https://editorial.pmdesign.dev/](https://editorial.pmdesign.dev/)
 
-# Documentation 
+## Documentation 
 
 You can read extra documentation of Editorial Theme at [https://pmoreno-rodriguez.github.io/#/./gravthemes/editorial/index](https://pmoreno-rodriguez.github.io/#/./gravthemes/editorial/index). This is [Spanish document site for Editorial Theme](https://pmdesign.dev/temas/editorial)
 
@@ -330,3 +327,11 @@ You can read extra documentation of Editorial Theme at [https://pmoreno-rodrigue
 * Thanks to [Jeremy Gonyea](https://github.com/jgonyea), who ported the first Editorial theme for Grav.
 * This theme wouldn't be here without HTML5Up.net.  Many thanks to [AJ](mailto:aj@lkn.io) for creating the theme initially on that site.
 * Demo images came from [Unsplash](https://unsplash.com/es/@freys/)
+
+## ☕ Support This Project
+If you find this project useful and would like to support its development,
+you can buy me a coffee on Ko-fi:
+
+👉 **[Support me on Ko-fi](https://ko-fi.com/pmoreno)**
+
+Thank you for supporting open-source software! 🙌

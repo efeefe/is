@@ -10,10 +10,16 @@ page_index: '0'
 show_pageimage: true
 image_width: 1000
 image_height: 300
+seo:
+    robots: 'index, follow'
 ---
 
 ---
 ## Recent
+
+### Fixfest London 2025
+
+Keynote "Irreparable futures?"
 
 ### NØSCHOOL Nevers 2025
 

@@ -7,22 +7,22 @@ namespace Composer\Autoload;
 class ComposerStaticInitdae652f962d7af9ddc38525e251a9fd8
 {
     public static $prefixLengthsPsr4 = array (
-        'S' => 
+        'S' =>
         array (
             'ScssPhp\\ScssPhp\\' => 16,
         ),
-        'G' => 
+        'G' =>
         array (
             'Gantry\\' => 7,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'ScssPhp\\ScssPhp\\' => 
+        'ScssPhp\\ScssPhp\\' =>
         array (
             0 => __DIR__ . '/..' . '/scssphp/scssphp/src',
         ),
-        'Gantry\\' => 
+        'Gantry\\' =>
         array (
             0 => __DIR__ . '/../..' . '/src/classes/Gantry',
         ),

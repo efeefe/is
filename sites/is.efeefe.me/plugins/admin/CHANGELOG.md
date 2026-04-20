@@ -1,16 +1,16 @@
-# v1.10.50
-## 11/14/2025
+# v1.10.49.3
+## 01/27/2026
 
-1. [](#new)
-    * Support for 'safe-upgrade' installation
-    * Support for safe-upgrade restore functionality in Tools
 1. [](#improved)
-    * Improved session expiration/logout handling
-    * Various minor CSS fixes
-1. [](#bugfix)   
-    * Fix for deeply nested sortable fields (at last!)
-    * Restore admin session timeout modal by returning 401 for timed-out AJAX requests
-    * Honor `system.updates.safe_upgrade` so legacy Grav installs keep the classic updater
+    * Support new `licensing.getgrav.org` server for premium downloads
+
+# v1.10.49.2
+## 12/29/2025
+
+1. [](#improved)
+    * Added fallback autoloader to handle class location changes during upgrades
+    * Lazy-load WhiteLabel and ScssCompiler to avoid loading scssphp during upgrades
+    * Use sendJsonResponse() to exit early after package install/reinstall tasks
 
 # v1.10.49.1
 ## 09/03/2025
