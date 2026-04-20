@@ -19,7 +19,7 @@ seo:
 
 ### Fixfest London 2025
 
-Keynote "Irreparable futures?"
+Keynote "Irreparable futures?". Video recording available on [YouTube](https://www.youtube.com/watch?v=Pz_u82vf_5Q&list=PLuRLn6aJYSF9ThsgGYzMmsSjeVhCXEV8v&index=5&t=322s&pp=iAQB). 
 
 ### NØSCHOOL Nevers 2025
 
