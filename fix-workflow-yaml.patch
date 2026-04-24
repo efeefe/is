@@ -1,0 +1,11 @@
+<<<<<<< SEARCH
+          # Install other dependencies
+          # We need to create an empty .dependencies file to bypass the error
+          touch user/.dependencies
+          bin/grav install || true
+=======
+          # Install other dependencies
+          # We need to create a valid YAML .dependencies file to bypass the error
+          echo "{}" > user/.dependencies
+          bin/grav install || true
+>>>>>>> REPLACE
