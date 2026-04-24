@@ -1,0 +1,72 @@
+name: Build and Deploy Grav as SSG
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: mbstring, xml, zip, curl, gd, dom, fileinfo
+
+      - name: Install Grav and Dependencies
+        run: |
+          wget https://getgrav.org/download/core/grav/latest -O grav.zip
+          unzip -q grav.zip
+          mv grav grav-app
+          cd grav-app
+
+          # Replace default user folder with ours
+          rm -rf user
+          cp -r ../sites/is.efeefe.me user
+
+          # Fix autoloader issues for plugins like tntsearch
+          rm -f user/plugins/tntsearch/vendor/composer/platform_check.php || true
+          rm -f user/plugins/tntsearch/vendor/composer/autoload_real.php || true
+
+          # Force reinstall of complex plugins to rebuild autoloaders
+          for plugin in user/plugins/*; do
+              if [ -d "$plugin/vendor" ]; then
+                  plugin_name=$(basename "$plugin")
+                  rm -rf "$plugin"
+                  echo "y" | bin/gpm install "$plugin_name" || true
+              fi
+          done
+
+          # Install blackhole plugin for SSG generation
+          echo "y" | bin/gpm install blackhole
+
+          # Install other dependencies
+          # Using || true because grav install returns 1 if .dependencies is missing
+          # on a non-skeleton install, which is normal here.
+          bin/grav install || true
+
+      - name: Generate Static Site
+        run: |
+          cd grav-app
+
+          # Start internal PHP server in the background
+          php -S localhost:8000 system/router.php > /dev/null 2>&1 &
+
+          # Wait a few seconds for the server to be ready
+          sleep 5
+
+          # Generate the static site to a 'public' directory
+          bin/plugin blackhole generate http://localhost:8000 --output-path=../public --assets
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
