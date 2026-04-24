@@ -1,3 +1,26 @@
+# v3.8.2
+## 04/24/2026
+
+1. [](#bugfix)
+   * [security] Fixed unauthenticated privilege escalation in `Login::register` (GHSA-pxm6-mhxr-q4mj): if an admin added `groups` or `access` to `user_registration.fields`, an attacker could self-register as super-admin by POSTing those values. Registration form input for those fields is now ignored with a log warning; server-side config, `default_values`, and invitations remain authoritative.
+2. [](#improved)
+   * IP pseudonymization (rate-limit keys, remember-me cookie salt) now uses `Security::getNonceKey()` when running on Grav 2.0+, and continues to read `security.salt` from config on Grav 1.7. Tracks Grav 2.0's GHSA-3f29-pqwf-v4j4 remediation (HMAC key is no longer reachable via sandboxed Twig).
+
+# v3.8.1
+## 04/17/2026
+
+1. [](#new)
+   * **Magic Link (passwordless) login** — new `taskMagicRequest` endpoint sends a one-time, TTL-bound login link by email. Crypto-random token, SHA-256 hash stored server-side, invalidated before login, rate-limited per IP and per user. Neutral response regardless of account state to avoid enumeration. Opt-in via `magic_link.enabled` in `login.yaml` (off by default); adds a "Login by link" button on the login form when enabled. ([#326](https://github.com/getgrav/grav-plugin-login/pull/326), [#328](https://github.com/getgrav/grav-plugin-login/pull/328))
+   * Login / activation / reset / welcome / notification / invite emails are now sent as **multipart `text/html + text/plain`**, so mail clients that strip HTML still render a readable body. Shared `text` macro converts HTML → plain text while preserving paragraphs and lists. ([#325](https://github.com/getgrav/grav-plugin-login/pull/325))
+2. [](#improved)
+   * Migrated legacy CSS to CSS3 ([#312](https://github.com/getgrav/grav-plugin-login/pull/312))
+   * Switched hard-coded `http://` doc/support links to `https://` ([#313](https://github.com/getgrav/grav-plugin-login/pull/313))
+   * Improved Spanish translation ([#319](https://github.com/getgrav/grav-plugin-login/pull/319))
+   * Pruned unused i18n strings ([#301](https://github.com/getgrav/grav-plugin-login/pull/301))
+   * Documented the invite flow in the README
+3. [](#bugfix)
+   * Resending a now-invalid invite no longer returns a 500 — surfaces a clean error instead. ([#322](https://github.com/getgrav/grav-plugin-login/pull/322))
+
 # v3.8.0
 ## 08/25/2025
 
