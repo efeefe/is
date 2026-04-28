@@ -62,6 +62,17 @@ jobs:
           sleep 5
 
           # Generate the static site to a 'public' directory
+          # We force system.yaml creation by running a basic grav command before generating
+          bin/grav cache
+
+          # Fix base URL issues for GitHub Pages deployment
+          export REPO_NAME=$(echo ${{ github.repository }} | cut -d'/' -f2)
+          mkdir -p user/config
+          cat << EOT > user/config/system.yaml
+          absolute_urls: true
+          custom_base_url: "https://${{ github.repository_owner }}.github.io/${REPO_NAME}"
+          EOT
+
           bin/plugin blackhole generate http://localhost:8000 --output-path=../public --assets
 
       - name: Deploy to GitHub Pages
