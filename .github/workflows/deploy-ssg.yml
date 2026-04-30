@@ -68,10 +68,11 @@ jobs:
           # Fix base URL issues for GitHub Pages deployment
           export REPO_NAME=$(echo ${{ github.repository }} | cut -d'/' -f2)
           mkdir -p user/config
-          cat << EOT > user/config/system.yaml
-          absolute_urls: true
-          custom_base_url: "https://${{ github.repository_owner }}.github.io/${REPO_NAME}"
-          EOT
+          cat << EOT >> user/config/system.yaml
+absolute_urls: true
+custom_base_url: "https://${{ github.repository_owner }}.github.io/${REPO_NAME}"
+EOT
+          # Create CNAME file if root domain is used, or let GitHub Pages use the subpath
 
           bin/plugin blackhole generate http://localhost:8000 --output-path=../public --assets
 
