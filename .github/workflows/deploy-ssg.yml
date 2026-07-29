@@ -3,12 +3,14 @@ name: Build and Deploy Grav as SSG
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,7 +23,7 @@ jobs:
           
       - name: Install Grav and Dependencies
         run: |
-          wget https://getgrav.org/download/core/grav/latest -O grav.zip
+          wget https://github.com/getgrav/grav/releases/download/1.7.46/grav-v1.7.46.zip -O grav.zip
           unzip -q grav.zip
           mv grav grav-app
           cd grav-app
