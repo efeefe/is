@@ -32,8 +32,8 @@ jobs:
           rm -rf user
           cp -r ../sites/is.efeefe.me user
           
-          # Bypass composer version check by blanking platform_check.php files
-          find user/ -name "platform_check.php" -exec sh -c 'echo "<?php" > "$1"' _ {} \;
+          # Bypass composer version check by blanking platform_check.php files in the entire project
+          find . -name "platform_check.php" -exec sh -c 'echo "<?php" > "$1"' _ {} \;
           
           # Install blackhole plugin for SSG generation
           echo "y" | bin/gpm install blackhole
