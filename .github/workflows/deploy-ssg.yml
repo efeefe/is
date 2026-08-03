@@ -56,6 +56,11 @@ jobs:
           # Generate the static site to a 'public' directory
           bin/plugin blackhole generate http://localhost:8000 --output-path=../public --assets
           
+          # Debug: list generated files
+          echo "=== public/ folder contents ==="
+          ls -la ../public
+          echo "==============================="
+          
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
