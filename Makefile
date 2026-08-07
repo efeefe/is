@@ -20,9 +20,8 @@ setup:
 	@ln -sf ../sites/$(SITE_NAME) $(GRAV_LOCAL_DIR)/user
 	@echo "Creating dependencies bypass file..."
 	@touch $(GRAV_LOCAL_DIR)/user/.dependencies
-	@echo "Fixing platform check files and autoloader..."
-	@rm -f $(GRAV_LOCAL_DIR)/user/plugins/tntsearch/vendor/composer/platform_check.php || true
-	@rm -f $(GRAV_LOCAL_DIR)/user/plugins/tntsearch/vendor/composer/autoload_real.php || true
+	@echo "Fixing platform check files..."
+	@find $(GRAV_LOCAL_DIR) -name "platform_check.php" -exec sh -c 'echo "<?php" > "$$1"' _ {} \;
 	@echo "Installing blackhole plugin for SSG generation..."
 	@cd $(GRAV_LOCAL_DIR) && echo "y" | bin/gpm install blackhole || true
 	@echo "Reinstalling form and login plugins to restore vendor files..."

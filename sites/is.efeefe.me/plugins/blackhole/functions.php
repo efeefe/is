@@ -39,7 +39,9 @@ function portal($in, $out, $content) {
 
 // get links to assets
 function tidal_disruption($data, $elements, $attribute) {
-  if (empty($data)) return array();
+  if (empty($data)) {
+    return array();
+  }
   $doc = new \DOMDocument();
   @$doc->loadHTML($data);
   $links = array();

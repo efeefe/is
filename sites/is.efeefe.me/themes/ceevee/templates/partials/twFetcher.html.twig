@@ -1,3 +1,4 @@
+{% if site.twitter.id is defined and site.twitter.id is not empty %}
 <script>
  /*********************************************************************
  *  #### Twitter Post Fetcher v12.0 ####
@@ -8,7 +9,7 @@
  *  http://www.jasonmayes.com/projects/twitterApi/
  *  Github: https://github.com/jasonmayes/Twitter-Post-Fetcher
  *  Updates will be posted to this site.
- *********************************************************************/
+ *  *********************************************************************/
 
 var twitterFetcher=function(){function w(a){return a.replace(/<b[^>]*>(.*?)<\/b>/gi,function(a,f){return f}).replace(/class=".*?"|data-query-source=".*?"|dir=".*?"|rel=".*?"/gi,"")}function m(a,c){for(var f=[],g=new RegExp("(^| )"+c+"( |$)"),h=a.getElementsByTagName("*"),b=0,k=h.length;b<k;b++)g.test(h[b].className)&&f.push(h[b]);return f}var x="",k=20,y=!0,p=[],s=!1,q=!0,r=!0,t=null,u=!0,z=!0,v=null,A=!0,B=!1;return{fetch:function(a){void 0===a.maxTweets&&(a.maxTweets=20);void 0===a.enableLinks&&
 (a.enableLinks=!0);void 0===a.showUser&&(a.showUser=!0);void 0===a.showTime&&(a.showTime=!0);void 0===a.dateFunction&&(a.dateFunction="default");void 0===a.showRetweet&&(a.showRetweet=!0);void 0===a.customCallback&&(a.customCallback=null);void 0===a.showInteraction&&(a.showInteraction=!0);void 0===a.showImages&&(a.showImages=!1);if(s)p.push(a);else{s=!0;x=a.domId;k=a.maxTweets;y=a.enableLinks;r=a.showUser;q=a.showTime;z=a.showRetweet;t=a.dateFunction;v=a.customCallback;A=a.showInteraction;B=a.showImages;
@@ -22,11 +23,12 @@ n[b]+'" class="twitter_fav_icon">Favorite</a></p>');B&&void 0!==h[b]&&(l=h[b],vo
 var config1 = {
   "id": '{{ site.twitter.id }}',
   "domId": '{{ site.twitter.domId }}',
-  "maxTweets": {{ site.twitter.maxTweets }},
-  "enableLinks": {{ site.twitter.enableLinks }},
-  "showInteraction": {{ site.twitter.showInteraction }},
-  "showImages": {{ site.twitter.showImages }},
-  "showUser": {{ site.twitter.showUser }},
+  "maxTweets": {{ site.twitter.maxTweets | default(0) }},
+  "enableLinks": {{ site.twitter.enableLinks | default('true') }},
+  "showInteraction": {{ site.twitter.showInteraction | default('false') }},
+  "showImages": {{ site.twitter.showImages | default('false') }},
+  "showUser": {{ site.twitter.showUser | default('false') }},
 };
 twitterFetcher.fetch(config1);
 </script>
+{% endif %}
