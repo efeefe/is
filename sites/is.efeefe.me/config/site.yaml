@@ -1,0 +1,27 @@
+title: efeefe
+author:
+  name: 'Felipe Schmidt Fonseca'
+  email: felipe@efeefe.me
+metadata:
+  description: 'Personal website of Felipe Schmidt Fonseca'
+header:
+  title: 'Felipe Schmidt Fonseca, PhD'
+  description: 'Design researcher working with open source greentech, critical circularity, participatory research, and systems-thinking.'
+social:
+  - url: 'https://www.linkedin.com/in/felipefonseca'
+    icon: 'linkedin'
+  - url: 'https://zcal.co/i/TtAvqmhK'
+    icon: 'calendar'
+  - url: 'https://www.instagram.com/efeefe.me/'
+    icon: 'instagram'
+  - url: 'https://www.youtube.com/felipefonseca'
+    icon: 'youtube'
+  - url: 'https://twitter.com/efeefe'
+    icon: 'twitter'
+  - url: 'https://www.facebook.com/efefonseca'
+    icon: 'facebook'
+  - url: 'https://github.com/efeefe'
+    icon: 'github'
+copyright:
+  - line: 'Copyleft Felipe Schmidt Fonseca'
+  - line: 'Website made with <a title="GRAV" href="https://getgrav.org/">GRAV</a> using the <a href="">Ceevee theme</a>.'
