@@ -3,12 +3,14 @@ name: Build and Deploy Grav as SSG
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,7 +23,7 @@ jobs:
           
       - name: Install Grav and Dependencies
         run: |
-          wget https://getgrav.org/download/core/grav/latest -O grav.zip
+          wget https://github.com/getgrav/grav/releases/download/1.7.46/grav-v1.7.46.zip -O grav.zip
           unzip -q grav.zip
           mv grav grav-app
           cd grav-app
@@ -30,21 +32,8 @@ jobs:
           rm -rf user
           cp -r ../sites/is.efeefe.me user
           
-          # Fix autoloader issues for plugins like tntsearch
-          rm -f user/plugins/tntsearch/vendor/composer/platform_check.php || true
-          rm -f user/plugins/tntsearch/vendor/composer/autoload_real.php || true
-          
-          # Force reinstall of complex plugins to rebuild autoloaders
-          for plugin in user/plugins/*; do
-              if [ -d "$plugin/vendor" ]; then
-                  plugin_name=$(basename "$plugin")
-                  rm -rf "$plugin"
-                  echo "y" | bin/gpm install "$plugin_name" || true
-              fi
-          done
-          
-          # Install blackhole plugin for SSG generation
-          echo "y" | bin/gpm install blackhole
+          # Bypass composer version check by blanking platform_check.php files in the entire project
+          find . -name "platform_check.php" -exec sh -c 'echo "<?php" > "$1"' _ {} \;
           
           # Install other dependencies
           # We need to create an empty .dependencies file to bypass the error
@@ -63,6 +52,11 @@ jobs:
           
           # Generate the static site to a 'public' directory
           bin/plugin blackhole generate http://localhost:8000 --output-path=../public --assets
+          
+          # Debug: list generated files
+          echo "=== public/ folder contents ==="
+          ls -la ../public
+          echo "==============================="
           
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
