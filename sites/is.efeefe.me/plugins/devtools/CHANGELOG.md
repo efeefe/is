@@ -1,3 +1,39 @@
+# v2.0.0
+## 07/13/2026
+
+1. [](#new)
+    * Scaffolding can now target Grav 1.7, 2.0, or both, chosen in the wizard or with a `--grav` flag.
+    * Added a new `api` plugin template that scaffolds a plugin integrated with the Grav API plugin and Admin Next.
+    * Added a new `blades` theme template using the Blades semantic CSS framework.
+    * Added a new `daisyui` theme template using Tailwind CSS and daisyUI.
+2. [](#improved)
+    * Generated plugins and themes now declare the correct compatibility, Grav dependency, and PHP version for the chosen target.
+    * Refreshed the wizard with a title banner, grouped sections, a live folder/slug preview, and a confirmation summary before creating anything.
+    * The wizard can now run `composer install` (plugins) or the `npm` build (Tailwind and daisyUI themes) for you after creating a component, with a `--install` flag to do it automatically.
+    * Developer name, email, and GitHub ID are now remembered between runs and default from your local git config.
+    * Added a `--template` flag to choose the template without the interactive prompt.
+3. [](#bugfix)
+    * Fixed minor internal issues in blueprint and Flex Object creation.
+4. [](#removed)
+    * Removed the `tailwind-mix` theme template.
+
+# v1.9.1
+## 04/30/2026
+
+1. [](#bugfix)
+    * Fixed PHP 8.1+ deprecation notice — explicit string casts where `null` was being passed to string-typed function arguments.
+
+# v1.9.0
+## 04/27/2026
+
+1. [](#new)
+   * Grav 2.0 Compatibility
+   * **`bin/plugin devtools i18n-blueprints`** — new CLI command that audits blueprint YAML files (`blueprints.yaml`, `blueprints/**/*.yaml`, `admin/blueprints/**/*.yaml`) across plugins and themes, classifying every `label` / `title` / `description` / `help` / `placeholder` / `hint` value as either a translation key or hardcoded English. Supports auditing a single plugin, a `user/plugins` (or `user/themes`) directory, or a full Grav root (auto-detected via `system/defines.php` — `user/plugins` and `user/themes` are expanded automatically). Reports per-plugin counts and a hardcoded ratio.
+   * **`--fix` mode** rewrites blueprint YAML in place, replacing each hardcoded value with a generated `PLUGIN_FOO.STRING_KEY` reference and emitting matching `KEY: "Original string"` entries directly into the plugin's existing language file. Detects both lang-file conventions: appends to `languages.yaml` (multi-locale, single file) when present, otherwise to `languages/<lang>.yaml` (per-locale), creating `languages/en.yaml` when neither exists. Plugin prefix (`PLUGIN_FOO`) is read from the existing language file's keys (preserving the author's chosen convention) or derived from the directory name. Existing keys are reused when both key *and* value match — re-running `--fix` is idempotent. `--icu` emits keys under an `ICU:` block instead, for plugins targeting Grav 2 / Admin2.
+   * **`--interactive` (`-i`)** mode walks each finding one at a time with a `y/n/a/s/q` prompt for per-value review, useful for filtering false positives that the heuristic flags (CSS class strings, file paths, etc.) before any rewrite happens.
+   * **`--key-length=N`** controls the maximum generated key length (default 40, minimum 10) — long values are trimmed back to the last underscore boundary. Collisions get `_2`, `_3` suffixes automatically.
+   * **`--details`**, **`--threshold`**, **`--dry-run`**, and **`--json`** flags for inspecting findings without rewriting, scoping the report to plugins above a hardcoded ratio, previewing `--fix` output, and machine-readable output.
+
 # v1.8.0
 ## 04/21/2025
 

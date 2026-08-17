@@ -1,3 +1,158 @@
+# v9.1.19
+## 08/03/2026
+
+1. [](#bugfix)
+    * [security] Text a form definition places around a field, such as prepend and append labels, spacer titles and section text, is now escaped by default, with a `markdown: true` option for the fields that genuinely need HTML.
+    * [security] A select option's `label` property is now quoted and escaped, so a label containing a space can no longer add its own attributes to the option.
+
+# v9.1.18
+## 07/30/2026
+
+1. [](#bugfix)
+    * The Basic Captcha dot counting challenge could ask for more dots than it had room to draw, leaving around a third of its challenges impossible to answer ([#640](https://github.com/getgrav/grav-plugin-form/issues/640)).
+    * The Basic Captcha dot counting challenge now always includes dots in other colors, instead of sometimes filling every slot with the color being counted.
+    * [security] The Basic Captcha position challenge accepted any word as its answer, so it let every submission through.
+    * The Basic Captcha type selected in the plugin settings was ignored and always fell back to random characters.
+    * The Basic Captcha math challenge produced an unanswerable puzzle when division was the only chosen operator.
+    * A Basic Captcha math challenge whose answer is zero, such as 7 - 7, was rejected as though no answer had been given.
+    * Basic Captcha character challenges containing a lowercase "x" ignored the configured image size, colors and text position.
+
+2. [](#improved)
+    * The dot counting challenge's grid size and the range of dots to count can now be configured.
+
+# v9.1.17
+## 07/26/2026
+
+1. [](#improved)
+    * Radio, toggle and checkboxes option labels can render HTML again by setting `markdown: true` on the field, the same flag that already enables markup in a field's label, help and description ([#639](https://github.com/getgrav/grav-plugin-form/issues/639)).
+
+# v9.1.16
+## 07/25/2026
+
+1. [](#improved)
+    * A theme can now override just the form's button loop through template blocks, matching how field markup can already be overridden, instead of having to copy the whole form template ([#638](https://github.com/getgrav/grav-plugin-form/pull/638)).
+
+# v9.1.15
+## 07/24/2026
+
+1. [](#bugfix)
+    * [security] Radio and toggle field option labels are now escaped instead of being rendered as raw HTML, so a form definition can no longer place a script in an option label that runs when the form is viewed ([GHSA-5xv4-g337-2pg7](https://github.com/getgrav/grav/security/advisories/GHSA-5xv4-g337-2pg7)).
+    * The Cap captcha now actually uses the WASM binary that ships with the plugin. `cap.min.js` starts fetching it as soon as it runs and remembers whichever URL it resolved first, but `CAP_CUSTOM_WASM_URL` was only being set on `DOMContentLoaded`, which happens after that fetch has begun. Every visitor was therefore downloading the binary from the jsDelivr CDN, giving the contact form a third party dependency it does not need and leaking a request to anyone running one
+
+# v9.1.14
+## 07/21/2026
+
+1. [](#bugfix)
+    * Saving a form a second time into the same folder no longer fails with "Resolved path escapes the data directory" on Windows
+
+# v9.1.13
+## 07/15/2026
+
+1. [](#bugfix)
+    * A form's `redirect` now ignores an off-site destination that arrives through submitted form data, while redirects the site itself specifies keep working as before
+
+# v9.1.12
+## 07/14/2026
+
+1. [](#bugfix)
+    * Captcha validation, the `timestamp` and `ip` process actions, and YAML `save` no longer fatal with "Call to a member function on array" — five call sites still treated `Form::value()` as a Data object after the 9.1.11 sandbox fix changed it to return a plain array
+
+# v9.1.11
+## 07/13/2026
+
+1. [](#bugfix)
+    * Form `redirect` and `message` values that use Twig with submitted form data (such as `{{ form.value.email }}`) now resolve again under the content sandbox instead of passing through unevaluated
+
+# v9.1.10
+## 07/02/2026
+
+1. [](#improved)
+    * The `array` field's sort, remove, and add controls now get comfortable spacing and padded hit targets, with a muted look that brightens on hover and reads correctly on dark themes.
+1. [](#bugfix)
+    * Active tab labels in the `tabs` field no longer force black text, keeping them readable on dark themes.
+
+# v9.1.9
+## 06/30/2026
+
+1. [](#bugfix)
+    * The `form` page template now appears in the Add Page template list in the new Grav 2.0 admin.
+
+# v9.1.8
+## 06/25/2026
+
+1. [](#bugfix)
+    * Security: the form `save` action now rejects a `folder` setting that tries to escape the data directory, preventing form files from being written elsewhere on disk.
+    * Security: the form `save` action now re-checks the filename after template processing, so submitted form values can no longer turn it into a disallowed file type or a path outside the data directory.
+
+# v9.1.7
+## 06/23/2026
+
+1. [](#improved)
+    * The `datetime` form field now renders a real date and time picker that follows the visitor's language and region, instead of falling back to a plain text box.
+
+# v9.1.6
+## 06/18/2026
+
+1. [](#bugfix)
+    * Failing a captcha (or any other validation error) no longer blocks you from correcting the form and resubmitting when refresh prevention is enabled.
+    * Custom captcha failure messages set with the older `recaptcha_not_validated` key work again alongside the current `captcha_not_validated` key.
+
+# v9.1.5
+## 06/08/2026
+
+1. [](#bugfix)
+    * Fixed a typo in the form data email template that referenced a non-existent `emarkdown` filter, which on Grav 2.0 could cause form notification emails to arrive with the raw `{% include %}` tag in the body instead of the submitted data.
+
+# v9.1.4
+## 05/29/2026
+
+1. [](#bugfix)
+    * **FilePond previews for files whose names contain `#` or `?` no longer 404.** The `image_url` and `thumb_url` returned by the upload handler now percent-encode those characters in the path so the browser doesn't treat them as fragment/query delimiters.
+
+# v9.1.3
+## 05/06/2026
+
+1. [](#bugfix)
+    * Bumped `trilbymedia/cap-php` to `^1.0` (was `^0.1.1`) to pull in 1.0.0, which fixes a fatal `Cache key length must be less than 65 characters` error from `Psr16Storage` when using the Cap captcha provider with a strict PSR-16 cache backend (e.g. Grav's default cache). Cap challenge/redeem endpoints would 500 immediately on issuance.
+
+# v9.1.2
+## 04/30/2026
+
+1. [](#bugfix)
+    * Fixed PHP 8.1+ deprecation notice — explicit string casts where `null` was being passed to string-typed function arguments.
+
+# v9.1.1
+## 04/30/2026
+
+1. [](#bugfix)
+   * Fix Changelog date on v9.0.0 entry
+
+# v9.1.0
+## 04/29/2026
+
+1. [](#new)
+   * PHP 8.1 now set in dependencies
+1. [](#bugfix)
+   * [security] Fixed unauthenticated page-content overwrite via file upload (GHSA-w4rc-p66m-x6qq). Public form uploads now strip path components from the POST-supplied filename and hard-block page-content extensions (`md`, `yaml`, `yml`, `json`, `twig`, `ini`) regardless of the configurable dangerous-extensions list. A permissive `accept` policy combined with the default `destination: self@` could otherwise let an attacker overwrite the page's own `.md` and pivot to super-admin via a `process: save` action.
+
+# v9.0.3
+## 04/28/2026
+
+1. [](#bugfix)
+   * fix for selectize to support selectize with keys
+
+# v9.0.2
+## 04/27/2026
+
+1. [](#improved)
+   * Support saving keys in selectize field
+
+# v9.0.2
+## 04/25/2026
+
+1. [](#bugfix)
+   * Don't require PHP 8.1+ due to Cap POW Captcha
+
 # v9.0.1
 ## 04/24/2026
 
@@ -5,7 +160,7 @@
    * [security] Fixed stored XSS in select-field option text (GHSA-c2q3-p4jr-c55f). Removed the `|raw` filter from `templates/forms/fields/select/select.html.twig`; option labels — including taxonomy values that propagate cross-page through the admin's shared selection pool — are now autoescaped, so a lower-privileged editor can no longer inject script that runs in an admin's browser when they open any page editor.
 
 # v9.0.0
-## 04/21/20265
+## 04/21/2026
 
 1. [](#new)
     * Added new open source Cap.js powered Proof of Work (POW) captcha option, local PHP-based server, so no 3rd party services required, and 'invisible', no checkboxes or visual interaction required.

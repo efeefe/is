@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'gantry/grav-compat',
-        'pretty_version' => '5.6.1',
-        'version' => '5.6.1.0',
-        'reference' => '9f6acd58779c0e5111723c395fc327f2dc65d744',
+        'pretty_version' => '5.6.2',
+        'version' => '5.6.2.0',
+        'reference' => 'c1588db5c9f0ba79164481222b5f49229523fa41',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'gantry/grav-compat' => array(
-            'pretty_version' => '5.6.1',
-            'version' => '5.6.1.0',
-            'reference' => '9f6acd58779c0e5111723c395fc327f2dc65d744',
+            'pretty_version' => '5.6.2',
+            'version' => '5.6.2.0',
+            'reference' => 'c1588db5c9f0ba79164481222b5f49229523fa41',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

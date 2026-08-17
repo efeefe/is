@@ -1,3 +1,40 @@
+
+# v1.10.54
+## 08/07/2026
+
+1. [](#bugfix)
+    * Deleting a media file whose name contains a bracket or a similar character now removes its retina copies and metadata, which were previously left behind.
+    * Deleting a media file no longer also removes files belonging to a different item whose name ends with the same text, so deleting `banner.jpg` leaves `my-banner@2x.jpg` alone.
+
+# v1.10.53
+## 07/21/2026
+
+1. [](#bugfix)
+    * [security] An admin who can manage users but is not a super admin can no longer reset a super admin's password, closing a privilege-escalation path (GHSA-p97c-g455-q447).
+    * File field "View" links now open the file's actual stored URL and no longer trigger a broken image request ([#2517](https://github.com/getgrav/grav-plugin-admin/pull/2517)).
+1. [](#improved)
+    * Inserting a media file whose name contains spaces now produces clean, readable caption text in the Markdown instead of showing `%20`. Relates to [getgrav/grav#4197](https://github.com/getgrav/grav/issues/4197).
+    * Refreshed the admin theme's build tooling and stopped committing developer-only lockfiles so the plugin no longer raises dependency vulnerability alerts in projects that track it.
+
+# v1.10.52
+## 06/10/2026
+
+1. [](#bugfix)
+    * Fixed `bin/gpm` commands silently exiting on a fresh Grav 2.0 + Admin install before any user accounts had been created ([grav#4079](https://github.com/getgrav/grav/issues/4079)).
+    * Fixed a 404 when creating or renaming a top-level page whose folder name starts with "admin" (for example `administration`), caused by the admin redirect mistaking it for the admin route ([grav-plugin-admin#2513](https://github.com/getgrav/grav-plugin-admin/issues/2513)).
+
+# v1.10.51
+## 05/05/2026
+
+1. [](#new)
+    * Release as 1.10.51
+
+# v1.10.49.5
+## 05/05/2026
+
+1. [](#bugfix)
+    * [security] Fixed stored XSS in the page move/parents dialog (GHSA-fmg2-f5r9-24qc)
+
 # v1.10.49.4
 ## 04/16/2026
 
@@ -52,14 +89,14 @@
 ## 10/28/2024
 
 1. [](#improved)
-  * Treat AVIF as image when inserting / drag & dropping 
+  * Treat AVIF as image when inserting / drag & dropping
   * PHP 8.4 fixes - Implicitly nullable parameter declarations deprecate
 
 # v1.10.47
 ## 10/22/2024
 
 1. [](#improved)
-  * Added missing `show_label` logic in list field 
+  * Added missing `show_label` logic in list field
   * Use plugin's selected icon when in plugin properties
 
 # v1.10.46
