@@ -77,5 +77,5 @@ Projects I've been involved with in the past.
 
 See also:
 
-- a list of [lectures, talks, and presentations](../stuff/lectures-talks-presentations).
+- a list of [lectures, talks, and presentations](../../stuff/lectures-talks-presentations).
 - a selection of texts and posts about my activities.
