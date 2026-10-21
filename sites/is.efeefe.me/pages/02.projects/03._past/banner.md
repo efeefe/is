@@ -1,6 +1,11 @@
 ---
 title: 'Past Projects'
 body_classes: modular
+show_title: '1'
+title_htag: h1
+show_pageimage: true
+image_width: 1000
+image_height: 300
 ---
 
 Projects I've been involved with in the past.
@@ -30,7 +35,7 @@ Projects I've been involved with in the past.
 
 	<ul>
 	   <li>
-	   <strong><a href="https://tales.repairacts.net/">Tales of Care and Repair</a></strong> - stories about repairs in Brazil, England and India (2021). Commissioned by the British Council's Creative Commissions programme – a series of creative commissions exploring climate change through art, science and digital technology.
+	   <strong><a href="https://repairacts.net/tales">Tales of Care and Repair</a></strong> - stories about repairs in Brazil, England and India (2021). Led by <a href="https://repairacts.net/">Repair Acts</a> in partnership with <a href="https://toxicslink.org/">Toxics Link</a> and <a href="https://gambiologia.net/">Gambiologia</a>, part of the British Council's Creative Commissions programme for COP26 – a series of creative commissions exploring climate change through art, science and digital technology.
 	   </li>
 	   <li>
 	   <strong><a href="https://fonte.wiki">fonte.wiki</a></strong> - Public repository of open educational resources on digital rights (2021). Project supported by the University of Bristol.
