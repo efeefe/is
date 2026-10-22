@@ -17,9 +17,26 @@ seo:
 ---
 ## Recent
 
-### Lunchtime Talk 
+### Winchester School of Art, 2025
 
-### OERcamp.global, 2025
+Lecture on Spirals, Gambiarra and Ubatuba, part of Professor Teresa Dillon's class on Anthropocene.
+
+### Celebrating Repair Cultures, Bristol, 2025
+
+- Contextualisation about the Brazilian Repair Declaration during Teresa Dillon's Lunchtime Talk at Pervasive Media Studio (+Q&A). Video recording available on [YouTube](https://youtu.be/KzT40jFTSDo?t=1528).
+- Moderation of the panel "Electronic Waste, Current States & Changing Practices" at Bristol City Hall.
+- Short contribution to the "Bristol Repair Declaration Chambers Debate" at Bristol City Hall. Video recording available [here](https://youtu.be/sX1IUYjNyPs?t=5693)
+
+### Future Affairs Forum, Rio de Janeiro, 2025
+
+- Apresentação "Cooperação Internacional em Inovação Socioambiental".
+- Panel ""
+
+### makeathek, online, 2025
+
+Workshop "The Coordinator as community Facilitator".
+
+### OERcamp.global, online, 2025
 
 Talk "From Waste Stream to Learning Stream: Co-Creating OER for Circular Material Valuers". Video recording available on the [Internet Archive](https://archive.org/details/circular-material-valuers_oercamp-global) and [YouTube](https://www.youtube.com/watch?v=5VRSHuy3PiE).
 
