@@ -19,9 +19,11 @@ use Symfony\Component\Mailer\Exception\TransportExceptionInterface;
 use Symfony\Component\Mailer\Header\MetadataHeader;
 use Symfony\Component\Mailer\Header\TagHeader;
 use Symfony\Component\Mailer\Mailer;
+use Symfony\Component\Mailer\SentMessage;
 use Symfony\Component\Mailer\Transport;
 use Symfony\Component\Mailer\Transport\TransportInterface;
 use Symfony\Component\Mime\Address;
+use Symfony\Component\Mime\Header\Headers;
 use Twig\Extension\SandboxExtension;
 
 class Email
@@ -46,6 +48,42 @@ class Email
      */
     private const PARAM_EXTRA_FILTERS = ['raw'];
 
+    /**
+     * Optional `buildMessage()` parameters that go on the message as headers
+     * rather than as addresses, a subject or a body.
+     *
+     * A calling plugin asks about these through {@see supportsParameter()}
+     * rather than comparing version numbers, so it can pass the parameter on a
+     * plugin that understands it and keep its own fallback on one that does not.
+     */
+    private const HEADER_PARAMS = ['tags', 'metadata', 'headers'];
+
+    /**
+     * A header name as RFC 5322 defines one: one or more printable US-ASCII
+     * characters, colon excluded. Anything else cannot be written on the wire.
+     */
+    private const HEADER_NAME_PATTERN = '/^[!-9;-~]+$/';
+
+    /**
+     * The provider contract under `classes/Providers/`, asked for by name
+     * through {@see supportsFeature()}.
+     */
+    public const FEATURE_PROVIDERS = 'providers';
+
+    /**
+     * The inbound mail contract under `classes/Providers/Inbound/` and the IMAP
+     * client under `classes/Inbound/Imap/`, asked for by name through
+     * {@see supportsFeature()}.
+     */
+    public const FEATURE_INBOUND = 'inbound';
+
+    /**
+     * The providers collected on `onEmailProviders`, once per request.
+     *
+     * @var Providers\ProviderRegistry|null
+     */
+    protected static $providers;
+
     /** @var Mailer */
     protected $mailer;
 
@@ -57,10 +95,85 @@ class Email
     protected $message;
     protected $debug;
 
+    /**
+     * The provider's own id for the last message sent, or null.
+     *
+     * Every API transport answers one — Resend, Postmark, SES, SendGrid,
+     * Mailgun and MailerSend all call `SentMessage::setMessageId()` with
+     * whatever their API returned — and it is the same string that provider
+     * then names in its delivery webhooks. It was being collected and dropped,
+     * which left anything wanting to join an event back to a send relying on
+     * the sending domain's own `Message-ID` surviving the trip. It frequently
+     * does not: Resend runs on Amazon SES, SES mints its own on the way out,
+     * and the webhook reports that one. See getLastSendId().
+     *
+     * @var string|null
+     */
+    protected $sendId;
+
+    /**
+     * The newsletter engine's transport, built the first time a marketing
+     * message is sent. Untyped, like the rest of this class, because it still
+     * loads on PHP 7.3.
+     *
+     * @var TransportInterface|null
+     */
+    protected $marketingTransport;
+
     public function __construct()
     {
         $this->initMailer();
         $this->initLog();
+    }
+
+    /**
+     * The engine marketing mail goes through.
+     *
+     * `mailer.marketing_engine`, or the site's own `mailer.engine` when that
+     * is empty, so a site that never set one sends everything as before.
+     */
+    public static function marketingEngine(): string
+    {
+        return static::marketingEngineIn((array)Grav::instance()['config']->get('plugins.email.mailer', []));
+    }
+
+    /**
+     * The same answer out of a `plugins.email.mailer` block, for a caller that
+     * already has one.
+     *
+     * @param array<string, mixed> $mailer
+     */
+    public static function marketingEngineIn(array $mailer): string
+    {
+        $marketing = trim((string)($mailer['marketing_engine'] ?? ''));
+
+        return $marketing !== '' ? $marketing : trim((string)($mailer['engine'] ?? ''));
+    }
+
+    /** The engine the rest of the site's mail goes through. */
+    protected static function siteEngine(): string
+    {
+        return trim((string)Grav::instance()['config']->get('plugins.email.mailer.engine'));
+    }
+
+    /** Whether marketing mail goes through a different engine from the rest. */
+    public static function splitEngines(): bool
+    {
+        return static::marketingEngine() !== static::siteEngine();
+    }
+
+    /** The transport a message goes out through: the newsletter engine's for marketing mail. */
+    protected function transportFor(Message $message): ?TransportInterface
+    {
+        if (!$message->isMarketing() || !static::splitEngines()) {
+            return $this->transport;
+        }
+
+        if ($this->marketingTransport === null) {
+            $this->marketingTransport = static::getTransport(static::marketingEngine());
+        }
+
+        return $this->marketingTransport;
     }
 
     /**
@@ -81,6 +194,139 @@ class Email
     public static function debug(): bool
     {
         return Grav::instance()['config']->get('plugins.email.debug') == 'true';
+    }
+
+    /**
+     * Does this copy of the plugin understand the given optional message
+     * parameter?
+     *
+     * Another plugin that wants to pass `headers`, `tags` or `metadata` has to
+     * know whether the Email plugin the site actually has installed will act on
+     * it or quietly drop it, and a version comparison is the wrong tool for
+     * that: it hard-codes a release number into every caller and gets it wrong
+     * the moment a fix is backported. Ask instead:
+     *
+     *     if (method_exists($email, 'supportsParameter') && $email::supportsParameter('headers')) {
+     *         // hand the headers over
+     *     } else {
+     *         // whatever you were doing before
+     *     }
+     *
+     * @param  string  $name
+     * @return bool
+     */
+    public static function supportsParameter(string $name): bool
+    {
+        return in_array($name, self::HEADER_PARAMS, true);
+    }
+
+    /**
+     * Does this copy of the plugin have the given extension point?
+     *
+     * The same question as {@see supportsParameter()} and asked the same way,
+     * about a whole feature rather than one message parameter. `providers` is
+     * the provider contract under `classes/Providers/`: the registry, the
+     * `onEmailProviders` event and the three lookups below. `inbound` is the
+     * inbound mail contract: `Providers\Inbound\InboundGateway`, the built-in
+     * `cloudflare` and `generic` receivers, and the IMAP client in
+     * `Inbound\Imap\ImapMailbox`.
+     *
+     *     if (method_exists($email, 'supportsFeature') && $email::supportsFeature('providers')) {
+     *         $provider = $email::providerFor($engine);
+     *     } else {
+     *         // whatever you were doing before
+     *     }
+     *
+     * The PHP check is not decoration. The provider classes use readonly
+     * promoted properties, which is PHP 8.1, while this plugin still installs
+     * on the 7.3 that Grav 1.7 allows. On such a site the honest answer to
+     * "does this copy have providers" is no, and answering it here means a
+     * caller never reaches a file it cannot parse.
+     *
+     * @param  string  $name
+     * @return bool
+     */
+    public static function supportsFeature(string $name): bool
+    {
+        if ($name === self::FEATURE_PROVIDERS || $name === self::FEATURE_INBOUND) {
+            return PHP_VERSION_ID >= 80100;
+        }
+
+        return false;
+    }
+
+    /**
+     * Every provider a transport plugin registered, collected once.
+     *
+     * `onEmailProviders` is fired the first time this is asked and the answer
+     * is kept for the rest of the request: the plugins that listen build a
+     * value object each and the event is not free, and every screen that asks
+     * this asks it several times.
+     *
+     * @return Providers\ProviderRegistry
+     */
+    public static function providers(): Providers\ProviderRegistry
+    {
+        if (self::$providers !== null) {
+            return self::$providers;
+        }
+
+        $registry = new Providers\ProviderRegistry();
+        self::$providers = $registry;
+
+        Grav::instance()->fireEvent('onEmailProviders', new Event(['providers' => $registry]));
+
+        return $registry;
+    }
+
+    /**
+     * The provider that answers for an engine, or null when no plugin
+     * registered one for it.
+     *
+     * Null is a normal answer with a plain meaning: this transport cannot
+     * report deliveries. Say that rather than showing an address nothing will
+     * ever post to.
+     *
+     * @param  string  $engine
+     * @return Providers\Provider|null
+     */
+    public static function providerFor(string $engine): ?Providers\Provider
+    {
+        return self::providers()->forEngine($engine);
+    }
+
+    /**
+     * The provider with this key, or null.
+     *
+     * @param  string  $key
+     * @return Providers\Provider|null
+     */
+    public static function providerByKey(string $key): ?Providers\Provider
+    {
+        return self::providers()->byKey($key);
+    }
+
+    /**
+     * A mailer for a named engine, rather than for the one this site is
+     * configured with.
+     *
+     * The same transport building the configured mailer uses — the same switch,
+     * the same `onEmailTransportDsn` event, the same Symfony `Transport::fromDsn()`
+     * — with the engine passed in instead of read from the config. Everything
+     * else about how the transport is built is untouched, which is the point:
+     * the configured engine has to keep behaving exactly as it did.
+     *
+     * Nothing sends through this yet. It exists so that a store which one day
+     * wants to send some of its mail through a second provider has somewhere to
+     * ask for that mailer, without that day being the day the transport builder
+     * gets rewritten.
+     *
+     * @param  string  $engine
+     * @return Mailer
+     */
+    public static function buildMailerFor(string $engine): Mailer
+    {
+        return new Mailer(static::getTransport($engine));
     }
 
     /**
@@ -115,14 +361,16 @@ class Email
     public function send(Message $message, ?Envelope $envelope = null): int
     {
         try {
-            $sent_msg = $this->transport->send($message->getEmail(), $envelope);
+            $sent_msg = $this->transportFor($message)->send($message->getEmail(), $envelope);
             $status = 1;
             $this->message = '✅';
-            $this->debug = $sent_msg->getDebug();
+            $this->debug = self::redact($sent_msg->getDebug());
+            $this->sendId = $this->idOf($sent_msg);
         } catch (TransportExceptionInterface $e) {
             $status = 0;
+            $this->sendId = null;
             $this->message = '🛑 ' . $e->getMessage();
-            $this->debug = $e->getDebug();
+            $this->debug = self::redact($e->getDebug());
 
             // Capture HTTP transport errors with the raw response body for easier debugging (e.g., MailerSend 4xx/5xx).
             if ($e instanceof HttpTransportException) {
@@ -150,9 +398,19 @@ class Email
         }
 
         if ($this->debug()) {
-            $log_msg = "Email sent to %s at %s -> %s\n%s";
+            $log_msg = "Email sent to %s at %s -> %s [provider id: %s]\n%s";
             $to = $this->jsonifyRecipients($message->getEmail()->getTo());
-            $message = sprintf($log_msg, $to, date('Y-m-d H:i:s'), $this->message, $this->debug);
+            $message = sprintf(
+                $log_msg,
+                $to,
+                date('Y-m-d H:i:s'),
+                $this->message,
+                // What the provider called it, which is what a delivery webhook
+                // will name and therefore the first thing worth knowing when
+                // one cannot be matched to the message it is about.
+                $this->sendId ?? 'none',
+                $this->debug
+            );
             $this->log->info($message);
         }
 
@@ -161,6 +419,10 @@ class Email
 
     /**
      * Build e-mail message.
+     *
+     * Besides the address, subject and body parameters, `tags` and `metadata`
+     * add the headers the API transports read, and `headers` writes arbitrary
+     * headers by name; see {@see applyHeaders()}.
      *
      * @param array $params
      * @param array $vars
@@ -207,6 +469,15 @@ class Email
         foreach ($defaults as $key => $value) {
             if (!key_exists($key, $params)) {
                 $params[$key] = $value;
+            }
+        }
+
+        // Trim the address parameters up front so a value that is nothing but whitespace is
+        // caught by the checks below, rather than passing them and failing much later with
+        // an unhelpful "email must have a From or a Sender header" from the mailer.
+        foreach (['to', 'from', 'cc', 'bcc', 'reply_to'] as $address_key) {
+            if (isset($params[$address_key]) && is_string($params[$address_key])) {
+                $params[$address_key] = trim($params[$address_key]);
             }
         }
 
@@ -280,10 +551,142 @@ class Email
             }
         }
 
+        // Custom headers go on last, after the addresses, the subject, the tags
+        // and the metadata, so a caller that deliberately sets one of those by
+        // name gets the value it asked for rather than losing to a default.
+        if (isset($params['headers'])) {
+            $this->applyHeaders($message, $params['headers']);
+        }
+
         return $message;
     }
 
     /**
+     * Write arbitrary headers onto a built message.
+     *
+     * `$headers` is a map of header name to value. A value that is a list writes
+     * the header once per entry, which only the headers allowed to repeat will
+     * take. Setting a header that is already on the message replaces it, so
+     * calling this twice with the same name leaves one header rather than two
+     * that clients will disagree about.
+     *
+     * The one this exists for is RFC 8058 one-click unsubscribe, which is a pair:
+     *
+     *     $email->applyHeaders($message, [
+     *         'List-Unsubscribe' => '<mailto:leave@example.com>, <https://example.com/u/abc>',
+     *         'List-Unsubscribe-Post' => 'List-Unsubscribe=One-Click',
+     *     ]);
+     *
+     * Nothing is filtered by name: a plugin sending bulk mail needs
+     * `List-Unsubscribe`, `Precedence` and its own `X-` headers, and there is no
+     * list of "approved" headers that would not be wrong within a year. A name
+     * that is not a valid RFC 5322 field name is skipped and logged, as is a
+     * value Symfony refuses for that particular header, so one bad entry costs
+     * you a header rather than the whole email.
+     *
+     * Public because `buildMessage()` is only one of the two ways a message gets
+     * built here: a plugin that used `message()` can hand its headers over the
+     * same way instead of reaching into the Symfony message itself.
+     *
+     * @param  Message  $message
+     * @param  array  $headers  header name => string value, or a list of values
+     * @return Message
+     */
+    public function applyHeaders(Message $message, array $headers): Message
+    {
+        $bag = $message->getEmail()->getHeaders();
+
+        foreach ($headers as $name => $value) {
+            if (!is_string($name) || !preg_match(self::HEADER_NAME_PATTERN, $name)) {
+                $this->logHeaderSkipped($name, 'that is not a valid header name');
+                continue;
+            }
+
+            $values = is_array($value) ? array_values($value) : [$value];
+            $bad = false;
+            foreach ($values as $line) {
+                if (!is_string($line) && !is_numeric($line)) {
+                    $this->logHeaderSkipped($name, 'the value is a ' . gettype($line) . ', not a string');
+                    $bad = true;
+                    break;
+                }
+            }
+            if ($bad || $values === []) {
+                continue;
+            }
+
+            // Build the header (or headers, when the value was a list) in a bag
+            // of its own first. `addHeader()` picks the class the name calls
+            // for, so a Message-ID becomes an identification header rather than
+            // failing as loose text, and a name that will not take this value —
+            // or a repeat of a name that has to be unique — throws here, where
+            // nothing has been changed yet.
+            $staged = new Headers();
+            try {
+                foreach ($values as $line) {
+                    $staged->addHeader($name, (string) $line);
+                }
+            } catch (\Throwable $e) {
+                $this->logHeaderSkipped($name, $e->getMessage());
+                continue;
+            }
+
+            // Replace rather than append. Symfony refuses a second Message-ID or
+            // Subject outright, and a second List-Unsubscribe is worse than
+            // refused: it goes out, and clients pick whichever one they like.
+            $bag->remove($name);
+            foreach ($staged->all($name) as $header) {
+                $bag->add($header);
+            }
+        }
+
+        return $message;
+    }
+
+    /**
+     * Say in both logs that a header was dropped.
+     *
+     * Loudly, and in both places, for the same reason a failed Twig render is:
+     * a header that silently did not go out is close to impossible to work back
+     * from when the only evidence is mail landing in spam a week later.
+     *
+     * @param  mixed  $name
+     * @param  string  $reason
+     * @return void
+     */
+    protected function logHeaderSkipped($name, string $reason): void
+    {
+        $label = is_string($name) || is_numeric($name) ? (string) $name : gettype($name);
+
+        $this->logWarning(sprintf('Skipped the "%s" email header: %s', $label, $reason));
+    }
+
+    /**
+     * Say something in both this plugin's own log and Grav's.
+     *
+     * Both, because the two have different readers: `logs/email.log` is where
+     * somebody goes once they already suspect the mail, and `logs/grav.log` is
+     * where somebody goes when they have no idea yet.
+     *
+     * @param  string  $report
+     * @return void
+     */
+    protected function logWarning(string $report): void
+    {
+        $this->log->warning($report);
+        Grav::instance()['log']->warning('plugin-email: ' . $report);
+    }
+
+    /**
+     * Turn the `to`, `from`, `cc`, `bcc` or `reply_to` parameter into addresses.
+     *
+     * Anything `createAddress()` refuses is dropped, and every drop is logged.
+     * It used to be dropped in silence, which is the worst possible outcome: an
+     * address parameter that produced nothing at all left `buildMessage()`
+     * skipping the `to()` call entirely, so the message went out with no To
+     * header, the form told the visitor it had been sent, and nothing anywhere
+     * recorded that it had not. See logRecipientsDropped() for what is said.
+     *
      * @param string $type
      * @param array $params
      * @return array
@@ -297,44 +700,131 @@ class Email
         $recipients = $params[$type] ?? Grav::instance()['config']->get('plugins.email.'.$type) ?? [];
 
         $list = [];
+        $dropped = [];
 
         if (!empty($recipients)) {
             if (is_array($recipients)) {
                 if (Utils::isAssoc($recipients) || (count($recipients) ===2 && $this->isValidEmail($recipients[0]) && !$this->isValidEmail($recipients[1]))) {
-                    $address = $this->createAddress($recipients);
-                    if ($address !== null) {
-                        $list[] = $address;
-                    }
+                    $this->collectAddress($recipients, $list, $dropped);
                 } else {
                     foreach ($recipients as $recipient) {
-                        $address = $this->createAddress($recipient);
-                        if ($address !== null) {
-                            $list[] = $address;
-                        }
+                        $this->collectAddress($recipient, $list, $dropped);
                     }
                 }
             } else {
                 if (is_string($recipients) && Utils::contains($recipients, ',')) {
                     $recipients = array_map('trim', explode(',', $recipients));
                     foreach ($recipients as $recipient) {
-                        $address = $this->createAddress($recipient);
-                        if ($address !== null) {
-                            $list[] = $address;
-                        }
+                        $this->collectAddress($recipient, $list, $dropped);
                     }
                 } else {
                     if (!Utils::contains($recipients, ['<','>']) && (isset($params[$type."_name"]))) {
                         $recipients = [$recipients, $params[$type."_name"]];
                     }
-                    $address = $this->createAddress($recipients);
-                    if ($address !== null) {
-                        $list[] = $address;
-                    }
+                    $this->collectAddress($recipients, $list, $dropped);
                 }
             }
         }
 
+        if ($dropped !== []) {
+            $this->logRecipientsDropped($type, $dropped, $list === []);
+        }
+
         return $list;
+    }
+
+    /**
+     * Parse one candidate address onto the list, or onto the dropped pile.
+     *
+     * Exists only so that the five places above which each called
+     * `createAddress()` and discarded a null keep behaving exactly as they did,
+     * while the discarded value is still around to be logged.
+     *
+     * @param  mixed  $candidate
+     * @param  array  $list
+     * @param  array  $dropped
+     * @return void
+     */
+    protected function collectAddress($candidate, array &$list, array &$dropped): void
+    {
+        $address = $this->createAddress($candidate);
+
+        if ($address !== null) {
+            $list[] = $address;
+        } else {
+            $dropped[] = $candidate;
+        }
+    }
+
+    /**
+     * Say in both logs that one or more addresses were thrown away.
+     *
+     * In both places, and at warning level, for the same reason
+     * {@see logHeaderSkipped()} is: the send itself reports success either way,
+     * so without this the only evidence is mail that never arrives.
+     *
+     * The escaping hint is here because that is what causes this in practice. A
+     * `name-addr` value that has been through Twig's `escape` filter — written
+     * as `|e`, or applied by autoescape — reaches the mailer as
+     * `John Doe &lt;john@example.com&gt;`, which is not an email address by any
+     * reading, so it is dropped and the form still says it sent. Address
+     * parameters want `|raw`.
+     *
+     * @param  string  $type  the parameter the addresses came from: to, cc, bcc, ...
+     * @param  array  $dropped  the values that could not be parsed
+     * @param  bool  $none_left  true when nothing usable survived
+     * @return void
+     */
+    protected function logRecipientsDropped(string $type, array $dropped, bool $none_left): void
+    {
+        $count = count($dropped);
+        $values = implode(', ', array_map([$this, 'describeAddressValue'], $dropped));
+
+        // Truncate: a `to` built from a mailing list can be thousands of
+        // addresses long, and a log line that big helps nobody.
+        if (mb_strlen($values) > 200) {
+            $values = mb_substr($values, 0, 200) . '...';
+        }
+
+        $report = sprintf(
+            '%s in the "%s" email parameter could not be parsed and %s dropped: %s. %s %s',
+            $count === 1 ? 'An address' : sprintf('%d addresses', $count),
+            $type,
+            $count === 1 ? 'was' : 'were',
+            $values,
+            $none_left
+                ? sprintf('Nothing usable was left, so the message has no %s addresses at all.', ucwords(str_replace('_', '-', $type), '-'))
+                : 'The message kept the addresses that did parse.',
+            'If the value looks HTML-escaped, a "Name <address>" string has been through Twig\'s escape filter (|e, or autoescape) and arrived as "Name &lt;address&gt;" — use |raw on address parameters.'
+        );
+
+        $this->logWarning($report);
+    }
+
+    /**
+     * Render one rejected address value as something readable in a log line.
+     *
+     * @param  mixed  $value
+     * @return string
+     */
+    protected function describeAddressValue($value): string
+    {
+        if (is_string($value) || is_numeric($value)) {
+            return '"' . trim((string) $value) . '"';
+        }
+
+        if (is_array($value)) {
+            $parts = [];
+            foreach ($value as $key => $item) {
+                $parts[] = is_int($key)
+                    ? $this->describeAddressValue($item)
+                    : $this->describeAddressValue($key) . ' => ' . $this->describeAddressValue($item);
+            }
+
+            return '[' . implode(', ', $parts) . ']';
+        }
+
+        return '(' . gettype($value) . ')';
     }
 
     /**
@@ -344,17 +834,20 @@ class Email
     protected function createAddress($data): ?Address
     {
         if (is_string($data)) {
+            // Trim before matching, or a trailing space defeats the anchored pattern and the
+            // whole "Name <address>" string gets treated as the address itself.
+            $data = trim($data);
             preg_match('/^(.*)\<(.*)\>$/', $data, $matches);
             if (isset($matches[2])) {
-                $email = trim($matches[2]);
-                $name = trim($matches[1]);
+                $email = $matches[2];
+                $name = $matches[1];
             } else {
                 $email = $data;
                 $name = '';
             }
         } elseif (Utils::isAssoc($data)) {
             $first_key = array_key_first($data);
-            if (filter_var($first_key, FILTER_VALIDATE_EMAIL)) {
+            if ($this->isValidEmail($first_key)) {
                 $email = $first_key;
                 $name = $data[$first_key];
             } else {
@@ -365,6 +858,12 @@ class Email
             $email = $data[0] ?? '';
             $name = $data[1] ?? '';
         }
+
+        // Addresses routinely arrive with stray whitespace: a trailing space left in a YAML
+        // value, or a space after a comma in a list. Trim before validating, otherwise the
+        // address is dropped below and the message goes out missing that header entirely.
+        $email = is_string($email) ? trim($email) : '';
+        $name = is_string($name) ? trim($name) : '';
 
         // Skip empty or invalid email addresses
         if (empty($email) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -643,21 +1142,88 @@ class Email
     }
 
     /**
+     * The transport for an engine.
+     *
+     * With no engine named it builds the one this site is configured with,
+     * which is what it has always done and what {@see initMailer()} still asks
+     * for. Naming one is how {@see buildMailerFor()} gets a mailer for a
+     * provider that is not the configured one, and it changes nothing about the
+     * configured path: same switch, same `onEmailTransportDsn` event, same
+     * `Transport::fromDsn()`.
+     *
+     * @param  string|null  $engine
      * @return TransportInterface
      */
-    protected static function getTransport(): Transport\TransportInterface
+    protected static function getTransport(?string $engine = null): Transport\TransportInterface
     {
         /** @var Config $config */
         $config = Grav::instance()['config'];
-        $engine = $config->get('plugins.email.mailer.engine');
-        $dsn = 'null://default';
+        $engine = $engine !== null && trim($engine) !== ''
+            ? trim($engine)
+            : $config->get('plugins.email.mailer.engine');
+        $dsn = static::dsnForEngine((string)$engine, (array)$config->get('plugins.email.mailer'));
 
+        // An engine this plugin does not ship is a transport plugin's, and it
+        // names its own DSN — or hands back a whole transport object, which is
+        // how a plugin using a Symfony bridge registers one.
+        if ($dsn === null) {
+            $dsn = 'null://default';
 
-        // Create the Transport and initialize it.
+            $e = new Event(['engine' => $engine, ]);
+
+            // Everything from here to the transport is somebody else's code
+            // running on every request of the site, long before anything has
+            // decided whether this request sends mail: a provider plugin
+            // naming its DSN, and then Symfony parsing it. Either can throw on
+            // a store that has saved its settings form with one field still
+            // empty — and a throw here is not a failed send, it is a white
+            // screen on every page including the admin, which is where the
+            // field would have been filled in. See UnusableTransport.
+            try {
+                Grav::instance()->fireEvent('onEmailTransportDsn', $e);
+                if (isset($e['dsn'])) {
+                    $dsn = $e['dsn'];
+                }
+
+                return $dsn instanceof TransportInterface ? $dsn : Transport::fromDsn($dsn);
+            } catch (\Throwable $error) {
+                $reason = sprintf('The %s transport could not be set up: %s', $engine, $error->getMessage());
+                Grav::instance()['log']->error('email: ' . $reason);
+
+                return new UnusableTransport($reason);
+            }
+        }
+
+        try {
+            return Transport::fromDsn($dsn);
+        } catch (\Throwable $error) {
+            $reason = sprintf('The %s transport could not be set up: %s', $engine, $error->getMessage());
+            Grav::instance()['log']->error('email: ' . $reason);
+
+            return new UnusableTransport($reason);
+        }
+    }
+
+    /**
+     * The DSN for one of the engines this plugin ships, or null for one it
+     * does not.
+     *
+     * Lifted out of {@see getTransport()} unchanged, line for line, so that the
+     * one part of building a transport that is pure arithmetic on the config
+     * can be read and tested without a booted Grav. Null means "not mine", and
+     * is what sends `getTransport()` to `onEmailTransportDsn` to ask the
+     * plugins.
+     *
+     * @param  string  $engine
+     * @param  array   $mailer  the `plugins.email.mailer` config block
+     * @return string|null
+     */
+    protected static function dsnForEngine(string $engine, array $mailer): ?string
+    {
         switch ($engine) {
             case 'smtps':
             case 'smtp':
-                $options = $config->get('plugins.email.mailer.smtp');
+                $options = $mailer['smtp'] ?? [];
                 $dsn = $engine . '://';
                 $auth = '';
 
@@ -682,34 +1248,22 @@ class Email
                 if (isset($options['options'])) {
                     $dsn .= '?' . http_build_query($options['options']);
                 }
-                break;
+
+                return $dsn;
             case 'mail':
             case 'native':
-                $dsn = 'native://default';
-                break;
+                return 'native://default';
             case 'sendmail':
                 $dsn = 'sendmail://default';
-                $bin = $config->get('plugins.email.mailer.sendmail.bin');
+                $bin = $mailer['sendmail']['bin'] ?? null;
                 if (isset($bin)) {
                     $dsn .= '?command=' . urlencode($bin);
                 }
-                break;
-            default:
-                $e = new Event(['engine' => $engine, ]);
-                Grav::instance()->fireEvent('onEmailTransportDsn', $e);
-                if (isset($e['dsn'])) {
-                    $dsn = $e['dsn'];
-                }
-                break;
+
+                return $dsn;
         }
 
-        if ($dsn instanceof TransportInterface) {
-            $transport = $dsn;
-        } else {
-           $transport = Transport::fromDsn($dsn) ;
-        }
-
-        return $transport;
+        return null;
     }
 
     /**
@@ -722,12 +1276,198 @@ class Email
     }
 
     /**
+     * The transport's debug output with every credential taken out.
+     *
+     * Symfony's HTTP transports record the whole request, headers included, and
+     * the SMTP transport records the AUTH exchange, so with debug on every API
+     * key, token and password the site sends with went into `logs/email.log`.
+     * What is replaced: the value of an `Authorization` header and of the
+     * header-borne tokens providers use (Postmark's server token, `X-Api-Key`,
+     * `Api-Key`), and the client's side of SMTP AUTH, which is the password in
+     * base64.
+     */
+    public static function redact(?string $debug): string
+    {
+        $debug = (string)$debug;
+        if ($debug === '') {
+            return '';
+        }
+
+        $lines = preg_split('/(\r\n|\n|\r)/', $debug, -1, PREG_SPLIT_DELIM_CAPTURE) ?: [$debug];
+
+        // Client lines still owed to an SMTP AUTH exchange, which carry the
+        // user name and password in base64 whatever the server's prompt says.
+        $owed = 0;
+
+        foreach ($lines as $i => $line) {
+            if ($i % 2 === 1) {
+                continue; // a line break
+            }
+
+            // A header whose whole value is a credential, to the end of the
+            // line: Authorization (Bearer, Basic, AWS SigV4 and the rest) and
+            // the token headers providers use.
+            $line = (string)preg_replace(
+                '/(\b(?:(?:proxy-)?authorization\s*:\s*(?:(?:bearer|basic|token|digest|apikey|key)\s+)?|(?:x-postmark-(?:server|account)-token|x-api-key|api-key|x-auth-token|x-amz-security-token)\s*:\s*))\S.*$/i',
+                '$1<redacted>',
+                $line
+            );
+
+            if (preg_match('/^(\s*>\s*)AUTH\s+(PLAIN|LOGIN|XOAUTH2|OAUTHBEARER|CRAM-MD5)\b(.*)$/i', $line, $m) === 1) {
+                $inline = trim($m[3]) !== '';
+                $line = $m[1] . 'AUTH ' . strtoupper($m[2]) . ($inline ? ' <redacted>' : '');
+                if (strtoupper($m[2]) === 'LOGIN') {
+                    $owed = $inline ? 1 : 2;
+                } else {
+                    $owed = $inline ? 0 : 1;
+                }
+            } elseif ($owed > 0 && preg_match('/^(\s*>\s*)\S/', $line, $m) === 1) {
+                $line = $m[1] . '<redacted>';
+                $owed--;
+            } elseif ($owed > 0 && preg_match('/^\s*<\s*(?:235|[45]\d\d)\b/', $line) === 1) {
+                $owed = 0;
+            }
+
+            $lines[$i] = $line;
+        }
+
+        return implode('', $lines);
+    }
+
+    /**
      * Get any debug information from the last send attempt
      * @return string|null
      */
     public function getLastSendDebug(): ?string
     {
         return $this->debug;
+    }
+
+    /**
+     * The provider's own id for the last message sent, or null.
+     *
+     * Null on a failed send, on a transport that answers no id, and on SMTP,
+     * where the id belongs to the receiving server rather than to a provider's
+     * API. A caller storing this can join a delivery webhook to the message it
+     * is about without depending on the provider echoing a header or repeating
+     * the `Message-ID` it was given — neither of which every provider does.
+     *
+     * @return string|null
+     */
+    public function getLastSendId(): ?string
+    {
+        return $this->sendId;
+    }
+
+    /**
+     * The id off a SentMessage, where there is one worth keeping.
+     *
+     * Symfony's SMTP transports put the message's own `Message-ID` here, which
+     * the caller already knows and which is not what a webhook will name, so
+     * only an id that differs from the one on the message is an answer. An
+     * empty string is not an id either: a transport that sets one from a
+     * missing response field answers `''` rather than null.
+     */
+    protected function idOf(SentMessage $sent): ?string
+    {
+        $id = trim((string)$sent->getMessageId());
+        if ($id === '') {
+            // Nothing from the transport, which is every SMTP send: Symfony's
+            // `SmtpTransport` reads the server's answer to the message, checks
+            // the response code and drops the line. But it also appends the
+            // whole conversation to the `SentMessage`, so the answer is still
+            // here to be read. See queuedIdIn().
+            return self::queuedIdIn((string)$sent->getDebug());
+        }
+
+        // `Message-ID` is an identification header, and Symfony answers those
+        // with a *list* of ids rather than a string — so this was casting an
+        // array and comparing against the word "Array", which no id has ever
+        // equalled. The guard has therefore never once fired, and every
+        // transport that answers its send with the message's own id has been
+        // recording that id as the provider's.
+        $ours = $sent->getOriginalMessage()->getHeaders()->getHeaderBody('Message-ID');
+        $ours = \is_array($ours) ? (string)($ours[0] ?? '') : (string)$ours;
+
+        // Compared without the angle brackets, because whether they are there
+        // is the transport's habit rather than a difference in the id. Mailgun
+        // answers its send with `<the-message-id@domain>` — the same id the
+        // message left with, in its wire form — and only one side of this was
+        // being unwrapped, so it read as a new id from the provider and got
+        // stored as one. What that produced was a `provider_message_id` column
+        // holding the store's own Message-ID, which then matched no event: the
+        // id Mailgun names in a webhook is a different string again.
+        return self::bare($id) === self::bare($ours) ? null : $id;
+    }
+
+    /**
+     * A message id without the angle brackets a header carries it in.
+     */
+    private static function bare(string $id): string
+    {
+        return trim(trim($id), '<>');
+    }
+
+    /**
+     * The id the receiving server gave the message, out of the SMTP transcript.
+     *
+     * `250 Message queued as 68bf1c…` — the last thing a server says after the
+     * message body, and on a provider's own relay it is that provider's id for
+     * the message. MailerSend documents the id in this line as the same one
+     * their webhooks report events under, and since their webhooks carry no
+     * headers, no metadata and not the `Message-ID` either, it is the only
+     * handle a store on SMTP will ever get from them. SMTP2GO and SendGrid
+     * answer the same way in `queued as`, and an Exim relay in `id=`.
+     *
+     * On a plain relay that is not a provider — a store's own Postfix — the id
+     * belongs to that server and no webhook will ever name it. That costs
+     * nothing: the id is only ever used to look an event up by, and one nothing
+     * reports simply never matches.
+     *
+     * The final response only. Everything before it is the answer to `MAIL
+     * FROM` and each `RCPT TO`, which are about an address rather than about
+     * the message.
+     */
+    private static function queuedIdIn(string $debug): ?string
+    {
+        if ($debug === '') {
+            return null;
+        }
+
+        // Their own words, in the order servers use them.
+        $patterns = [
+            '/\bqueued as\s+([^\s<>]+)/i',
+            '/\bid=([^\s<>]+)/i',
+        ];
+
+        // Read from the end, because a transcript holds one line per command
+        // and the message's own answer is the last of them.
+        $lines = array_reverse(preg_split('/\r\n|\r|\n/', $debug) ?: []);
+
+        foreach ($lines as $line) {
+            // Symfony writes the transcript as a dialogue — `> ` for what was
+            // sent and `< ` for what came back — so the response code is not
+            // at the start of the line.
+            $line = ltrim($line, " \t<>");
+
+            if (!str_starts_with($line, '250')) {
+                continue;
+            }
+
+            foreach ($patterns as $pattern) {
+                if (preg_match($pattern, $line, $found) === 1) {
+                    $id = trim($found[1], " \t.,;");
+
+                    return $id === '' ? null : $id;
+                }
+            }
+
+            // A `250` with nothing nameable in it — "250 2.0.0 Ok" — is a
+            // server that accepted the message without giving it a name.
+            return null;
+        }
+
+        return null;
     }
 
     /**
@@ -745,7 +1485,7 @@ class Email
 
     protected function isValidEmail($email): bool
     {
-        return is_string($email) && filter_var($email, FILTER_VALIDATE_EMAIL) !== false;
+        return is_string($email) && filter_var(trim($email), FILTER_VALIDATE_EMAIL) !== false;
     }
 
     /**

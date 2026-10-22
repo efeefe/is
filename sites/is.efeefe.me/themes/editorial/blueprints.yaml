@@ -1,7 +1,7 @@
 name: Editorial
 slug: editorial
 type: theme
-version: 3.4.0
+version: 4.4.1
 description: GravCMS port of the HTML5UP theme Editorial
 icon: text-width
 author:
@@ -14,9 +14,11 @@ keywords: grav, theme, etc
 bugs: https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues
 readme: https://github.com/pmoreno-rodriguez/grav-theme-editorial/blob/develop/README.md
 license: MIT
+compatibility:
+  grav: ["1.7", "2.0"]
 
 dependencies:
-  - { name: grav, version: '>=1.7.49.5' }
+  - { name: grav, version: ">=1.7.49.5" }
 
 form:
   validation: loose
@@ -24,7 +26,7 @@ form:
   fields:
     general:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.THEME_CONFIG
+      title: EDITORIAL.ADMIN.THEME_GLOBAL_SETTING
       collapsible: true
       collapsed: false
       import@:
@@ -33,7 +35,7 @@ form:
 
     header:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.HEADER_SECTION
+      title: EDITORIAL.ADMIN.THEME_HEADER_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -42,7 +44,7 @@ form:
 
     sidebar:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.SIDEBAR.SECTION
+      title: EDITORIAL.ADMIN.THEME_SIDEBAR_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -51,7 +53,7 @@ form:
 
     blog:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.BLOG.DEFAULTS
+      title: EDITORIAL.ADMIN.THEME_BLOG_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -60,7 +62,7 @@ form:
 
     contact:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.CONTACT.TITLE
+      title: EDITORIAL.ADMIN.THEME_CONTACT_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -69,7 +71,7 @@ form:
 
     social:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.SOCIAL.TITLE
+      title: EDITORIAL.ADMIN.THEME_SOCIAL_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -78,7 +80,7 @@ form:
 
     custommenu:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.CUSTOM_MENU.TITLE
+      title: EDITORIAL.ADMIN.THEME_CUSTOM_MENU_SETTING
       collapsible: true
       collapsed: true
       import@:
@@ -87,7 +89,7 @@ form:
 
     seo:
       type: fieldset
-      title: EDITORIAL.ADMIN.THEME.SEO.TITLE
+      title: EDITORIAL.ADMIN.THEME_SEO_SETTING
       collapsible: true
       collapsed: true
       import@:

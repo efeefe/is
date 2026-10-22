@@ -1,3 +1,113 @@
+# v4.4.1
+## 09/18/2026
+
+1. [](#improved)
+   * Updated README documentation with complete compatibility information and template details
+   * Removed custom WordCount Twig extension in favor of built-in Grav core filter
+
+# v4.4.0
+## 09/06/2026
+
+1. [](#improved)
+   * Enhanced Grav 2 Admin2 compatibility with flattened translation key hierarchy and ICU (International Components for Unicode) format support
+   * Fixed minor translation inconsistencies in French and German language files
+
+# v4.3.2
+## 08/21/2026
+
+1. [](#improved)
+   * Standardized translations across all supported languages for better consistency and compatibility with both Grav 1.7 and Grav 2.
+2. [](#bugfix)
+   * Fixed blog listing cards to correctly use each post's `header.featured_image` instead of always falling back to the first image in the post's media folder ([#86](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/86)).
+
+# v4.3.1
+## 08/20/2026
+
+1. [](#bugfix)
+   * Fixed translation string synchronization across all language files (en, es, de, fr)
+
+# v4.3.0
+## 08/20/2026
+
+1. [](#new)
+   * Added blog categories sidebar widget with post count display
+2. [](#improved)
+   * Reorganized and centralized sidebar configuration in sidebar.yaml
+   * Standardized toggle labels and added ICU translations for Grav 2 Admin Next
+   * Updated header styling for improved logo and text alignment
+
+# v4.2.1
+## 08/11/2026
+
+1. [](#bugfix)
+   * Removed flex layout constraints from header styling for better responsiveness
+   * Fixed language switcher section rendering with added validation for langswitcher.languages
+
+# v4.2.0
+## 08/08/2026
+
+1. [](#improved)
+   * Fixed inconsistent styling for JSON feed button in sidebar ([PR#85](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/85))
+   * Added proper header formatting for SYNDICATE section title ([PR#85](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/85))
+   * Enhanced date localization with optional Intl plugin support for internationalized dates
+
+# v4.1.0
+## 07/04/2026
+
+1. [](#improved)
+   * Changed social icon field from iconpicker to text input for better compatibility
+
+# v4.0.0
+## 07/03/2026
+
+1. [](#improved)
+   * Added 1.7|2.0 compatibility flags
+   * Updated Twig templates for Grav 2.0 compatibility
+   * Simplified date handling - removed translate-date and twig-extensions plugins
+
+# v3.4.0
+## 04/23/2026
+
+1. [](#new)
+   * Added per-page social icon controls for blog item pages
+   * Added translations for the new social icon controls
+2. [](#improved)
+   * Improved button styles and recompiled main CSS assets
+   * Improved the Recent Posts modular template
+   * Hide the Featured Posts sidebar section when no featured articles are available
+
+# v3.3.0
+## 02/05/2026
+
+1. [](#new)
+   * Added modular Text Blocks template with configurable columns and boxed content styles.
+2. [](#improved)
+   * Improved box typography handling for links, tables, and list elements in colored boxes.
+   * Updated demo content with new Text Blocks modular page.
+
+# v3.2.3
+# v4.2.0
+## 08/08/2026
+
+1. [](#improved)
+   * Fixed inconsistent styling for JSON feed button in sidebar ([PR#85](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/85))
+   * Added proper header formatting for SYNDICATE section title ([PR#85](https://github.com/pmoreno-rodriguez/grav-theme-editorial/issues/85))
+   * Enhanced date localization with optional Intl plugin support for internationalized dates
+
+# v4.1.0
+## 07/04/2026
+
+1. [](#improved)
+   * Changed social icon field from iconpicker to text input for better compatibility
+
+# v4.0.0
+## 07/03/2026
+
+1. [](#improved)
+   * Added 1.7|2.0 compatibility flags
+   * Updated Twig templates for Grav 2.0 compatibility
+   * Simplified date handling - removed translate-date and twig-extensions plugins
+
 # v3.4.0
 ## 04/23/2026
 

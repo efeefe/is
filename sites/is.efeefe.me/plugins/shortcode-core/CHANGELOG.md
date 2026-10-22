@@ -1,3 +1,21 @@
+# v6.2.6
+## 09/09/2026
+
+1. [](#new)
+    * Individual built-in shortcodes can now be switched off. A new Excluded Default Shortcodes setting takes tag names, so you can retire just `[fa]` and keep the other twenty-eight, where before the only choice was all of them or none. Thanks to @onetrev [getgrav/grav#4288](https://github.com/getgrav/grav/issues/4288)
+
+1. [](#bugfix)
+    * The Editor Pro shortcode picker no longer offers the built-in tags when they are switched off, which left you inserting a shortcode that renders as literal text
+    * `[safe-email]` only loads Font Awesome when an icon was actually asked for. A plain address was fetching a webfont it never drew
+    * Two stray debug lines no longer write to the PHP error log every time the editor loads
+
+# v6.2.5
+## 08/11/2026
+
+1. [](#bugfix)
+    * [security] The `[lorem]` shortcode's `tag` option is now restricted to a plain tag name, closing a hole where a crafted value could attach an event handler to the generated markup and run script in a visitor's or an administrator's browser ([GHSA-hvm8-wx3f-j774](https://github.com/getgrav/grav/security/advisories/GHSA-hvm8-wx3f-j774)).
+    * [security] The `[details]` shortcode's `summary` text is now escaped when written into the page, so markup in a summary is shown as text instead of being rendered.
+
 # v6.2.4
 ## 08/06/2026
 

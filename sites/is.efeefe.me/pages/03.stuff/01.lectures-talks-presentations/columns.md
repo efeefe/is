@@ -17,9 +17,19 @@ seo:
 ---
 ## Recent
 
+### OpenForum Academy Symposium 2025: Open Technology Impact in Uncertain Times, Rio de Janeiro, 2025
+
+Presentation [ThingData: Unlocking Economic Value in the Material Commons through Open Data as a Digital Public Good for SDGs
+](https://zenodo.org/records/17344097). Video recording available on [YouTube](https://www.youtube.com/watch?v=p2I50aD8E00).
+
 ### Fixfest London 2025
 
 Keynote "Irreparable futures?". Video recording available on [YouTube](https://www.youtube.com/watch?v=Pz_u82vf_5Q&list=PLuRLn6aJYSF9ThsgGYzMmsSjeVhCXEV8v&index=5&t=322s&pp=iAQB). 
+
+### Fab Conference 2025, Brno, Czechia
+
+- Ligthning talk: [Reuse Academy: how to reuse (almost) anything](https://fab25.fabevent.org/programs/schedule?title=reuse-academy-how-to-reuse-almost-anything&day=2025-07-05&event=2766d520-d2fa-47e5-b6a4-398521481abe)
+- Workshop: [Designing the Reuse Economy: Material Valuer Skills](https://fab25.fabevent.org/programs/schedule?title=designing-the-reuse-economy-material-valuer-skills&day=2025-07-06&event=4bb034b9-3364-407a-a393-116c1ee2df1b)
 
 ### NØSCHOOL Nevers 2025
 

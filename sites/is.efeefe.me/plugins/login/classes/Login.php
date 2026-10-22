@@ -40,6 +40,9 @@ class Login
 {
     public const DEBUG = 0;
 
+    /** @var int How long an email change confirmation link works, in seconds (one day). */
+    public const EMAIL_CHANGE_TTL = 86400;
+
     /** @var Grav */
     protected $grav;
 
@@ -97,13 +100,17 @@ class Login
      * permission and/or group. Shared by the `authenticated()` Twig function
      * and the `[authenticated]` / `[guest]` shortcodes:
      *
-     *     $grav['login']->isAuthenticated()                  logged in at all
+     *     $grav['login']->isAuthenticated()                  fully logged in
      *     $grav['login']->isAuthenticated('admin.super')     logged in + authorized
      *     $grav['login']->isAuthenticated(null, 'editors')   logged in + in group
      *
      * `permission` and `group` each accept a single value or a list, and match
      * if the user satisfies any one of them. When both are given the user must
      * satisfy both.
+     *
+     * A session which has passed the password step but has not yet answered the
+     * two-factor challenge is `authenticated` but not `authorized`, and is not
+     * logged in for any of these checks.
      *
      * @param string|array|null $permission Permission action(s) to authorize.
      * @param string|array|null $group      Group name(s) the user must be in.
@@ -112,6 +119,14 @@ class Login
     {
         $user = $this->grav['user'] ?? null;
         if (!$user instanceof UserInterface || !$user->authenticated) {
+            return false;
+        }
+
+        // Two-factor challenge still open: the password step alone is not a login.
+        // The permission branch below inherits this from UserObject::authorize(), but
+        // the no-argument and group forms never reach it, so gate all three here.
+        // Same test as Login::isUserAuthorizedForPage(). (GHSA-636m-8598-45r9)
+        if (!$user->authorized) {
             return false;
         }
 
@@ -358,19 +373,26 @@ class Login
     {
         $ipKey = $this->getIpKey($ip);
         $rateLimiter = $this->getRateLimiter('login_attempts');
-        // Link the IP counter to the username so an administrator unlocking the
-        // account can clear the IP side too, which is what the check below hits
-        // first.
-        $rateLimiter->registerRateLimitedAction($ipKey, 'ip', ['username' => $username])
-            ->registerRateLimitedAction($username);
 
-        // Check rate limit for both IP and user, but allow each IP a single try even if user is already rate limited.
-        $attempts = \count($rateLimiter->getAttempts($ipKey, 'ip'));
-        if ($rateLimiter->isRateLimited($ipKey, 'ip') || ($attempts && $rateLimiter->isRateLimited($username))) {
-            return $rateLimiter->getInterval();
+        // Refuse at the limit without registering the attempt, so retrying while
+        // locked out can't keep pushing the end of the lockout further away.
+        if (!$rateLimiter->hasReachedLimit($ipKey, 'ip') && !$rateLimiter->hasReachedLimit($username)) {
+            // Link the IP counter to the username so an administrator unlocking the
+            // account can clear the IP side too.
+            $rateLimiter->registerRateLimitedAction($ipKey, 'ip', ['username' => $username])
+                ->registerRateLimitedAction($username);
+
+            return 0;
         }
 
-        return 0;
+        // Still record which account was tried from a locked IP, without counting
+        // the attempt, so the lockout lists and unlock-user can find it.
+        $rateLimiter->addLinks($ipKey, 'ip', ['username' => $username]);
+
+        $seconds = max($rateLimiter->getRetryAfter($ipKey, 'ip'), $rateLimiter->getRetryAfter($username));
+
+        // The oldest attempt can expire between the check above and this one.
+        return max(1, (int)ceil($seconds / 60));
     }
 
     /**
@@ -391,14 +413,14 @@ class Login
      */
     public static function getRateLimitContexts(): array
     {
-        return ['login_attempts', 'pw_resets', 'magic_links', 'token_attempts', 'registrations'];
+        return ['login_attempts', 'twofa_attempts', 'pw_resets', 'magic_links', 'token_attempts', 'registrations', 'email_changes'];
     }
 
     /**
      * Every account currently locked out of logging in.
      *
      * Mirrors checkLoginRateLimit(): an account counts as locked when its own
-     * counter is over the limit, or when an IP it has been tried from is. The
+     * counter has reached the limit, or when an IP it has been tried from has. The
      * whole set is resolved in one sweep of the index so that listing N accounts
      * costs one pass, not N.
      *
@@ -409,7 +431,7 @@ class Login
         $rateLimiter = $this->getRateLimiter('login_attempts');
 
         $locked = [];
-        foreach ($rateLimiter->getRegisteredKeys(null, true) as $entry) {
+        foreach ($rateLimiter->getRegisteredKeys(null, true, true) as $entry) {
             if ($entry['type'] === 'username') {
                 $existing = $locked[$entry['key']] ?? ['attempts' => 0, 'last' => null, 'by_ip' => false];
                 $locked[$entry['key']] = [
@@ -509,7 +531,7 @@ class Login
     {
         $out = [];
         foreach (static::getRateLimitContexts() as $context) {
-            $entries = $this->getRateLimiter($context)->getRegisteredKeys(null, $limitedOnly);
+            $entries = $this->getRateLimiter($context)->getRegisteredKeys(null, $limitedOnly, $context === 'login_attempts');
             if ($entries) {
                 $out[$context] = $entries;
             }
@@ -686,12 +708,180 @@ class Login
         $token = md5(uniqid($random_bytes, true));
         $expire = time() + 604800; // next week
         $user->activation_token = $token . '::' . $expire;
+        // The link only proves the address it was mailed to, so remember which one.
+        $user->activation_email = (string)$user->email;
         $user->save();
 
         try {
             Email::sendActivationEmail($user);
         } catch (\Exception $e) {
             throw new \RuntimeException($this->language->translate('PLUGIN_LOGIN.EMAIL_SENDING_FAILURE'));
+        }
+
+        return true;
+    }
+
+    /**
+     * Whether the account's current email address has been proven by its owner.
+     *
+     * True when the address on the account is the one recorded by the last
+     * confirmed email change or account activation. An administrator editing the
+     * address afterwards, or a profile save with `profile.verify_email_change`
+     * turned off, makes this false again until the new address is confirmed.
+     *
+     * @param UserInterface $user
+     * @return bool
+     */
+    public function isEmailVerified(UserInterface $user): bool
+    {
+        $email = trim((string)$user->get('email', ''));
+        $verified = trim((string)$user->get('email_verified', ''));
+
+        return $email !== '' && $verified !== '' && mb_strtolower($email) === mb_strtolower($verified);
+    }
+
+    /**
+     * Record that the account's current email address has been proven.
+     *
+     * Sets `email_verified` (the address) and `email_verified_at` (a Unix
+     * timestamp). The caller saves the account.
+     *
+     * @param UserInterface $user
+     * @return void
+     */
+    public function markEmailVerified(UserInterface $user): void
+    {
+        $user->email_verified = (string)$user->get('email', '');
+        $user->email_verified_at = time();
+    }
+
+    /**
+     * Whether an address already belongs to an account other than this one.
+     *
+     * @param UserInterface $user
+     * @param string $email
+     * @return bool
+     */
+    public function emailBelongsToAnother(UserInterface $user, string $email): bool
+    {
+        /** @var UserCollectionInterface $users */
+        $users = $this->grav['accounts'];
+        $existing = $users->find($email, ['email']);
+
+        return $existing->exists() && $existing->username !== $user->username;
+    }
+
+    /**
+     * Start an email change: keep the new address as pending on the account and
+     * mail a confirmation link to it. The account's `email` is left alone until
+     * the link is opened. A second request replaces the first one, so an older
+     * link stops working.
+     *
+     * When the address already belongs to another account nothing is mailed,
+     * but the account still shows the change as waiting, so the profile form
+     * answers the same way it does for a free address.
+     *
+     * @param UserInterface $user
+     * @param string $email
+     * @return bool True if the action was performed.
+     * @throws \RuntimeException
+     */
+    public function requestEmailChange(UserInterface $user, string $email)
+    {
+        try {
+            $token = bin2hex(random_bytes(16));
+        } catch (\Exception $e) {
+            $token = md5(uniqid((string)mt_rand(), true));
+        }
+
+        $expire = time() + static::EMAIL_CHANGE_TTL;
+
+        $user->email_pending = $email;
+        $user->email_change_token = $token . '::' . $expire;
+        $user->save();
+
+        if ($this->emailBelongsToAnother($user, $email)) {
+            $this->grav['log']->info(sprintf('plugin.login: email change for "%s" not mailed, the address belongs to another account', $user->username));
+
+            return true;
+        }
+
+        try {
+            Email::sendEmailChangeEmail($user);
+        } catch (\Exception $e) {
+            throw new \RuntimeException($this->language->translate('PLUGIN_LOGIN.EMAIL_SENDING_FAILURE'));
+        }
+
+        return true;
+    }
+
+    /**
+     * Copy the email fields from the stored account onto the session's copy.
+     *
+     * The session keeps its own copy of the account, and the confirmation link
+     * is often opened in another browser. Without this, the profile page would
+     * show the old address and the next profile save would write it back.
+     *
+     * @param UserInterface $user
+     * @return void
+     */
+    public function refreshEmailFields(UserInterface $user): void
+    {
+        if (!$user->exists()) {
+            return;
+        }
+
+        /** @var UserCollectionInterface $users */
+        $users = $this->grav['accounts'];
+        $stored = $users->load($user->username);
+        if ($stored === $user || !$stored->exists()) {
+            return;
+        }
+        if (is_callable([$stored, 'refresh'])) {
+            $stored->refresh(true);
+        }
+
+        foreach (['email', 'email_pending', 'email_change_token', 'email_verified', 'email_verified_at'] as $field) {
+            $value = $stored->get($field);
+            if ($value === null) {
+                unset($user->{$field});
+            } else {
+                $user->{$field} = $value;
+            }
+        }
+    }
+
+    /**
+     * Drop a waiting email change. The caller saves the account.
+     *
+     * @param UserInterface $user
+     * @return void
+     */
+    public function clearEmailChange(UserInterface $user): void
+    {
+        unset($user->email_pending, $user->email_change_token);
+    }
+
+    /**
+     * Tell the old address that the account's email has changed. A delivery
+     * failure is logged, since the change itself has already happened.
+     *
+     * @param UserInterface $user
+     * @param string $oldEmail
+     * @return bool True if the action was performed.
+     */
+    public function sendEmailChangedNotice(UserInterface $user, string $oldEmail)
+    {
+        if ($oldEmail === '') {
+            return false;
+        }
+
+        try {
+            Email::sendEmailChangedNotice($user, $oldEmail);
+        } catch (\Exception $e) {
+            $this->grav['log']->error('plugin.login: could not send email changed notice: ' . $e->getMessage());
+
+            return false;
         }
 
         return true;
@@ -854,6 +1044,15 @@ class Login
                     $maxCount = $this->grav['config']->get('plugins.login.max_token_attempts_count', 5);
                     $interval = $this->grav['config']->get('plugins.login.max_token_attempts_interval', 60);
                     break;
+                case 'twofa_attempts':
+                    // The 2FA code is six digits with three valid windows, so the
+                    // throttle IS the second factor's boundary, not depth behind
+                    // it. It needs its own counter: login_attempts is cleared the
+                    // moment the password verifies, which is exactly what an
+                    // attacker re-doing the password to get a fresh challenge does.
+                    $maxCount = $this->grav['config']->get('plugins.login.max_twofa_count', 5);
+                    $interval = $this->grav['config']->get('plugins.login.max_twofa_interval', 10);
+                    break;
                 case 'registrations':
                     $maxCount = $this->grav['config']->get('plugins.login.user_registration.max_attempts_count', 10);
                     $interval = $this->grav['config']->get('plugins.login.user_registration.max_attempts_interval', 60);
@@ -861,6 +1060,10 @@ class Login
                 case 'magic_links':
                     $maxCount = $this->grav['config']->get('plugins.login.magic_link.max_requests_count', 3);
                     $interval = $this->grav['config']->get('plugins.login.magic_link.max_requests_interval', 60);
+                    break;
+                case 'email_changes':
+                    $maxCount = $this->grav['config']->get('plugins.login.profile.max_email_changes_count', 5);
+                    $interval = $this->grav['config']->get('plugins.login.profile.max_email_changes_interval', 60);
                     break;
             }
             $this->rateLimiters[$context] = new RateLimiter($context, $maxCount, $interval);
@@ -882,7 +1085,14 @@ class Login
             return null;
         }
 
-        if ($page) {
+        // Password-reset URLs carry a bearer credential. Never render a
+        // user-authored page at that route: page content is sandboxed, but it
+        // can still read request parameters and ordinary template variables.
+        // The bundled page and trusted template are the only renderers allowed
+        // to receive the reset request.
+        if ($type === 'reset') {
+            $page = null;
+        } elseif ($page) {
             $page->route($route);
             $page->slug(basename($route));
         } else {
@@ -890,12 +1100,14 @@ class Login
             $pages = $this->grav['pages'];
             $page = $pages->find($route);
         }
+
         if (!$page instanceof PageInterface) {
             // Only add login page if it hasn't already been defined.
             $page = new Page();
             $page->init(new \SplFileInfo('plugin://login/pages/' . $type . '.md'));
             $page->route($route);
             $page->slug(basename($route));
+            $this->translatePageTitle($page, $type);
         }
 
         // Login page may not have the correct Cache-Control header set, force no-store for the proxies.
@@ -905,6 +1117,46 @@ class Login
         }
 
         return $page;
+    }
+
+    /**
+     * Translate the title of a page the plugin provides itself.
+     *
+     * Page frontmatter is plain YAML: `title:` is never run through the
+     * translator, and Twig in frontmatter is gated off by default on Grav 2, so
+     * there is no in-content equivalent for the title the way there is for the
+     * body ([translate] shortcode). Only pages the plugin built are touched: a
+     * page the site provides at the same route keeps its own title.
+     *
+     * @param PageInterface $page
+     * @param string $type
+     * @return void
+     */
+    protected function translatePageTitle(PageInterface $page, string $type): void
+    {
+        $keys = [
+            'login' => 'PLUGIN_LOGIN.LOGIN_PAGE_TITLE',
+            'forgot' => 'PLUGIN_LOGIN.FORGOT_PAGE_TITLE',
+            'magic' => 'PLUGIN_LOGIN.MAGIC_PAGE_TITLE',
+            'reset' => 'PLUGIN_LOGIN.RESET_PAGE_TITLE',
+            'register' => 'PLUGIN_LOGIN.REGISTER_PAGE_TITLE',
+            'profile' => 'PLUGIN_LOGIN.PROFILE_PAGE_TITLE',
+            'unauthorized' => 'PLUGIN_LOGIN.UNAUTHORIZED_PAGE_TITLE',
+        ];
+
+        $key = $keys[$type] ?? null;
+        if (null === $key) {
+            return;
+        }
+
+        /** @var Language $language */
+        $language = $this->grav['language'];
+        $title = $language->translate([$key]);
+
+        // translate() hands back the key itself when nothing matched.
+        if ($title !== $key && $title !== '') {
+            $page->title($title);
+        }
     }
 
     /**
@@ -932,7 +1184,7 @@ class Login
     /**
      * Get route to a given login page.
      *
-     * @param string $type Use one of: login, activate, forgot, reset, magic, magic_login, profile, unauthorized,
+     * @param string $type Use one of: login, activate, confirm_email, forgot, reset, magic, magic_login, profile, unauthorized,
      *                     after_login, after_logout, register, after_registration, after_activation
      * @param bool|null $enabled
      * @return string|null Returns route or null if the route has been disabled.
@@ -944,6 +1196,7 @@ class Login
                 $route = $this->config->get('plugins.login.route');
                 break;
             case 'activate':
+            case 'confirm_email':
             case 'forgot':
             case 'reset':
             case 'magic':

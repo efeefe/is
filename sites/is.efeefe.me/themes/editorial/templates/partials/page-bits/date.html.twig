@@ -1,20 +1,10 @@
-{# Set page datestamp in folowing order with support for translations #}
-{# FIRST: Page publication date #}
-{# SECOND: Page date #}
-{# LAST: Page modification date #}
+{# Date fallback order: publish_date → page.date → page.modified #}
+{% set raw_date = page.header.publish_date ?: (page.date ?: page.modified) %}
 
-{# SET DEFAULT GRAV LANGUAGE #}
-{% set lang = grav.language.getActive ?: grav.config.site.default_lang %}
+{% set intl_available = config.plugins.intl.enabled|default(false) %}
 
-{% set default_format = system.pages.dateformat.default %}
-{% set short_format = system.pages.dateformat.short %}
-
-{% if config.plugins['translate-date'].enabled %}
-    {% set datestamp = (page.header.publish_date) ? (page.header.publish_date|td(lang, default_format)) : (page.date ? page.date|td(lang, default_format) : page.modified|td(lang, default_format)) %}
-{% elseif config.plugins['twig-extensions'].enabled %}
-    {% set datestamp = (page.header.publish_date) ? (page.header.publish_date|localizeddate('medium', 'none', lang)) : (page.date ? page.date|localizeddate('medium', 'none', lang) : page.modified|localizeddate('medium', 'none', lang)) %}
+{% if intl_available %}
+  {% include 'partials/page-bits/date-intl.html.twig' with {raw_date: raw_date} %}
 {% else %}
-    {% set datestamp = (page.header.publish_date) ? (page.header.publish_date|date(short_format)) : (page.date ? page.date|date(short_format) : page.modified|date(short_format)) %}
+  {% include 'partials/page-bits/date-fallback.html.twig' with {raw_date: raw_date} %}
 {% endif %}
-
-{{ datestamp }}
