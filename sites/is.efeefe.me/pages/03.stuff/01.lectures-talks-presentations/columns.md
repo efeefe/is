@@ -31,7 +31,7 @@ Lecture on Spirals, Gambiarra and Ubatuba, part of Professor Teresa Dillon's cla
 
 - Apresentação "Cooperação Internacional em Inovação Socioambiental".
 - Panel "Art-Science Innovation for Future Public Affairs".
-- 
+
 ### makeathek, online, 2025
 
 Workshop "The Coordinator as community Facilitator".
