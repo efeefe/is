@@ -30,8 +30,8 @@ Lecture on Spirals, Gambiarra and Ubatuba, part of Professor Teresa Dillon's cla
 ### Future Affairs Forum, Rio de Janeiro, 2025
 
 - Apresentação "Cooperação Internacional em Inovação Socioambiental".
-- Panel ""
-
+- Panel "Art-Science Innovation for Future Public Affairs".
+- 
 ### makeathek, online, 2025
 
 Workshop "The Coordinator as community Facilitator".
