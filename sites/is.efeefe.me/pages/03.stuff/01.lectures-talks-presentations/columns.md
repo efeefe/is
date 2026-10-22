@@ -17,14 +17,28 @@ seo:
 ---
 ## Recent
 
+### Lunchtime Talk 
+
+### OERcamp.global, 2025
+
+Talk "From Waste Stream to Learning Stream: Co-Creating OER for Circular Material Valuers". Video recording available on the [Internet Archive](https://archive.org/details/circular-material-valuers_oercamp-global) and [YouTube](https://www.youtube.com/watch?v=5VRSHuy3PiE).
+
 ### OpenForum Academy Symposium 2025: Open Technology Impact in Uncertain Times, Rio de Janeiro, 2025
 
 Presentation [ThingData: Unlocking Economic Value in the Material Commons through Open Data as a Digital Public Good for SDGs
 ](https://zenodo.org/records/17344097). Video recording available on [YouTube](https://www.youtube.com/watch?v=p2I50aD8E00).
 
+### Institut D, Saint-Malo, 2025
+
+Talk "Regenerative Design for the Commons: The Semente Toolkit".
+
 ### Fixfest London 2025
 
 Keynote "Irreparable futures?". Video recording available on [YouTube](https://www.youtube.com/watch?v=Pz_u82vf_5Q&list=PLuRLn6aJYSF9ThsgGYzMmsSjeVhCXEV8v&index=5&t=322s&pp=iAQB). 
+
+### Kunst-Stoffe, Berlin, 2025
+
+Workshop "Circular Valuer Skills" - part of the participatory project [Circular Material Valuer Curriculum](https://globalinnovationgathering.org/circular-material-valuer-curriculum/) with GIG.
 
 ### Fab Conference 2025, Brno, Czechia
 
@@ -42,7 +56,6 @@ Talk "Permacomputing for a Sustainable 'Material Commons'", presenting [ThingDat
 ### Open, Circular, and Regenerative Innovation for a Sustainable Future, Berlin, 2025
 
 Panel "Repair Cultures" presenting the [Circular Material Valuer Curriculum](https://wiki.reuse.city/en/projects/circular-valuer-curriculum). 
-
 
 ### Berlin Science Week, 2024
 
